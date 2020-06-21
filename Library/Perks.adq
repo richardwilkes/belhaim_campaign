@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="US-ASCII" ?>
+<advantage_list id="2f1262fd-3aa1-42a1-99f7-c048e1252d66" version="1">
+	<advantage version="4">
+		<name>Alcohol Tolerance</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>B100</reference>
+		<notes>+2 on all HT rolls related to drinking</notes>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="4">
+		<name>Autotrance</name>
+		<type>Mental</type>
+		<base_points>1</base_points>
+		<reference>B101</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="4">
+		<name>Deep Sleeper</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>B101</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="4">
+		<name>Fur</name>
+		<type>Physical, Exotic</type>
+		<base_points>1</base_points>
+		<reference>B101</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="4">
+		<name>Honest Face</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>B101</reference>
+		<notes>+1 to trained Acting skill for the sole purpose of "acting innocent"</notes>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="4">
+		<name>No Hangover</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>B101</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="4">
+		<name>Penetrating Voice</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>B101</reference>
+		<notes>In situations where you want to be heard over noise, others get +3 to their Hearing roll</notes>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="4">
+		<name>Sanitized Metabolism</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>B101</reference>
+		<notes>-1 to attempts to track you by scent and +1 to reaction rolls in close confines</notes>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="4">
+		<name>Shtick</name>
+		<type>Mental/Physical</type>
+		<base_points>1</base_points>
+		<reference>B101</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+</advantage_list>
