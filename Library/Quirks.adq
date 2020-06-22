@@ -43,7 +43,6 @@
 		<type>Physical</type>
 		<base_points>-1</base_points>
 		<reference>B165</reference>
-		<notes>May elicit a -1 reaction from those who think it looks funny</notes>
 		<categories>
 			<category>Quirk</category>
 		</categories>
@@ -54,6 +53,10 @@
 			<category compare="is anything"></category>
 			<amount>-1</amount>
 		</skill_bonus>
+		<reaction_bonus>
+			<situation>from those who think Bowlegged looks funny</situation>
+			<amount>-1</amount>
+		</reaction_bonus>
 	</advantage>
 	<advantage version="4">
 		<name>Broad-Minded</name>
@@ -79,10 +82,13 @@
 		<levels>0</levels>
 		<base_points>-1</base_points>
 		<reference>B163</reference>
-		<notes>@Trait@; Thin-skinned individuals might occasionally react to you at -1 as a result</notes>
 		<categories>
 			<category>Quirk</category>
 		</categories>
+		<reaction_bonus>
+			<situation>from individuals sensitive to criticism or insults that you interact with</situation>
+			<amount>-1</amount>
+		</reaction_bonus>
 	</advantage>
 	<advantage version="4">
 		<name>Code of Honor</name>
@@ -365,10 +371,13 @@
 		<type>Mental</type>
 		<base_points>-1</base_points>
 		<reference>B164</reference>
-		<notes>React at -1 to orders, insults, or social slights</notes>
 		<categories>
 			<category>Quirk</category>
 		</categories>
+		<reaction_bonus>
+			<situation>to orders, insults, or social slights</situation>
+			<amount>-1</amount>
+		</reaction_bonus>
 	</advantage>
 	<advantage version="4">
 		<name>Responsive</name>

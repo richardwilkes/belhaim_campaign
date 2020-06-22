@@ -392,25 +392,246 @@
 		</categories>
 	</advantage>
 	<advantage version="4">
-		<name>Attractive Appearance</name>
+		<name>Appearance</name>
 		<type>Physical</type>
-		<base_points>4</base_points>
+		<modifier version="2" enabled="no">
+			<name>Attractive</name>
+			<reference>B21</reference>
+			<cost type="points">4</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from others</situation>
+				<amount>1</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Average</name>
+			<reference>B21</reference>
+			<cost type="points">0</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Beautiful</name>
+			<reference>B21</reference>
+			<cost type="points">12</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from those attracted to members of your sex, +2 from everyone else</situation>
+				<amount>4</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Beautiful (Androgynous)</name>
+			<reference>B21</reference>
+			<cost type="points">12</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from others</situation>
+				<amount>3</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Beautiful (Impressive)</name>
+			<reference>B21</reference>
+			<cost type="points">12</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from others</situation>
+				<amount>3</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Handsome</name>
+			<reference>B21</reference>
+			<cost type="points">12</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from those attracted to members of your sex, +2 from everyone else</situation>
+				<amount>4</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Handsome (Androgynous)</name>
+			<reference>B21</reference>
+			<cost type="points">12</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from others</situation>
+				<amount>3</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Handsome (Impressive)</name>
+			<reference>B21</reference>
+			<cost type="points">12</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from others</situation>
+				<amount>3</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Hideous</name>
+			<reference>B21</reference>
+			<cost type="points">-16</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from others</situation>
+				<amount>-4</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Horrific</name>
+			<reference>B21</reference>
+			<cost type="points">-24</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from others</situation>
+				<amount>-6</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Impressive</name>
+			<reference>B21</reference>
+			<cost type="points">0</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Monstrous</name>
+			<reference>B21</reference>
+			<cost type="points">-20</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from others</situation>
+				<amount>-5</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Off-the-Shelf Looks</name>
+			<reference>B21</reference>
+			<cost type="percentage">-50</cost>
+			<affects>total</affects>
+			<notes>Halves the usual reaction bonus - adjust manually</notes>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Transcendent</name>
+			<reference>B21</reference>
+			<cost type="points">20</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from those attracted to members of your sex, +2 from everyone else. Exception: Members of the same sex with reason to dislike you (more than -4 in reaction penalties regardless of bonuses) resent your good looks and react at -2 instead.</situation>
+				<amount>8</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Transcendent (Androgynous)</name>
+			<reference>B21</reference>
+			<cost type="points">20</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from others</situation>
+				<amount>5</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Transcendent (Impressive)</name>
+			<reference>B21</reference>
+			<cost type="points">20</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from others</situation>
+				<amount>5</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Ugly</name>
+			<reference>B21</reference>
+			<cost type="points">-8</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from others</situation>
+				<amount>-2</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Unattractive</name>
+			<reference>B21</reference>
+			<cost type="points">-4</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from others</situation>
+				<amount>-1</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Universal</name>
+			<reference>B21</reference>
+			<cost type="percentage">25</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Very Beautiful</name>
+			<reference>B21</reference>
+			<cost type="points">16</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from those attracted to members of your sex, +2 from everyone else. Exception: Members of the same sex with reason to dislike you (more than -4 in reaction penalties regardless of bonuses) resent your good looks and react at -2 instead.</situation>
+				<amount>6</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Very Beautiful (Androgynous)</name>
+			<reference>B21</reference>
+			<cost type="points">16</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from others</situation>
+				<amount>4</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Very Beautiful (Impressive)</name>
+			<reference>B21</reference>
+			<cost type="points">16</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from others</situation>
+				<amount>4</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Very Handsome</name>
+			<reference>B21</reference>
+			<cost type="points">16</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from those attracted to members of your sex, +2 from everyone else. Exception: Members of the same sex with reason to dislike you (more than -4 in reaction penalties regardless of bonuses) resent your good looks and react at -2 instead.</situation>
+				<amount>6</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Very Handsome (Androgynous)</name>
+			<reference>B21</reference>
+			<cost type="points">16</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from others</situation>
+				<amount>4</amount>
+			</reaction_bonus>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Very Handsome (Impressive)</name>
+			<reference>B21</reference>
+			<cost type="points">16</cost>
+			<affects>total</affects>
+			<reaction_bonus>
+				<situation>from others</situation>
+				<amount>4</amount>
+			</reaction_bonus>
+		</modifier>
 		<reference>B21</reference>
-		<notes>+1 on reaction rolls to others of your race or very similar races</notes>
 		<categories>
 			<category>Advantage</category>
-			<category>Appearance</category>
-		</categories>
-	</advantage>
-	<advantage version="4">
-		<name>Beautiful Appearance</name>
-		<type>Physical</type>
-		<base_points>12</base_points>
-		<reference>B21</reference>
-		<notes>+2 on reaction rolls to others of your race or very similar races; +4 if they are attracted to members of your sex</notes>
-		<categories>
-			<category>Advantage</category>
-			<category>Appearance</category>
 		</categories>
 	</advantage>
 	<advantage version="4">
@@ -418,10 +639,13 @@
 		<type>Mental, Supernatural</type>
 		<base_points>10</base_points>
 		<reference>B40</reference>
-		<notes>Followers of your deity sense your special status and react to you at +1</notes>
 		<categories>
 			<category>Advantage</category>
 		</categories>
+		<reaction_bonus>
+			<situation>from followers of your deity</situation>
+			<amount>1</amount>
+		</reaction_bonus>
 	</advantage>
 	<advantage version="4">
 		<name>Channeling</name>
@@ -451,7 +675,6 @@
 		<levels>1</levels>
 		<points_per_level>5</points_per_level>
 		<reference>B41</reference>
-		<notes>+1/level on all reaction rolls made by sapient beings with whom you actively interact (converse, lecture, etc.); +1/level to Influence rolls</notes>
 		<categories>
 			<category>Advantage</category>
 		</categories>
@@ -483,6 +706,14 @@
 			<category compare="is anything"></category>
 			<amount per_level="yes">1</amount>
 		</skill_bonus>
+		<reaction_bonus>
+			<situation>from sapient being with whom you actively interact (converse, lecture, etc.)</situation>
+			<amount per_level="yes">1</amount>
+		</reaction_bonus>
+		<reaction_bonus>
+			<situation>to Influence rolls</situation>
+			<amount per_level="yes">1</amount>
+		</reaction_bonus>
 	</advantage>
 	<advantage version="4">
 		<name>Claim to Hospitality</name>
@@ -522,10 +753,13 @@
 		<type>Social</type>
 		<base_points>5</base_points>
 		<reference>B43</reference>
-		<notes>+1 reaction bonus from members of your religion and those who respect your faith</notes>
 		<categories>
 			<category>Advantage</category>
 		</categories>
+		<reaction_bonus>
+			<situation>from members of your religion and those who respect your faith</situation>
+			<amount>1</amount>
+		</reaction_bonus>
 	</advantage>
 	<advantage version="4">
 		<name>Combat Reflexes</name>
@@ -560,10 +794,6 @@
 			<amount>2</amount>
 		</attribute_bonus>
 		<prereq_list all="yes">
-			<advantage_prereq has="no">
-				<name compare="is">Combat Paralysis</name>
-				<notes compare="is anything"></notes>
-			</advantage_prereq>
 			<advantage_prereq has="no">
 				<name compare="is">Enhanced Time Sense</name>
 				<notes compare="is anything"></notes>
@@ -798,10 +1028,14 @@
 		<type>Mental</type>
 		<base_points>5</base_points>
 		<reference>B21</reference>
-		<notes>+1 to reaction rolls in social situations when you have a chance to plan your attire in advance. You can also give someone else a +1 reaction bonus when you put together their outfit.</notes>
+		<notes>You can give someone else a +1 reaction bonus from others when you put together their outfit</notes>
 		<categories>
 			<category>Advantage</category>
 		</categories>
+		<reaction_bonus>
+			<situation>from others in social situations when you have a chance to plan your attire in advance</situation>
+			<amount>1</amount>
+		</reaction_bonus>
 	</advantage>
 	<advantage version="4">
 		<name>Fearlessness</name>
@@ -902,17 +1136,6 @@
 			<category compare="is anything"></category>
 			<amount>5</amount>
 		</skill_bonus>
-	</advantage>
-	<advantage version="4">
-		<name>Handsome Appearance</name>
-		<type>Physical</type>
-		<base_points>12</base_points>
-		<reference>B21</reference>
-		<notes>+2 on reaction rolls to others of your race or very similar races; +4 if they are attracted to members of your sex</notes>
-		<categories>
-			<category>Advantage</category>
-			<category>Appearance</category>
-		</categories>
 	</advantage>
 	<advantage version="4">
 		<name>Hard to Kill</name>
@@ -1255,6 +1478,12 @@
 			<cost type="percentage">-20</cost>
 			<affects>total</affects>
 		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Wishing</name>
+			<reference>P59</reference>
+			<cost type="percentage">100</cost>
+			<affects>total</affects>
+		</modifier>
 		<reference>B66</reference>
 		<notes>Usable once per hour of play</notes>
 		<categories>
@@ -1284,6 +1513,12 @@
 			<cost type="percentage">-20</cost>
 			<affects>total</affects>
 		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Wishing</name>
+			<reference>P59</reference>
+			<cost type="percentage">100</cost>
+			<affects>total</affects>
+		</modifier>
 		<reference>B66</reference>
 		<notes>Usable once per 30 minutes of play</notes>
 		<categories>
@@ -1311,6 +1546,12 @@
 			<name>Defensive</name>
 			<reference>B66</reference>
 			<cost type="percentage">-20</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="2" enabled="no">
+			<name>Wishing</name>
+			<reference>P59</reference>
+			<cost type="percentage">100</cost>
 			<affects>total</affects>
 		</modifier>
 		<reference>B66</reference>
@@ -1709,10 +1950,13 @@
 		<type>Physical, Social</type>
 		<base_points>5</base_points>
 		<reference>B22</reference>
-		<notes>+3 on all reaction rolls from those who consider you to be in a position of helplessness, weakness, or need (which never includes those with the Callous disadvantage)</notes>
 		<categories>
 			<category>Advantage</category>
 		</categories>
+		<reaction_bonus>
+			<situation>from those who consider you to be in a position of helplessness, weakness, or need (which never includes those with the Callous disadvantage)</situation>
+			<amount>3</amount>
+		</reaction_bonus>
 	</advantage>
 	<advantage version="4">
 		<name>Plant Empathy</name>
@@ -1866,10 +2110,14 @@
 		<type>Mental</type>
 		<base_points>5</base_points>
 		<reference>B86</reference>
-		<notes>Exempt from reaction penalties due to differences in Rank or Status. In situations where there would be no such penalty, you get +1 on reactions from those who demand respect.</notes>
+		<notes>Exempt from reaction penalties due to differences in Rank or Status</notes>
 		<categories>
 			<category>Advantage</category>
 		</categories>
+		<reaction_bonus>
+			<situation>from those who demand respect in situations where there would be no penalties due to differences in Rank or Status</situation>
+			<amount>1</amount>
+		</reaction_bonus>
 	</advantage>
 	<advantage version="4">
 		<name>Social Regard</name>
@@ -1900,17 +2148,6 @@
 			<affects>total</affects>
 		</modifier>
 		<reference>B88</reference>
-		<categories>
-			<category>Advantage</category>
-		</categories>
-	</advantage>
-	<advantage version="4">
-		<name>Starting Money</name>
-		<type>Social</type>
-		<levels>1</levels>
-		<points_per_level>1</points_per_level>
-		<reference>B25</reference>
-		<notes>Each level grants $100; once the character has been approved, this advantage should be removed</notes>
 		<categories>
 			<category>Advantage</category>
 		</categories>
@@ -1963,36 +2200,18 @@
 		</categories>
 	</advantage>
 	<advantage version="4">
-		<name>Very Beautiful Appearance</name>
-		<type>Physical</type>
-		<base_points>16</base_points>
-		<reference>B21</reference>
-		<notes>+2 on reaction rolls to others of your race or very similar races; +6 if they are attracted to members of your sex; Exception: Members of the same sex with reason to dislike you (more than -4 in reaction penalties, regardless of bonuses) resent your good looks, and react at -2 instead</notes>
-		<categories>
-			<category>Advantage</category>
-			<category>Appearance</category>
-		</categories>
-	</advantage>
-	<advantage version="4">
 		<name>Very Blessed</name>
 		<type>Mental, Supernatural</type>
 		<base_points>20</base_points>
 		<reference>B40</reference>
-		<notes>+5 to interpret visions. Followers of your deity sense your special status and react to you at +2</notes>
+		<notes>+5 to interpret visions</notes>
 		<categories>
 			<category>Advantage</category>
 		</categories>
-	</advantage>
-	<advantage version="4">
-		<name>Very Handsome Appearance</name>
-		<type>Physical</type>
-		<base_points>16</base_points>
-		<reference>B21</reference>
-		<notes>+2 on reaction rolls to others of your race or very similar races; +6 if they are attracted to members of your sex; Exception: Members of the same sex with reason to dislike you (more than -4 in reaction penalties, regardless of bonuses) resent your good looks, and react at -2 instead</notes>
-		<categories>
-			<category>Advantage</category>
-			<category>Appearance</category>
-		</categories>
+		<reaction_bonus>
+			<situation>from followers of your diety</situation>
+			<amount>2</amount>
+		</reaction_bonus>
 	</advantage>
 	<advantage version="4">
 		<name>Very Rapid Healing</name>
@@ -2040,7 +2259,6 @@
 		<type>Physical</type>
 		<base_points>10</base_points>
 		<reference>B97</reference>
-		<notes>+2 on any reaction roll made by someone who can hear your voice</notes>
 		<categories>
 			<category>Advantage</category>
 		</categories>
@@ -2100,5 +2318,9 @@
 			<category compare="is anything"></category>
 			<amount>2</amount>
 		</skill_bonus>
+		<reaction_bonus>
+			<situation>from others who can hear your voice</situation>
+			<amount>2</amount>
+		</reaction_bonus>
 	</advantage>
 </advantage_list>

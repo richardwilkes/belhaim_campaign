@@ -71,10 +71,14 @@
 		<type>Physical</type>
 		<base_points>1</base_points>
 		<reference>B101</reference>
-		<notes>-1 to attempts to track you by scent and +1 to reaction rolls in close confines</notes>
+		<notes>-1 to attempts to track you by scent</notes>
 		<categories>
 			<category>Perk</category>
 		</categories>
+		<reaction_bonus>
+			<situation>from others in close confines</situation>
+			<amount>1</amount>
+		</reaction_bonus>
 	</advantage>
 	<advantage version="4">
 		<name>Shtick</name>

@@ -333,10 +333,13 @@
 				<type>Mental</type>
 				<base_points>-5</base_points>
 				<reference>B157</reference>
-				<notes>Others react to you at -1</notes>
 				<categories>
 					<category>Disadvantage</category>
 				</categories>
+				<reaction_bonus>
+					<situation>from others</situation>
+					<amount>-1</amount>
+				</reaction_bonus>
 			</advantage>
 			<advantage version="4">
 				<name>Tough Skin</name>
