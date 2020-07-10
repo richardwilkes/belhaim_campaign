@@ -1,369 +1,543 @@
-<?xml version="1.0" encoding="US-ASCII" ?>
-<template id="2cab9b8b-bf29-4521-a1d4-756b94f8c5df" version="2">
-	<advantage_list>
-		<advantage_container version="4" open="yes" type="race">
-			<name>Dwarf</name>
-			<reference>DF3:6</reference>
-			<advantage version="4">
-				<name>Alcohol Tolerance</name>
-				<type>Physical</type>
-				<base_points>1</base_points>
-				<reference>B100</reference>
-				<notes>+2 on all HT rolls related to drinking</notes>
-				<categories>
-					<category>Perk</category>
-				</categories>
-			</advantage>
-			<advantage version="4">
-				<name>Dwarven Gear</name>
-				<type>Physical</type>
-				<base_points>1</base_points>
-				<reference>DF3:6</reference>
-				<notes>10% off the final price of gear qualified as &#8220;Dwarven&#8221; &#8211; armor, rations, shields, weapons, whetstones, etc.</notes>
-				<prereq_list all="yes">
-					<advantage_prereq has="yes">
-						<name compare="is">Dwarf</name>
-						<notes compare="is anything"></notes>
-					</advantage_prereq>
-				</prereq_list>
-			</advantage>
-			<advantage version="4">
-				<name>Greed</name>
-				<type>Mental</type>
-				<base_points>-15</base_points>
-				<cr>12</cr>
-				<reference>B137</reference>
-				<notes>Make a self-control roll any time riches are offered &#8211; as payment for fair work, gains from adventure, spoils of crime, or just bait. If you fail, you do whatever it takes to get the payoff.</notes>
-				<categories>
-					<category>Disadvantage</category>
-				</categories>
-			</advantage>
-			<advantage version="4">
-				<name>Language: Dwarven</name>
-				<type>Mental</type>
-				<modifier version="2">
-					<name>Native</name>
-					<reference>B23</reference>
-					<cost type="points">-6</cost>
-					<affects>total</affects>
-				</modifier>
-				<modifier version="2" enabled="no">
-					<name>Spoken</name>
-					<reference>B24</reference>
-					<cost type="points">0</cost>
-					<affects>total</affects>
-					<notes>None</notes>
-				</modifier>
-				<modifier version="2" enabled="no">
-					<name>Spoken</name>
-					<reference>B24</reference>
-					<cost type="points">1</cost>
-					<affects>total</affects>
-					<notes>Broken</notes>
-				</modifier>
-				<modifier version="2" enabled="no">
-					<name>Spoken</name>
-					<reference>B24</reference>
-					<cost type="points">2</cost>
-					<affects>total</affects>
-					<notes>Accented</notes>
-				</modifier>
-				<modifier version="2">
-					<name>Spoken</name>
-					<reference>B24</reference>
-					<cost type="points">3</cost>
-					<affects>total</affects>
-					<notes>Native</notes>
-				</modifier>
-				<modifier version="2" enabled="no">
-					<name>Written</name>
-					<reference>B24</reference>
-					<cost type="points">0</cost>
-					<affects>total</affects>
-					<notes>None</notes>
-				</modifier>
-				<modifier version="2" enabled="no">
-					<name>Written</name>
-					<reference>B24</reference>
-					<cost type="points">1</cost>
-					<affects>total</affects>
-					<notes>Broken</notes>
-				</modifier>
-				<modifier version="2" enabled="no">
-					<name>Written</name>
-					<reference>B24</reference>
-					<cost type="points">2</cost>
-					<affects>total</affects>
-					<notes>Accented</notes>
-				</modifier>
-				<modifier version="2">
-					<name>Written</name>
-					<reference>B24</reference>
-					<cost type="points">3</cost>
-					<affects>total</affects>
-					<notes>Native</notes>
-				</modifier>
-				<reference>B24</reference>
-				<categories>
-					<category>Language</category>
-				</categories>
-			</advantage>
-			<advantage version="4">
-				<name>Natural Attacks</name>
-				<type>Physical</type>
-				<melee_weapon>
-					<damage type="cr" st="thr" base="-1"/>
-					<usage>Bite</usage>
-					<reach>C</reach>
-					<parry>No</parry>
-					<block>No</block>
-					<default>
-						<type>DX</type>
-						<modifier>0</modifier>
-					</default>
-					<default>
-						<type>Skill</type>
-						<name>Brawling</name>
-						<modifier>0</modifier>
-					</default>
-				</melee_weapon>
-				<melee_weapon>
-					<damage type="cr" st="thr" base="-1"/>
-					<usage>Punch</usage>
-					<reach>C</reach>
-					<parry>0</parry>
-					<default>
-						<type>DX</type>
-						<modifier>0</modifier>
-					</default>
-					<default>
-						<type>Skill</type>
-						<name>Boxing</name>
-						<modifier>0</modifier>
-					</default>
-					<default>
-						<type>Skill</type>
-						<name>Brawling</name>
-						<modifier>0</modifier>
-					</default>
-					<default>
-						<type>Skill</type>
-						<name>Karate</name>
-						<modifier>0</modifier>
-					</default>
-				</melee_weapon>
-				<melee_weapon>
-					<damage type="cr" st="thr"/>
-					<usage>Kick</usage>
-					<reach>C,1</reach>
-					<parry>No</parry>
-					<default>
-						<type>DX</type>
-						<modifier>-2</modifier>
-					</default>
-					<default>
-						<type>Skill</type>
-						<name>Brawling</name>
-						<modifier>-2</modifier>
-					</default>
-					<default>
-						<type>Skill</type>
-						<name>Karate</name>
-						<modifier>-2</modifier>
-					</default>
-				</melee_weapon>
-				<reference>B271</reference>
-			</advantage>
-			<advantage version="4">
-				<name>Night Vision</name>
-				<type>Physical</type>
-				<levels>5</levels>
-				<points_per_level>1</points_per_level>
-				<reference>B71</reference>
-				<categories>
-					<category>Advantage</category>
-				</categories>
-			</advantage>
-			<advantage version="4">
-				<name>Pickaxe Penchant</name>
-				<type>Mental</type>
-				<levels>1</levels>
-				<points_per_level>5</points_per_level>
-				<reference>DF3:6</reference>
-				<notes>You&#8217;re a natural at fighting, bashing, and mining with axes and picks. Pickaxe Penchant is a Dwarven-only talent. You may buy it up to level 4 at character creation time.</notes>
-				<categories>
-					<category>Advantage</category>
-				</categories>
-				<skill_bonus>
-					<selection_type>skills with name</selection_type>
-					<name compare="contains">axe/mace</name>
-					<specialization compare="is anything"></specialization>
-					<category compare="is anything"></category>
-					<amount per_level="yes">1</amount>
-				</skill_bonus>
-				<skill_bonus>
-					<selection_type>skills with name</selection_type>
-					<name compare="is">forced entry</name>
-					<specialization compare="is anything"></specialization>
-					<category compare="is anything"></category>
-					<amount per_level="yes">1</amount>
-				</skill_bonus>
-				<skill_bonus>
-					<selection_type>skills with name</selection_type>
-					<name compare="is">prospecting</name>
-					<specialization compare="is anything"></specialization>
-					<category compare="is anything"></category>
-					<amount per_level="yes">1</amount>
-				</skill_bonus>
-				<skill_bonus>
-					<selection_type>skills with name</selection_type>
-					<name compare="is">thrown weapon</name>
-					<specialization compare="is anything">axe/mace</specialization>
-					<category compare="is anything"></category>
-					<amount per_level="yes">1</amount>
-				</skill_bonus>
-				<skill_bonus>
-					<selection_type>skills with name</selection_type>
-					<name compare="is">two handed axe/mace</name>
-					<specialization compare="is anything"></specialization>
-					<category compare="is anything"></category>
-					<amount per_level="yes">1</amount>
-				</skill_bonus>
-				<prereq_list all="yes">
-					<advantage_prereq has="yes">
-						<name compare="is">Dwarf</name>
-						<notes compare="is anything"></notes>
-					</advantage_prereq>
-				</prereq_list>
-			</advantage>
-			<advantage version="4">
-				<name>Racial Attribute Adjustments</name>
-				<type>Physical</type>
-				<modifier version="2">
-					<name>Lifting ST+2</name>
-					<reference>B65</reference>
-					<cost type="points">6</cost>
-					<affects>total</affects>
-					<attribute_bonus>
-						<attribute limitation="lifting only">st</attribute>
-						<amount>2</amount>
-					</attribute_bonus>
-				</modifier>
-				<modifier version="2">
-					<name>HT+1</name>
-					<reference>B15</reference>
-					<cost type="points">10</cost>
-					<affects>total</affects>
-					<attribute_bonus>
-						<attribute>ht</attribute>
-						<amount>1</amount>
-					</attribute_bonus>
-				</modifier>
-				<modifier version="2">
-					<name>Move-1</name>
-					<reference>B16</reference>
-					<cost type="points">-5</cost>
-					<affects>total</affects>
-					<attribute_bonus>
-						<attribute>move</attribute>
-						<amount>-1</amount>
-					</attribute_bonus>
-				</modifier>
-				<modifier version="2">
-					<name>FP+3</name>
-					<reference>B16</reference>
-					<cost type="points">9</cost>
-					<affects>total</affects>
-					<attribute_bonus>
-						<attribute>fp</attribute>
-						<amount>3</amount>
-					</attribute_bonus>
-				</modifier>
-				<reference>B14</reference>
-			</advantage>
-			<advantage version="4">
-				<name>Resistant</name>
-				<type>Physical</type>
-				<modifier version="2" enabled="no">
-					<name>@Very Common: Metabolic Hazards, etc.@</name>
-					<reference>B80</reference>
-					<cost type="points">30</cost>
-					<affects>total</affects>
-				</modifier>
-				<modifier version="2">
-					<name>Poison</name>
-					<reference>B81</reference>
-					<cost type="points">15</cost>
-					<affects>total</affects>
-				</modifier>
-				<modifier version="2" enabled="no">
-					<name>@Occasional: Disease, Ingested Poison, etc.@</name>
-					<reference>B81</reference>
-					<cost type="points">10</cost>
-					<affects>total</affects>
-				</modifier>
-				<modifier version="2" enabled="no">
-					<name>@Rare: Acceleration, Altitude Sickness, Bends, Seasickness, Space Sickness, Nanomachines, etc.@</name>
-					<reference>B81</reference>
-					<cost type="points">5</cost>
-					<affects>total</affects>
-				</modifier>
-				<modifier version="2" enabled="no">
-					<name>Immunity</name>
-					<reference>B81</reference>
-					<cost type="multiplier">1</cost>
-				</modifier>
-				<modifier version="2" enabled="no">
-					<name>+8 to all HT rolls to resist</name>
-					<reference>B81</reference>
-					<cost type="multiplier">0.5</cost>
-				</modifier>
-				<modifier version="2">
-					<name>+3 to all HT rolls to resist</name>
-					<reference>B81</reference>
-					<cost type="multiplier">0.33</cost>
-				</modifier>
-				<reference>B81</reference>
-				<categories>
-					<category>Advantage</category>
-				</categories>
-			</advantage>
-			<advantage version="4">
-				<name>Stubbornness</name>
-				<type>Mental</type>
-				<base_points>-5</base_points>
-				<reference>B157</reference>
-				<categories>
-					<category>Disadvantage</category>
-				</categories>
-				<reaction_bonus>
-					<situation>from others</situation>
-					<amount>-1</amount>
-				</reaction_bonus>
-			</advantage>
-			<advantage version="4">
-				<name>Tough Skin</name>
-				<type>Physical, Exotic</type>
-				<base_points>3</base_points>
-				<reference>B47</reference>
-				<categories>
-					<category>Advantage</category>
-				</categories>
-				<dr_bonus>
-					<location>full body except eyes</location>
-					<amount>1</amount>
-				</dr_bonus>
-			</advantage>
-		</advantage_container>
-	</advantage_list>
-	<note_list>
-		<note version="1">
-			<text>Dwarves are essentially hardy-but-stumpy humans who see well in the dark and like caves and gold. There&#8217;s doubtless much more to them than that, as any dwarf will argue if you foolishly say that aloud. &#8220;Bearded&#8221; and &#8220;likes ale&#8221; aren&#8217;t generally qualifications sought by adventuring parties, however.
-
-Dwarves have brown, black or copper-colored hair and brown or grey eyes.
-
-When finding a dwarf&#8217;s height and weight, use the line appropriate to ST on the Build Table (B18), but multiply height by &#8532; and shift weight a column to the right (a Very Fat dwarf has maximum weight!). A dwarf&#8217;s girth offsets his height enough that he&#8217;s still SM 0. However, dwarves can&#8217;t wear armor fitted for humans (and vice versa).</text>
-			<reference>DF3:6</reference>
-		</note>
-	</note_list>
-</template>
+{
+	"type": "template",
+	"version": 1,
+	"id": "2cab9b8b-bf29-4521-a1d4-756b94f8c5df",
+	"advantages": [
+		{
+			"type": "advantage_container",
+			"version": 1,
+			"container_type": "race",
+			"name": "Dwarf",
+			"reference": "DF3:6",
+			"open": true,
+			"children": [
+				{
+					"type": "advantage",
+					"version": 1,
+					"name": "Alcohol Tolerance",
+					"physical": true,
+					"base_points": 1,
+					"reference": "B100",
+					"notes": "+2 on all HT rolls related to drinking",
+					"categories": [
+						"Perk"
+					]
+				},
+				{
+					"type": "advantage",
+					"version": 1,
+					"name": "Dwarven Gear",
+					"physical": true,
+					"base_points": 1,
+					"reference": "DF3:6",
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "advantage_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "Dwarf"
+								}
+							}
+						]
+					},
+					"notes": "10% off the final price of gear qualified as “Dwarven” – armor, rations, shields, weapons, whetstones, etc."
+				},
+				{
+					"type": "advantage",
+					"version": 1,
+					"name": "Greed",
+					"mental": true,
+					"base_points": -15,
+					"cr": 12,
+					"reference": "B137",
+					"notes": "Make a self-control roll any time riches are offered – as payment for fair work, gains from adventure, spoils of crime, or just bait. If you fail, you do whatever it takes to get the payoff.",
+					"categories": [
+						"Disadvantage"
+					]
+				},
+				{
+					"type": "advantage",
+					"version": 1,
+					"name": "Language: Dwarven",
+					"mental": true,
+					"modifiers": [
+						{
+							"type": "modifier",
+							"version": 1,
+							"name": "Native",
+							"reference": "B23",
+							"cost_type": "points",
+							"cost": -6,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"version": 1,
+							"disabled": true,
+							"name": "Spoken",
+							"reference": "B24",
+							"cost_type": "points",
+							"cost": 0,
+							"affects": "total",
+							"notes": "None"
+						},
+						{
+							"type": "modifier",
+							"version": 1,
+							"disabled": true,
+							"name": "Spoken",
+							"reference": "B24",
+							"cost_type": "points",
+							"cost": 1,
+							"affects": "total",
+							"notes": "Broken"
+						},
+						{
+							"type": "modifier",
+							"version": 1,
+							"disabled": true,
+							"name": "Spoken",
+							"reference": "B24",
+							"cost_type": "points",
+							"cost": 2,
+							"affects": "total",
+							"notes": "Accented"
+						},
+						{
+							"type": "modifier",
+							"version": 1,
+							"name": "Spoken",
+							"reference": "B24",
+							"cost_type": "points",
+							"cost": 3,
+							"affects": "total",
+							"notes": "Native"
+						},
+						{
+							"type": "modifier",
+							"version": 1,
+							"disabled": true,
+							"name": "Written",
+							"reference": "B24",
+							"cost_type": "points",
+							"cost": 0,
+							"affects": "total",
+							"notes": "None"
+						},
+						{
+							"type": "modifier",
+							"version": 1,
+							"disabled": true,
+							"name": "Written",
+							"reference": "B24",
+							"cost_type": "points",
+							"cost": 1,
+							"affects": "total",
+							"notes": "Broken"
+						},
+						{
+							"type": "modifier",
+							"version": 1,
+							"disabled": true,
+							"name": "Written",
+							"reference": "B24",
+							"cost_type": "points",
+							"cost": 2,
+							"affects": "total",
+							"notes": "Accented"
+						},
+						{
+							"type": "modifier",
+							"version": 1,
+							"name": "Written",
+							"reference": "B24",
+							"cost_type": "points",
+							"cost": 3,
+							"affects": "total",
+							"notes": "Native"
+						}
+					],
+					"reference": "B24",
+					"categories": [
+						"Language"
+					]
+				},
+				{
+					"type": "advantage",
+					"version": 1,
+					"name": "Natural Attacks",
+					"physical": true,
+					"weapons": [
+						{
+							"type": "melee_weapon",
+							"damage": {
+								"type": "cr",
+								"st": "thr",
+								"base": "-1"
+							},
+							"usage": "Bite",
+							"reach": "C",
+							"parry": "No",
+							"block": "No",
+							"defaults": [
+								{
+									"type": "DX"
+								},
+								{
+									"type": "Skill",
+									"name": "Brawling"
+								}
+							]
+						},
+						{
+							"type": "melee_weapon",
+							"damage": {
+								"type": "cr",
+								"st": "thr",
+								"base": "-1"
+							},
+							"usage": "Punch",
+							"reach": "C",
+							"parry": "0",
+							"defaults": [
+								{
+									"type": "DX"
+								},
+								{
+									"type": "Skill",
+									"name": "Boxing"
+								},
+								{
+									"type": "Skill",
+									"name": "Brawling"
+								},
+								{
+									"type": "Skill",
+									"name": "Karate"
+								}
+							]
+						},
+						{
+							"type": "melee_weapon",
+							"damage": {
+								"type": "cr",
+								"st": "thr"
+							},
+							"usage": "Kick",
+							"reach": "C,1",
+							"parry": "No",
+							"defaults": [
+								{
+									"type": "DX",
+									"modifier": -2
+								},
+								{
+									"type": "Skill",
+									"name": "Brawling",
+									"modifier": -2
+								},
+								{
+									"type": "Skill",
+									"name": "Karate",
+									"modifier": -2
+								}
+							]
+						}
+					],
+					"reference": "B271"
+				},
+				{
+					"type": "advantage",
+					"version": 1,
+					"name": "Night Vision",
+					"physical": true,
+					"levels": "5",
+					"points_per_level": 1,
+					"reference": "B71",
+					"categories": [
+						"Advantage"
+					]
+				},
+				{
+					"type": "advantage",
+					"version": 1,
+					"name": "Pickaxe Penchant",
+					"mental": true,
+					"levels": "1",
+					"points_per_level": 5,
+					"reference": "DF3:6",
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "advantage_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "Dwarf"
+								}
+							}
+						]
+					},
+					"features": [
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "contains",
+								"qualifier": "axe/mace"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "forced entry"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "prospecting"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "thrown weapon"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "two handed axe/mace"
+							}
+						}
+					],
+					"notes": "You’re a natural at fighting, bashing, and mining with axes and picks. Pickaxe Penchant is a Dwarven-only talent. You may buy it up to level 4 at character creation time.",
+					"categories": [
+						"Advantage"
+					]
+				},
+				{
+					"type": "advantage",
+					"version": 1,
+					"name": "Racial Attribute Adjustments",
+					"physical": true,
+					"modifiers": [
+						{
+							"type": "modifier",
+							"version": 1,
+							"name": "Lifting ST+2",
+							"reference": "B65",
+							"cost_type": "points",
+							"cost": 6,
+							"affects": "total",
+							"features": [
+								{
+									"type": "attribute_bonus",
+									"amount": 2,
+									"attribute": "st",
+									"limitation": "lifting_only"
+								}
+							]
+						},
+						{
+							"type": "modifier",
+							"version": 1,
+							"name": "HT+1",
+							"reference": "B15",
+							"cost_type": "points",
+							"cost": 10,
+							"affects": "total",
+							"features": [
+								{
+									"type": "attribute_bonus",
+									"amount": 1,
+									"attribute": "ht"
+								}
+							]
+						},
+						{
+							"type": "modifier",
+							"version": 1,
+							"name": "Move-1",
+							"reference": "B16",
+							"cost_type": "points",
+							"cost": -5,
+							"affects": "total",
+							"features": [
+								{
+									"type": "attribute_bonus",
+									"amount": -1,
+									"attribute": "move"
+								}
+							]
+						},
+						{
+							"type": "modifier",
+							"version": 1,
+							"name": "FP+3",
+							"reference": "B16",
+							"cost_type": "points",
+							"cost": 9,
+							"affects": "total",
+							"features": [
+								{
+									"type": "attribute_bonus",
+									"amount": 3,
+									"attribute": "fp"
+								}
+							]
+						}
+					],
+					"reference": "B14"
+				},
+				{
+					"type": "advantage",
+					"version": 1,
+					"name": "Resistant",
+					"physical": true,
+					"modifiers": [
+						{
+							"type": "modifier",
+							"version": 1,
+							"disabled": true,
+							"name": "@Very Common: Metabolic Hazards, etc.@",
+							"reference": "B80",
+							"cost_type": "points",
+							"cost": 30,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"version": 1,
+							"name": "Poison",
+							"reference": "B81",
+							"cost_type": "points",
+							"cost": 15,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"version": 1,
+							"disabled": true,
+							"name": "@Occasional: Disease, Ingested Poison, etc.@",
+							"reference": "B81",
+							"cost_type": "points",
+							"cost": 10,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"version": 1,
+							"disabled": true,
+							"name": "@Rare: Acceleration, Altitude Sickness, Bends, Seasickness, Space Sickness, Nanomachines, etc.@",
+							"reference": "B81",
+							"cost_type": "points",
+							"cost": 5,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"version": 1,
+							"disabled": true,
+							"name": "Immunity",
+							"reference": "B81",
+							"cost_type": "multiplier",
+							"cost": 1
+						},
+						{
+							"type": "modifier",
+							"version": 1,
+							"disabled": true,
+							"name": "+8 to all HT rolls to resist",
+							"reference": "B81",
+							"cost_type": "multiplier",
+							"cost": 0.5
+						},
+						{
+							"type": "modifier",
+							"version": 1,
+							"name": "+3 to all HT rolls to resist",
+							"reference": "B81",
+							"cost_type": "multiplier",
+							"cost": 0.33
+						}
+					],
+					"reference": "B81",
+					"categories": [
+						"Advantage"
+					]
+				},
+				{
+					"type": "advantage",
+					"version": 1,
+					"name": "Stubbornness",
+					"mental": true,
+					"base_points": -5,
+					"reference": "B157",
+					"features": [
+						{
+							"type": "reaction_bonus",
+							"amount": -1,
+							"situation": "from others"
+						}
+					],
+					"categories": [
+						"Disadvantage"
+					]
+				},
+				{
+					"type": "advantage",
+					"version": 1,
+					"name": "Tough Skin",
+					"physical": true,
+					"exotic": true,
+					"base_points": 3,
+					"reference": "B47",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"amount": 1,
+							"location": "full_body_except_eyes"
+						}
+					],
+					"categories": [
+						"Advantage"
+					]
+				}
+			]
+		}
+	],
+	"notes": [
+		{
+			"type": "note",
+			"version": 1,
+			"text": "Dwarves are essentially hardy-but-stumpy humans who see well in the dark and like caves and gold. There’s doubtless much more to them than that, as any dwarf will argue if you foolishly say that aloud. “Bearded” and “likes ale” aren’t generally qualifications sought by adventuring parties, however.\n\nDwarves have brown, black or copper-colored hair and brown or grey eyes.\n\nWhen finding a dwarf’s height and weight, use the line appropriate to ST on the Build Table (B18), but multiply height by ⅔ and shift weight a column to the right (a Very Fat dwarf has maximum weight!). A dwarf’s girth offsets his height enough that he’s still SM 0. However, dwarves can’t wear armor fitted for humans (and vice versa).",
+			"reference": "DF3:6"
+		}
+	]
+}
