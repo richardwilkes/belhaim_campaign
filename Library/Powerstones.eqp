@@ -6,6 +6,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "6afb5100-bd5b-471b-a2ce-df7b76149788",
 			"quantity": 1,
 			"description": "1 pt Powerstone",
 			"value": "70",
@@ -20,6 +21,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "c793802b-3d25-489d-b5a0-4e3338ca69ad",
 			"quantity": 1,
 			"description": "2 pt Powerstone",
 			"value": "165",
@@ -34,6 +36,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "9c7ee373-7ca4-4a1a-8904-ce2aceb2bced",
 			"quantity": 1,
 			"description": "3 pt Powerstone",
 			"value": "280",
@@ -48,6 +51,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "dc716563-452b-4f16-b617-e3b2f21f381d",
 			"quantity": 1,
 			"description": "4 pt Powerstone",
 			"value": "425",
@@ -62,6 +66,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "e2441535-d4d9-4338-9a1c-242911108b79",
 			"quantity": 1,
 			"description": "5 pt Powerstone",
 			"value": "595",
@@ -76,6 +81,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "69074e52-d9be-41f6-9453-cda0d0bc386b",
 			"quantity": 1,
 			"description": "6 pt Powerstone",
 			"value": "790",
@@ -90,6 +96,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "75c18234-de1b-4579-95de-ccb7a43a2fb5",
 			"quantity": 1,
 			"description": "7 pt Powerstone",
 			"value": "1000",
@@ -104,6 +111,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "50694cf8-14cb-4d75-a3aa-21a3b271ef35",
 			"quantity": 1,
 			"description": "8 pt Powerstone",
 			"value": "1300",
@@ -118,6 +126,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "7701ee12-f6a0-4965-9b52-fa70e2c13fd1",
 			"quantity": 1,
 			"description": "9 pt Powerstone",
 			"value": "1550",
@@ -132,6 +141,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "00b98b5a-2cad-41b4-a80f-c38fe7fe295b",
 			"quantity": 1,
 			"description": "10 pt Powerstone",
 			"value": "1900",
@@ -146,6 +156,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "6fc05c3c-46a3-4aef-971f-d720f39af186",
 			"quantity": 1,
 			"description": "11 pt Powerstone",
 			"value": "2250",
@@ -160,6 +171,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "b0ec09c8-21ce-41d4-8ae7-e78fbd44ad68",
 			"quantity": 1,
 			"description": "12 pt Powerstone",
 			"value": "2650",
@@ -174,6 +186,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "c3a29530-61f0-403c-bb11-a8a487941d2b",
 			"quantity": 1,
 			"description": "13 pt Powerstone",
 			"value": "3050",
@@ -188,6 +201,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "f095cb47-656f-41ea-b6ab-4e7531ba543f",
 			"quantity": 1,
 			"description": "14 pt Powerstone",
 			"value": "3550",
@@ -202,6 +216,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "1a3b1100-d519-4c35-b2b2-e08ef832c1ca",
 			"quantity": 1,
 			"description": "15 pt Powerstone",
 			"value": "4050",
@@ -216,6 +231,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "f4d74c21-a8e3-4a2c-96fb-e33b32744fb6",
 			"quantity": 1,
 			"description": "16 pt Powerstone",
 			"value": "4600",
@@ -230,6 +246,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "f969ff7f-511c-42ee-b380-6f1c7bc84710",
 			"quantity": 1,
 			"description": "17 pt Powerstone",
 			"value": "5250",
@@ -244,6 +261,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "dbb1deac-c5c8-4dfb-aed8-2339d692d151",
 			"quantity": 1,
 			"description": "18 pt Powerstone",
 			"value": "5900",
@@ -258,6 +276,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "f3a7a11b-625d-4e32-a29c-93ac4fc2aa58",
 			"quantity": 1,
 			"description": "19 pt Powerstone",
 			"value": "6600",
@@ -272,6 +291,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "e6fedc4a-1d32-4712-bf24-ce10ece7cdb6",
 			"quantity": 1,
 			"description": "20 pt Powerstone",
 			"value": "7350",
@@ -286,6 +306,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "b499cfd2-ac24-4b81-885b-744378f809b8",
 			"quantity": 1,
 			"description": "21 pt Powerstone",
 			"value": "8200",
@@ -300,6 +321,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "9dbad99d-1ed1-4c10-bbd7-324af510124d",
 			"quantity": 1,
 			"description": "22 pt Powerstone",
 			"value": "9050",
@@ -314,6 +336,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "8c172085-7ccb-4e83-8a88-a7506f43179a",
 			"quantity": 1,
 			"description": "23 pt Powerstone",
 			"value": "10000",
@@ -328,6 +351,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "7370db32-e068-4d9f-8ba9-a71f45642fe4",
 			"quantity": 1,
 			"description": "24 pt Powerstone",
 			"value": "11000",
@@ -342,6 +366,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "082a2701-f411-49f6-b0b8-44802b891ace",
 			"quantity": 1,
 			"description": "25 pt Powerstone",
 			"value": "12000",
@@ -356,6 +381,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "0db3f128-0b08-48ab-8c76-b85d34fda18f",
 			"quantity": 1,
 			"description": "26 pt Powerstone",
 			"value": "13000",
@@ -370,6 +396,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "6bfee501-36a4-4b28-ae2a-c699f30861c0",
 			"quantity": 1,
 			"description": "27 pt Powerstone",
 			"value": "14500",
@@ -384,6 +411,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "ffc1b021-4f9c-4848-8d98-ac8435efb522",
 			"quantity": 1,
 			"description": "28 pt Powerstone",
 			"value": "15500",
@@ -398,6 +426,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "b01168b9-c504-43c6-9f14-d31ef248f4ca",
 			"quantity": 1,
 			"description": "29 pt Powerstone",
 			"value": "17000",
@@ -412,6 +441,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "b2b6eb0c-036d-4e4d-97bd-a7f82431bada",
 			"quantity": 1,
 			"description": "30 pt Powerstone",
 			"value": "18500",
@@ -426,6 +456,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "2770b6e9-4bba-43b9-8809-61940cda2994",
 			"quantity": 1,
 			"description": "31 pt Powerstone",
 			"value": "20000",
@@ -440,6 +471,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "75f572cd-2cfd-4246-969b-631d84b9664f",
 			"quantity": 1,
 			"description": "32 pt Powerstone",
 			"value": "21500",
@@ -454,6 +486,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "41fee25f-5e26-498c-9432-516580f09305",
 			"quantity": 1,
 			"description": "33 pt Powerstone",
 			"value": "23000",
@@ -468,6 +501,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "96ecc0e6-6c0d-46ed-a1df-84a1e1be8bd4",
 			"quantity": 1,
 			"description": "34 pt Powerstone",
 			"value": "25000",
@@ -482,6 +516,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "1828ee82-3142-456e-b010-2b870854b460",
 			"quantity": 1,
 			"description": "35 pt Powerstone",
 			"value": "27000",
@@ -496,6 +531,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "34471946-3a49-4a46-8835-e9f355684da1",
 			"quantity": 1,
 			"description": "36 pt Powerstone",
 			"value": "29000",
@@ -510,6 +546,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "7e19fbad-3f58-40b5-905e-57a656f826c2",
 			"quantity": 1,
 			"description": "37 pt Powerstone",
 			"value": "31000",
@@ -524,6 +561,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "6ad04008-2772-49e1-9a3f-c3401ddaacf7",
 			"quantity": 1,
 			"description": "38 pt Powerstone",
 			"value": "33000",
@@ -538,6 +576,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "a5824506-b2ac-4f22-9dec-7c0434d6b71f",
 			"quantity": 1,
 			"description": "39 pt Powerstone",
 			"value": "35500",
@@ -552,6 +591,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "5fec6ab4-e1a4-4198-b448-fb451d15d96d",
 			"quantity": 1,
 			"description": "40 pt Powerstone",
 			"value": "38000",
@@ -566,6 +606,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "bd658f39-aa1f-4fdd-b8c8-7d3ca16f21bf",
 			"quantity": 1,
 			"description": "41 pt Powerstone",
 			"value": "40500",
@@ -580,6 +621,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "023b7e31-2383-48f8-a9f5-d9ae6127437c",
 			"quantity": 1,
 			"description": "42 pt Powerstone",
 			"value": "43000",
@@ -594,6 +636,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "cfdc437d-0764-4331-84d4-92da5db34450",
 			"quantity": 1,
 			"description": "43 pt Powerstone",
 			"value": "46000",
@@ -608,6 +651,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "88057275-7c68-42bd-8585-6cb47602ddb2",
 			"quantity": 1,
 			"description": "44 pt Powerstone",
 			"value": "49000",
@@ -622,6 +666,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "c31ba85a-2e9c-47bd-99c2-94da3f4cc5ef",
 			"quantity": 1,
 			"description": "45 pt Powerstone",
 			"value": "52000",
@@ -636,6 +681,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "2e743f47-8271-43a9-b330-066f3696e4d4",
 			"quantity": 1,
 			"description": "46 pt Powerstone",
 			"value": "55000",
@@ -650,6 +696,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "0bccf2d0-0a13-4791-b5b8-392647cad96a",
 			"quantity": 1,
 			"description": "47 pt Powerstone",
 			"value": "58500",
@@ -664,6 +711,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "7d31e632-7ffe-42e1-885c-06dd20560d1f",
 			"quantity": 1,
 			"description": "48 pt Powerstone",
 			"value": "62000",
@@ -678,6 +726,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "82c66b2a-0e63-412e-ac36-832c33286eb8",
 			"quantity": 1,
 			"description": "49 pt Powerstone",
 			"value": "65500",
@@ -692,6 +741,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "cc49596e-99ef-405a-ac3f-ec5aee9b173b",
 			"quantity": 1,
 			"description": "50 pt Powerstone",
 			"value": "69500",
@@ -706,6 +756,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "5859f017-907b-4e47-9a58-425b54b4ba79",
 			"quantity": 1,
 			"description": "51 pt Powerstone",
 			"value": "73500",
@@ -720,6 +771,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "563eb2aa-ae0a-4cf6-9930-a484e747df06",
 			"quantity": 1,
 			"description": "52 pt Powerstone",
 			"value": "78000",
@@ -734,6 +786,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "75d6f811-6482-4d67-bcb1-3e24ee2e8737",
 			"quantity": 1,
 			"description": "53 pt Powerstone",
 			"value": "82500",
@@ -748,6 +801,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "db5611a8-b6e5-4062-9558-69b29f261a35",
 			"quantity": 1,
 			"description": "54 pt Powerstone",
 			"value": "87000",
@@ -762,6 +816,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "29c42014-be76-46fd-9570-cf16d06b5417",
 			"quantity": 1,
 			"description": "55 pt Powerstone",
 			"value": "91500",
@@ -776,6 +831,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "0654a99c-a1ac-443e-b8a4-edbddbb5450f",
 			"quantity": 1,
 			"description": "56 pt Powerstone",
 			"value": "96500",
@@ -790,6 +846,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "a6b78c4a-7f81-4d31-a2f4-f82997bfa40b",
 			"quantity": 1,
 			"description": "57 pt Powerstone",
 			"value": "100000",
@@ -804,6 +861,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "3413fd78-e929-4a4f-9c94-70b4abb18b9a",
 			"quantity": 1,
 			"description": "58 pt Powerstone",
 			"value": "105000",
@@ -818,6 +876,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "70be26e9-e05a-4c65-be04-a9d8d89e9d2f",
 			"quantity": 1,
 			"description": "59 pt Powerstone",
 			"value": "110000",
@@ -832,6 +891,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "c595e3bf-03e1-4e97-b986-9798edc40496",
 			"quantity": 1,
 			"description": "60 pt Powerstone",
 			"value": "120000",
@@ -846,6 +906,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "7101577a-8aa9-4680-ab69-de593504e63b",
 			"quantity": 1,
 			"description": "61 pt Powerstone",
 			"value": "125000",
@@ -860,6 +921,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "24c442e6-2dc3-4da9-90e5-869fbe0a29d7",
 			"quantity": 1,
 			"description": "62 pt Powerstone",
 			"value": "130000",
@@ -874,6 +936,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "38b38259-0fc4-414e-a45e-25ab467ec762",
 			"quantity": 1,
 			"description": "63 pt Powerstone",
 			"value": "135000",
@@ -888,6 +951,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "3854de16-efe9-4948-965e-efb6ee2515f1",
 			"quantity": 1,
 			"description": "64 pt Powerstone",
 			"value": "145000",
@@ -902,6 +966,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "279fa5dc-e90a-463c-aa6c-c2979617cf06",
 			"quantity": 1,
 			"description": "65 pt Powerstone",
 			"value": "150000",
@@ -916,6 +981,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "39668d99-6250-4379-8e1f-4de010e30e62",
 			"quantity": 1,
 			"description": "66 pt Powerstone",
 			"value": "160000",
@@ -930,6 +996,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "20f6b24e-b340-4b89-a9f2-26bf217af0cf",
 			"quantity": 1,
 			"description": "67 pt Powerstone",
 			"value": "165000",
@@ -944,6 +1011,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "d9eb89a7-26a9-4c04-9b29-5efe64df0fe4",
 			"quantity": 1,
 			"description": "68 pt Powerstone",
 			"value": "175000",
@@ -958,6 +1026,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "9429cf92-1f8a-4520-97c0-543cf54024aa",
 			"quantity": 1,
 			"description": "69 pt Powerstone",
 			"value": "185000",
@@ -972,6 +1041,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "b0ecfd0c-8db8-4681-bfa8-ff4ced3e227c",
 			"quantity": 1,
 			"description": "70 pt Powerstone",
 			"value": "195000",
@@ -986,6 +1056,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "a0dc63ff-a322-409d-b457-1405531262df",
 			"quantity": 1,
 			"description": "71 pt Powerstone",
 			"value": "200000",
@@ -1000,6 +1071,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "5810399d-e5a3-49ef-a8ba-afeeb5f391cd",
 			"quantity": 1,
 			"description": "72 pt Powerstone",
 			"value": "210000",
@@ -1014,6 +1086,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "d23238e5-9003-4780-b1f7-9ccc7c2fbc89",
 			"quantity": 1,
 			"description": "73 pt Powerstone",
 			"value": "220000",
@@ -1028,6 +1101,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "c85072a5-b52c-4847-a645-db9225262437",
 			"quantity": 1,
 			"description": "74 pt Powerstone",
 			"value": "230000",
@@ -1042,6 +1116,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "eaa0a7a5-c9a2-410d-aec8-87ec63616983",
 			"quantity": 1,
 			"description": "75 pt Powerstone",
 			"value": "240000",
@@ -1056,6 +1131,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "ef4d6610-b949-43fc-afda-46124d868da9",
 			"quantity": 1,
 			"description": "76 pt Powerstone",
 			"value": "250000",
@@ -1070,6 +1146,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "2084074d-327c-45fc-95a7-929826eecc71",
 			"quantity": 1,
 			"description": "77 pt Powerstone",
 			"value": "265000",
@@ -1084,6 +1161,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "5c4ddb77-d7d2-452c-a5ae-fe48f550d594",
 			"quantity": 1,
 			"description": "78 pt Powerstone",
 			"value": "275000",
@@ -1098,6 +1176,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "f3edac15-1c1b-4aa2-a7e8-bf94369b45ff",
 			"quantity": 1,
 			"description": "79 pt Powerstone",
 			"value": "285000",
@@ -1112,6 +1191,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "3c652b7a-6a71-4cf7-89f8-ce77640e28a2",
 			"quantity": 1,
 			"description": "80 pt Powerstone",
 			"value": "300000",
@@ -1126,6 +1206,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "2e19bd35-b9bc-4aff-9d97-bed0a109cf95",
 			"quantity": 1,
 			"description": "81 pt Powerstone",
 			"value": "315000",
@@ -1140,6 +1221,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "ffcfb183-aeea-432c-bd1a-96bb627bf551",
 			"quantity": 1,
 			"description": "82 pt Powerstone",
 			"value": "325000",
@@ -1154,6 +1236,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "474d03e7-0915-4794-8025-9ab0932af0b9",
 			"quantity": 1,
 			"description": "83 pt Powerstone",
 			"value": "340000",
@@ -1168,6 +1251,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "e828303c-8ca0-49f3-8c71-582775f0f2e1",
 			"quantity": 1,
 			"description": "84 pt Powerstone",
 			"value": "355000",
@@ -1182,6 +1266,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "e1dd9aa3-2f98-4d97-9398-435c1307ff43",
 			"quantity": 1,
 			"description": "85 pt Powerstone",
 			"value": "370000",
@@ -1196,6 +1281,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "f57daa89-25de-47a0-84fd-de42f96f9c20",
 			"quantity": 1,
 			"description": "86 pt Powerstone",
 			"value": "385000",
@@ -1210,6 +1296,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "02b3872e-b1eb-4ab0-b8b8-b4f41f1e503e",
 			"quantity": 1,
 			"description": "87 pt Powerstone",
 			"value": "405000",
@@ -1224,6 +1311,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "a667ba4a-a536-4123-b5f6-776e5b5e7461",
 			"quantity": 1,
 			"description": "88 pt Powerstone",
 			"value": "420000",
@@ -1238,6 +1326,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "d97b37b6-bf2d-4058-83d1-32b36130444b",
 			"quantity": 1,
 			"description": "89 pt Powerstone",
 			"value": "435000",
@@ -1252,6 +1341,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "4aea10d8-9346-4b6e-9a77-559c7595517f",
 			"quantity": 1,
 			"description": "90 pt Powerstone",
 			"value": "460000",
@@ -1266,6 +1356,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "5cddcf4d-59c7-49eb-bb35-9b0cc7cac296",
 			"quantity": 1,
 			"description": "91 pt Powerstone",
 			"value": "475000",
@@ -1280,6 +1371,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "c02bdc32-53f2-4037-bc47-6bb2f846d9f0",
 			"quantity": 1,
 			"description": "92 pt Powerstone",
 			"value": "495000",
@@ -1294,6 +1386,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "d110bbbd-08db-43b0-bfd3-8251acb4179c",
 			"quantity": 1,
 			"description": "93 pt Powerstone",
 			"value": "515000",
@@ -1308,6 +1401,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "ecc20477-62a3-455a-bf73-84adc9902ecf",
 			"quantity": 1,
 			"description": "94 pt Powerstone",
 			"value": "535000",
@@ -1322,6 +1416,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "c713b880-a40b-45dc-bfb8-498735c1edbd",
 			"quantity": 1,
 			"description": "95 pt Powerstone",
 			"value": "555000",
@@ -1336,6 +1431,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "0d93bba4-fe55-41f2-84b9-b1ccbaffb2fa",
 			"quantity": 1,
 			"description": "96 pt Powerstone",
 			"value": "580000",
@@ -1350,6 +1446,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "a6317fea-3309-47eb-89af-f70568529f7e",
 			"quantity": 1,
 			"description": "97 pt Powerstone",
 			"value": "600000",
@@ -1364,6 +1461,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "ce87c383-d8b6-4ece-84e3-5a19c1578ff9",
 			"quantity": 1,
 			"description": "98 pt Powerstone",
 			"value": "625000",
@@ -1378,6 +1476,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "556fa702-9e38-4828-883f-65e98d3f34f7",
 			"quantity": 1,
 			"description": "99 pt Powerstone",
 			"value": "650000",
@@ -1392,6 +1491,7 @@
 		{
 			"type": "equipment",
 			"version": 1,
+			"id": "70173911-4088-4375-9885-567750b59835",
 			"quantity": 1,
 			"description": "100 pt Powerstone",
 			"value": "675000",

@@ -1,11 +1,12 @@
 {
 	"type": "template",
 	"version": 1,
-	"id": "2cab9b8b-bf29-4521-a1d4-756b94f8c5df",
+	"id": "fec46b08-58a5-4737-a680-421c32afe91c",
 	"advantages": [
 		{
 			"type": "advantage_container",
 			"version": 1,
+			"id": "652d64e2-1739-49d3-945e-95d16ca8c3f1",
 			"container_type": "race",
 			"name": "Dwarf",
 			"reference": "DF3:6",
@@ -14,6 +15,7 @@
 				{
 					"type": "advantage",
 					"version": 1,
+					"id": "297e0e1b-1078-42e3-bf0b-779e070bec17",
 					"name": "Alcohol Tolerance",
 					"physical": true,
 					"base_points": 1,
@@ -26,6 +28,7 @@
 				{
 					"type": "advantage",
 					"version": 1,
+					"id": "e2a79f36-c1eb-4f4a-b141-5d432dc6c8b1",
 					"name": "Dwarven Gear",
 					"physical": true,
 					"base_points": 1,
@@ -49,6 +52,7 @@
 				{
 					"type": "advantage",
 					"version": 1,
+					"id": "3b51f141-96b5-41a4-928b-9a49597edce7",
 					"name": "Greed",
 					"mental": true,
 					"base_points": -15,
@@ -62,12 +66,14 @@
 				{
 					"type": "advantage",
 					"version": 1,
+					"id": "ec58c421-6a96-40eb-8f83-0e2a9c25807e",
 					"name": "Language: Dwarven",
 					"mental": true,
 					"modifiers": [
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "e05c6956-2a31-482f-b774-9718485bc560",
 							"name": "Native",
 							"reference": "B23",
 							"cost_type": "points",
@@ -77,6 +83,7 @@
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "4ddc307a-1c48-46b0-ab19-d575997e4ad5",
 							"disabled": true,
 							"name": "Spoken",
 							"reference": "B24",
@@ -88,6 +95,7 @@
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "ede935e9-42df-455d-9345-c69921fb5ec2",
 							"disabled": true,
 							"name": "Spoken",
 							"reference": "B24",
@@ -99,6 +107,7 @@
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "ffc19b79-3743-4c8e-aa0a-7291ca2c2923",
 							"disabled": true,
 							"name": "Spoken",
 							"reference": "B24",
@@ -110,6 +119,7 @@
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "8fc38756-98cc-4566-a223-263931407946",
 							"name": "Spoken",
 							"reference": "B24",
 							"cost_type": "points",
@@ -120,6 +130,7 @@
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "8b729831-75e6-4b11-92ac-8ccd7649369a",
 							"disabled": true,
 							"name": "Written",
 							"reference": "B24",
@@ -131,6 +142,7 @@
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "715b4fc9-9f13-4f3b-bcd8-b4f517a261c3",
 							"disabled": true,
 							"name": "Written",
 							"reference": "B24",
@@ -142,6 +154,7 @@
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "453f8129-5c62-4319-9603-ecec2b8d8921",
 							"disabled": true,
 							"name": "Written",
 							"reference": "B24",
@@ -153,6 +166,7 @@
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "b90fbe8e-7930-4111-935a-ec9b59684232",
 							"name": "Written",
 							"reference": "B24",
 							"cost_type": "points",
@@ -169,6 +183,7 @@
 				{
 					"type": "advantage",
 					"version": 1,
+					"id": "04b92554-1a7f-42d3-927a-aae7f8b4d64e",
 					"name": "Natural Attacks",
 					"physical": true,
 					"weapons": [
@@ -253,6 +268,7 @@
 				{
 					"type": "advantage",
 					"version": 1,
+					"id": "635e48f9-60e6-4caa-9745-73617bf85a78",
 					"name": "Night Vision",
 					"physical": true,
 					"levels": "5",
@@ -265,6 +281,7 @@
 				{
 					"type": "advantage",
 					"version": 1,
+					"id": "9ac7be1b-dd4a-4e43-9d30-5afad8f1e099",
 					"name": "Pickaxe Penchant",
 					"mental": true,
 					"levels": "1",
@@ -344,12 +361,14 @@
 				{
 					"type": "advantage",
 					"version": 1,
+					"id": "145fbfb8-750d-476a-b31c-5e7ee79c11e4",
 					"name": "Racial Attribute Adjustments",
 					"physical": true,
 					"modifiers": [
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "da7bd09f-d7bf-46a6-b095-597d083ff22f",
 							"name": "Lifting ST+2",
 							"reference": "B65",
 							"cost_type": "points",
@@ -367,6 +386,7 @@
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "271fe125-180e-4143-bf11-0fb4f1211661",
 							"name": "HT+1",
 							"reference": "B15",
 							"cost_type": "points",
@@ -383,6 +403,7 @@
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "d0d9d373-5c44-4ffe-8cdf-d27e6a612c7d",
 							"name": "Move-1",
 							"reference": "B16",
 							"cost_type": "points",
@@ -399,6 +420,7 @@
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "ed6c6e61-a689-45bf-8b82-43d9d582e2c2",
 							"name": "FP+3",
 							"reference": "B16",
 							"cost_type": "points",
@@ -418,12 +440,14 @@
 				{
 					"type": "advantage",
 					"version": 1,
+					"id": "7d5df681-9c1e-4587-b0bf-edb75ecf5db4",
 					"name": "Resistant",
 					"physical": true,
 					"modifiers": [
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "39a9c935-5cd2-4ae1-8fd0-298b3d754244",
 							"disabled": true,
 							"name": "@Very Common: Metabolic Hazards, etc.@",
 							"reference": "B80",
@@ -434,6 +458,7 @@
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "bdaf9464-d200-4a79-aed0-b64c93ae3aa2",
 							"name": "Poison",
 							"reference": "B81",
 							"cost_type": "points",
@@ -443,6 +468,7 @@
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "ecc124dd-079b-4838-ba9f-1771b50efa44",
 							"disabled": true,
 							"name": "@Occasional: Disease, Ingested Poison, etc.@",
 							"reference": "B81",
@@ -453,6 +479,7 @@
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "26bf2b6e-2ee2-4a70-8bde-ecf8ef24b7ff",
 							"disabled": true,
 							"name": "@Rare: Acceleration, Altitude Sickness, Bends, Seasickness, Space Sickness, Nanomachines, etc.@",
 							"reference": "B81",
@@ -463,6 +490,7 @@
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "0f9c0081-2f62-439b-b579-ebf1df2b7b09",
 							"disabled": true,
 							"name": "Immunity",
 							"reference": "B81",
@@ -472,6 +500,7 @@
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "5edbdb0e-b92c-4026-87cb-47c91513a223",
 							"disabled": true,
 							"name": "+8 to all HT rolls to resist",
 							"reference": "B81",
@@ -481,6 +510,7 @@
 						{
 							"type": "modifier",
 							"version": 1,
+							"id": "79fd7383-e394-47db-9702-111fb8a3cb35",
 							"name": "+3 to all HT rolls to resist",
 							"reference": "B81",
 							"cost_type": "multiplier",
@@ -495,6 +525,7 @@
 				{
 					"type": "advantage",
 					"version": 1,
+					"id": "5a822ee2-18f0-4d46-9fc7-373262f5c0ca",
 					"name": "Stubbornness",
 					"mental": true,
 					"base_points": -5,
@@ -513,6 +544,7 @@
 				{
 					"type": "advantage",
 					"version": 1,
+					"id": "76bccb53-b34a-45e9-9ef4-34e0c1b7378b",
 					"name": "Tough Skin",
 					"physical": true,
 					"exotic": true,
@@ -536,6 +568,7 @@
 		{
 			"type": "note",
 			"version": 1,
+			"id": "c94317c1-ea1d-45ee-888e-ce5ce8e7661d",
 			"text": "Dwarves are essentially hardy-but-stumpy humans who see well in the dark and like caves and gold. There’s doubtless much more to them than that, as any dwarf will argue if you foolishly say that aloud. “Bearded” and “likes ale” aren’t generally qualifications sought by adventuring parties, however.\n\nDwarves have brown, black or copper-colored hair and brown or grey eyes.\n\nWhen finding a dwarf’s height and weight, use the line appropriate to ST on the Build Table (B18), but multiply height by ⅔ and shift weight a column to the right (a Very Fat dwarf has maximum weight!). A dwarf’s girth offsets his height enough that he’s still SM 0. However, dwarves can’t wear armor fitted for humans (and vice versa).",
 			"reference": "DF3:6"
 		}

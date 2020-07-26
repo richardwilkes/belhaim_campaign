@@ -6,6 +6,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5b5ca90c-e2c8-4dc6-80f6-a3222302c92c",
 			"name": "Accounting",
 			"reference": "B174",
 			"difficulty": "IQ/H",
@@ -39,6 +40,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "e5fef9f5-1fd1-4a7b-b4e2-a16dbf27d811",
 			"name": "Acrobatics",
 			"reference": "B174",
 			"difficulty": "DX/H",
@@ -66,6 +68,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "e3f29405-133c-4f7f-b270-2a946b014e5a",
 			"name": "Acting",
 			"reference": "B174",
 			"difficulty": "IQ/A",
@@ -94,6 +97,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "ec883376-5679-4fe7-9ede-7f46d5054317",
 			"name": "Administration",
 			"reference": "B174",
 			"difficulty": "IQ/A",
@@ -117,6 +121,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5c627775-890e-4c04-a607-3c222dcd5d68",
 			"name": "Aerobatics",
 			"reference": "B174",
 			"difficulty": "DX/H",
@@ -144,6 +149,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "bd472ae2-7af3-4501-8079-498ec8ebd165",
 			"name": "Alchemy",
 			"reference": "B174",
 			"tech_level": "",
@@ -157,6 +163,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "7a6d54fc-aad2-43af-86bb-3dea36069c01",
 			"name": "Animal Handling",
 			"reference": "B175",
 			"specialization": "@Specialty@",
@@ -175,6 +182,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "3c097d02-d073-4134-95f2-dc2d58b8b796",
 			"name": "Animal Handling",
 			"reference": "B175",
 			"specialization": "Canines",
@@ -193,6 +201,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "93e75cb6-26f6-462d-86c6-67feefa2af33",
 			"name": "Animal Handling",
 			"reference": "B175",
 			"specialization": "Equines",
@@ -211,6 +220,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "bc3b02cd-802c-4590-89e3-896abd43a59e",
 			"name": "Animal Handling",
 			"reference": "B175",
 			"specialization": "Felines",
@@ -229,6 +239,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "49066cfd-f3a6-4e19-99a8-a746351a8331",
 			"name": "Animal Handling",
 			"reference": "B175",
 			"specialization": "Raptors",
@@ -247,6 +258,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "499cf9a1-a8a0-4d28-b2a2-ec16295d5b6f",
 			"name": "Animal Handling",
 			"reference": "B175",
 			"specialization": "Snakes",
@@ -265,6 +277,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "7d618228-e305-42b4-a064-f2c0a2850987",
 			"name": "Aquabatics",
 			"reference": "B174",
 			"difficulty": "DX/H",
@@ -292,6 +305,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5a2bb045-1750-4f6f-8787-4a034851fd43",
 			"name": "Archaeology",
 			"reference": "B176",
 			"difficulty": "IQ/H",
@@ -309,6 +323,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "f68ee998-e529-4415-ac76-6dc509954d24",
 			"name": "Architecture",
 			"reference": "B176",
 			"tech_level": "",
@@ -333,6 +348,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "b7a08709-7e48-42c0-961a-a38183dfa49b",
 			"name": "Area Knowledge",
 			"reference": "B176",
 			"specialization": "@Barony, County, Duchy, or Small Nation@",
@@ -355,6 +371,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "47526561-3681-4960-ba00-2d0255649c34",
 			"name": "Area Knowledge",
 			"reference": "B176",
 			"specialization": "@Barony, County, Duchy, or Small Nation@; Lived there",
@@ -381,6 +398,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "7c9b98ba-7043-4a20-91d1-fef7e3c231d9",
 			"name": "Area Knowledge",
 			"reference": "B176",
 			"specialization": "@City@",
@@ -403,6 +421,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "69150faa-e8f7-4385-b003-592060b16111",
 			"name": "Area Knowledge",
 			"reference": "B176",
 			"specialization": "@City@; Lived there",
@@ -429,6 +448,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "926fad60-5d18-47bb-94d8-a55a08ff3fbd",
 			"name": "Area Knowledge",
 			"reference": "B176",
 			"specialization": "@Large Nation@",
@@ -451,6 +471,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "acce2cd5-4960-4258-99eb-13f4abba4466",
 			"name": "Area Knowledge",
 			"reference": "B176",
 			"specialization": "@Large Nation@; Lived there",
@@ -477,6 +498,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "a6037d2e-57b4-4af7-b6bf-5535d3614164",
 			"name": "Area Knowledge",
 			"reference": "B176",
 			"specialization": "@Rural Area@",
@@ -499,6 +521,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "74aede4f-6456-42b0-acdf-31e721ccea2a",
 			"name": "Area Knowledge",
 			"reference": "B176",
 			"specialization": "@Rural Area@; Lived there",
@@ -525,6 +548,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "109528f1-af75-4aa9-b232-37fcb84fe23d",
 			"name": "Area Knowledge",
 			"reference": "B176",
 			"specialization": "@Urban Neighborhood@",
@@ -547,6 +571,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "102a3a30-0f78-476a-95dc-930a5dd6fb5f",
 			"name": "Area Knowledge",
 			"reference": "B176",
 			"specialization": "@Urban Neighborhood@; Lived there",
@@ -573,6 +598,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "08ebd011-a129-4445-afed-d1cc410ec54e",
 			"name": "Area Knowledge",
 			"reference": "B176",
 			"specialization": "@Village or Town@",
@@ -595,6 +621,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "7b8fa666-2584-4472-9f7e-d0df5cde0e21",
 			"name": "Area Knowledge",
 			"reference": "B176",
 			"specialization": "@Village or Town@; Lived there",
@@ -621,6 +648,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "98a028b9-eaeb-47da-86d3-af637e0e4bf4",
 			"name": "Arm Lock",
 			"reference": "B230",
 			"difficulty": "A",
@@ -639,6 +667,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "836fabe3-908a-4794-b5ea-2ac6e1bc572e",
 			"name": "Arm Lock",
 			"reference": "B230",
 			"difficulty": "A",
@@ -657,6 +686,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "285b4578-22fe-42be-9272-64c1a48ff9e9",
 			"name": "Armoury",
 			"reference": "B178",
 			"specialization": "Body Armor",
@@ -683,6 +713,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "0684b42d-ec4f-4fc4-ac4b-2727639694d5",
 			"name": "Armoury",
 			"reference": "B178",
 			"specialization": "Heavy Weapons",
@@ -709,6 +740,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "4229d2a8-c627-4b5a-9c71-cad96c7cf322",
 			"name": "Armoury",
 			"reference": "B178",
 			"specialization": "Melee Weapons",
@@ -735,6 +767,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "539db273-9b41-4e3f-ae02-6e1216738d34",
 			"name": "Armoury",
 			"reference": "B178",
 			"specialization": "Missile Weapons",
@@ -761,6 +794,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "0e7e0aa5-868e-4f78-85bc-5a2fb67e94a3",
 			"name": "Artillery",
 			"reference": "B178",
 			"specialization": "@Weapon type@",
@@ -781,6 +815,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "fe052976-2160-4686-a68a-cbf12c7d94eb",
 			"name": "Artillery",
 			"reference": "B178",
 			"specialization": "Bombs",
@@ -801,6 +836,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5b4824d9-1835-459a-a529-696bc3fa7943",
 			"name": "Artillery",
 			"reference": "B178",
 			"specialization": "Cannon",
@@ -821,6 +857,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "e44ead7e-7800-4e0f-91c0-67b890da6166",
 			"name": "Artillery",
 			"reference": "B178",
 			"specialization": "Catapult",
@@ -841,6 +878,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "829842e2-9803-43de-9a8f-ff584d2aeef1",
 			"name": "Artist",
 			"reference": "B179",
 			"specialization": "@Art@",
@@ -864,6 +902,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "ec137155-3b3d-46e4-9b32-f57e7cd9c2f8",
 			"name": "Artist",
 			"reference": "B179",
 			"specialization": "Body Art",
@@ -911,6 +950,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "c88c0939-5c81-4c70-bdf6-161039fbbcff",
 			"name": "Artist",
 			"reference": "B179",
 			"specialization": "Calligraphy",
@@ -958,6 +998,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5b16c758-7de8-4d40-96f9-a54b61a050ce",
 			"name": "Artist",
 			"reference": "B179",
 			"specialization": "Drawing",
@@ -1005,6 +1046,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "a32262ed-ff0c-4189-a7da-1412ce53c8c3",
 			"name": "Artist",
 			"reference": "B179",
 			"specialization": "Illumination",
@@ -1052,6 +1094,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "8386c73a-ad64-42fd-897a-ea0d9ed3e1b6",
 			"name": "Artist",
 			"reference": "B179",
 			"specialization": "Illusion",
@@ -1075,6 +1118,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "641a9db6-9411-4b5a-89cb-f1308e298512",
 			"name": "Artist",
 			"reference": "B179",
 			"specialization": "Interior Decorating",
@@ -1115,6 +1159,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "d41d4227-56c7-4e95-a7b5-4ac90ed2994a",
 			"name": "Artist",
 			"reference": "B179",
 			"specialization": "Painting",
@@ -1162,6 +1207,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "1e76b610-38ce-4eb7-a7a3-3efe973eaf46",
 			"name": "Artist",
 			"reference": "B179",
 			"specialization": "Pottery",
@@ -1186,6 +1232,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "a8190d20-3ad0-46e7-800f-3ed81a7e0f93",
 			"name": "Artist",
 			"reference": "B179",
 			"specialization": "Scene Design",
@@ -1226,6 +1273,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "0e6442f1-a182-45bf-b419-22d5b1de8c77",
 			"name": "Artist",
 			"reference": "B179",
 			"specialization": "Sculpting",
@@ -1250,6 +1298,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "bf1f2f19-635f-4dbc-be99-ae6cc0271d48",
 			"name": "Artist",
 			"reference": "B179",
 			"specialization": "Woodworking",
@@ -1291,6 +1340,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "0d19d37a-99a9-48d1-bc0d-f385c1361751",
 			"name": "Astronomy",
 			"reference": "B179",
 			"tech_level": "",
@@ -1327,6 +1377,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "99774e9a-552c-42e3-ae21-fe60059bcf65",
 			"name": "Autohypnosis",
 			"reference": "B179",
 			"difficulty": "Will/H",
@@ -1345,6 +1396,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "3174af2a-5de1-4d96-bc56-f6fa823e1101",
 			"name": "Axe/Mace",
 			"reference": "B208",
 			"difficulty": "DX/A",
@@ -1373,6 +1425,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "aae67d38-81ba-448f-ac39-89f5fd711d03",
 			"name": "Back Kick",
 			"reference": "B230,MA67",
 			"difficulty": "H",
@@ -1406,6 +1459,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "01bd4866-ca16-4f66-8ced-16a567baa2fc",
 			"name": "Bartender",
 			"reference": "B216",
 			"difficulty": "IQ/A",
@@ -1429,6 +1483,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "276c1c53-dfdb-4312-bf08-408a1cf8d473",
 			"name": "Blowpipe",
 			"reference": "B180",
 			"difficulty": "DX/H",
@@ -1447,6 +1502,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "c3000ec4-5b41-4b8d-9f77-bda18be888d6",
 			"name": "Boating",
 			"reference": "B180",
 			"specialization": "@Boat class@",
@@ -1493,6 +1549,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "cacfc36f-bb48-4f94-a29f-bd085b404b20",
 			"name": "Boating",
 			"reference": "B180",
 			"specialization": "Sailboat",
@@ -1534,6 +1591,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "ded5c1e2-5da8-48ef-b301-12ed382c2889",
 			"name": "Boating",
 			"reference": "B180",
 			"specialization": "Unpowered",
@@ -1575,6 +1633,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "6574dc14-7f62-43ab-a5bf-7b3cf45225dc",
 			"name": "Body Language",
 			"reference": "B181",
 			"difficulty": "Per/A",
@@ -1600,6 +1659,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "b3db5795-b9e7-4b4b-b8a7-ad0735d29916",
 			"name": "Body Sense",
 			"reference": "B181",
 			"difficulty": "DX/H",
@@ -1622,6 +1682,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "2ecb2718-4c4c-4c02-b8d5-111fae001e54",
 			"name": "Bolas",
 			"reference": "B181",
 			"difficulty": "DX/A",
@@ -1634,6 +1695,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "e39743eb-efb5-4935-ab12-0150fbfac957",
 			"name": "Bow",
 			"reference": "B182",
 			"difficulty": "DX/A",
@@ -1652,6 +1714,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "6273708b-c7ca-4e00-a9a3-26c7cf35920e",
 			"name": "Boxing",
 			"reference": "B182",
 			"difficulty": "DX/A",
@@ -1694,6 +1757,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "c6d02b53-96cf-4445-8c43-e13421044e59",
 			"name": "Brainwashing",
 			"reference": "B182",
 			"tech_level": "",
@@ -1721,6 +1785,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "2bb04dbe-edc7-4c58-a041-46c84cf3ea7b",
 			"name": "Brawling",
 			"reference": "B182",
 			"difficulty": "DX/E",
@@ -1749,6 +1814,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "78283b25-f0d9-40fd-975d-96a80cf635c3",
 			"name": "Breath Control",
 			"reference": "B182",
 			"difficulty": "HT/H",
@@ -1760,6 +1826,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "8a4e39d4-fd43-4e5f-85df-25394530bb46",
 			"name": "Broadsword",
 			"reference": "B208",
 			"difficulty": "DX/A",
@@ -1803,6 +1870,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "ab67ab98-6f25-467a-806d-f4d195b8d01a",
 			"name": "Camouflage",
 			"reference": "B183",
 			"difficulty": "IQ/E",
@@ -1826,6 +1894,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "61561550-7011-415f-bfba-2222f78a3b83",
 			"name": "Captivate",
 			"reference": "B191",
 			"difficulty": "Will/H",
@@ -1885,6 +1954,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "e964a686-ef0b-469a-8219-193e4811da9c",
 			"name": "Carousing",
 			"reference": "B183",
 			"difficulty": "HT/E",
@@ -1903,6 +1973,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "6d7aa44c-c1e8-4e67-9d65-c950abcdc82a",
 			"name": "Carpentry",
 			"reference": "B183",
 			"difficulty": "IQ/E",
@@ -1920,6 +1991,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "915d080c-7c95-433c-898d-1e3c0bd25ce4",
 			"name": "Cartography",
 			"reference": "B183",
 			"tech_level": "",
@@ -1955,6 +2027,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "401efe18-6e51-41aa-8b25-d62054bd5d91",
 			"name": "Choke Hold",
 			"reference": "B230,MA69",
 			"difficulty": "H",
@@ -1988,6 +2061,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "c1d0634a-ca50-467c-8cc6-30e0ea9f4a1e",
 			"name": "Choke Hold",
 			"reference": "B230,MA69",
 			"difficulty": "H",
@@ -2021,6 +2095,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "4f8b62d8-73f7-493d-b528-3f5f5ac119a1",
 			"name": "Climbing",
 			"reference": "B183",
 			"encumbrance_penalty_multiplier": 1,
@@ -2041,6 +2116,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "1c9d24c0-6828-4014-a999-7ed0a1788ebb",
 			"name": "Cloak",
 			"reference": "B184",
 			"difficulty": "DX/A",
@@ -2069,6 +2145,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "2006df75-800e-4318-8140-b6e82f0a2528",
 			"name": "Connoisseur",
 			"reference": "B185",
 			"specialization": "Dance",
@@ -2089,6 +2166,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "2739c9e7-bef9-47b8-a87d-c76f3433a076",
 			"name": "Connoisseur",
 			"reference": "B185",
 			"specialization": "Literature",
@@ -2124,6 +2202,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "dd532e5d-52ab-417d-a3ad-49b6a8d21d53",
 			"name": "Connoisseur",
 			"reference": "B185",
 			"specialization": "Music",
@@ -2160,6 +2239,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "c67498eb-f312-4051-8673-4dafe4aade9c",
 			"name": "Connoisseur",
 			"reference": "B185",
 			"specialization": "Visual Arts",
@@ -2180,6 +2260,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "7e817d74-3d7d-457c-bf52-579b67b8322b",
 			"name": "Connoisseur",
 			"reference": "B185",
 			"specialization": "Wine",
@@ -2200,6 +2281,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "830aec1b-5b48-40e1-85e1-b2b9594c5a0c",
 			"name": "Cooking",
 			"reference": "B185",
 			"difficulty": "IQ/A",
@@ -2222,6 +2304,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "b706881a-eb5c-45c4-b6ff-2df27a388b14",
 			"name": "Cooking",
 			"reference": "B185",
 			"specialization": "@Specialty@",
@@ -2245,6 +2328,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "46d11935-2c53-4cba-8d7b-aab7691c6580",
 			"name": "Cooking",
 			"reference": "B185",
 			"specialization": "Baking",
@@ -2268,6 +2352,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "247c6298-780a-425a-9159-2b073f4ce857",
 			"name": "Cooking",
 			"reference": "B185",
 			"specialization": "Beverage Making",
@@ -2291,6 +2376,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "bebc34a0-e19a-4ed6-a6e8-bd8388392220",
 			"name": "Counterfeiting",
 			"reference": "B185",
 			"tech_level": "",
@@ -2314,6 +2400,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "a3017ed0-088f-4651-8d9e-57beca8f33d9",
 			"name": "Criminology",
 			"reference": "B186",
 			"tech_level": "",
@@ -2338,6 +2425,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "fde46997-1cc4-4c49-be3a-0de179a617ff",
 			"name": "Crossbow",
 			"reference": "B186",
 			"difficulty": "DX/E",
@@ -2356,6 +2444,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "528de45a-ed16-40cf-8990-a7851c584e17",
 			"name": "Cryptography",
 			"reference": "B186",
 			"tech_level": "",
@@ -2377,6 +2466,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "50a6b3fc-afc5-4154-a96f-ed3b4b64e2dc",
 			"name": "Cryptography",
 			"reference": "B186",
 			"specialization": "Code Design",
@@ -2399,6 +2489,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "8efbc51a-bae8-45bf-b35e-6495ffabdc6c",
 			"name": "Cryptography",
 			"reference": "B186",
 			"specialization": "Cryptanalysis",
@@ -2421,6 +2512,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "f0c2c528-654f-41ea-8151-24ba9fd1f10c",
 			"name": "Dancing",
 			"reference": "B187",
 			"difficulty": "DX/A",
@@ -2438,6 +2530,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "f8b03110-fff5-413e-a616-de1bc35fd8ed",
 			"name": "Detect Lies",
 			"reference": "B187",
 			"difficulty": "Per/H",
@@ -2467,6 +2560,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "57a620af-5656-4b2e-b1f3-ecc2b022b6c5",
 			"name": "Diagnosis",
 			"reference": "B187",
 			"tech_level": "",
@@ -2500,6 +2594,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "469de029-d3d6-4aa7-9891-6a8f44adc0d9",
 			"name": "Diplomacy",
 			"reference": "B187",
 			"difficulty": "IQ/H",
@@ -2524,6 +2619,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "3d58675f-81c7-4ef7-827c-94c7983e9494",
 			"name": "Disarming",
 			"reference": "B230,MA70",
 			"difficulty": "H",
@@ -2556,6 +2652,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "8529d50b-4f13-445e-9c89-264979ab1d58",
 			"name": "Disarming",
 			"reference": "B230",
 			"difficulty": "H",
@@ -2574,6 +2671,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "85adb873-0e02-4704-ac3d-c9d1751f577e",
 			"name": "Disarming",
 			"reference": "B230",
 			"difficulty": "H",
@@ -2592,6 +2690,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "bd9a2072-c5f4-415a-9fd9-010b67869b9d",
 			"name": "Disarming",
 			"reference": "B230",
 			"difficulty": "H",
@@ -2610,6 +2709,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "a34bfcd5-0dac-49e2-8940-8ddcbf3b6043",
 			"name": "Disarming",
 			"reference": "B230",
 			"difficulty": "H",
@@ -2628,6 +2728,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "ebe55a2d-c353-4b59-90e1-865ccb65c472",
 			"name": "Disarming",
 			"reference": "B230",
 			"difficulty": "H",
@@ -2646,6 +2747,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "0f1031d6-3894-486a-86cd-d650f63818da",
 			"name": "Disguise",
 			"reference": "B187",
 			"specialization": "@Specialty@",
@@ -2671,6 +2773,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "73fa8159-99f1-4856-b04f-99fefc5f794d",
 			"name": "Dropping",
 			"reference": "B189",
 			"difficulty": "DX/A",
@@ -2694,6 +2797,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "232a7c68-9d68-40de-be2e-dc4db3365bed",
 			"name": "Dual-Weapon Attack",
 			"reference": "B230,MA83",
 			"difficulty": "H",
@@ -2713,6 +2817,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "cc47de74-9275-4f9c-85c1-38a6cabd09fa",
 			"name": "Dual-Weapon Attack",
 			"reference": "B230,MA83",
 			"difficulty": "H",
@@ -2732,6 +2837,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "aa8e3afd-7cfb-4e2a-9509-cbd04669b8ec",
 			"name": "Dual-Weapon Attack",
 			"reference": "B230,MA83",
 			"difficulty": "H",
@@ -2751,6 +2857,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5d272a82-a958-492d-8c26-c284507677d5",
 			"name": "Economics",
 			"reference": "B189",
 			"difficulty": "IQ/H",
@@ -2784,6 +2891,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "fe363fa6-6c5a-40b9-b9d7-cc88430bd316",
 			"name": "Elbow Strike",
 			"reference": "B230,MA71",
 			"difficulty": "A",
@@ -2817,6 +2925,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "38cebbb5-3d56-43b2-a677-71156a0b62b3",
 			"name": "Elbow Strike",
 			"reference": "B230,MA71",
 			"difficulty": "A",
@@ -2850,6 +2959,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "4691e5c5-8fcb-4667-a846-1b7b35d8a230",
 			"name": "Engineer",
 			"reference": "B190",
 			"specialization": "Artillery",
@@ -2894,6 +3004,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "2eb9ba93-c511-4caf-aec4-182fca9977c9",
 			"name": "Engineer",
 			"reference": "B190",
 			"specialization": "Civil",
@@ -2937,6 +3048,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "a5508463-b4f9-4967-b972-b708b2f025db",
 			"name": "Engineer",
 			"reference": "B190",
 			"specialization": "Clockwork",
@@ -2981,6 +3093,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "a40e1e7f-9004-41c4-a523-faf2fd15d6f3",
 			"name": "Engineer",
 			"reference": "B190",
 			"specialization": "Combat",
@@ -3025,6 +3138,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "0c7036e2-6e24-4e9f-840f-0dcecfe4e0a0",
 			"name": "Engineer",
 			"reference": "B190",
 			"specialization": "Mining",
@@ -3074,6 +3188,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "60cecc51-2584-4981-823a-838542f432da",
 			"name": "Engineer",
 			"reference": "B190",
 			"specialization": "Ships",
@@ -3118,6 +3233,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "34d43d8c-0bdf-4c4b-9f8e-2e36da7a8ee2",
 			"name": "Escape",
 			"reference": "B192",
 			"difficulty": "DX/H",
@@ -3135,6 +3251,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "989f8379-602f-47b5-a5ac-25df6a7adbe6",
 			"name": "Esoteric Medicine",
 			"reference": "B192",
 			"difficulty": "Per/H",
@@ -3153,6 +3270,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "b4f4543f-0806-40e9-b472-deeb9d632800",
 			"name": "Exorcism",
 			"reference": "B193",
 			"difficulty": "Will/H",
@@ -3185,6 +3303,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "ee65b039-2008-4ac5-a0b0-fd866d2d1c09",
 			"name": "Expert Skill",
 			"reference": "B193",
 			"specialization": "Conspiracy Theory",
@@ -3198,6 +3317,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "711feb23-dafa-4e71-a79e-934824fb5157",
 			"name": "Expert Skill",
 			"reference": "B193",
 			"specialization": "Epidemiology",
@@ -3213,6 +3333,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "ae6af294-24ca-49c1-a374-62a0feae4dec",
 			"name": "Expert Skill",
 			"reference": "B193",
 			"specialization": "Hydrology",
@@ -3227,6 +3348,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "a5514005-a22f-425d-a4ba-0898b5fa0653",
 			"name": "Expert Skill",
 			"reference": "B193",
 			"specialization": "Military Science",
@@ -3241,6 +3363,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "c95fce38-f8db-4bd0-8bd5-3f42a2058953",
 			"name": "Expert Skill",
 			"reference": "B193",
 			"specialization": "Natural Philosophy",
@@ -3255,6 +3378,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "40ea5af6-15f2-406e-8078-c88ab3d027a7",
 			"name": "Expert Skill",
 			"reference": "B193",
 			"specialization": "Political Science",
@@ -3269,6 +3393,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "8c6916a6-1f5b-4f72-9279-ace72eb4d8e9",
 			"name": "Expert Skill",
 			"reference": "B193",
 			"specialization": "Thantology",
@@ -3283,6 +3408,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "4a8ee73f-291a-4618-a5d3-3abeda78e068",
 			"name": "Expert Skill",
 			"reference": "B193",
 			"specialization": "Xenology",
@@ -3297,6 +3423,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "2fa006ad-c6bb-4f1a-9ab6-308854589cf9",
 			"name": "Falconry",
 			"reference": "B194",
 			"difficulty": "IQ/A",
@@ -3320,6 +3447,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "e0dbbec9-2958-4be9-afee-8922dcda581d",
 			"name": "Farming",
 			"reference": "B194",
 			"tech_level": "",
@@ -3348,6 +3476,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "b48664f3-397a-41be-a551-5e0a5f94f673",
 			"name": "Fast-Draw",
 			"reference": "B194",
 			"specialization": "Arrow",
@@ -3361,6 +3490,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "999e95a9-8076-4a06-8140-0a0d7d45b739",
 			"name": "Fast-Draw",
 			"reference": "B194",
 			"specialization": "Knife",
@@ -3374,6 +3504,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "9d8bc8f6-530c-4442-8a9a-7bdc5653b7e2",
 			"name": "Fast-Draw",
 			"reference": "B194",
 			"specialization": "Sword",
@@ -3387,6 +3518,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "7de2a9d6-daf6-461e-8c3c-9506034faab3",
 			"name": "Fast-Draw",
 			"reference": "B194",
 			"specialization": "Two-Handed Sword",
@@ -3400,6 +3532,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "1db517ce-033d-404b-9acb-4c35f3e3fb5f",
 			"name": "Fast-Talk",
 			"reference": "B195",
 			"difficulty": "IQ/A",
@@ -3424,6 +3557,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "b6bb8e55-bdaa-4598-9830-5a4a817d3cd2",
 			"name": "Feint",
 			"reference": "B231,MA73",
 			"difficulty": "H",
@@ -3456,6 +3590,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "16217dba-b918-45b4-91b8-320a0bc6d7e0",
 			"name": "Feint",
 			"reference": "B231",
 			"difficulty": "H",
@@ -3474,6 +3609,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "c2ed671a-eb7a-45a4-8feb-ee6eeceb127e",
 			"name": "Feint",
 			"reference": "B231",
 			"difficulty": "H",
@@ -3492,6 +3628,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "e47e3f1d-32b5-4aaf-a17e-e8a76970c4db",
 			"name": "Feint",
 			"reference": "B231",
 			"difficulty": "H",
@@ -3510,6 +3647,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "9d4d45e2-ce41-42cf-8513-2889c4fcee4d",
 			"name": "Feint",
 			"reference": "B231",
 			"difficulty": "H",
@@ -3528,6 +3666,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "31994f7f-07f5-4baf-a239-fe5c093afe78",
 			"name": "Feint",
 			"reference": "B231",
 			"difficulty": "H",
@@ -3546,6 +3685,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5fe82b23-1219-49a0-b967-81afd6ee48ef",
 			"name": "Filch",
 			"reference": "B195",
 			"difficulty": "DX/A",
@@ -3574,6 +3714,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "74a43749-c9f5-4dcc-8621-a7c5dca60cfa",
 			"name": "Finance",
 			"reference": "B195",
 			"difficulty": "IQ/H",
@@ -3602,6 +3743,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "7dfec841-ecc8-496d-942b-09ce8b5e15b6",
 			"name": "Finger Lock",
 			"reference": "B231,MA73",
 			"difficulty": "H",
@@ -3621,6 +3763,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "9d68b81b-f616-42a4-b701-bd37aab599a9",
 			"name": "Fire Eating",
 			"reference": "B195",
 			"difficulty": "DX/A",
@@ -3632,6 +3775,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "157a239d-e087-4904-8cab-1266f8975243",
 			"name": "First Aid",
 			"reference": "B195",
 			"tech_level": "",
@@ -3664,6 +3808,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "cd9a10e6-b918-427f-a7f5-4230c8746ce6",
 			"name": "Fishing",
 			"reference": "B195",
 			"difficulty": "Per/E",
@@ -3681,6 +3826,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "e1dfcce2-ccf9-4f2f-a851-375f16b574f8",
 			"name": "Flail",
 			"reference": "B208",
 			"difficulty": "DX/H",
@@ -3709,6 +3855,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "012f9bb7-9bc3-405b-9ad7-6a253ba0798e",
 			"name": "Flight",
 			"reference": "B195",
 			"difficulty": "HT/A",
@@ -3740,6 +3887,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "13730ddb-e8bd-47ce-83aa-e064d8251131",
 			"name": "Forced Entry",
 			"reference": "B196",
 			"difficulty": "DX/E",
@@ -3753,6 +3901,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "61aed8a1-a40b-47c2-8484-132cdab0f2a5",
 			"name": "Forgery",
 			"reference": "B196",
 			"tech_level": "",
@@ -3777,6 +3926,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5a920d31-921c-46fc-89ec-78452aaf387c",
 			"name": "Freight Handling",
 			"reference": "B197",
 			"tech_level": "",
@@ -3796,6 +3946,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "10376714-9230-430e-97df-8d798419b274",
 			"name": "Gambling",
 			"reference": "B197",
 			"difficulty": "IQ/A",
@@ -3820,6 +3971,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5c438830-885d-41d5-a44a-e9454f20e256",
 			"name": "Games",
 			"reference": "B197",
 			"specialization": "@Specialty@",
@@ -3838,6 +3990,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "41d24c97-67c5-4aa7-988f-2fed7f3b2e11",
 			"name": "Gardening",
 			"reference": "B197",
 			"difficulty": "IQ/E",
@@ -3860,6 +4013,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "7afba5e6-0fb3-41a2-8cea-4fa37a724921",
 			"name": "Garrote",
 			"reference": "B197",
 			"difficulty": "DX/E",
@@ -3878,6 +4032,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "ee30bae5-81dc-4435-b6ae-970ffee6a345",
 			"name": "Geography",
 			"reference": "B198",
 			"specialization": "Political",
@@ -3907,6 +4062,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "8a9f152f-8723-43b2-a9af-2c601d32292e",
 			"name": "Geography",
 			"reference": "B198",
 			"specialization": "Regional",
@@ -3936,6 +4092,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "babe67b2-7058-4b34-a0d2-6235565b2d8d",
 			"name": "Gesture",
 			"reference": "B198",
 			"difficulty": "IQ/E",
@@ -3953,6 +4110,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "a75757b8-addc-4218-8345-fe9fe365bb1c",
 			"name": "Ground Fighting",
 			"reference": "B231,MA73",
 			"difficulty": "H",
@@ -3986,6 +4144,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "f5affbb4-db45-429c-ab2d-081a9bfe432e",
 			"name": "Ground Fighting",
 			"reference": "B231",
 			"difficulty": "H",
@@ -4005,6 +4164,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "f2dc78fb-4808-4bad-a294-363dce763653",
 			"name": "Ground Fighting",
 			"reference": "B231",
 			"difficulty": "H",
@@ -4024,6 +4184,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "fef0861e-e702-4970-818a-9b0a2236d12f",
 			"name": "Ground Fighting",
 			"reference": "B231",
 			"difficulty": "H",
@@ -4043,6 +4204,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "68e6ba6e-bfd1-43df-848f-2091165f2bc0",
 			"name": "Ground Fighting",
 			"reference": "B231",
 			"difficulty": "H",
@@ -4062,6 +4224,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "0b9464fa-e2a5-43d8-94bd-fc6411cb1561",
 			"name": "Ground Fighting",
 			"reference": "B231",
 			"difficulty": "H",
@@ -4081,6 +4244,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "7bf1f2e6-b0aa-42be-bd99-ba4501da06d5",
 			"name": "Group Performance",
 			"reference": "B198",
 			"specialization": "@Art@",
@@ -4149,6 +4313,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "3b2ce8b1-d814-4d67-96c4-dc95cc6734da",
 			"name": "Group Performance",
 			"reference": "B198",
 			"specialization": "Choreography",
@@ -4228,6 +4393,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "790795e9-ba78-40d6-a9f3-73e9581e4fe5",
 			"name": "Group Performance",
 			"reference": "B198",
 			"specialization": "Conducting",
@@ -4363,6 +4529,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "bab701ae-742d-48fb-814c-f6f86f3ed0b7",
 			"name": "Group Performance",
 			"reference": "B198",
 			"specialization": "Directing",
@@ -4442,6 +4609,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "357114f3-a551-4bf8-9996-9ea42ae0b069",
 			"name": "Group Performance",
 			"reference": "B198",
 			"specialization": "Fight Choreography",
@@ -4521,6 +4689,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "ede9e082-2ceb-44f4-8fc3-d1540b722cef",
 			"name": "Gunner",
 			"reference": "B198",
 			"specialization": "Cannon",
@@ -4546,6 +4715,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "c1fa6bba-dbc8-410d-bb92-bcd0163f7aad",
 			"name": "Gunner",
 			"reference": "B198",
 			"specialization": "Catapult",
@@ -4571,6 +4741,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "65edacbc-3c7f-4db0-b77f-ae66383b23b5",
 			"name": "Hazardous Materials",
 			"reference": "B199",
 			"specialization": "Biological",
@@ -4590,6 +4761,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "03beb8ce-a77a-4717-907b-ad748e6af5a9",
 			"name": "Hazardous Materials",
 			"reference": "B199",
 			"specialization": "Chemical",
@@ -4609,6 +4781,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "ff11e74b-083d-43d8-96dd-1db9f3be55eb",
 			"name": "Hazardous Materials",
 			"reference": "B199",
 			"specialization": "Magical",
@@ -4628,6 +4801,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "ae7eaaf7-7bc5-4044-a524-27217a309e63",
 			"name": "Heraldry",
 			"reference": "B199",
 			"difficulty": "IQ/A",
@@ -4652,6 +4826,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "a9b8edbb-e184-4e75-bd5f-0fc5d6ecdf5d",
 			"name": "Herb Lore",
 			"reference": "B199",
 			"tech_level": "",
@@ -4678,6 +4853,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "9840fd3c-caac-4435-9c7a-27eee470d391",
 			"name": "Hidden Lore",
 			"reference": "B199",
 			"specialization": "@Subject@",
@@ -4690,6 +4866,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "2cde51c7-e16b-45c0-b445-6515dd688c32",
 			"name": "Hidden Lore",
 			"reference": "B199",
 			"specialization": "Conspiracies",
@@ -4702,6 +4879,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "f4480728-edf1-4a59-87a9-40b93d2947f6",
 			"name": "Hidden Lore",
 			"reference": "B199",
 			"specialization": "Demon Lore",
@@ -4715,6 +4893,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "11c229f9-aa09-4068-9e11-5802b8b3ae51",
 			"name": "Hidden Lore",
 			"reference": "B199",
 			"specialization": "Earth",
@@ -4727,6 +4906,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "030507f9-c939-477f-9d30-a876d18d499a",
 			"name": "Hidden Lore",
 			"reference": "B199",
 			"specialization": "Faerie Lore",
@@ -4740,6 +4920,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "202a21b4-c58f-440b-a84b-a0f2472e7c89",
 			"name": "Hidden Lore",
 			"reference": "B199",
 			"specialization": "Spirit Lore",
@@ -4753,6 +4934,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "ff2a022e-ecaa-4502-8b19-3054c63feef3",
 			"name": "Hiking",
 			"reference": "B200",
 			"difficulty": "HT/A",
@@ -4771,6 +4953,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "d58a7e90-b5be-416d-819b-4169f89ff25f",
 			"name": "History",
 			"reference": "B200",
 			"specialization": "@Specialty@",
@@ -4789,6 +4972,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "7e5000a3-9459-46e3-98ba-d61e714fded9",
 			"name": "Hobby Skill",
 			"reference": "B200",
 			"specialization": "@Mental Hobby@",
@@ -4807,6 +4991,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "524a9c6f-6402-4f77-b8f8-bb840f7f3a90",
 			"name": "Hobby Skill",
 			"reference": "B200",
 			"specialization": "@Physical Hobby@",
@@ -4825,6 +5010,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "e6d1b6f9-7685-4fac-b0d7-9c4a547d462a",
 			"name": "Holdout",
 			"reference": "B200",
 			"difficulty": "IQ/A",
@@ -4848,6 +5034,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "a913189d-374a-4e03-9a46-9b3afaa22579",
 			"name": "Horse Archery",
 			"reference": "B231,MA74",
 			"difficulty": "H",
@@ -4882,6 +5069,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "c993ba51-f4b7-4d1b-bf30-5f0aaa6ceb31",
 			"name": "Housekeeping",
 			"reference": "B200",
 			"difficulty": "IQ/E",
@@ -4899,6 +5087,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "e3e4d4f2-42cf-404c-9c7d-8dd8ac8edaf4",
 			"name": "Hypnotism",
 			"reference": "B201",
 			"difficulty": "IQ/H",
@@ -4910,6 +5099,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "79b54cf3-6ab4-4a64-a1d9-6960525c6b6f",
 			"name": "Impersonate",
 			"reference": "B233",
 			"difficulty": "A",
@@ -4929,6 +5119,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "617edc38-f4e1-4d2a-b3af-5527c653de44",
 			"name": "Innate Attack",
 			"reference": "B201",
 			"specialization": "Beam",
@@ -4953,6 +5144,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "039d0211-f6e2-4858-8de3-eee54270f3cc",
 			"name": "Innate Attack",
 			"reference": "B201",
 			"specialization": "Breath",
@@ -4977,6 +5169,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "81eaeaf0-9bc7-49d5-a40f-370e794806c3",
 			"name": "Innate Attack",
 			"reference": "B201",
 			"specialization": "Gaze",
@@ -5001,6 +5194,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "d93bc369-739d-4075-ad08-78df7a27b7aa",
 			"name": "Innate Attack",
 			"reference": "B201",
 			"specialization": "Projectile",
@@ -5025,6 +5219,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5eda1555-f87a-47b1-9f36-451b52e5e95a",
 			"name": "Intelligence Analysis",
 			"reference": "B201",
 			"tech_level": "",
@@ -5050,6 +5245,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "a09ab94f-b4c7-4602-be3f-487bbbe7d44a",
 			"name": "Interrogation",
 			"reference": "B202",
 			"difficulty": "IQ/A",
@@ -5079,6 +5275,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "8bfc52d5-373f-4aa9-a833-ec5d8cbe328c",
 			"name": "Intimidation",
 			"reference": "B202",
 			"difficulty": "Will/A",
@@ -5103,6 +5300,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "47090eb2-5f78-4c6b-9eeb-511a55bf35a8",
 			"name": "Jeweler",
 			"reference": "B203",
 			"tech_level": "",
@@ -5133,6 +5331,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "2628c4ca-afa9-4975-86f1-2a5db27d27aa",
 			"name": "Jitte/Sai",
 			"reference": "B208",
 			"difficulty": "DX/A",
@@ -5166,6 +5365,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "8f6bd0ba-f36c-47d5-a673-29bb2db288e0",
 			"name": "Judo",
 			"reference": "B203",
 			"encumbrance_penalty_multiplier": 1,
@@ -5180,6 +5380,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "0d985d19-efc1-4200-b661-77c7db71ce3e",
 			"name": "Jump Kick",
 			"reference": "B231,MA75",
 			"difficulty": "H",
@@ -5199,6 +5400,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "ede02988-5b94-408c-a1f0-ede3d5c9dbef",
 			"name": "Jumping",
 			"reference": "B203",
 			"difficulty": "DX/E",
@@ -5210,6 +5412,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "80645729-f006-48ae-9c55-3cd345fdfd77",
 			"name": "Karate",
 			"reference": "B203",
 			"encumbrance_penalty_multiplier": 1,
@@ -5253,6 +5456,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "2b34bf9d-0796-4be6-84fd-6b1c38c3e706",
 			"name": "Kicking",
 			"reference": "B231,MA75",
 			"difficulty": "H",
@@ -5272,6 +5476,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "bce42f51-52b8-4358-aba0-d57aeed9faa9",
 			"name": "Kicking",
 			"reference": "B231,MA75",
 			"difficulty": "H",
@@ -5291,6 +5496,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "16116851-2c98-43c5-82bb-00d62910deb2",
 			"name": "Knee Strike",
 			"reference": "B232,MA76",
 			"difficulty": "A",
@@ -5310,6 +5516,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "b84495fe-b41d-4bba-a00c-d21cd2b42738",
 			"name": "Knee Strike",
 			"reference": "B232",
 			"difficulty": "A",
@@ -5329,6 +5536,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "8ec28bed-b134-4bfa-90bb-2825ad18f107",
 			"name": "Knife",
 			"reference": "B208",
 			"difficulty": "DX/E",
@@ -5362,6 +5570,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "eb055c43-7c3b-4abb-8dcd-3bd3c2f32355",
 			"name": "Knot-Tying",
 			"reference": "B203",
 			"difficulty": "DX/E",
@@ -5389,6 +5598,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "17493c59-e57d-403d-81f1-e150b9a0a048",
 			"name": "Kusari",
 			"reference": "B209",
 			"difficulty": "DX/H",
@@ -5427,6 +5637,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "4513aada-25ce-4b60-a8f6-60e538e5b0cc",
 			"name": "Lance",
 			"reference": "B204",
 			"difficulty": "DX/A",
@@ -5464,6 +5675,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "881462db-555a-4699-81cd-3e36297d3ab9",
 			"name": "Lasso",
 			"reference": "B204",
 			"difficulty": "DX/A",
@@ -5476,6 +5688,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "2336d34c-aa35-46a4-aae0-8859991f6c4c",
 			"name": "Law",
 			"reference": "B204",
 			"specialization": "@Specialty@",
@@ -5496,6 +5709,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "fb545f60-86cd-455a-8bc2-167a52260390",
 			"name": "Leadership",
 			"reference": "B204",
 			"difficulty": "IQ/A",
@@ -5514,6 +5728,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "b090fbb9-172f-4f2d-b5ba-a9235e96e1a1",
 			"name": "Leatherworking",
 			"reference": "B205",
 			"difficulty": "DX/E",
@@ -5531,6 +5746,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "d3834f3d-f2ee-4b42-9348-c82d9d4ab974",
 			"name": "Lifesaving",
 			"reference": "B233",
 			"difficulty": "H",
@@ -5550,6 +5766,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "4c9a84b7-4282-40fa-a755-cc1e0292b6f2",
 			"name": "Lifting",
 			"reference": "B205",
 			"difficulty": "HT/A",
@@ -5561,6 +5778,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "011c023e-ab72-4c6a-b838-b268055bce77",
 			"name": "Linguistics",
 			"reference": "B205",
 			"difficulty": "IQ/H",
@@ -5572,6 +5790,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "d8b5c865-1e10-45ec-b431-d898eb90bb42",
 			"name": "Lip Reading",
 			"reference": "B205",
 			"difficulty": "Per/A",
@@ -5589,6 +5808,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "ea35d120-45d6-4464-89d4-57e5759df7d5",
 			"name": "Literature",
 			"reference": "B205",
 			"difficulty": "IQ/H",
@@ -5607,6 +5827,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "38d5014a-4764-4ba8-bcc0-3b40b36cc8f7",
 			"name": "Lockpicking",
 			"reference": "B206",
 			"tech_level": "",
@@ -5628,6 +5849,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "11dd05a1-e5b9-4c85-93a9-216d1d4d5116",
 			"name": "Machinist",
 			"reference": "B206",
 			"tech_level": "",
@@ -5651,6 +5873,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "dc160293-a05c-4245-a453-6455bb136997",
 			"name": "Main-Gauche",
 			"reference": "B208",
 			"difficulty": "DX/A",
@@ -5694,6 +5917,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "40ea9a70-add5-4131-8d66-bff4e21a6097",
 			"name": "Makeup",
 			"reference": "B206",
 			"tech_level": "",
@@ -5717,6 +5941,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "43af2465-4399-4088-9f5c-1217b93d5229",
 			"name": "Masonry",
 			"reference": "B207",
 			"difficulty": "IQ/E",
@@ -5734,6 +5959,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "e2618983-dbb9-40c6-87c0-d884db8ea741",
 			"name": "Mechanic",
 			"reference": "B107",
 			"specialization": "Clockwork",
@@ -5769,6 +5995,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "8099054b-0ce1-43cc-8b85-5f766597c0a8",
 			"name": "Mechanic",
 			"reference": "B207",
 			"specialization": "Construction Equipment",
@@ -5804,6 +6031,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "05238526-92d7-47d5-b238-afc8f43cd87d",
 			"name": "Mechanic",
 			"reference": "B207",
 			"specialization": "Glider",
@@ -5839,6 +6067,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "784a32c9-f307-45b4-95bb-636aa2dc05aa",
 			"name": "Meditation",
 			"reference": "B207",
 			"difficulty": "Will/H",
@@ -5861,6 +6090,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "11335a59-d8d8-4d36-9315-d8a893107fa6",
 			"name": "Merchant",
 			"reference": "B209",
 			"difficulty": "IQ/A",
@@ -5889,6 +6119,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "35f7aedd-4715-4d3e-bd04-e5cec30d912f",
 			"name": "Metallurgy",
 			"reference": "B209",
 			"tech_level": "",
@@ -5918,6 +6149,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5fef816a-b3c9-4b76-a44e-934ff9cde3c1",
 			"name": "Mimicry",
 			"reference": "B210",
 			"specialization": "Animal Sounds",
@@ -5949,6 +6181,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "fddce9c3-6517-4fab-958c-3027aa1bdbe6",
 			"name": "Mimicry",
 			"reference": "B210",
 			"specialization": "Bird Calls",
@@ -5980,6 +6213,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "addbe98c-2302-4c5b-aeaa-a1cc35f5fe9b",
 			"name": "Mimicry",
 			"reference": "B210",
 			"specialization": "Speech",
@@ -5992,6 +6226,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "deca235c-5dfc-47d8-9368-5e677d44745a",
 			"name": "Mind Block",
 			"reference": "B210",
 			"difficulty": "Will/A",
@@ -6014,6 +6249,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "62f06358-3961-4b34-90ed-7d653338ee1d",
 			"name": "Musical Composition",
 			"reference": "B210",
 			"difficulty": "IQ/H",
@@ -6037,6 +6273,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "70cb795b-7bc9-42b0-b803-8fea3d51e25d",
 			"name": "Musical Influence",
 			"reference": "B210",
 			"difficulty": "IQ/VH",
@@ -6096,6 +6333,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "76ae7855-a335-4085-93f0-46dcfc06b231",
 			"name": "Musical Instrument",
 			"reference": "B211",
 			"specialization": "@Specialty@",
@@ -6108,6 +6346,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5be21ee3-f472-41fc-ad9f-d68a1813776d",
 			"name": "Naturalist",
 			"reference": "B211",
 			"difficulty": "IQ/H",
@@ -6133,6 +6372,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5db1c2f9-fb9a-4055-85b0-decca9688d20",
 			"name": "Navigation",
 			"reference": "B211",
 			"specialization": "Air",
@@ -6167,6 +6407,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "2ed3d160-5368-43b1-a870-900322356a3b",
 			"name": "Navigation",
 			"reference": "B211",
 			"specialization": "Land",
@@ -6211,6 +6452,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "d2f2509e-406e-4cb7-b056-5c0e78ffd6e9",
 			"name": "Navigation",
 			"reference": "B211",
 			"specialization": "Sea",
@@ -6250,6 +6492,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "d9d225bd-110b-4695-95c5-d8c86c9a0ae4",
 			"name": "Neck Snap",
 			"reference": "B232,MA77",
 			"difficulty": "H",
@@ -6268,6 +6511,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "56bbcf07-fb80-401f-bd49-3e21acbbe2aa",
 			"name": "Net",
 			"reference": "B211",
 			"difficulty": "DX/H",
@@ -6287,6 +6531,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "df90ff84-05d4-4dbf-b75f-446b993f0f46",
 			"name": "Observation",
 			"reference": "B211",
 			"difficulty": "Per/A",
@@ -6312,6 +6557,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "e4dfc22d-f29b-444d-9412-7474984becd8",
 			"name": "Occultism",
 			"reference": "B212",
 			"difficulty": "IQ/A",
@@ -6329,6 +6575,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "14f89df6-16a4-4f36-942b-f33245d5962c",
 			"name": "Off-Hand Weapon Training",
 			"reference": "B232",
 			"difficulty": "H",
@@ -6348,6 +6595,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "136b3e62-d63b-40eb-92c3-9ad5517d8043",
 			"name": "Off-Hand Weapon Training",
 			"reference": "B232",
 			"difficulty": "H",
@@ -6367,6 +6615,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "338e2a93-909e-4219-996d-7f07da8a53a8",
 			"name": "Off-Hand Weapon Training",
 			"reference": "B232",
 			"difficulty": "H",
@@ -6386,6 +6635,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "e67890ca-942b-4d4b-be2e-961778af63a4",
 			"name": "Packing",
 			"reference": "B212",
 			"difficulty": "IQ/A",
@@ -6409,6 +6659,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "8142c9ab-8d86-4d41-b0b1-4a973171f3ec",
 			"name": "Panhandling",
 			"reference": "B212",
 			"difficulty": "IQ/E",
@@ -6437,6 +6688,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "40b27787-d17d-47d7-9842-074487aa5f81",
 			"name": "Parry Missile-Weapons",
 			"reference": "B212",
 			"difficulty": "DX/H",
@@ -6449,6 +6701,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "09224e4e-2cc7-46e2-a775-b8425274b387",
 			"name": "Performance",
 			"reference": "B212",
 			"difficulty": "IQ/A",
@@ -6476,6 +6729,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "b0098f56-ea34-410e-a255-cb1490ad734d",
 			"name": "Persuade",
 			"reference": "B191",
 			"difficulty": "Will/H",
@@ -6520,6 +6774,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "0714abbd-d915-49ae-9362-c92a04709eea",
 			"name": "Pharmacy",
 			"reference": "B213",
 			"specialization": "Herbal",
@@ -6570,6 +6825,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "66531855-aca1-4736-a25a-162c9c22f388",
 			"name": "Physiology",
 			"reference": "B213",
 			"specialization": "@Specialty@",
@@ -6605,6 +6861,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "fb649f52-ab21-4083-88df-7c38896c5e2b",
 			"name": "Pickpocket",
 			"reference": "B213",
 			"difficulty": "DX/H",
@@ -6632,6 +6889,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "0e17b622-f663-4c85-a5fc-780896436d32",
 			"name": "Piloting",
 			"reference": "B214",
 			"specialization": "Glider",
@@ -6668,6 +6926,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5fed6d89-6277-4593-8c86-b3993f47dc47",
 			"name": "Poetry",
 			"reference": "B214",
 			"difficulty": "IQ/A",
@@ -6690,6 +6949,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "4951a4b7-cc6c-46d4-9f3b-12d250b92fff",
 			"name": "Poisons",
 			"reference": "B214",
 			"tech_level": "",
@@ -6725,6 +6985,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "98c22aa3-e322-4c98-b83a-b6cd2241cd8c",
 			"name": "Polearm",
 			"reference": "B208",
 			"difficulty": "DX/A",
@@ -6758,6 +7019,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "1e6edaae-a277-486c-a2c0-2fffc4a752ca",
 			"name": "Politics",
 			"reference": "B215",
 			"difficulty": "IQ/A",
@@ -6781,6 +7043,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "be6d68e6-ee8c-4a25-9d3d-fba774c66960",
 			"name": "Professional Skill",
 			"reference": "B215",
 			"specialization": "@Mental Skill@",
@@ -6799,6 +7062,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "b60e86a8-439c-44b6-b8ee-1c83d4ed7359",
 			"name": "Professional Skill",
 			"reference": "B215",
 			"specialization": "@Physical Skill@",
@@ -6817,6 +7081,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "7538c8e6-7fe2-43c5-9f1b-0a467f62a824",
 			"name": "Propaganda",
 			"reference": "B216",
 			"tech_level": "",
@@ -6848,6 +7113,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "e1dca59d-d4e5-4ed0-a9d6-8005d6f3fa0b",
 			"name": "Prospecting",
 			"reference": "B216",
 			"tech_level": "",
@@ -6871,6 +7137,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "cf12a01c-8471-4424-a415-ec34fc3e71f9",
 			"name": "Public Speaking",
 			"reference": "B216",
 			"difficulty": "IQ/A",
@@ -6905,6 +7172,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "2f6ff7eb-2511-4a67-bb6f-2ad65bbabe89",
 			"name": "Rapier",
 			"reference": "B208",
 			"difficulty": "DX/A",
@@ -6943,6 +7211,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "c10114da-ccf9-4b36-8783-874df379f238",
 			"name": "Religious Ritual",
 			"reference": "B217",
 			"specialization": "@Specialty@",
@@ -6969,6 +7238,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "1c217e8a-6a28-4df2-aefd-57859b386edc",
 			"name": "Research",
 			"reference": "B217",
 			"tech_level": "",
@@ -7063,6 +7333,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "5d9c5cfe-fecd-4b44-a83f-9a96cb25ee6d",
 			"name": "Retain Weapon",
 			"reference": "B232,MA78",
 			"difficulty": "H",
@@ -7081,6 +7352,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "a8b7a31c-ac55-4102-b3db-bdf7a92d4a8e",
 			"name": "Retain Weapon (@Ranged Weapon@)",
 			"reference": "B232,MA78",
 			"difficulty": "H",
@@ -7098,6 +7370,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "092b9100-2161-4ef0-8822-7edf88aa3d94",
 			"name": "Retain Weapon",
 			"reference": "B232",
 			"difficulty": "H",
@@ -7116,6 +7389,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "a7af0d3f-88cc-4c8f-8bd8-a528a2723dee",
 			"name": "Retain Weapon",
 			"reference": "B232",
 			"difficulty": "H",
@@ -7134,6 +7408,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "7184e82b-3c44-4aca-974b-bd7f4cb5f7bc",
 			"name": "Retain Weapon",
 			"reference": "B232",
 			"difficulty": "H",
@@ -7152,6 +7427,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "9f79136f-f87f-4912-a7de-c2af75bc9369",
 			"name": "Riding",
 			"reference": "B217",
 			"specialization": "@Specialty@",
@@ -7176,6 +7452,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "f4a185ab-40ae-4571-99b4-dc7feb520db3",
 			"name": "Riding",
 			"reference": "B217",
 			"specialization": "Camel",
@@ -7200,6 +7477,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "609e5dbf-48b1-426f-821c-f32d2807f9f3",
 			"name": "Riding",
 			"reference": "B217",
 			"specialization": "Equine",
@@ -7224,6 +7502,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "4c03d236-c95a-47ed-9a77-010271577356",
 			"name": "Ritual Magic",
 			"reference": "B218",
 			"specialization": "@Specialty@",
@@ -7243,6 +7522,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "0ce43da1-1216-41ac-b6cd-60a742911630",
 			"name": "Rope Up",
 			"reference": "B233",
 			"difficulty": "A",
@@ -7263,6 +7543,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "ba57b3d2-3532-4c6c-9ebd-7c7185af6931",
 			"name": "Running",
 			"reference": "B218",
 			"difficulty": "HT/A",
@@ -7280,6 +7561,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "ba38eead-cf58-42d4-8bd8-7b14f34c2140",
 			"name": "Saber",
 			"reference": "B208",
 			"difficulty": "DX/A",
@@ -7323,6 +7605,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "133cbeff-d151-493c-b52a-85be75a4949e",
 			"name": "Savoir-Faire",
 			"reference": "B218",
 			"specialization": "@Social group@",
@@ -7347,6 +7630,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "4382a60c-b1da-42a1-b214-d17d5376dc12",
 			"name": "Savoir-Faire",
 			"reference": "B218",
 			"specialization": "Dojo",
@@ -7371,6 +7655,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "6f486b1f-6e21-47d0-a31f-a9535bae85ce",
 			"name": "Savoir-Faire",
 			"reference": "B218",
 			"specialization": "High Society",
@@ -7397,6 +7682,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "60b63ed0-0984-48ef-9ef0-5fc2695716a6",
 			"name": "Savoir-Faire",
 			"reference": "B218",
 			"specialization": "Mafia",
@@ -7422,6 +7708,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "a9d6ab2f-248a-49af-bf2a-81747e25f168",
 			"name": "Savoir-Faire",
 			"reference": "B218",
 			"specialization": "Military",
@@ -7442,6 +7729,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "99f74472-0268-4e51-ba6c-4fa2d8a88ae9",
 			"name": "Savoir-Faire",
 			"reference": "B218",
 			"specialization": "Police",
@@ -7462,6 +7750,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5103d70b-f5bb-4142-924d-788c2694a185",
 			"name": "Savoir-Faire",
 			"reference": "B218",
 			"specialization": "Servant",
@@ -7488,6 +7777,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "f24dfc0c-cb2d-4b66-adeb-7284e7aea810",
 			"name": "Scaling",
 			"reference": "B233",
 			"difficulty": "H",
@@ -7508,6 +7798,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "cb69246e-9bf8-47b1-b27f-116d24657a22",
 			"name": "Scrounging",
 			"reference": "B218",
 			"difficulty": "Per/E",
@@ -7525,6 +7816,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "1392a3c5-a7e6-4112-846e-afbcbbb79a29",
 			"name": "Seamanship",
 			"reference": "B185",
 			"tech_level": "",
@@ -7543,6 +7835,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "fc29b920-bec6-4ca5-8f46-cb920a18d6a3",
 			"name": "Search",
 			"reference": "B219",
 			"difficulty": "Per/A",
@@ -7566,6 +7859,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "1c64def6-58b3-472d-8017-1ec1bc0ca072",
 			"name": "Sewing",
 			"reference": "B219",
 			"tech_level": "",
@@ -7585,6 +7879,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "63ad2795-ad89-4230-9ee8-d47bacca78b7",
 			"name": "Sex Appeal",
 			"reference": "B219",
 			"difficulty": "HT/A",
@@ -7602,6 +7897,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "62e50d63-d0e1-4f0b-b4a9-bfa85243cc8a",
 			"name": "Shadowing",
 			"reference": "B219",
 			"difficulty": "IQ/A",
@@ -7631,6 +7927,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "ca65b44e-f8d0-491b-bb4c-3c9ea0db55f4",
 			"name": "Shield",
 			"reference": "B220",
 			"specialization": "Buckler",
@@ -7656,6 +7953,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "74393fef-4773-4f51-85fb-28d3a6762b11",
 			"name": "Shield",
 			"reference": "B220",
 			"specialization": "Shield",
@@ -7675,6 +7973,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "1f8edc41-8640-4819-b451-41bcb60ad784",
 			"name": "Shiphandling",
 			"reference": "B220",
 			"specialization": "Ship",
@@ -7751,6 +8050,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "ab1f8251-5596-4386-a003-379ed0b53e3d",
 			"name": "Shortsword",
 			"reference": "B209",
 			"difficulty": "DX/A",
@@ -7804,6 +8104,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "fe72682c-2fe6-4738-8791-ebfe833f0128",
 			"name": "Singing",
 			"reference": "B220",
 			"difficulty": "HT/E",
@@ -7821,6 +8122,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "f5a122b3-87cc-42fc-8ee6-16594d5816b3",
 			"name": "Skating",
 			"reference": "B220",
 			"difficulty": "HT/H",
@@ -7838,6 +8140,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "0949a2e5-e479-4ce5-899a-d5b8a301b1c2",
 			"name": "Skiing",
 			"reference": "B221",
 			"difficulty": "HT/H",
@@ -7856,6 +8159,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "19742378-1e06-4242-829b-f53ea5b99f05",
 			"name": "Sleight of Hand",
 			"reference": "B221",
 			"difficulty": "DX/H",
@@ -7875,6 +8179,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "c467a47f-cc00-4e6c-8045-a14118cfabc0",
 			"name": "Sling",
 			"reference": "B221",
 			"difficulty": "DX/H",
@@ -7893,6 +8198,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "536ded0e-82c4-4a73-9455-4ad4d3b32f7d",
 			"name": "Slip Handcuffs",
 			"reference": "B233",
 			"difficulty": "H",
@@ -7911,6 +8217,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "cbf5f689-fb61-4442-bf2b-2bc6610f2764",
 			"name": "Smallsword",
 			"reference": "B208",
 			"difficulty": "DX/A",
@@ -7949,6 +8256,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "52879200-5d54-4629-96b0-3a0a66385606",
 			"name": "Smith",
 			"reference": "B221",
 			"specialization": "Copper",
@@ -7978,6 +8286,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "b58ab474-07cf-46f2-affe-1049f99caafb",
 			"name": "Smith",
 			"reference": "B221",
 			"specialization": "Iron",
@@ -8002,6 +8311,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "c5521209-56ff-431c-9140-cfbbdc737b2f",
 			"name": "Smith",
 			"reference": "B221",
 			"specialization": "Lead & Tin",
@@ -8031,6 +8341,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "1d535f1e-ec68-4f6c-a841-c8301b902c10",
 			"name": "Smuggling",
 			"reference": "B221",
 			"difficulty": "IQ/A",
@@ -8049,6 +8360,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "420d844e-669f-4e6d-8fc2-8e7fbce1507b",
 			"name": "Soldier",
 			"reference": "B221",
 			"tech_level": "",
@@ -8067,6 +8379,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "7f72d5a2-d0e2-437f-90d8-4fc5341caaef",
 			"name": "Spear",
 			"reference": "B208",
 			"difficulty": "DX/A",
@@ -8095,6 +8408,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "b2aa4893-0d1d-47df-997e-0373494b7197",
 			"name": "Spear Thrower",
 			"reference": "B222",
 			"difficulty": "DX/A",
@@ -8119,6 +8433,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "2c1745d1-8beb-4989-8a5b-5e7c05013bb1",
 			"name": "Speed-Reading",
 			"reference": "B222",
 			"difficulty": "IQ/A",
@@ -8130,6 +8445,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "597a8581-0d0d-4f6b-b5a3-5b35f22a4fd2",
 			"name": "Sports",
 			"reference": "B222",
 			"specialization": "@Speciality@",
@@ -8148,6 +8464,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "362ef33b-d9fa-4495-94e3-c659b4ead170",
 			"name": "Staff",
 			"reference": "B208",
 			"difficulty": "DX/A",
@@ -8176,6 +8493,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "46b16c7c-1758-4766-aee4-1379844ce0b5",
 			"name": "Stage Combat",
 			"reference": "B222",
 			"difficulty": "DX/A",
@@ -8194,6 +8512,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "ca168e10-9a95-4098-b15d-69b4881a5378",
 			"name": "Stealth",
 			"reference": "B222",
 			"encumbrance_penalty_multiplier": 1,
@@ -8218,6 +8537,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "6918c66f-8e48-4ca0-ae9a-efd998c51f5c",
 			"name": "Strategy",
 			"reference": "B222",
 			"specialization": "Land",
@@ -8251,6 +8571,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "94b510ee-d6e0-4a0e-ac85-fbe612f317b5",
 			"name": "Strategy",
 			"reference": "B222",
 			"specialization": "Naval",
@@ -8284,6 +8605,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "c61102a9-ab4e-443c-a690-3ea1b495dd03",
 			"name": "Streetwise",
 			"reference": "B223",
 			"difficulty": "IQ/A",
@@ -8303,6 +8625,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "4ab512e8-aa71-483f-995d-5b0c946f0eef",
 			"name": "Suggest",
 			"reference": "B191",
 			"difficulty": "Will/H",
@@ -8362,6 +8685,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "d5d7c288-d51a-47e9-836d-9fdd40b7438d",
 			"name": "Sumo Wrestling",
 			"reference": "B223",
 			"difficulty": "DX/A",
@@ -8374,6 +8698,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "44d4d41f-d347-4723-bcac-4b06ae09fb2c",
 			"name": "Surgery",
 			"reference": "B223",
 			"tech_level": "",
@@ -8436,6 +8761,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5658b7bd-5a80-459e-b7ce-ddea80f7bdd8",
 			"name": "Survival",
 			"reference": "B223",
 			"specialization": "Arctic",
@@ -8501,6 +8827,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "4c842826-6d74-40f8-92e0-deebd3f72069",
 			"name": "Survival",
 			"reference": "B223",
 			"specialization": "Bank",
@@ -8566,6 +8893,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "b10edb95-ab21-4b02-8eba-186fa0da2d88",
 			"name": "Survival",
 			"reference": "B223",
 			"specialization": "Deep Ocean Vent",
@@ -8631,6 +8959,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "2584e473-d10b-4cec-9dcc-7f526315d5a1",
 			"name": "Survival",
 			"reference": "B223",
 			"specialization": "Desert",
@@ -8696,6 +9025,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "929bd1f7-ef1f-40fe-aaf8-1f57d64d27d6",
 			"name": "Survival",
 			"reference": "B223",
 			"specialization": "Fresh-Water Lake",
@@ -8761,6 +9091,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "b9e663d6-68d5-4b70-832d-f9aad365426a",
 			"name": "Survival",
 			"reference": "B223",
 			"specialization": "Island/Beach",
@@ -8832,6 +9163,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "1078e1c1-21ac-4ecc-b797-3e29f5498251",
 			"name": "Survival",
 			"reference": "B223",
 			"specialization": "Jungle",
@@ -8897,6 +9229,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "074af211-09fd-44e0-93bf-14a7410c2d83",
 			"name": "Survival",
 			"reference": "B223",
 			"specialization": "Mountain",
@@ -8962,6 +9295,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "d5a8602f-9077-44a8-90ee-e27f4a40d9f3",
 			"name": "Survival",
 			"reference": "B223",
 			"specialization": "Open Ocean",
@@ -9027,6 +9361,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "1fa01019-feeb-4c75-bc7d-5ccb79547043",
 			"name": "Survival",
 			"reference": "B223",
 			"specialization": "Plains",
@@ -9092,6 +9427,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "e9adc6e4-59f1-4e5f-81d5-6a3bd2a72909",
 			"name": "Survival",
 			"reference": "B223",
 			"specialization": "Reef",
@@ -9157,6 +9493,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "e10727f1-3ed6-4789-bc42-71eebee879ff",
 			"name": "Survival",
 			"reference": "B223",
 			"specialization": "River/Stream",
@@ -9228,6 +9565,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "2bb368a5-554a-49c1-ab00-ba11cddb642f",
 			"name": "Survival",
 			"reference": "B223",
 			"specialization": "Salt-Water Sea",
@@ -9293,6 +9631,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "9f648759-c07c-4971-8e62-63ff004a9f21",
 			"name": "Survival",
 			"reference": "B223",
 			"specialization": "Swampland",
@@ -9364,6 +9703,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "4abddb31-f157-4724-bd91-3cac3f62d83c",
 			"name": "Survival",
 			"reference": "B223",
 			"specialization": "Tropical Lagoon",
@@ -9435,6 +9775,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "481d7e74-cfcf-4873-b563-d16aaee84e5e",
 			"name": "Survival",
 			"reference": "B223",
 			"specialization": "Woodlands",
@@ -9500,6 +9841,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "353b9732-9a99-4cab-9010-906b8d9b428f",
 			"name": "Sway Emotions",
 			"reference": "B192",
 			"difficulty": "Will/H",
@@ -9511,6 +9853,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "c707ab28-b362-4683-a4d5-ec825f24e78e",
 			"name": "Sweep",
 			"reference": "B232,MA81",
 			"difficulty": "H",
@@ -9530,6 +9873,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "14d8dac5-fa22-4b47-beee-6358d3754a7f",
 			"name": "Sweep",
 			"reference": "B232,MA81",
 			"difficulty": "H",
@@ -9549,6 +9893,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "87a4dc7e-ac8f-4597-b54e-298ce4b86c83",
 			"name": "Sweep",
 			"reference": "B232,MA81",
 			"difficulty": "H",
@@ -9568,6 +9913,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "42e3bbc1-c098-4873-b5c5-2ec57e8c034b",
 			"name": "Sweep",
 			"reference": "B232,MA81",
 			"difficulty": "H",
@@ -9587,6 +9933,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "4048e5b7-732a-4947-b07e-ff85488f62b3",
 			"name": "Sweeping Kick",
 			"reference": "B232,MA81",
 			"difficulty": "H",
@@ -9606,6 +9953,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "e31bb2bc-d950-46ce-84b2-c661b491741c",
 			"name": "Sweeping Kick",
 			"reference": "B232,MA81",
 			"difficulty": "H",
@@ -9625,6 +9973,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "0ce67aeb-c530-47ad-8b26-1e2eb85dbd5e",
 			"name": "Sweeping Kick",
 			"reference": "B232,MA81",
 			"difficulty": "H",
@@ -9644,6 +9993,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "01d0c805-8534-4cba-9ecc-4c2646d866b2",
 			"name": "Sweeping Kick",
 			"reference": "B232,MA81",
 			"difficulty": "H",
@@ -9663,6 +10013,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "7d524fcb-57db-4b34-83a4-5f78b62f7d5b",
 			"name": "Swimming",
 			"reference": "B224",
 			"encumbrance_penalty_multiplier": 2,
@@ -9682,6 +10033,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "157309b3-626b-4cd3-b84e-7a90d91c12de",
 			"name": "Symbol Drawing",
 			"reference": "B224",
 			"specialization": "@Specialty@",
@@ -9694,6 +10046,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "4d16e340-b9bb-4314-a4cc-8685aaa671c9",
 			"name": "Tactics",
 			"reference": "B224",
 			"difficulty": "IQ/H",
@@ -9717,6 +10070,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "998eaec9-a047-4d98-bd63-f5d5fade275f",
 			"name": "Teaching",
 			"reference": "B224",
 			"difficulty": "IQ/A",
@@ -9735,6 +10089,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "541179e7-ba3d-4130-9ed0-e47510edd10e",
 			"name": "Teamster",
 			"reference": "B225",
 			"specialization": "@Specialty@",
@@ -9771,6 +10126,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "465dbf04-8652-4657-bde1-9e997a83fa90",
 			"name": "Teamster",
 			"reference": "B225",
 			"specialization": "Equines",
@@ -9802,6 +10158,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "74aa3917-2442-4664-82c0-2a94d5a44844",
 			"name": "Thaumatology",
 			"reference": "B225",
 			"difficulty": "IQ/VH",
@@ -9819,6 +10176,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "f7afedb4-2f4f-434c-8378-a2ad4cf5637e",
 			"name": "Theology",
 			"reference": "B226",
 			"specialization": "@Specialty@",
@@ -9843,6 +10201,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "9c8a4599-18fd-4ef9-aa7a-caff550c7902",
 			"name": "Throwing",
 			"reference": "B226",
 			"difficulty": "DX/A",
@@ -9868,6 +10227,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "462236bd-8851-4502-8bbb-088a12a5176b",
 			"name": "Thrown Weapon",
 			"reference": "B226",
 			"specialization": "Axe/Mace",
@@ -9887,6 +10247,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5d27e545-ac34-422e-a03a-5c070483e94f",
 			"name": "Thrown Weapon",
 			"reference": "B226",
 			"specialization": "Dart",
@@ -9911,6 +10272,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5c43cda1-0b20-47a1-8e34-d7b2b3cbb613",
 			"name": "Thrown Weapon",
 			"reference": "B226",
 			"specialization": "Harpoon",
@@ -9936,6 +10298,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "4e5e345b-3892-44ad-947f-a24bc6f33831",
 			"name": "Thrown Weapon",
 			"reference": "B226",
 			"specialization": "Knife",
@@ -9955,6 +10318,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "caccbc9d-1a10-4386-850a-767d358b9f3b",
 			"name": "Thrown Weapon",
 			"reference": "B226",
 			"specialization": "Shuriken",
@@ -9979,6 +10343,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "fb62b24d-d4ca-4806-9d9b-3e17832c13ea",
 			"name": "Thrown Weapon",
 			"reference": "B226",
 			"specialization": "Spear",
@@ -10009,6 +10374,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "a7995648-ec20-4880-b034-33ae075bf04e",
 			"name": "Thrown Weapon",
 			"reference": "B226",
 			"specialization": "Stick",
@@ -10028,6 +10394,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "bab39b31-4562-43fd-8d31-baf6641114c1",
 			"name": "Tonfa",
 			"reference": "B209",
 			"difficulty": "DX/A",
@@ -10051,6 +10418,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "e6111354-4fa8-4edc-af72-493faae080c4",
 			"name": "Tracking",
 			"reference": "B226",
 			"difficulty": "Per/A",
@@ -10073,6 +10441,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "efca1c65-0e8c-4b01-a63e-c7f4f26a7202",
 			"name": "Traps",
 			"reference": "B226",
 			"tech_level": "",
@@ -10097,6 +10466,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "dd8db9e2-35f7-45e4-8e99-d24771fcab38",
 			"name": "Two-Handed Axe/Mace",
 			"reference": "B208",
 			"difficulty": "DX/A",
@@ -10130,6 +10500,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "091498a7-4f4a-490b-be9c-24b0b0f432d9",
 			"name": "Two-Handed Flail",
 			"reference": "B208",
 			"difficulty": "DX/H",
@@ -10163,6 +10534,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "d203887b-382d-4864-8f0e-3acf44f82670",
 			"name": "Two-Handed Sword",
 			"reference": "B209",
 			"difficulty": "DX/A",
@@ -10191,6 +10563,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "66246e80-dcdb-4161-aba7-490b8bc3ea48",
 			"name": "Urban Survival",
 			"reference": "B228",
 			"difficulty": "Per/A",
@@ -10209,6 +10582,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "2ed1011c-3ef3-499a-896c-026a9f5ba584",
 			"name": "Ventriloquism",
 			"reference": "B228",
 			"difficulty": "IQ/H",
@@ -10220,6 +10594,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "5a6171ce-f61a-461b-a08c-b68b1c26e3be",
 			"name": "Veterinary",
 			"reference": "B228",
 			"tech_level": "",
@@ -10250,6 +10625,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "1d05dc27-8196-46f7-9438-6dd08dc9a380",
 			"name": "Weather Sense",
 			"reference": "B209",
 			"tech_level": "",
@@ -10269,6 +10645,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "1d09d3b3-e2eb-4a1f-94a6-c50f6dca5c24",
 			"name": "Whip",
 			"reference": "B209",
 			"difficulty": "DX/A",
@@ -10302,6 +10679,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "417d189e-64e7-4bf7-9808-f856b7230501",
 			"name": "Whirlwind Attack",
 			"reference": "B232,MA89",
 			"difficulty": "H",
@@ -10321,6 +10699,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "de35d4a6-4522-45ba-ba91-d3c91ae5687d",
 			"name": "Whirlwind Attack",
 			"reference": "B232,MA89",
 			"difficulty": "H",
@@ -10340,6 +10719,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "f74e547a-2386-40e4-995d-9144ae68357d",
 			"name": "Whirlwind Attack",
 			"reference": "B232,MA89",
 			"difficulty": "H",
@@ -10359,6 +10739,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "5afe17a2-fdbe-49bf-8d63-a8add5edb46a",
 			"name": "Whirlwind Attack",
 			"reference": "B232,MA89",
 			"difficulty": "H",
@@ -10378,6 +10759,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "a3dbe208-69fa-4615-88a2-536d4a106aff",
 			"name": "Whirlwind Attack",
 			"reference": "B232,MA89",
 			"difficulty": "H",
@@ -10397,6 +10779,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "0a9c44de-f3e8-46c0-812f-f6e5689fb1a1",
 			"name": "Whirlwind Attack",
 			"reference": "B232,MA89",
 			"difficulty": "H",
@@ -10416,6 +10799,7 @@
 		{
 			"type": "technique",
 			"version": 1,
+			"id": "6dea0dbc-bacf-4c7c-93e3-457ee7d53322",
 			"name": "Work by Touch",
 			"reference": "B233",
 			"difficulty": "H",
@@ -10434,6 +10818,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "99357699-a1cb-437f-86ec-49488738f0ad",
 			"name": "Wrestling",
 			"reference": "B228",
 			"difficulty": "DX/A",
@@ -10446,6 +10831,7 @@
 		{
 			"type": "skill",
 			"version": 1,
+			"id": "56cf12f4-eafd-40e5-acd1-d619478754a0",
 			"name": "Writing",
 			"reference": "B228",
 			"difficulty": "IQ/A",

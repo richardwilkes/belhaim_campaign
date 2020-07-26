@@ -6,6 +6,7 @@
 		{
 			"type": "eqp_modifier_container",
 			"version": 1,
+			"id": "31e4fb4a-8b6f-4559-a87d-330e1852670f",
 			"disabled": true,
 			"name": "Armor",
 			"open": true,
@@ -13,6 +14,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "8fc35fd9-db52-4bbf-8aa5-12361ed9c449",
 					"name": "Dragonhide",
 					"reference": "DR1:27",
 					"cost_type": "to_base_cost",
@@ -24,6 +26,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "5e2d9ea2-57d9-4d5c-8a48-ca4b5aab2fab",
 					"name": "Dragonhide",
 					"reference": "DR1:27",
 					"cost_type": "to_base_cost",
@@ -35,6 +38,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "88ce6035-2e93-4638-8867-e82d81168ea5",
 					"name": "Dragonhide",
 					"reference": "DR1:27",
 					"cost_type": "to_base_cost",
@@ -46,6 +50,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "1df041a1-c355-4955-91e6-ac7287b710ca",
 					"name": "Dragonhide",
 					"reference": "DR1:27",
 					"cost_type": "to_base_cost",
@@ -57,6 +62,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "6973bd04-ed79-49d5-9931-a893e155995a",
 					"name": "Dwarven",
 					"reference": "DF1:27",
 					"cost_type": "to_base_cost",
@@ -68,6 +74,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "9d8f016a-5def-4943-9728-3c1df9f693e6",
 					"name": "Dwarven",
 					"reference": "DF1:27",
 					"cost_type": "to_base_cost",
@@ -79,6 +86,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "98186a39-2f58-4d6b-bf2b-87332b192be7",
 					"name": "Dwarven",
 					"reference": "DF1:27",
 					"cost_type": "to_base_cost",
@@ -90,6 +98,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "87ab2c42-7606-4c19-9ec7-866c8fa3b1ec",
 					"name": "Elven",
 					"reference": "DF1:27",
 					"cost_type": "to_base_cost",
@@ -99,6 +108,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "9f635ae9-03a9-4acb-ac1f-0c2520cd89d0",
 					"name": "Expert Tailoring",
 					"reference": "LT110",
 					"cost_type": "to_base_cost",
@@ -111,6 +121,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "cc41d6d6-d553-489f-83c2-30260422800f",
 					"name": "Fine",
 					"reference": "DF1:27",
 					"cost_type": "to_base_cost",
@@ -121,6 +132,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "6f5a5745-b9cd-47fa-a967-5dc03ad3edcd",
 					"name": "Fluting",
 					"reference": "LT110",
 					"cost_type": "to_base_cost",
@@ -132,6 +144,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "6fc6feb3-b242-45db-b5c2-81c1f7ba4376",
 					"name": "Giant Spider Silk",
 					"reference": "DF1:27",
 					"cost_type": "to_base_cost",
@@ -141,6 +154,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "37e623e4-4ca4-4b4a-8eb9-3728ad4d359b",
 					"name": "Masterful Tailoring",
 					"reference": "LT110",
 					"cost_type": "to_base_cost",
@@ -153,6 +167,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "6fb2d70b-c181-4f84-ba68-0f656f31dbba",
 					"name": "Meteoric",
 					"reference": "DF1:27",
 					"cost_type": "to_base_cost",
@@ -162,6 +177,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "13976a73-59bd-466a-9337-86386068c8a6",
 					"name": "Orichalcum",
 					"reference": "DF1:27",
 					"cost_type": "to_base_cost",
@@ -173,6 +189,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "3198cf12-309e-4cac-9204-d653f43e8948",
 					"name": "Spiked",
 					"reference": "DF1:27",
 					"cost_type": "to_base_cost",
@@ -184,6 +201,7 @@
 		{
 			"type": "eqp_modifier",
 			"version": 1,
+			"id": "d21bd900-8430-48a6-b64a-957d24c7c98b",
 			"name": "Dwarven Discount",
 			"cost_type": "to_final_cost",
 			"cost": "-10%"
@@ -191,6 +209,7 @@
 		{
 			"type": "eqp_modifier",
 			"version": 1,
+			"id": "e3d5de49-0418-432e-9417-192de5a257b4",
 			"name": "Elven Discount",
 			"cost_type": "to_final_cost",
 			"cost": "-10%"
@@ -198,6 +217,7 @@
 		{
 			"type": "eqp_modifier_container",
 			"version": 1,
+			"id": "a4062e53-2f6c-4850-bb6c-91f227194d82",
 			"disabled": true,
 			"name": "Melee Weapons, Thrown Weapons or Projectiles",
 			"open": true,
@@ -205,6 +225,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "5b52785d-70f5-4782-a688-2a3ca95ac435",
 					"name": "Balanced",
 					"reference": "LT59",
 					"cost_type": "to_base_cost",
@@ -220,6 +241,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "199c79ad-587f-49e8-9167-5aa23f55c112",
 					"name": "Cheap",
 					"reference": "B274, LT59",
 					"cost_type": "to_base_cost",
@@ -229,6 +251,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "ffd18809-ae25-4730-bd9c-1f7734c2c5bb",
 					"name": "Dwarven",
 					"reference": "DF1:26",
 					"cost_type": "to_base_cost",
@@ -238,6 +261,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "219eb46b-eb0e-4e82-b983-8e6cea6864b5",
 					"name": "Fine",
 					"reference": "LT59",
 					"cost_type": "to_base_cost",
@@ -247,6 +271,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "bcb350ad-f590-4126-9ae5-d435769c5397",
 					"name": "Fine",
 					"reference": "LT59",
 					"cost_type": "to_base_cost",
@@ -263,6 +288,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "feabb150-dfdf-42d2-84d3-d5c14c89f61f",
 					"name": "Fine",
 					"reference": "LT59",
 					"cost_type": "to_base_cost",
@@ -279,6 +305,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "d73e11a7-6be6-4792-9b4f-83d1ba9ad821",
 					"name": "Fine",
 					"reference": "LT59",
 					"cost_type": "to_base_cost",
@@ -288,6 +315,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "59cfca77-1245-4b66-9983-2f5c5a5113b5",
 					"name": "Fine",
 					"reference": "LT59",
 					"cost_type": "to_base_cost",
@@ -304,6 +332,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "b98d54d0-935d-445e-ab71-ba91af15082e",
 					"name": "Meteoric",
 					"reference": "DF1:27",
 					"cost_type": "to_base_cost",
@@ -313,6 +342,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "5f076a16-2074-42c9-9029-5bc16556ea34",
 					"name": "Orichalcum",
 					"reference": "DF1:27",
 					"cost_type": "to_base_cost",
@@ -322,6 +352,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "d0def67d-4daa-4d6d-b875-340b24dbef52",
 					"name": "Poorly Balanced",
 					"reference": "LT59",
 					"cost_type": "to_base_cost",
@@ -337,6 +368,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "a34e9f68-d70e-4c93-b549-f83fe61367cd",
 					"name": "Silver",
 					"reference": "B275, LT59",
 					"cost_type": "to_base_cost",
@@ -346,6 +378,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "72cc01a2-436c-483c-aff6-0c2b40f1692e",
 					"name": "Silver Coated",
 					"reference": "B275, LT59",
 					"cost_type": "to_base_cost",
@@ -355,6 +388,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "d1306d40-4c0f-4066-8a8a-b78ec7568b05",
 					"name": "Very Fine",
 					"reference": "LT59",
 					"cost_type": "to_base_cost",
@@ -364,6 +398,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "7f43a06d-f73d-445e-8bc8-077472c0ba11",
 					"name": "Very Fine",
 					"reference": "LT59",
 					"cost_type": "to_base_cost",
@@ -380,6 +415,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "95591254-281d-4014-86db-cf634c97bc80",
 					"name": "Very Fine",
 					"reference": "LT59",
 					"cost_type": "to_base_cost",
@@ -396,6 +432,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "3c915a37-6afa-4518-abb3-43f09142fd00",
 					"name": "Very Fine",
 					"reference": "LT59",
 					"cost_type": "to_base_cost",
@@ -407,6 +444,7 @@
 		{
 			"type": "eqp_modifier_container",
 			"version": 1,
+			"id": "dece4db2-e949-46b1-b818-852f2cb6c246",
 			"disabled": true,
 			"name": "Missile Weapons",
 			"open": true,
@@ -414,6 +452,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "b23a7287-c1a8-4347-8168-1c7bfc8d4414",
 					"name": "Balanced",
 					"reference": "LT59",
 					"cost_type": "to_base_cost",
@@ -423,6 +462,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "a56f31f8-83f8-4f26-b419-a4979ffa57f0",
 					"name": "Cheap",
 					"reference": "B274, LT59",
 					"cost_type": "to_base_cost",
@@ -432,6 +472,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "49f656fb-7ef7-49ae-ad1b-d25cc2a2b81e",
 					"name": "Elven",
 					"reference": "DF1:26",
 					"cost_type": "to_base_cost",
@@ -441,6 +482,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "d2df0804-aded-4a04-b0e1-7d75d748b724",
 					"name": "Fine",
 					"reference": "LT59",
 					"cost_type": "to_base_cost",
@@ -450,6 +492,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "93e3ce28-ecd9-4807-a662-a59ec682a21b",
 					"name": "Poorly Balanced",
 					"reference": "LT59",
 					"cost_type": "to_base_cost",
@@ -461,6 +504,7 @@
 		{
 			"type": "eqp_modifier",
 			"version": 1,
+			"id": "7ebe424f-53fb-4f2b-aa18-bfb1be5df8fc",
 			"name": "Ornate",
 			"reference": "DF1:27",
 			"cost_type": "to_base_cost",
@@ -470,6 +514,7 @@
 		{
 			"type": "eqp_modifier",
 			"version": 1,
+			"id": "8337cdf3-cf0b-4d3e-8baf-3cefed610dc3",
 			"name": "Ornate",
 			"reference": "DF1:27",
 			"cost_type": "to_base_cost",
@@ -479,6 +524,7 @@
 		{
 			"type": "eqp_modifier",
 			"version": 1,
+			"id": "bb0cc625-da53-4b73-8fa2-fb4afe64af88",
 			"name": "Ornate",
 			"reference": "DF1:27",
 			"cost_type": "to_base_cost",
@@ -488,6 +534,7 @@
 		{
 			"type": "eqp_modifier_container",
 			"version": 1,
+			"id": "58b2e74a-8269-4c28-b8de-c6ccc9bef204",
 			"disabled": true,
 			"name": "Shields",
 			"open": true,
@@ -495,6 +542,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "cdae8c0f-5f1d-4c38-ac27-122ace1782b4",
 					"name": "Balanced",
 					"reference": "DF1:27",
 					"cost_type": "to_base_cost",
@@ -514,6 +562,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "dc927b79-262a-49f4-b035-0d6c0a95deb3",
 					"name": "Dwarven",
 					"reference": "DF1:27",
 					"cost_type": "to_base_cost",
@@ -532,6 +581,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "5882d90b-37c1-4736-a082-2fa4b323f3a4",
 					"name": "Fine",
 					"reference": "DF1:27",
 					"cost_type": "to_base_cost",
@@ -542,6 +592,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "ec644cda-0515-434e-958b-e630b2319dd2",
 					"name": "Meteoric",
 					"reference": "DF1:27",
 					"cost_type": "to_base_cost",
@@ -560,6 +611,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "e2ccaf50-35ac-4728-905f-63d062ee5190",
 					"name": "Mirrored",
 					"reference": "DF1:27",
 					"cost_type": "to_base_cost",
@@ -569,6 +621,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "36fb2f4c-5db0-4bd8-abb6-32bd49b8ca83",
 					"name": "Mirrored",
 					"reference": "DF1:27",
 					"cost_type": "to_base_cost",
@@ -578,6 +631,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "718eb813-5493-4aac-bc9d-c9d68026addb",
 					"name": "Orichalcum",
 					"reference": "DF1:27",
 					"cost_type": "to_base_cost",
@@ -589,6 +643,7 @@
 				{
 					"type": "eqp_modifier",
 					"version": 1,
+					"id": "a5817016-f4dc-4483-9ffa-272cfa880e76",
 					"name": "Shield Spike",
 					"reference": "B273",
 					"cost_type": "to_original_cost",

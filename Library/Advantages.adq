@@ -6,6 +6,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "e09349ea-d9f9-4535-9121-ae1eecddaae7",
 			"name": "@Mental Quirk@",
 			"mental": true,
 			"base_points": -1,
@@ -17,6 +18,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "be5e9617-7f18-4e29-b584-ace58989a727",
 			"name": "@Physical Quirk@",
 			"physical": true,
 			"base_points": -1,
@@ -28,6 +30,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "1795dd0a-da88-40c9-83a4-20a6b2258f89",
 			"name": "Absent-Mindedness",
 			"mental": true,
 			"base_points": -15,
@@ -40,6 +43,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "874e9ef9-093a-47c9-ad27-04d4269723f7",
 			"name": "Absolute Direction",
 			"mental": true,
 			"physical": true,
@@ -48,6 +52,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a5ea2d2f-5ec0-4f55-b318-9e1c7d0acf70",
 					"disabled": true,
 					"name": "Requires signal",
 					"reference": "B34",
@@ -58,6 +63,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d886c1d1-058c-4871-91b1-ad54f62634ee",
 					"disabled": true,
 					"name": "3D Spatial Sense",
 					"reference": "B34",
@@ -179,6 +185,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "09e5a44b-3934-4e61-9467-b4d97641fc66",
 			"name": "Absolute Timing",
 			"mental": true,
 			"base_points": 2,
@@ -186,6 +193,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "fd791703-6253-445b-b89e-78cb5512b04b",
 					"disabled": true,
 					"name": "Chronolocation",
 					"cost_type": "points",
@@ -201,6 +209,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "03fa5168-2e1d-4c58-b3b7-e8c99e022643",
 			"name": "Acrophobia (Heights)",
 			"mental": true,
 			"base_points": -10,
@@ -214,6 +223,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "0b70f6f3-0d6e-40d5-af97-645b9ba4bcb6",
 			"name": "Acute Hearing",
 			"physical": true,
 			"levels": "1",
@@ -234,6 +244,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "c3c6df18-8e63-47a1-bf5c-f047a874ac07",
 			"name": "Acute Taste & Smell",
 			"physical": true,
 			"levels": "1",
@@ -254,6 +265,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "6837822d-18d5-4847-9c64-44d47a1d6423",
 			"name": "Acute Touch",
 			"physical": true,
 			"levels": "1",
@@ -274,6 +286,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "91b3857b-c4da-4df8-9e5a-494cf3d4bbc9",
 			"name": "Acute Vision",
 			"physical": true,
 			"levels": "1",
@@ -294,6 +307,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "6487ae67-fc1a-4310-8923-22ea3877e855",
 			"name": "Addiction (@Substance@)",
 			"mental": true,
 			"physical": true,
@@ -301,6 +315,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a7f73e85-f0ac-4ee0-a44f-e3313bd5d414",
 					"disabled": true,
 					"name": "Cost: Cheap",
 					"reference": "B122",
@@ -311,6 +326,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7665f199-686a-4fc5-a7e6-7ba8ceffd94e",
 					"disabled": true,
 					"name": "Cost: Expensive",
 					"reference": "B122",
@@ -321,6 +337,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "3700c9dc-17de-4692-9b8e-fa99b3275a01",
 					"disabled": true,
 					"name": "Cost: Very Expensive",
 					"reference": "B122",
@@ -331,6 +348,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "08ee764f-813f-4636-a396-ee58c2dcd41a",
 					"disabled": true,
 					"name": "Effects: Hallucinogenic",
 					"reference": "B122",
@@ -341,6 +359,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "6f020f91-66d6-434f-8d5e-824191f40d5d",
 					"disabled": true,
 					"name": "Effects: Highly Addictive (-5 on withdrawal roll)",
 					"reference": "B122",
@@ -351,6 +370,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "76201b66-f0c4-4167-a9c2-abeaf45b3e32",
 					"disabled": true,
 					"name": "Effects: Incapacitating",
 					"reference": "B122",
@@ -361,6 +381,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "1755d37d-13b6-420f-a9d7-1883c757566b",
 					"disabled": true,
 					"name": "Effects: Totally Addictive (-10 on withdrawal roll)",
 					"reference": "B122",
@@ -371,6 +392,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f4b6f17e-7c2a-43f7-9c46-71117d0e533c",
 					"disabled": true,
 					"name": "Illegal",
 					"reference": "B122",
@@ -381,6 +403,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "84ca616b-ed51-4274-9f72-a54edce0f1c3",
 					"disabled": true,
 					"name": "Legal",
 					"reference": "B122",
@@ -397,6 +420,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "8a6c892f-7300-4aee-8af9-2718277b78ab",
 			"name": "Agoraphobia (Open Spaces)",
 			"mental": true,
 			"base_points": -10,
@@ -410,6 +434,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "4033f73d-5aae-4059-9c2c-216de85b6433",
 			"name": "Aichmophobia (Sharp Things)",
 			"mental": true,
 			"base_points": -15,
@@ -423,6 +448,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "8071f716-aa96-40ef-bc59-a93ca3faacd0",
 			"name": "Ailurophobia (Cats)",
 			"mental": true,
 			"base_points": -5,
@@ -436,6 +462,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "f4cd16a7-97f5-4993-8009-e6f08b3b3573",
 			"name": "Alcohol Intolerance",
 			"physical": true,
 			"base_points": -1,
@@ -448,6 +475,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "98b85f4c-3d05-43b1-84a6-105b3ca65340",
 			"name": "Alcohol Tolerance",
 			"physical": true,
 			"base_points": 1,
@@ -460,6 +488,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "c66fc2f7-eac6-4bbe-9caf-684c9f9e702f",
 			"name": "Alcoholism",
 			"physical": true,
 			"base_points": -15,
@@ -467,6 +496,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7c1455fa-207b-4c60-b1dd-eb3bca42fbf9",
 					"disabled": true,
 					"name": "Illegal",
 					"reference": "B122",
@@ -483,12 +513,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "56f7ea08-bd08-4001-a5fa-a964cd7795d9",
 			"name": "Ally (@Who@)",
 			"social": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "0a88bea4-d591-412a-9e6d-96ceaa2d4d19",
 					"disabled": true,
 					"name": "Point total",
 					"reference": "B37",
@@ -500,6 +532,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "51e0a161-155f-4008-a4e3-ccd570b533fb",
 					"disabled": true,
 					"name": "Point total",
 					"reference": "B37",
@@ -511,6 +544,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "30d38045-c359-4c93-95c0-aa367c09d8ae",
 					"disabled": true,
 					"name": "Point total",
 					"reference": "B37",
@@ -522,6 +556,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e2b27395-2e97-4c13-9096-656b32db72b0",
 					"disabled": true,
 					"name": "Point total",
 					"reference": "B37",
@@ -533,6 +568,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "416db2e9-76a6-42ab-87ce-cf86f314cddb",
 					"disabled": true,
 					"name": "Point total",
 					"reference": "B37",
@@ -544,6 +580,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "68877b33-265b-414f-af10-65c8d78ddaab",
 					"disabled": true,
 					"name": "Appears constantly",
 					"reference": "B36",
@@ -554,6 +591,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "3edb6670-390d-4691-a578-bf9ef18e4ce3",
 					"disabled": true,
 					"name": "Appears almost all the time",
 					"reference": "B36",
@@ -564,6 +602,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d0c5e227-0c01-4304-9c85-5395cd176ef0",
 					"disabled": true,
 					"name": "Appears quite often",
 					"reference": "B36",
@@ -574,6 +613,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "3724a1f0-26a6-47e7-b273-ed6fb6f010b8",
 					"disabled": true,
 					"name": "Appears fairly often",
 					"reference": "B36",
@@ -584,6 +624,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "3760c472-0307-4235-8592-8fea9c73f18c",
 					"disabled": true,
 					"name": "Appears quite rarely",
 					"reference": "B36",
@@ -594,6 +635,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "2dcf006f-3d2f-45d9-bdb9-abdec3211e08",
 					"disabled": true,
 					"name": "Group of 6-10",
 					"reference": "B37",
@@ -603,6 +645,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "0eea327f-5e2a-491b-aa6c-8c8b8d2b86e2",
 					"disabled": true,
 					"name": "Group of 11-20",
 					"reference": "B37",
@@ -612,6 +655,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "bcd86d70-13dc-484c-9675-029742d4f9a4",
 					"disabled": true,
 					"name": "Group of 21-50",
 					"reference": "B37",
@@ -621,6 +665,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "5a4b4b03-d395-4974-9bc4-3750bde754bb",
 					"disabled": true,
 					"name": "Group of 51-100",
 					"reference": "B37",
@@ -630,6 +675,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "378e3ba0-5aec-486f-beb3-1ad8c1280a04",
 					"disabled": true,
 					"name": "Group of 101-1000",
 					"reference": "B37",
@@ -639,6 +685,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "5bf44f7f-d581-4800-b031-c4c738d393f7",
 					"disabled": true,
 					"name": "Group of 1001-10000",
 					"reference": "B37",
@@ -648,6 +695,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "71804556-98bd-4024-9ba6-24c038c3b650",
 					"disabled": true,
 					"name": "Group of 10001-100000",
 					"reference": "B37",
@@ -657,6 +705,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e370c223-6f1f-4856-9e66-2d30b38773d0",
 					"disabled": true,
 					"name": "Group of 100001-1000000",
 					"reference": "B37",
@@ -666,6 +715,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "df24b1b8-91be-45c1-bc25-c7c3917d3287",
 					"disabled": true,
 					"name": "Minion",
 					"reference": "B38",
@@ -676,6 +726,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "2701c591-7db4-4136-bb3d-142f80b5f98c",
 					"disabled": true,
 					"name": "Minion",
 					"reference": "B38",
@@ -687,6 +738,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d8dd4014-86e7-4be8-851e-ee000698725b",
 					"disabled": true,
 					"name": "Special Abilities",
 					"reference": "B38",
@@ -698,6 +750,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "cc67853c-95f9-413f-8441-dcd845dfe0dc",
 					"disabled": true,
 					"name": "Summonable",
 					"reference": "B38",
@@ -708,6 +761,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "095f186f-bea1-4873-864c-e28a0f9ac343",
 					"disabled": true,
 					"name": "Sympathy",
 					"reference": "B38",
@@ -719,6 +773,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "47371422-f22c-4aac-aba6-09c5a973a051",
 					"disabled": true,
 					"name": "Sympathy",
 					"reference": "B38",
@@ -730,6 +785,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "25635e36-0f89-4b34-8387-2e74448da7da",
 					"disabled": true,
 					"name": "Sympathy",
 					"reference": "B38",
@@ -741,6 +797,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e1c585fb-adad-4764-a9a9-6832be205a10",
 					"disabled": true,
 					"name": "Sympathy",
 					"reference": "B38",
@@ -752,6 +809,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "daa5e5dc-b80a-4c06-a4a2-dbf1b3759ed6",
 					"disabled": true,
 					"name": "Unwilling",
 					"reference": "B38",
@@ -762,6 +820,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "9473b019-064f-4eba-80b1-e7548285140b",
 					"disabled": true,
 					"name": "Favor",
 					"reference": "B55",
@@ -777,6 +836,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "caec065a-9c6e-43e5-afe9-0a6a70c2579f",
 			"name": "Ambidexterity",
 			"physical": true,
 			"base_points": 5,
@@ -788,6 +848,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "4bbb90a6-73e0-4424-9070-f0b8d33d58c0",
 			"name": "Animal Empathy",
 			"mental": true,
 			"base_points": 5,
@@ -795,6 +856,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e3e960c3-70f5-444c-97f7-b4c6604c5298",
 					"disabled": true,
 					"name": "Remote",
 					"reference": "P48",
@@ -805,6 +867,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "02135d62-53f8-4ca7-a0f7-40cc7de07228",
 					"disabled": true,
 					"name": "Specialized",
 					"reference": "B87",
@@ -816,6 +879,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7c795716-878c-4c88-87a8-a86ae3814f42",
 					"disabled": true,
 					"name": "Specialized",
 					"reference": "B87",
@@ -827,6 +891,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "5361062b-c19d-495f-a8c5-44be4dcddb85",
 					"disabled": true,
 					"name": "Specialized",
 					"reference": "B87",
@@ -838,6 +903,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "2ccf7739-d833-4b56-a1cb-c61422bad66b",
 					"disabled": true,
 					"name": "Specialized",
 					"reference": "B87",
@@ -849,6 +915,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "354e084d-b492-440c-89cf-d2ecdbf4498d",
 					"disabled": true,
 					"name": "Specialized",
 					"reference": "B87",
@@ -866,12 +933,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "c31cf65b-f402-4d8d-b4f7-e0092ce3af9e",
 			"name": "Appearance",
 			"physical": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "5901c328-b543-44ff-88ff-75466e241037",
 					"disabled": true,
 					"name": "Attractive",
 					"reference": "B21",
@@ -889,6 +958,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f66dd71e-20db-4b57-977b-6c647266bb8e",
 					"disabled": true,
 					"name": "Average",
 					"reference": "B21",
@@ -899,6 +969,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4a31e228-cc4a-45c7-a80b-d63e0e6b212e",
 					"disabled": true,
 					"name": "Beautiful",
 					"reference": "B21",
@@ -916,6 +987,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "24cc4ce7-4bb7-4664-815b-ca7a7076b78c",
 					"disabled": true,
 					"name": "Beautiful (Androgynous)",
 					"reference": "B21",
@@ -933,6 +1005,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "daed4a73-d8cd-4ceb-bb0a-806ad43a07b2",
 					"disabled": true,
 					"name": "Beautiful (Impressive)",
 					"reference": "B21",
@@ -950,6 +1023,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "cafb5a0a-3b1d-48ba-a212-2522c14e7615",
 					"disabled": true,
 					"name": "Handsome",
 					"reference": "B21",
@@ -967,6 +1041,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "709abd20-ee25-4f56-bccf-f2df5b407ddd",
 					"disabled": true,
 					"name": "Handsome (Androgynous)",
 					"reference": "B21",
@@ -984,6 +1059,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "1791e2d9-fa71-468f-a1f8-b8ade85feeb0",
 					"disabled": true,
 					"name": "Handsome (Impressive)",
 					"reference": "B21",
@@ -1001,6 +1077,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4c6a5306-d96b-4830-8c6b-077e36a83311",
 					"disabled": true,
 					"name": "Hideous",
 					"reference": "B21",
@@ -1018,6 +1095,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "bdbfd102-bb32-4131-92b5-2f0043c17ecc",
 					"disabled": true,
 					"name": "Horrific",
 					"reference": "B21",
@@ -1035,6 +1113,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7ed92e51-0c1b-4f57-96a7-c8ae9aa46f4c",
 					"disabled": true,
 					"name": "Impressive",
 					"reference": "B21",
@@ -1045,6 +1124,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "1974eb0c-5d97-4c8a-8e35-dfcc962544dd",
 					"disabled": true,
 					"name": "Monstrous",
 					"reference": "B21",
@@ -1062,6 +1142,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "6b8e7440-b59b-470d-a6f0-818ccf3ded83",
 					"disabled": true,
 					"name": "Off-the-Shelf Looks",
 					"reference": "B21",
@@ -1073,6 +1154,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a736a816-eaba-476a-b6d8-19c32f3a739e",
 					"disabled": true,
 					"name": "Transcendent",
 					"reference": "B21",
@@ -1090,6 +1172,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "773513ee-70b6-45c1-a070-f21f365ae4fa",
 					"disabled": true,
 					"name": "Transcendent (Androgynous)",
 					"reference": "B21",
@@ -1107,6 +1190,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "57ea2e4a-1eea-45e3-922b-13ef36922a03",
 					"disabled": true,
 					"name": "Transcendent (Impressive)",
 					"reference": "B21",
@@ -1124,6 +1208,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "de5e2bf3-9105-42b3-8266-61d919b91cdc",
 					"disabled": true,
 					"name": "Ugly",
 					"reference": "B21",
@@ -1141,6 +1226,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "9cbe1222-a7f6-445a-b671-7353909a25f8",
 					"disabled": true,
 					"name": "Unattractive",
 					"reference": "B21",
@@ -1158,6 +1244,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "b69c2554-aec8-43a6-ae57-0c3e2300eeea",
 					"disabled": true,
 					"name": "Universal",
 					"reference": "B21",
@@ -1168,6 +1255,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "ae1be5ad-ad52-478f-a8bc-7640546b9e1a",
 					"disabled": true,
 					"name": "Very Beautiful",
 					"reference": "B21",
@@ -1185,6 +1273,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "8c0dff4b-9948-4218-8f74-fcec937a2f4f",
 					"disabled": true,
 					"name": "Very Beautiful (Androgynous)",
 					"reference": "B21",
@@ -1202,6 +1291,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "db33e83c-09bb-4e10-9a68-fcae4f0bddcb",
 					"disabled": true,
 					"name": "Very Beautiful (Impressive)",
 					"reference": "B21",
@@ -1219,6 +1309,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "8b05084e-fba1-4fad-8fcd-16d2e467b9a8",
 					"disabled": true,
 					"name": "Very Handsome",
 					"reference": "B21",
@@ -1236,6 +1327,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "678e3f60-61ea-4134-85cb-a0e022aeeb9a",
 					"disabled": true,
 					"name": "Very Handsome (Androgynous)",
 					"reference": "B21",
@@ -1253,6 +1345,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f33de5cd-4bb4-482c-b63f-5afcfcecf0c9",
 					"disabled": true,
 					"name": "Very Handsome (Impressive)",
 					"reference": "B21",
@@ -1276,6 +1369,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "9b55a64f-c28a-4c6c-bb26-f0f95d715a1d",
 			"name": "Arachnophobia (Spiders)",
 			"mental": true,
 			"base_points": -5,
@@ -1288,6 +1382,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "bd77bb9f-6468-401e-9ec7-a48950285013",
 			"name": "Attentive",
 			"mental": true,
 			"base_points": -1,
@@ -1300,6 +1395,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "f4a9eac4-4b26-4018-a082-c6acd62ea4ef",
 			"name": "Autophobia (Being Alone)",
 			"mental": true,
 			"base_points": -15,
@@ -1313,6 +1409,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "039c3a1b-a866-48f8-84dc-e985740ced80",
 			"name": "Autotrance",
 			"mental": true,
 			"base_points": 1,
@@ -1324,6 +1421,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "693b01fc-74bc-43e1-a6c3-caeb4592c0e2",
 			"name": "Bad Back",
 			"physical": true,
 			"base_points": -15,
@@ -1331,6 +1429,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "27b91127-bbd8-4fb9-b2a6-4daf17c35bd0",
 					"disabled": true,
 					"name": "Severe",
 					"reference": "B123",
@@ -1349,6 +1448,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "359138d2-9618-48c8-b9f9-19c7871265e1",
 			"name": "Bad Grip",
 			"physical": true,
 			"levels": "1",
@@ -1376,6 +1476,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "ab86b59b-b008-4133-9eb1-63e542d4cda5",
 			"name": "Bad Sight (Farsighted)",
 			"physical": true,
 			"base_points": -25,
@@ -1383,6 +1484,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "c336ec10-43af-49ed-9957-1483addd2409",
 					"disabled": true,
 					"name": "Mitigator",
 					"cost_type": "percentage",
@@ -1400,6 +1502,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "03df0f85-55de-4d68-a7ec-b7e22d75db13",
 			"name": "Bad Sight (Nearsighted)",
 			"physical": true,
 			"base_points": -25,
@@ -1407,6 +1510,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "c45436b9-e051-40f2-9a02-a93bfe61bfc1",
 					"disabled": true,
 					"name": "Mitigator",
 					"cost_type": "percentage",
@@ -1424,6 +1528,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "e3dc511e-a731-428e-bd51-928714d8af5b",
 			"name": "Bad Temper",
 			"mental": true,
 			"base_points": -10,
@@ -1436,6 +1541,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "afee1b28-18e9-4b87-a6a1-65661e5b7f67",
 			"name": "Berserk",
 			"mental": true,
 			"base_points": -10,
@@ -1444,6 +1550,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "189c21c5-9acd-494e-9f1c-7df2e2087fa2",
 					"disabled": true,
 					"name": "Battle Rage",
 					"cost_type": "percentage",
@@ -1460,6 +1567,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "6007c291-8870-4102-b415-10acc383ead7",
 			"name": "Blessed",
 			"mental": true,
 			"supernatural": true,
@@ -1479,6 +1587,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "6ac9215b-5492-4a75-b2e4-168a219cf115",
 			"name": "Blindness",
 			"physical": true,
 			"base_points": -50,
@@ -1491,6 +1600,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "509469f4-4136-4311-97cc-5d752662ed41",
 			"name": "Bloodlust",
 			"mental": true,
 			"base_points": -10,
@@ -1504,6 +1614,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "0e1f635c-540d-4d91-bf1d-d3bba23b7b4b",
 			"name": "Bowlegged",
 			"physical": true,
 			"base_points": -1,
@@ -1531,6 +1642,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "f106fadc-ebf3-43a6-9f72-5ba32901718d",
 			"name": "Broad-Minded",
 			"mental": true,
 			"base_points": -1,
@@ -1542,6 +1654,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "555ee049-5da0-469f-81ea-c4cb6e779bb3",
 			"name": "Brontophobia (Loud Noises)",
 			"mental": true,
 			"base_points": -10,
@@ -1555,6 +1668,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "fff63a04-fb55-44c6-beef-c088075ee6bb",
 			"name": "Bully",
 			"mental": true,
 			"base_points": -10,
@@ -1574,6 +1688,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "57c6eb6e-b536-41d5-8079-3b7464a08374",
 			"name": "Callous",
 			"mental": true,
 			"base_points": -5,
@@ -1611,6 +1726,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "e0ba2c85-a0c7-40c3-9108-de40cdfeb98d",
 			"name": "Cannot Speak",
 			"physical": true,
 			"base_points": -15,
@@ -1636,6 +1752,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "1f19b8da-bf9e-4ac7-9818-07a9ef55a0af",
 			"name": "Careful",
 			"mental": true,
 			"base_points": -1,
@@ -1647,6 +1764,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "0991a211-a091-4f6a-9966-ee5db1b530c7",
 			"name": "Channeling",
 			"mental": true,
 			"supernatural": true,
@@ -1655,6 +1773,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "5d64de28-77c2-4143-b1dd-062061126c72",
 					"disabled": true,
 					"name": "Aware",
 					"reference": "P43",
@@ -1665,6 +1784,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "14b36344-4237-40bc-81a1-8e15cd90fd56",
 					"disabled": true,
 					"name": "Specialized",
 					"reference": "P44",
@@ -1682,6 +1802,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "88de564b-3ae6-490c-844a-faf7f014a768",
 			"name": "Charisma",
 			"mental": true,
 			"levels": "1",
@@ -1748,6 +1869,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "d719983b-a9e7-4bae-a676-3c42f16d7da5",
 			"name": "Charitable",
 			"mental": true,
 			"base_points": -15,
@@ -1761,6 +1883,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "b3cc6ba1-bae3-45fd-b8fb-619a91a59d29",
 			"name": "Chauvinistic",
 			"mental": true,
 			"levels": "0",
@@ -1780,6 +1903,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "be41127c-065a-40f0-a8f7-3666d16b4c46",
 			"name": "Chronic Depression",
 			"mental": true,
 			"base_points": -15,
@@ -1793,12 +1917,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "071dce49-8e39-41d4-a207-2422196d3626",
 			"name": "Chronic Pain",
 			"physical": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "603968d9-c822-41c4-be36-585bd0b1b25b",
 					"disabled": true,
 					"name": "1 hour interval",
 					"reference": "B126",
@@ -1808,6 +1934,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4da17d90-0688-40ab-abf6-8dbf3ae19dab",
 					"disabled": true,
 					"name": "2 hour interval",
 					"reference": "B126",
@@ -1817,6 +1944,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d31fd506-c913-4467-a719-4a35db1a57f5",
 					"disabled": true,
 					"name": "4 hour interval",
 					"reference": "B126",
@@ -1826,6 +1954,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "07f0622a-3ecc-49d0-96eb-3d4f057a0e15",
 					"disabled": true,
 					"name": "8 hour interval",
 					"reference": "B126",
@@ -1835,6 +1964,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4225f5d2-58d0-4280-a68c-744723f8a3ea",
 					"disabled": true,
 					"name": "FR: 6",
 					"cost_type": "multiplier",
@@ -1843,6 +1973,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "47b156a2-2fcd-4440-9813-f5fe1a0c0d51",
 					"disabled": true,
 					"name": "FR: 9",
 					"cost_type": "multiplier",
@@ -1851,6 +1982,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "8bf19205-2a8b-4f04-818d-085fee8cf4e1",
 					"disabled": true,
 					"name": "FR: 12",
 					"cost_type": "multiplier",
@@ -1859,6 +1991,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "420cc9dc-7fb0-4d5f-b771-bf2b2b802a86",
 					"disabled": true,
 					"name": "FR: 15",
 					"cost_type": "multiplier",
@@ -1867,6 +2000,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "2a188660-fbac-4f39-9421-3fac5a1e8620",
 					"disabled": true,
 					"name": "Mild",
 					"reference": "B126",
@@ -1878,6 +2012,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "14ba36e1-8a0a-41ed-9a1d-9b75dc5def51",
 					"disabled": true,
 					"name": "Severe",
 					"reference": "B126",
@@ -1889,6 +2024,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7ec86f75-d1a2-4d93-89a0-94a4244e3993",
 					"disabled": true,
 					"name": "Agonizing",
 					"reference": "B126",
@@ -1906,6 +2042,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "272b0544-d292-47dd-bb73-2b5e59d19c73",
 			"name": "Chummy",
 			"mental": true,
 			"base_points": -5,
@@ -1925,12 +2062,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "4e2400f8-946b-4cd7-9dc3-68c41b66a8b0",
 			"name": "Claim to Hospitality",
 			"social": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "2b49ab0e-4581-41ac-a63c-b7dd6ccc9edb",
 					"disabled": true,
 					"name": "@Friend with crash space@ (crash space)",
 					"cost_type": "points",
@@ -1940,6 +2079,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f5b274d1-6951-4408-8e2d-e1d8099d409c",
 					"disabled": true,
 					"name": "@Group@ - @Services@",
 					"cost_type": "points",
@@ -1949,6 +2089,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "0d611713-1958-43ce-bb7e-7ff41019a0f4",
 					"disabled": true,
 					"name": "@Group@ - Has @Resources@",
 					"cost_type": "points",
@@ -1958,6 +2099,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "3ac2006f-84f5-4b5e-8f60-3e6d55befa1a",
 					"disabled": true,
 					"name": "@Large Group@ - Has @Lots of Services@",
 					"cost_type": "points",
@@ -1967,6 +2109,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "5338060c-5d14-4ff1-9e36-24e2f0ca8e0a",
 					"disabled": true,
 					"name": "@Vast Group@ - @Complete Services@",
 					"cost_type": "points",
@@ -1982,6 +2125,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "44118f63-1a08-4db7-84c5-803a1e4529b4",
 			"name": "Claustrophobia (Enclosed Spaces)",
 			"mental": true,
 			"base_points": -15,
@@ -1995,6 +2139,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "1bd19c1b-8e0c-4f95-8201-3ae514dd90ee",
 			"name": "Clerical Investment",
 			"social": true,
 			"base_points": 5,
@@ -2013,6 +2158,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "10115a8b-ec53-4e4b-9207-06b5fda4d5d4",
 			"name": "Clueless",
 			"mental": true,
 			"base_points": -10,
@@ -2041,6 +2187,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "ce695c15-8e40-417e-a726-7e3373d8ea0f",
 			"name": "Code of Honor",
 			"mental": true,
 			"levels": "0",
@@ -2054,6 +2201,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "d2c8ef36-041f-41a0-8938-469de17cd50c",
 			"name": "Code of Honor (Chivalry)",
 			"mental": true,
 			"base_points": -15,
@@ -2066,6 +2214,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "0a5edc59-e082-4e8e-9688-e7a0c36643a4",
 			"name": "Code of Honor (Gentleman's)",
 			"mental": true,
 			"base_points": -10,
@@ -2078,6 +2227,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "102f0a92-6deb-4ae4-9408-f4437e6ead46",
 			"name": "Code of Honor (Pirate's)",
 			"mental": true,
 			"base_points": -5,
@@ -2090,6 +2240,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "791615be-4253-450a-8a25-b85b38a9ba3a",
 			"name": "Code of Honor (Professional)",
 			"mental": true,
 			"base_points": -5,
@@ -2102,6 +2253,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "303ad8bb-ebd1-4f62-815f-e99a2a0aa173",
 			"name": "Code of Honor (Soldier's)",
 			"mental": true,
 			"base_points": -10,
@@ -2114,6 +2266,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "72de6855-f3b6-4536-940c-eb06c3d7540c",
 			"name": "Coitophobia (Sex)",
 			"mental": true,
 			"base_points": -10,
@@ -2127,6 +2280,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "b15cfc05-dbc4-43a7-a728-d7f70aadf84c",
 			"name": "Colorblindness",
 			"physical": true,
 			"base_points": -10,
@@ -2194,6 +2348,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "8996a3b6-d67c-46be-b19d-84010bc1338b",
 			"name": "Combat Paralysis",
 			"physical": true,
 			"base_points": -15,
@@ -2227,6 +2382,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "ad88e7c1-3446-48f7-b3d2-4b66c86f98d1",
 			"name": "Combat Reflexes",
 			"mental": true,
 			"base_points": 15,
@@ -2284,6 +2440,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "0204ff00-2500-463f-a020-19fba42e54e8",
 			"name": "Common Sense",
 			"mental": true,
 			"base_points": 10,
@@ -2291,6 +2448,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "9daa5f1d-8049-429a-8660-fede9907108c",
 					"disabled": true,
 					"name": "Concious",
 					"reference": "P45",
@@ -2307,6 +2465,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "71802498-721d-4d0b-9145-e09e7fbb4cec",
 			"name": "Compulsive Carousing",
 			"mental": true,
 			"base_points": -5,
@@ -2331,6 +2490,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "696f8b6f-1743-4d16-a88f-31e7e13dcc9e",
 			"name": "Compulsive Gambling",
 			"mental": true,
 			"base_points": -5,
@@ -2343,11 +2503,11 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "4878f996-7ade-4319-be87-4d8a136200ce",
 			"name": "Compulsive Generosity",
 			"mental": true,
 			"base_points": -5,
 			"cr": 12,
-			"cr_adj": "minor_cost_of_living_increase",
 			"reference": "B128",
 			"prereqs": {
 				"type": "prereq_list",
@@ -2377,6 +2537,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "4849af35-c793-444c-b7a7-4ac671b6a41a",
 			"name": "Compulsive Lying",
 			"mental": true,
 			"base_points": -15,
@@ -2389,11 +2550,11 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "faf8cb3b-83c1-4383-9efe-b1b005ab1c38",
 			"name": "Compulsive Spending",
 			"mental": true,
 			"base_points": -5,
 			"cr": 12,
-			"cr_adj": "major_cost_of_living_increase",
 			"reference": "B129",
 			"prereqs": {
 				"type": "prereq_list",
@@ -2416,6 +2577,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "537771ef-81c5-4e6c-b780-eebcb3384f5f",
 			"name": "Compulsive Vowing",
 			"mental": true,
 			"base_points": -5,
@@ -2428,6 +2590,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "00b9c9c2-59f3-4f24-b016-73b4adc626a4",
 			"name": "Confused",
 			"physical": true,
 			"base_points": -10,
@@ -2441,6 +2604,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "c0495e21-5a02-4541-bb39-57980a6eff6d",
 			"name": "Congenial",
 			"mental": true,
 			"base_points": -1,
@@ -2452,12 +2616,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "209907d4-d994-4f05-8b03-dc90e7a94b59",
 			"name": "Contact (@Who@)",
 			"social": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "35610c84-f3f7-410f-8a66-042a116c0c4d",
 					"disabled": true,
 					"name": "Effective skill",
 					"cost_type": "points",
@@ -2468,6 +2634,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "1904eb9b-c5a2-4d8a-971a-8b415cce637d",
 					"disabled": true,
 					"name": "Effective skill",
 					"cost_type": "points",
@@ -2478,6 +2645,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "43fd10fa-e770-4c13-a8b1-44317b729b7f",
 					"disabled": true,
 					"name": "Effective skill",
 					"cost_type": "points",
@@ -2488,6 +2656,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "61f64a31-0c85-4e00-92a1-7b58a0071e57",
 					"disabled": true,
 					"name": "Effective skill",
 					"cost_type": "points",
@@ -2498,6 +2667,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "27e5dd84-969b-4bab-8874-717a60c78191",
 					"disabled": true,
 					"name": "Can obtain information using supernatural talents",
 					"cost_type": "points",
@@ -2507,6 +2677,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "43f4f34e-f079-49c9-a43d-5c6dda27f178",
 					"disabled": true,
 					"name": "Group",
 					"cost_type": "multiplier",
@@ -2515,6 +2686,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "44cf213b-6a07-4b94-a1dc-7420535c40ac",
 					"disabled": true,
 					"name": "Appears almost all the time",
 					"cost_type": "multiplier",
@@ -2524,6 +2696,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "69b17024-872b-44c5-a840-e4f375c8fc85",
 					"disabled": true,
 					"name": "Appears quite often",
 					"cost_type": "multiplier",
@@ -2533,6 +2706,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "3495282f-59cd-41a7-96dd-f96645b5cf5d",
 					"disabled": true,
 					"name": "Appears fairly often",
 					"cost_type": "multiplier",
@@ -2542,6 +2716,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "bed02202-9a46-4e55-95a3-bffb2b905c5b",
 					"disabled": true,
 					"name": "Appears quite rarely",
 					"cost_type": "multiplier",
@@ -2551,6 +2726,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "949e3146-6919-4176-9272-6e358bf8bbeb",
 					"disabled": true,
 					"name": "Completely reliable",
 					"cost_type": "multiplier",
@@ -2559,6 +2735,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "aa091c98-f689-42c3-8b5e-49fbc10cc82c",
 					"disabled": true,
 					"name": "Usually reliable",
 					"cost_type": "multiplier",
@@ -2567,6 +2744,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "1f52054b-6daa-42da-9efc-f68ef4a2d00a",
 					"disabled": true,
 					"name": "Somewhat reliable",
 					"cost_type": "multiplier",
@@ -2575,6 +2753,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "fd1cdde6-ef71-4bfc-b673-41c1efebf6da",
 					"disabled": true,
 					"name": "Unreliable",
 					"cost_type": "multiplier",
@@ -2583,6 +2762,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "82716fde-2e29-47e1-a275-77273651cf80",
 					"disabled": true,
 					"name": "Favor",
 					"reference": "B55",
@@ -2598,11 +2778,11 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "cae28e7e-1546-4640-ab0c-d00d4147f99a",
 			"name": "Cowardice",
 			"mental": true,
 			"base_points": -10,
 			"cr": 12,
-			"cr_adj": "fright_check_penalty",
 			"reference": "B129",
 			"notes": "Make a self-control roll any time you are called on to risk physical danger. Roll at -5 if you must risk death.",
 			"categories": [
@@ -2612,6 +2792,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "6ccb68bb-2bc9-4952-8b39-bea39bd02e7e",
 			"name": "Crippling Shyness",
 			"mental": true,
 			"base_points": -20,
@@ -2887,6 +3068,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "08e35713-3edc-4d08-a8a6-60d067ee23ca",
 			"name": "Cultural Familiarity (@Culture@)",
 			"mental": true,
 			"base_points": 1,
@@ -2894,6 +3076,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4ebc9d56-7ebe-4662-9d44-d710b1d5dac0",
 					"disabled": true,
 					"name": "Alien",
 					"cost_type": "points",
@@ -2903,6 +3086,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "38c105fa-f526-4903-aeb7-c61d4d646fcb",
 					"disabled": true,
 					"name": "Native",
 					"cost_type": "points",
@@ -2919,6 +3103,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "dac91240-6d09-494a-8258-6876c70385c1",
 			"name": "Curious",
 			"mental": true,
 			"base_points": -5,
@@ -2932,6 +3117,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "d2890bfd-4edb-436a-b471-6b4e9eb22698",
 			"name": "Cursed",
 			"mental": true,
 			"supernatural": true,
@@ -2944,6 +3130,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "9c15ca3a-4168-47a0-b76d-d4f5238a055d",
 			"name": "Cynophobia (Dogs)",
 			"mental": true,
 			"base_points": -5,
@@ -2957,6 +3144,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "cb582b7c-d17a-440f-9105-d1ad7bd27ef2",
 			"name": "Danger Sense",
 			"mental": true,
 			"base_points": 15,
@@ -2968,6 +3156,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "6d279603-814b-40f8-875b-5dce46cc55b8",
 			"name": "Daredevil",
 			"mental": true,
 			"base_points": 15,
@@ -2980,6 +3169,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "52482b4b-e6d8-4704-a0a3-8df7e528e5a9",
 			"name": "Deafness",
 			"physical": true,
 			"base_points": -20,
@@ -2991,6 +3181,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "c7468074-09c9-415d-80ae-dc4719c5f3d9",
 			"name": "Deep Sleeper",
 			"physical": true,
 			"base_points": 1,
@@ -3002,12 +3193,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "05ba47aa-f89c-4483-9804-171d201b2c2e",
 			"name": "Delusion (@Belief@)",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "19fc08fc-64a4-4f7f-90cc-84734c170fdd",
 					"disabled": true,
 					"name": "Minor",
 					"reference": "B130",
@@ -3018,6 +3211,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "6fb4219a-efac-4e3d-a817-1e22df8a3d2b",
 					"disabled": true,
 					"name": "Major",
 					"reference": "B130",
@@ -3028,6 +3222,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "67fe6717-307b-4bb6-8e86-11a24827b9cd",
 					"disabled": true,
 					"name": "Severe",
 					"reference": "B130",
@@ -3044,6 +3239,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "3cdea680-c843-4095-b91f-3d3d3e9227b0",
 			"name": "Delusions",
 			"mental": true,
 			"levels": "0",
@@ -3057,6 +3253,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "6ea6ba05-da79-406c-bf49-3312df266ea4",
 			"name": "Demophobia (Crowds)",
 			"mental": true,
 			"base_points": -15,
@@ -3070,12 +3267,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "4a944c8c-1be2-4af0-ad71-6c9b109adc70",
 			"name": "Dependant (@Who@)",
 			"social": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "02b4cba0-6873-4d8d-a759-04bb67fa07cb",
 					"disabled": true,
 					"name": "Point total",
 					"reference": "B131",
@@ -3087,6 +3286,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "1b3c87ab-3ff1-4b0e-8c32-62b028d824bb",
 					"disabled": true,
 					"name": "Point total",
 					"reference": "B131",
@@ -3098,6 +3298,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a4dd23cb-793c-4be1-97ab-97650fca1a9c",
 					"disabled": true,
 					"name": "Point total",
 					"reference": "B131",
@@ -3109,6 +3310,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "b6db9c4a-8230-44d7-ba6b-7752d4e95b79",
 					"disabled": true,
 					"name": "Point total",
 					"reference": "B131",
@@ -3120,6 +3322,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d685bf0c-25f4-4ffd-b2ab-0adb5211ad0d",
 					"disabled": true,
 					"name": "Point total",
 					"reference": "B131",
@@ -3131,6 +3334,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "50506b74-7a78-4df0-a1a6-c5305be7af5d",
 					"disabled": true,
 					"name": "Appears almost all the time",
 					"reference": "B36",
@@ -3141,6 +3345,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "fb9fa14f-bef9-495f-8747-810a340e11d7",
 					"disabled": true,
 					"name": "Appears quite often",
 					"reference": "B36",
@@ -3151,6 +3356,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "16038ec5-65a0-459c-a1c8-b7c915b4de09",
 					"disabled": true,
 					"name": "Appears fairly often",
 					"reference": "B36",
@@ -3161,6 +3367,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "50267cf2-7a72-4f45-888e-eb16559de266",
 					"disabled": true,
 					"name": "Appears quite rarely",
 					"reference": "B36",
@@ -3171,6 +3378,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "95ff0fb3-3faf-4890-b4a9-d8e6a5f6a85d",
 					"disabled": true,
 					"name": "Group",
 					"reference": "B131",
@@ -3180,6 +3388,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "5c1b7c64-92d6-4a71-86d9-b15069503ef8",
 					"disabled": true,
 					"name": "Acquaintance",
 					"reference": "B131",
@@ -3189,6 +3398,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "c10feed1-5ab3-4b46-a802-6b44892944f3",
 					"disabled": true,
 					"name": "Friend",
 					"reference": "B131",
@@ -3198,6 +3408,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "9d85dab1-bcad-464b-b3a7-cd704a0e3041",
 					"disabled": true,
 					"name": "Loved one",
 					"reference": "B131",
@@ -3213,6 +3424,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "ca6abcc2-91c0-4b7e-8c68-dde62eb43000",
 			"name": "Dependency (@Substance@)",
 			"physical": true,
 			"exotic": true,
@@ -3220,6 +3432,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "950b8ff8-bc76-4f64-9974-947f909c83c4",
 					"disabled": true,
 					"name": "Rarity: Rare",
 					"reference": "B130",
@@ -3230,6 +3443,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d2a3e67c-03d2-47b3-a681-b75ec15fd5fd",
 					"disabled": true,
 					"name": "Rarity: Occasional",
 					"reference": "B130",
@@ -3240,6 +3454,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "913e0416-bcd1-4c8e-b480-020a5be969c6",
 					"disabled": true,
 					"name": "Rarity: Common",
 					"reference": "B130",
@@ -3250,6 +3465,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "56eff7ee-0e04-4a83-b819-4ca535e8577e",
 					"disabled": true,
 					"name": "Rarity: Very Common",
 					"reference": "B130",
@@ -3260,6 +3476,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d54cfc9e-630a-4f4e-88b5-3cfbc8a29272",
 					"disabled": true,
 					"name": "Illegal",
 					"reference": "B130",
@@ -3270,6 +3487,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f7fe0d02-ed18-49d8-a41f-9b308008864a",
 					"disabled": true,
 					"name": "Frequency: Constantly",
 					"reference": "B130",
@@ -3280,6 +3498,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f4718b8e-3fbc-4c89-9988-a90f81e48952",
 					"disabled": true,
 					"name": "Frequency: Hourly",
 					"reference": "B130",
@@ -3290,6 +3509,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "ed076676-441a-4abd-9898-73c87edf5761",
 					"disabled": true,
 					"name": "Frequency: Daily",
 					"reference": "B130",
@@ -3300,6 +3520,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "67e0666e-cfac-4384-8c20-037a9f34342d",
 					"disabled": true,
 					"name": "Frequency: Weekly",
 					"reference": "B130",
@@ -3310,6 +3531,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "0cda9a2a-085c-4d88-a372-29071367a5c8",
 					"disabled": true,
 					"name": "Frequency: Monthly",
 					"reference": "B130",
@@ -3320,6 +3542,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "958eee67-2819-43a6-ac1d-97707c4a71c6",
 					"disabled": true,
 					"name": "Frequency: Seasonally",
 					"reference": "B130",
@@ -3330,6 +3553,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a8cec390-6982-42ca-aea5-e5f9ef6ba295",
 					"disabled": true,
 					"name": "Frequency: Yearly",
 					"reference": "B130",
@@ -3340,6 +3564,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "174e33f2-3f88-4975-b80a-6008ccb91fe3",
 					"disabled": true,
 					"name": "Aging",
 					"reference": "B130",
@@ -3357,6 +3582,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "fd3b27da-f238-472b-8203-531db6c161fd",
 			"name": "Disciplines of Faith (Asceticism)",
 			"mental": true,
 			"base_points": -15,
@@ -3368,6 +3594,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "94edc0fd-9a23-4db3-a1a0-440ee3b2daed",
 			"name": "Disciplines of Faith (Monasticism)",
 			"mental": true,
 			"base_points": -10,
@@ -3379,6 +3606,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "b53f9863-c581-4358-86bb-2f85bf9dae43",
 			"name": "Disciplines of Faith (Mysticism)",
 			"mental": true,
 			"base_points": -10,
@@ -3390,6 +3618,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "b9ff9cc6-7a1c-48c6-b7eb-9e16188a8d3f",
 			"name": "Disciplines of Faith (Ritualism)",
 			"mental": true,
 			"base_points": -5,
@@ -3401,6 +3630,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "ce041173-f2c0-4177-8710-2e957556a352",
 			"name": "Dislikes @Item@",
 			"mental": true,
 			"levels": "0",
@@ -3413,6 +3643,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "0abc2fcd-1e5f-41c8-bc27-3b7029651593",
 			"name": "Distinctive Features",
 			"physical": true,
 			"base_points": -1,
@@ -3445,6 +3676,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "68e5b8cf-3712-4b74-8e9f-a798ac3886f2",
 			"name": "Distractible",
 			"mental": true,
 			"base_points": -1,
@@ -3457,6 +3689,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "2a283f14-082f-48f7-8c12-6324239cac90",
 			"name": "Disturbing Voice",
 			"physical": true,
 			"base_points": -10,
@@ -3538,6 +3771,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "9be623cc-9e34-435e-9e68-06d265920859",
 			"name": "Dreamer",
 			"mental": true,
 			"base_points": -1,
@@ -3550,6 +3784,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "d227249f-aeed-4d6d-9e17-1a77809efcc0",
 			"name": "Dull",
 			"mental": true,
 			"base_points": -1,
@@ -3561,12 +3796,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "eed02b7b-edd7-4257-82b7-4a2114dc084a",
 			"name": "Duty (@Duty@)",
 			"social": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "9bbc0f1a-6793-4e9b-8f1b-db430261a05b",
 					"disabled": true,
 					"name": "FR: 6",
 					"cost_type": "points",
@@ -3576,6 +3813,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "bf85a852-8c40-4711-b311-161b4f2666d3",
 					"disabled": true,
 					"name": "FR: 9",
 					"cost_type": "points",
@@ -3585,6 +3823,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "ac1434c9-2ae4-4433-962d-03936ae7bff4",
 					"disabled": true,
 					"name": "FR: 12",
 					"cost_type": "points",
@@ -3594,6 +3833,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "0cfdb111-84f5-45d5-ae59-dfca2be240ef",
 					"disabled": true,
 					"name": "FR: 15",
 					"cost_type": "points",
@@ -3603,6 +3843,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "ad047379-ac72-4c98-82d1-b1d89aed9ca5",
 					"disabled": true,
 					"name": "Extremely Hazardous",
 					"cost_type": "points",
@@ -3612,6 +3853,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "262de6a6-33c2-4cc9-ad9f-1f69a4f40e57",
 					"disabled": true,
 					"name": "Involuntary",
 					"cost_type": "points",
@@ -3621,6 +3863,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "85b97650-8919-4569-87ff-d8ee01a194f7",
 					"disabled": true,
 					"name": "Nonhazardous",
 					"cost_type": "points",
@@ -3636,6 +3879,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "01ef04b5-a1d7-4c15-98e4-345e57e4c7be",
 			"name": "Dwarfism",
 			"physical": true,
 			"base_points": -15,
@@ -3677,6 +3921,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "b214e782-759d-4486-9e6e-9b0e4623c672",
 			"name": "Dyslexia",
 			"mental": true,
 			"base_points": -10,
@@ -3689,6 +3934,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "c6ad482a-9bc3-4ac8-b68f-4ea5f7ffb1b6",
 			"name": "Easy to Kill",
 			"physical": true,
 			"levels": "1",
@@ -3702,6 +3948,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "bd78b9b5-b153-49f4-b05a-a69bd53d1db5",
 			"name": "Easy to Read",
 			"mental": true,
 			"base_points": -10,
@@ -3714,6 +3961,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "b05ff747-5315-4c8f-9aae-5ee6435c74ea",
 			"name": "Eidetic Memory",
 			"mental": true,
 			"base_points": 5,
@@ -3721,6 +3969,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "27e18381-f7f3-4a16-aa93-863ef8e4adc7",
 					"disabled": true,
 					"name": "Photographic",
 					"reference": "B51",
@@ -3737,6 +3986,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "a0d46035-5f27-4d70-83ab-b2cb8e1509c8",
 			"name": "Empathy",
 			"mental": true,
 			"base_points": 15,
@@ -3744,6 +3994,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "81ef06aa-d32e-405b-99e1-9b0a0250dd9b",
 					"disabled": true,
 					"name": "Remote",
 					"reference": "P48",
@@ -3789,6 +4040,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "a1a80522-e2be-458d-951e-13fe4920a453",
 			"name": "Empathy (Sensitive)",
 			"mental": true,
 			"base_points": 5,
@@ -3796,6 +4048,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "df984564-7248-491a-b858-9500cf331761",
 					"disabled": true,
 					"name": "Remote",
 					"reference": "P48",
@@ -3841,12 +4094,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "260c4f91-4ab1-4edf-bdae-b1b347dab8c5",
 			"name": "Enemy (@Who@)",
 			"social": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "bb913d92-3f84-4d88-80aa-0785ff508b90",
 					"disabled": true,
 					"name": "Weak Individual",
 					"reference": "B135",
@@ -3858,6 +4113,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e3c38e9b-aa92-44f4-970c-1e9b2d076bc9",
 					"disabled": true,
 					"name": "Equal Individual",
 					"reference": "B135",
@@ -3869,6 +4125,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "ca5e3815-a00f-4f87-8dd0-b2c5b58385a5",
 					"disabled": true,
 					"name": "Powerful Individual",
 					"reference": "B135",
@@ -3880,6 +4137,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "651b806e-3350-4a7e-af5d-72674bab13fb",
 					"disabled": true,
 					"name": "Weak Group",
 					"reference": "B135",
@@ -3890,6 +4148,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "8873b48b-ea3d-485e-bebd-4fef3545c8f1",
 					"disabled": true,
 					"name": "Medium Group",
 					"reference": "B135",
@@ -3900,6 +4159,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "8b66172a-632d-4bc6-98f8-893c9f77cf17",
 					"disabled": true,
 					"name": "Appears almost all the time",
 					"reference": "B36",
@@ -3910,6 +4170,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "87b06886-7d9b-408c-bda3-eec5562e25d0",
 					"disabled": true,
 					"name": "Appears quite often",
 					"reference": "B36",
@@ -3920,6 +4181,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f51c3774-43f2-42a2-9e7d-1c543bee4a97",
 					"disabled": true,
 					"name": "Appears fairly often",
 					"reference": "B36",
@@ -3930,6 +4192,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a2bb45a7-ba00-433e-9d7a-deb25ac6c9f0",
 					"disabled": true,
 					"name": "Appears quite rarely",
 					"reference": "B36",
@@ -3940,6 +4203,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d86b9736-2992-488a-a684-e805b7175be4",
 					"disabled": true,
 					"name": "Large/Powerful Group",
 					"reference": "B135",
@@ -3950,6 +4214,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "bee23829-0dc7-4831-8cf9-3bdd7b68de69",
 					"disabled": true,
 					"name": "Utterly Formidable Group",
 					"reference": "B135",
@@ -3960,6 +4225,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "c2693aa0-c8fb-4b50-b17d-9f2e0a756e33",
 					"disabled": true,
 					"name": "Unknown",
 					"reference": "B135",
@@ -3970,6 +4236,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "92830cf6-3332-4bc0-bf3a-20eb852764b5",
 					"disabled": true,
 					"name": "Evil Twin",
 					"reference": "B135",
@@ -3980,6 +4247,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "276edbdc-8a1a-45df-9ff3-300af5ec86c6",
 					"disabled": true,
 					"name": "Evil Twin",
 					"reference": "B135",
@@ -3991,6 +4259,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "3cc58ecf-2921-4b6c-8deb-87a8decbd8d6",
 					"disabled": true,
 					"name": "Evil Twin",
 					"reference": "B135",
@@ -4002,6 +4271,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "0560cf33-a9d7-4e32-a03b-cfb35cdf8793",
 					"disabled": true,
 					"name": "Watcher",
 					"reference": "B135",
@@ -4011,6 +4281,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "b3748121-9f7c-4df3-a113-bed164e159d4",
 					"disabled": true,
 					"name": "Rival",
 					"reference": "B135",
@@ -4020,6 +4291,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "91cca711-9182-48c6-bd20-92295c77b927",
 					"disabled": true,
 					"name": "Hunter",
 					"reference": "B135",
@@ -4035,6 +4307,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "749d35fb-d9b8-4420-b943-1ffdebc09f16",
 			"name": "Entomophobia (Insects)",
 			"mental": true,
 			"base_points": -10,
@@ -4048,6 +4321,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "02857780-338e-4c22-a7de-469bcf530f81",
 			"name": "Epilepsy",
 			"physical": true,
 			"base_points": -30,
@@ -4060,6 +4334,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "db473374-49ee-40d9-8572-c16e87c6a528",
 			"name": "Expression",
 			"mental": true,
 			"levels": "0",
@@ -4073,6 +4348,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "b007fb21-b9bd-404e-9c8d-cdbc4e762f8a",
 			"name": "Extra Sleep",
 			"physical": true,
 			"levels": "1",
@@ -4086,6 +4362,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "a3df243e-ab72-4b46-abf4-f2a4d72c5fdd",
 			"name": "Fanaticism (@Group or ideal@)",
 			"mental": true,
 			"base_points": -15,
@@ -4093,6 +4370,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e6867c86-0422-4c2c-98f1-60ac9dfc9409",
 					"disabled": true,
 					"name": "Extreme",
 					"reference": "B136",
@@ -4109,6 +4387,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "d1851f73-e75f-49ed-8815-915899b32e72",
 			"name": "Fashion Sense",
 			"mental": true,
 			"base_points": 5,
@@ -4128,6 +4407,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "165f48fa-5ba8-4488-9a59-594d652e6bb2",
 			"name": "Fat",
 			"physical": true,
 			"base_points": -3,
@@ -4184,6 +4464,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "71eef3dc-78b5-4b84-860b-35c6d6890f2b",
 			"name": "Fearfulness",
 			"mental": true,
 			"levels": "1",
@@ -4218,6 +4499,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "36a4c393-158d-4a48-a1f8-0e9c42ad680a",
 			"name": "Fearlessness",
 			"mental": true,
 			"levels": "1",
@@ -4252,6 +4534,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "69714aab-e942-4a1b-b79a-3a80cb983ec1",
 			"name": "Fit",
 			"physical": true,
 			"base_points": 5,
@@ -4264,6 +4547,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "f86a503f-b588-489a-84bd-7caf40c578e2",
 			"name": "Fit, Very",
 			"physical": true,
 			"base_points": 15,
@@ -4276,12 +4560,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "a0f52026-855c-4307-b708-a0e70b688c1a",
 			"name": "Flashbacks",
 			"physical": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "96134743-3201-40b0-9564-f18270fe87b6",
 					"disabled": true,
 					"name": "Mild",
 					"reference": "B136",
@@ -4293,6 +4579,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "301ffc19-7b18-4a5a-9bf9-f8e1c7ce64fb",
 					"disabled": true,
 					"name": "Severe",
 					"reference": "B136",
@@ -4304,6 +4591,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "0209b52e-3715-4cbc-bb6f-f568dbc71ca2",
 					"disabled": true,
 					"name": "Crippling",
 					"cost_type": "points",
@@ -4321,6 +4609,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "698431ec-5c02-43b8-9409-e116c5e51b7f",
 			"name": "Flexibility",
 			"physical": true,
 			"base_points": 5,
@@ -4361,6 +4650,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "bd840c0a-92b1-4724-9dcf-4868f257d337",
 			"name": "Flexibility (Double-Jointed)",
 			"physical": true,
 			"base_points": 15,
@@ -4401,6 +4691,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "e9069b5f-9cd7-458f-89be-2624030884e5",
 			"name": "Fur",
 			"physical": true,
 			"exotic": true,
@@ -4413,6 +4704,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "27a44791-adf6-462b-8192-d3d67795f703",
 			"name": "Gigantism",
 			"physical": true,
 			"reference": "B20",
@@ -4457,6 +4749,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "91ed32b1-1c0e-4975-a284-59b9f8e3f4ba",
 			"name": "Gluttony",
 			"mental": true,
 			"base_points": -5,
@@ -4470,6 +4763,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "7821fad0-ad5a-461c-86b7-14e8e5993d1f",
 			"name": "Greed",
 			"mental": true,
 			"base_points": -15,
@@ -4483,6 +4777,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "592615e5-c91c-4085-aa88-6b7316da26e1",
 			"name": "Gregarious",
 			"mental": true,
 			"base_points": -10,
@@ -4502,6 +4797,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "5bbc8032-12db-4eba-ac3e-7ab583eb2408",
 			"name": "Guilt Complex",
 			"mental": true,
 			"base_points": -5,
@@ -4513,6 +4809,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "36e56a74-c553-403b-b691-85d7f6e3a55f",
 			"name": "Gullibility",
 			"mental": true,
 			"base_points": -10,
@@ -4550,6 +4847,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "d031fe09-739e-4851-b38d-52edb4168cab",
 			"name": "Habit",
 			"mental": true,
 			"levels": "0",
@@ -4563,6 +4861,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "64991106-7ffd-4224-9b85-9379e04c2184",
 			"name": "Ham-Fisted",
 			"physical": true,
 			"levels": "1",
@@ -4719,6 +5018,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "8b02491d-493a-497c-a257-9f322d5773e1",
 			"name": "Hard of Hearing",
 			"physical": true,
 			"base_points": -10,
@@ -4738,6 +5038,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "85917021-cccd-4cd2-8b59-02d0fa62dd40",
 			"name": "Hard to Kill",
 			"physical": true,
 			"levels": "1",
@@ -4751,6 +5052,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "3d04dfcd-efe4-43aa-933d-7bf9a65a620a",
 			"name": "Hard to Subdue",
 			"physical": true,
 			"levels": "1",
@@ -4764,6 +5066,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "f17f93d1-bb61-4256-ac34-dfd3edafd8b2",
 			"name": "Healing",
 			"mental": true,
 			"exotic": true,
@@ -4772,6 +5075,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7d20ac1b-7ade-4705-b891-b825db38c2ef",
 					"disabled": true,
 					"name": "Faith Healing",
 					"reference": "B59",
@@ -4782,6 +5086,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "82d8807a-7400-4f44-8878-01a7874db161",
 					"disabled": true,
 					"name": "Xenohealing",
 					"reference": "B59",
@@ -4793,6 +5098,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "dbbe4138-65f8-4139-b2d9-dc8d4634fa6c",
 					"disabled": true,
 					"name": "Xenohealing",
 					"reference": "B59",
@@ -4804,6 +5110,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "8b1e5afa-2a5f-4e34-9e4e-53dd351660a6",
 					"disabled": true,
 					"name": "Xenohealing",
 					"reference": "B59",
@@ -4815,6 +5122,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "9a9f305a-2293-430e-b027-37497ec63000",
 					"disabled": true,
 					"name": "Xenohealing",
 					"reference": "B59",
@@ -4826,6 +5134,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "389cd17d-ac5e-44bd-bae9-18290ee2b91d",
 					"disabled": true,
 					"name": "Xenohealing",
 					"reference": "B59",
@@ -4837,6 +5146,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "bf657e62-2715-456b-8979-df9e153cbcd2",
 					"disabled": true,
 					"name": "Disease Only",
 					"reference": "B59",
@@ -4847,6 +5157,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "86286d33-bd88-4e8e-8900-3d403758d3e7",
 					"disabled": true,
 					"name": "Injuries Only",
 					"reference": "B59",
@@ -4857,6 +5168,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "b32eca56-a127-4d8c-9355-7c852b84804a",
 					"disabled": true,
 					"name": "Own Race Only",
 					"reference": "B59",
@@ -4867,6 +5179,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e9ba93e8-9b8e-4717-b8b6-8116d9cb9b49",
 					"disabled": true,
 					"name": "Psychic Healing",
 					"reference": "B59",
@@ -4877,6 +5190,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d03ee999-cebb-4649-a8cb-0d577e77c0c4",
 					"disabled": true,
 					"name": "Affects Self",
 					"reference": "P51",
@@ -4887,6 +5201,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "2806ae50-3639-4092-9aec-f4df6fdfc4af",
 					"disabled": true,
 					"name": "Cure Affliction",
 					"reference": "P51",
@@ -4897,6 +5212,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "bca436e9-0359-4e90-a063-b42d52fafb2c",
 					"disabled": true,
 					"name": "Affliction Only",
 					"reference": "P51",
@@ -4907,6 +5223,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "56e395af-b0fb-437d-b211-572954482f06",
 					"disabled": true,
 					"name": "Capped",
 					"reference": "P51",
@@ -4918,6 +5235,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7c603d70-1baa-4d41-80b9-e56f76e3539b",
 					"disabled": true,
 					"name": "Capped",
 					"reference": "P51",
@@ -4929,6 +5247,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "30bdeb1b-db98-44d6-8e0b-c7a245a68ea3",
 					"disabled": true,
 					"name": "Capped",
 					"reference": "P51",
@@ -4940,6 +5259,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "93e2ae11-5eba-4806-9ebd-003cf880b99d",
 					"disabled": true,
 					"name": "Capped",
 					"reference": "P51",
@@ -4951,6 +5271,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e79a48b1-d446-4850-95a6-4a7fb7bd004f",
 					"disabled": true,
 					"name": "Capped",
 					"reference": "P51",
@@ -4962,6 +5283,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4f4f098c-7812-493e-b2fd-c7a8a969993b",
 					"disabled": true,
 					"name": "Empathic",
 					"reference": "P51",
@@ -4972,6 +5294,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "124a52b1-f8f7-4562-ab48-cee2ad1586a8",
 					"disabled": true,
 					"name": "Restore Limbs",
 					"reference": "PSI14",
@@ -4988,6 +5311,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "62541089-f1ab-481d-afa7-2be5540dab28",
 			"name": "Heliophobia (Sun)",
 			"mental": true,
 			"base_points": -15,
@@ -5000,6 +5324,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "f5498bd6-9fca-4560-aeda-090fa732489d",
 			"name": "Hemophilia",
 			"physical": true,
 			"base_points": -30,
@@ -5027,6 +5352,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "a9f0dfe0-2366-4a63-971b-546e146be50f",
 			"name": "Hemophobia (Blood)",
 			"mental": true,
 			"base_points": -10,
@@ -5040,6 +5366,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "870f5387-4904-492b-ab41-abc471bd678a",
 			"name": "Heroic Feats of @One of Strength, Dexterity, or Health@",
 			"mental": true,
 			"supernatural": true,
@@ -5053,6 +5380,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "2cb4e174-cc3a-4ab6-9e7a-30048a8cedde",
 			"name": "Herpetophobia (Reptiles)",
 			"mental": true,
 			"base_points": -10,
@@ -5066,6 +5394,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "9de21853-f57c-477f-a593-67202cd90536",
 			"name": "Hidebound",
 			"mental": true,
 			"base_points": -5,
@@ -5078,6 +5407,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "620c7e36-0057-447c-b896-8b2f2e919433",
 			"name": "High Manual Dexterity",
 			"physical": true,
 			"levels": "1",
@@ -5202,6 +5532,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "65c60490-7ad7-486b-9c57-40b07567fdec",
 			"name": "High Pain Threshold",
 			"physical": true,
 			"base_points": 10,
@@ -5214,6 +5545,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "e4ac0225-caad-4f4e-85d8-4fae6fbdf639",
 			"name": "Honest Face",
 			"physical": true,
 			"base_points": 1,
@@ -5226,6 +5558,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "0fc59179-002a-4910-bbb4-5e81d0ab192c",
 			"name": "Honesty",
 			"mental": true,
 			"base_points": -10,
@@ -5239,6 +5572,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "a7c97ab9-35d4-45fa-b434-698640918192",
 			"name": "Hoplophobia (Weapons)",
 			"mental": true,
 			"base_points": -20,
@@ -5252,6 +5586,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "1bfeb2af-22b9-425e-a710-ec925d9fbf0d",
 			"name": "Horrible Hangovers",
 			"physical": true,
 			"base_points": -1,
@@ -5264,6 +5599,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "5ba69588-568a-4075-ad3c-73bcd55df23d",
 			"name": "Humble",
 			"mental": true,
 			"base_points": -1,
@@ -5275,6 +5611,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "29593563-757e-4c88-a89d-ede49018e75e",
 			"name": "Hunchback",
 			"physical": true,
 			"base_points": -10,
@@ -5282,6 +5619,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "94d1ac60-571c-45aa-9be3-5e7778891fa7",
 					"disabled": true,
 					"name": "DX penalty if not wearing custom-made clothing and armor",
 					"reference": "B139",
@@ -5327,6 +5665,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "514aac3a-f11e-4068-a9d3-f05e84f1f029",
 			"name": "Imaginative",
 			"mental": true,
 			"base_points": -1,
@@ -5338,6 +5677,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "e3959b26-d299-44ed-a466-c3007325eb7b",
 			"name": "Impulsiveness",
 			"mental": true,
 			"base_points": -10,
@@ -5351,6 +5691,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "a62189c4-c76a-4b16-ab37-92857d915db9",
 			"name": "Incompetence (@Skill@)",
 			"mental": true,
 			"levels": "0",
@@ -5375,6 +5716,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "e0d3e045-094c-4836-9dbc-c61838986413",
 			"name": "Incurious",
 			"mental": true,
 			"base_points": -5,
@@ -5395,6 +5737,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "75257e6d-5b38-4f00-b1b7-b9dab23b8deb",
 			"name": "Indecisive",
 			"mental": true,
 			"base_points": -10,
@@ -5408,6 +5751,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "91e70871-c25f-4b11-8781-6bbaed158c1f",
 			"name": "Indomitable",
 			"mental": true,
 			"base_points": 15,
@@ -5419,6 +5763,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "3d4b1854-1d11-49c9-acee-637253e8f4f3",
 			"name": "Innumerate",
 			"mental": true,
 			"base_points": -5,
@@ -5517,12 +5862,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "888a3951-6a20-4007-9394-5379c1bd1f76",
 			"name": "Insomniac",
 			"physical": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "16df325e-0d14-4768-a422-a53c7f56bb29",
 					"name": "Mild",
 					"reference": "B140",
 					"cost_type": "points",
@@ -5533,6 +5880,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a073095e-b957-4a91-b1f8-1710a21ccb63",
 					"disabled": true,
 					"name": "Severe",
 					"reference": "B140",
@@ -5550,12 +5898,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "8ba86932-f80a-425a-a96e-b7418dd6792b",
 			"name": "Intolerance (@Class, Ethnicity, Nationality, Religion, Sex, or Species@)",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "8fb20e96-87d3-442f-9016-4a3296f00e39",
 					"disabled": true,
 					"name": "Scope: Common",
 					"reference": "B140",
@@ -5566,6 +5916,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d710dcd0-69e8-4a7e-a53b-e36161e72534",
 					"disabled": true,
 					"name": "Scope: Occasional",
 					"reference": "B140",
@@ -5576,6 +5927,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "bed12a55-1f16-41ec-b41e-96e5d3155591",
 					"disabled": true,
 					"name": "Scope: Rare",
 					"reference": "B140",
@@ -5586,6 +5938,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a6d00c15-dc94-4900-944f-19cf13017927",
 					"disabled": true,
 					"name": "Scope: Anyone unlike you",
 					"reference": "B140",
@@ -5609,6 +5962,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "1aa60fa9-c933-4478-a7d7-03704f3575bd",
 			"name": "Intuition",
 			"mental": true,
 			"base_points": 15,
@@ -5616,6 +5970,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "580c9830-f014-41a2-a21a-0b16c2934217",
 					"disabled": true,
 					"name": "Inspired",
 					"reference": "P56",
@@ -5632,6 +5987,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "20efd8b1-e861-43a4-9cf4-9fbb2855eab8",
 			"name": "Jealousy",
 			"mental": true,
 			"base_points": -10,
@@ -5650,6 +6006,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "e55351a4-a261-4bcf-88a3-dc2bfa68f332",
 			"name": "Killjoy",
 			"physical": true,
 			"base_points": -15,
@@ -5704,6 +6061,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "37865159-19f5-4a2e-bc6b-2a9ff63d2de3",
 			"name": "Kleptomania",
 			"mental": true,
 			"base_points": -15,
@@ -5717,6 +6075,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "ade44ba9-6f56-48ab-b1d7-9fd817b71456",
 			"name": "Klutz",
 			"physical": true,
 			"base_points": -5,
@@ -5724,6 +6083,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "2eb399ed-c53b-4f8f-b6c8-71314cf285d0",
 					"disabled": true,
 					"name": "Total",
 					"reference": "B141",
@@ -5755,12 +6115,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "112a4792-3dcb-43cf-a941-a64ccf381500",
 			"name": "Language: Abyssal",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "95b78aba-fedd-4c82-81c5-3d4b6088e069",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -5771,6 +6133,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f53a728c-b4ce-4451-b021-bb847b817940",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -5782,6 +6145,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a2b6e36b-0509-487f-ac05-bab8fc577666",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -5793,6 +6157,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "5d9a6eaf-0d7a-4450-9757-d812cd36e41d",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -5803,6 +6168,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "3b65cc5e-bb8a-4f54-af19-3f4be29d7b71",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -5814,6 +6180,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "758a89c5-e254-4921-807c-e113bc5e488e",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -5825,6 +6192,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4ae55c5a-bc4d-4401-bef5-818ee5b31a70",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -5836,6 +6204,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "891cea32-de8f-4c2a-8171-ad15191a06e3",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -5846,6 +6215,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7017c89e-fa7e-4076-8b5d-96980be4791f",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -5864,12 +6234,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "c3cf0779-2982-4f31-af1f-2f4edb6f3c3a",
 			"name": "Language: Aklo",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "9560ad95-c2b6-4169-aaa8-5db4975d4f57",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -5880,6 +6252,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "833500b9-9a59-4339-888f-bff5c27ed8a9",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -5891,6 +6264,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "33777aa4-7379-44f0-91c8-37433d7fe903",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -5902,6 +6276,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "1eae4cd1-8b6d-4fb5-8dfd-009d1ec7e1db",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -5912,6 +6287,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "1df6aafb-af67-4a92-8ec2-8a06673f3521",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -5923,6 +6299,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "9a12e12f-a481-43c8-947e-89ff5e2051e1",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -5934,6 +6311,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "10200bb8-ad6d-45f9-82af-7e77a7317c19",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -5945,6 +6323,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "74f9dc72-4d5f-44ef-9c68-e9b0faf3694d",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -5955,6 +6334,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "58bdc5b2-0c4b-4bf9-b260-1f711bc41a9b",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -5973,12 +6353,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "dfb99451-9bf9-4159-a9e8-59f651227f67",
 			"name": "Language: Aquan",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "bc36741b-53a6-4052-b9c1-3e67c94f98dc",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -5989,6 +6371,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "68b790d5-3ca1-423d-8310-d14ca6e275de",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6000,6 +6383,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "9dad61b6-fba5-4fc9-88de-0dc21c7279fa",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6011,6 +6395,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "8c0292c6-4205-4a57-9400-97d0107ee095",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -6021,6 +6406,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "735ebd75-2c82-4e78-b0c7-d4237f53057c",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6032,6 +6418,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7b192692-b0aa-4161-8f1e-7cd7d787ea4d",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6043,6 +6430,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e7de1757-7df3-47ef-8f1f-8a2829ccfa98",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6054,6 +6442,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "3ba65d1b-f5d7-437f-8394-08068b6b9c67",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -6064,6 +6453,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "289ac2b1-9718-4336-8f57-037557a84294",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6082,12 +6472,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "0025bea9-dcb4-4d8a-994c-72e446ce2ae7",
 			"name": "Language: Arboreal",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d49dff08-0569-4f61-8f7c-0c1afe41c395",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -6098,6 +6490,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "6c5c8c3d-4a16-40b2-a45d-a2e10ff8dc8e",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6109,6 +6502,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4e172ebb-13e3-44f8-ada8-41da3849cc90",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6120,6 +6514,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f93c5a20-552f-46cf-a71c-598487f0af56",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -6130,6 +6525,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "9cf0f786-c064-4afb-a08b-99e7e945e691",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6141,6 +6537,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "69a4c6f7-7244-47d3-852c-e4c5a6561fc8",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6152,6 +6549,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "66e176a3-275c-4a64-8257-2698749e7fb8",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6163,6 +6561,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7d557b4e-e7c8-4721-b73c-39baac1ca58e",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -6173,6 +6572,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f799988c-fa4e-4e91-beb2-3b7fe8967a72",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6191,12 +6591,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "3b1988de-1183-4fb1-92bd-2d78906c7d19",
 			"name": "Language: Auran",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d36b19df-56d5-432d-897c-ef6e8b7f691e",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -6207,6 +6609,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "03ab6c06-06c3-49a8-83e3-da55435c797e",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6218,6 +6621,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "6aaa08d3-01f3-4c9c-949f-80d7179e879e",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6229,6 +6633,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "cd2bdfae-ac18-44cb-bd1b-d831c1355fdb",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -6239,6 +6644,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "8e6f8ff1-e825-41be-809b-05cc631b1427",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6250,6 +6656,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d349ca2d-9018-4088-b5a5-554db5c8a988",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6261,6 +6668,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "48663ea6-c89d-4a3c-a59d-6d11c3247fc2",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6272,6 +6680,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "c5d9fa90-014e-4d12-a72d-e0d86319598e",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -6282,6 +6691,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "11c7dd1d-468c-49f6-ae67-cf8b792ffe4f",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6300,12 +6710,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "6315ba84-d9b9-4ecb-ab3b-980304f40ad3",
 			"name": "Language: Boggard",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "825b0103-f609-41c8-84c7-401f66784b67",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -6316,6 +6728,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "3684e2bf-b184-426a-87db-499e1f3f8f98",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6327,6 +6740,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "2f271cf1-1c96-4f4a-a4a3-6c176fbec9b0",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6338,6 +6752,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "ff7c30f8-fd67-41cb-9d33-d920f6deca54",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -6348,6 +6763,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "b6ffaf72-026f-4f11-98bd-0f98cb92255b",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6359,6 +6775,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "82963e1b-0af0-43db-aa2e-69b7a61c542f",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6370,6 +6787,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "0b5de598-2b97-4e15-afe5-ceb1fe56d84c",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6381,6 +6799,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "b173bfc4-1fb9-48e5-b91a-ce8c8b628efb",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -6391,6 +6810,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "c2764770-d076-467b-b8a0-bdf0a2bf6a27",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6409,12 +6829,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "309ec218-e25e-4538-a559-20663cf33289",
 			"name": "Language: Celestial",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "fa009cf6-fe97-40e8-a257-5cb1925931ad",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -6425,6 +6847,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "bfba9141-a298-44ef-8feb-d9e29cc8c79c",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6436,6 +6859,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "9a6d2476-a01e-4d4f-ae9e-a77811350c55",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6447,6 +6871,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "0d4768b3-7375-4def-80bc-cd77ced0eadc",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -6457,6 +6882,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a7815f65-bac3-4ae3-b3ac-3485677f34a3",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6468,6 +6894,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "49937873-acc2-4de3-914a-e1329b7e80df",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6479,6 +6906,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "72c0b021-661d-48f9-8a45-3d4f6fbe7ed0",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6490,6 +6918,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "64406c15-e8bf-4b64-8c38-9088b001e8bf",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -6500,6 +6929,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "c2aa33ce-d463-4bfd-9538-a1a9d07394e4",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6518,12 +6948,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "5f4f7353-a777-4d45-8d00-1b145920bc7f",
 			"name": "Language: Daemonic",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "071f8f35-72f6-4262-b88b-c2cd317f3c63",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -6534,6 +6966,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "b6e84c94-0fc9-46ed-b5ec-342dd648a166",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6545,6 +6978,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f5f62ec4-a41f-4c30-922a-a397fa406244",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6556,6 +6990,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "9075f0bd-987f-42e9-b69f-5ba2669b4a78",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -6566,6 +7001,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4c28e57f-b421-44a2-9245-cfaf38accffd",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6577,6 +7013,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "40176398-3f19-4af5-8ca5-fd82e9d46c83",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6588,6 +7025,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "21ad18ed-2442-478e-9d08-52c517a688b3",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6599,6 +7037,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "8e45884b-c0e6-49a8-82bd-38b95667ba29",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -6609,6 +7048,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "dcc2a49c-5e80-44f8-a6dc-31ca0583dfd9",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6627,12 +7067,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "d9d91189-13d5-440b-a6df-3a250e0191af",
 			"name": "Language: Draconic",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "33cad8ea-8c3d-4a42-a0b4-cc94bc9c24d5",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -6643,6 +7085,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "78d953cb-f328-4b76-a66e-4f6fbd5b4de4",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6654,6 +7097,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e7a57ed1-2f62-4d37-99da-3fa3681cb614",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6665,6 +7109,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "c2e855ec-a57b-4932-babb-c896a3e9a64a",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -6675,6 +7120,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "bc956584-3d98-490c-9c94-71dbcfd79635",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6686,6 +7132,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "b902effb-32ab-4c3e-9c83-b66282304d91",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6697,6 +7144,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e999a01c-1a42-4d25-91de-a0d8cce12340",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6708,6 +7156,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "582b8a34-368b-4619-b16f-8dcee4a7aa20",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -6718,6 +7167,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4a659e4f-ef05-4ecf-ad8b-82fac31c32e0",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6736,12 +7186,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "ad1bee0e-c662-49bd-8355-e1ea595817fd",
 			"name": "Language: Dwarven",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "dd18fb71-3f80-4ff1-bf9b-daff41216b4b",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -6752,6 +7204,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "6119b4db-1189-46b0-8c2c-6edc239e5811",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6763,6 +7216,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "c27cdef5-e730-46e5-ae97-7684443d83fa",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6774,6 +7228,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e349d2ff-6ad4-472d-a81f-714503032f92",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -6784,6 +7239,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "dc4a8b34-2417-4664-b0e9-7d05f2d353f3",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6795,6 +7251,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "37837258-a70a-4e69-83af-dbb69169dcef",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6806,6 +7263,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7ca509d9-885c-4290-a682-972c87766726",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6817,6 +7275,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7c379fbe-9b81-45db-8260-62265bcf1751",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -6827,6 +7286,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "b5a0bca1-5903-4115-8206-9fd41385a180",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6845,12 +7305,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "80963ee0-bc79-4cbb-b6ab-507abdd9bef9",
 			"name": "Language: Elven",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "0345b88f-c6b0-4c99-a42b-4c0b38706ee8",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -6861,6 +7323,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "bceed787-f8e7-4e88-970f-5ad5a8beb22a",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6872,6 +7335,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "ad527984-20ee-4e62-b718-c8ada3c0ef40",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6883,6 +7347,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "8bb4d565-0a79-4b3e-892c-3231e16de1df",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -6893,6 +7358,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "67757b67-398c-4035-a5d9-c1ba9febe6ab",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6904,6 +7370,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e6781f29-6fbc-441f-8159-518169954b20",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6915,6 +7382,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "1d4185d6-d999-413c-bb5c-db88276a6381",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6926,6 +7394,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "6bf66c20-919b-40fd-9dd5-072c89b9caa0",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -6936,6 +7405,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "6ac0a36b-7932-4b45-9d0f-2602aafc5a7d",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -6954,12 +7424,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "b06ccc2b-79f3-4609-817c-59744c95731f",
 			"name": "Language: Gnoll",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "23bdef43-b29b-4285-a186-abd5a7b594a7",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -6970,6 +7442,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "fe62ea0f-dd99-4630-b68f-c97fd0db720f",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6981,6 +7454,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "20357d53-e410-452b-973f-439eb758bc59",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -6992,6 +7466,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "6cee2577-4181-485a-a88c-363cabe137b2",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7002,6 +7477,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "dd732fec-fed1-4fed-826e-4364c79db3d1",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7013,6 +7489,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "cd08f572-fa3d-4f5a-aa5f-8d487f16be88",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7024,6 +7501,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "b7feb52c-5ca4-4945-b2fa-f66aba70cf50",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7035,6 +7513,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "faaf747e-4ebf-428d-b67d-7d40f0261aef",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7045,6 +7524,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a23ee324-1056-4f7c-8ca4-375e175d8701",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7063,12 +7543,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "5701a166-a9b3-4694-bb2a-c12b72c1b450",
 			"name": "Language: Goblin",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "17991c0f-9bee-420c-9bf4-9bf3cb2728b3",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -7079,6 +7561,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "5b3b2c0b-57f4-42fc-bf88-d99ef52782ec",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7090,6 +7573,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d52def78-8de6-42ec-87c7-ccfae4794d61",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7101,6 +7585,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "3c1e81fe-caaa-4cfb-916a-f5da2f98c809",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7111,6 +7596,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7b0d43fa-851f-41db-a43d-08bc845c3926",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7122,6 +7608,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "3b84b863-8bbf-4765-a8e1-ebc3ed29373c",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7133,6 +7620,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "0b695321-825b-47c5-be17-cba6c23797ff",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7144,6 +7632,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "8b9acfec-fbc9-481d-bb22-163c34bef403",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7154,6 +7643,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "c8fda909-e204-40f3-984e-ce28598706d7",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7172,12 +7662,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "10b48283-5edc-4f67-aad8-0361a50ffae9",
 			"name": "Language: Human",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "bd43ffcb-9fae-46a6-9a4a-a5e106025bdf",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -7188,6 +7680,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4209450e-982d-4d61-8418-1038b751216e",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7199,6 +7692,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "081afc62-57aa-4446-b4c5-cb318ebe33c7",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7210,6 +7704,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "6f4ba6ba-307b-48c1-8329-109fcc557bd5",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7220,6 +7715,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "5001ea2b-d5fe-4264-b327-dcb517564edc",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7231,6 +7727,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "8ff39101-1c82-42db-b6a8-7f52abc85721",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7242,6 +7739,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "24d719b4-528e-40fd-a19e-e8edf7d92b91",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7253,6 +7751,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "55eb7f39-b3e5-468a-bd3a-2b4d28feacd2",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7263,6 +7762,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "fa28b981-a20e-43f5-a700-c67eb816de7f",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7281,12 +7781,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "29ddba93-a49b-4c18-bd69-26d278f56ed5",
 			"name": "Language: Ignan",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "2280a75f-ca4c-44f0-896b-b5c248585347",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -7297,6 +7799,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "2423df92-7775-404d-8a53-f6af63ab453e",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7308,6 +7811,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "90586150-77bb-490c-8ad6-83a16642faa9",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7319,6 +7823,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a871dc4a-316c-4ac7-b494-3ab29aa88df7",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7329,6 +7834,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "9b4b327f-60cc-470a-a8e3-7f997a3d0f76",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7340,6 +7846,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "34eec1b1-af40-4af9-b998-ed90d651950b",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7351,6 +7858,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "44f5e449-d8fe-467e-a7d2-734cad4e0e69",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7362,6 +7870,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e3c90f44-a807-4f94-937b-d32d7439e8ae",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7372,6 +7881,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "6935215e-d78e-4d79-a718-9e504445f4ea",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7390,12 +7900,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "4ad4cca8-dbf9-4f79-a9b9-6d8e4f17845d",
 			"name": "Language: Infernal",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "0cac5953-7baa-4bfd-92ca-ac4a9640cab2",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -7406,6 +7918,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "1dd9573f-29ab-4a2e-bb54-a1aa1bed2071",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7417,6 +7930,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "33177957-e603-469d-8256-f31d995aa59a",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7428,6 +7942,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "1dd66495-ed53-408c-9e8c-4045171d524e",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7438,6 +7953,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "369d64b0-3386-47e6-99db-79617d8c24a6",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7449,6 +7965,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "6a645c84-40ac-45fd-840a-2eab85c2c84a",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7460,6 +7977,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "cab9c687-c7aa-4565-bbe7-f06a0da2e122",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7471,6 +7989,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a425cf22-78fb-436b-97ef-f4bda1244df8",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7481,6 +8000,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "dda003d9-8ceb-4ec8-9642-ae881ef383a8",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7499,12 +8019,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "18d41709-ca71-4110-9d9e-9b65f49f9e35",
 			"name": "Language: Jotun",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4a621d8f-2dbd-4a83-a1f9-3e246c7f2221",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -7515,6 +8037,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "b9733ff0-8434-4ca2-9376-c7dbdf1290f7",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7526,6 +8049,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "1d16b24f-55f4-4406-a127-84b85e966b7f",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7537,6 +8061,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "09300173-f56e-4ae0-9b05-1698c5ac5ff3",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7547,6 +8072,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "096d89b1-4096-4ae6-b635-90f703f596c7",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7558,6 +8084,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "504bc712-ff4f-40aa-9403-ef8253999530",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7569,6 +8096,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "eace3539-c2a4-481a-b280-047cbbe4c9c5",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7580,6 +8108,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "44399bf3-afa0-49a3-bce3-15397b2dfd93",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7590,6 +8119,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "960a505a-1867-40fa-98c9-64bb114d3560",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7608,12 +8138,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "1ce40882-e739-4c32-b522-b64b343621d5",
 			"name": "Language: Necril",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "3d49e067-2c4b-4d06-903e-50cdb344b66d",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -7624,6 +8156,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "8e086dce-71c8-4d63-9895-e51baec9197b",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7635,6 +8168,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "bc63f132-8a78-4dea-a46c-6151f45124d2",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7646,6 +8180,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e4503907-e5c5-4c8a-b59b-700b5e2d0c01",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7656,6 +8191,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "251b670e-4339-473f-8469-7c1b81f2a561",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7667,6 +8203,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "2385273b-7483-42d5-be0d-4984fa5fee23",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7678,6 +8215,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4f94db1e-5069-4ee8-b9a9-7706843e3ec4",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7689,6 +8227,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "0638b42d-1655-4636-918f-7ed0f357afde",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7699,6 +8238,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "2e124afb-5403-46e9-8ad0-160f0574bb6b",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7717,12 +8257,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "0c2e01a7-1ae2-400e-b9dc-6daa43ff2b3a",
 			"name": "Language: Orcish",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a5065ba7-8a76-494b-8039-c8ec0119be18",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -7733,6 +8275,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e7af313e-225c-4adf-9ee1-3476a629a354",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7744,6 +8287,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "169096ea-fd31-45d0-9485-443be266cbe2",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7755,6 +8299,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "0a891baf-76cb-47d6-8b10-585c1e65f195",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7765,6 +8310,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "6171a2ba-0b12-4c4e-bb24-da2bdce8e302",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7776,6 +8322,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "242c488e-be4b-4fbe-9379-1b3198caa8d5",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7787,6 +8334,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4f465507-c959-4002-b770-b92271601f62",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7798,6 +8346,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "cd1c9c54-db3e-4449-885b-2d22563782fc",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7808,6 +8357,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d40aba9e-1b76-4a25-9a06-3017b3cb97d9",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7826,12 +8376,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "692c99c3-aa65-4ab8-89d1-0a59ed2ac7fd",
 			"name": "Language: Shadowtongue",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7689e1ed-44ca-49a4-89f0-9d6e02296c91",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -7842,6 +8394,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "962f2988-bcdb-4b67-8d84-d1e6aef64b37",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7853,6 +8406,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "dd5114be-0d48-4e98-8a99-e0fba48ea86c",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7864,6 +8418,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "224b8a33-194e-4970-b784-a0e60d452357",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7874,6 +8429,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4cbfae7f-aa41-4fc9-a1cd-2df77860a6d6",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7885,6 +8441,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "5d4c5877-990f-4b72-8c37-43139f7414d4",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7896,6 +8453,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7d0c1519-ec98-4933-9249-8c5f837b6a28",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7907,6 +8465,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "8b132c97-619a-43ff-af8d-38e39d93a79f",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7917,6 +8476,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "325129e8-2f54-4a7e-98fd-5f627cca74fb",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -7935,12 +8495,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "2dd6bf01-3831-468a-978e-068277953f1e",
 			"name": "Language: Sylvan",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "08f780cf-cb42-46be-92d3-7c60c9d966eb",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -7951,6 +8513,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f39ed33a-0ddd-4066-aefd-dd9199815014",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7962,6 +8525,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "de79783a-ac16-4c39-a18f-02a30e5a7356",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7973,6 +8537,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "1a3f64d4-4d9d-4ebb-814c-223973b798df",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -7983,6 +8548,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "ecd6f907-5c90-4946-9ce5-1de5b9d1dc9f",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -7994,6 +8560,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a2759d4b-fabc-4c85-babd-b1bf5925ec5c",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -8005,6 +8572,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "df562633-f1c0-4887-8eb0-0345c2037b0b",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -8016,6 +8584,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "ab849de4-21c6-4852-b273-47cefa672acb",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -8026,6 +8595,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "6cd32f4e-76cf-4153-a188-9463d8152bfe",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -8044,12 +8614,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "9b235cbf-6bf6-4275-a459-90373746c3e6",
 			"name": "Language: Terran",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "cdf464cc-8ec3-448d-bfd1-851104bc6077",
 					"disabled": true,
 					"name": "Native",
 					"reference": "B23",
@@ -8060,6 +8632,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7564219d-25ee-4489-a4f9-a0bb9518bd38",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -8071,6 +8644,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "b7a26837-ffc4-4d85-94de-1b48b8e32827",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -8082,6 +8656,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "5033d4c7-358f-418f-98b3-eba8f37617e3",
 					"name": "Spoken",
 					"reference": "B24",
 					"cost_type": "points",
@@ -8092,6 +8667,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "5844be97-805b-4fdf-9b06-0d6754378815",
 					"disabled": true,
 					"name": "Spoken",
 					"reference": "B24",
@@ -8103,6 +8679,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "24d837c0-4a88-433e-bf89-56b5b1dd55a8",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -8114,6 +8691,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "043eebe4-8925-4a75-8de5-c69aac2aa8a9",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -8125,6 +8703,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "de07f927-f324-477d-b5ad-a9971cb5ef96",
 					"name": "Written",
 					"reference": "B24",
 					"cost_type": "points",
@@ -8135,6 +8714,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "34996610-f225-44d2-b84a-306e820a66da",
 					"disabled": true,
 					"name": "Written",
 					"reference": "B24",
@@ -8153,6 +8733,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "3b392b99-5d7d-4771-9c7f-40aee2e472c8",
 			"name": "Laziness",
 			"mental": true,
 			"base_points": -10,
@@ -8165,6 +8746,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "fca7697e-377f-453b-a657-236b8f371163",
 			"name": "Lecherousness",
 			"mental": true,
 			"base_points": -15,
@@ -8178,6 +8760,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "4ba4de7d-48c1-46a7-9f51-452441cfd666",
 			"name": "Less Sleep",
 			"physical": true,
 			"levels": "1",
@@ -8191,6 +8774,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "276fb742-3c2a-458b-a120-fbc01b65daa1",
 			"name": "Light Sleeper",
 			"physical": true,
 			"base_points": -5,
@@ -8203,6 +8787,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "2bb512b7-c143-4151-9c90-84c87f18019a",
 			"name": "Lightning Calculator",
 			"mental": true,
 			"base_points": 2,
@@ -8210,6 +8795,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "1e8edd46-9c07-4846-80ae-3e42ef3b3509",
 					"disabled": true,
 					"name": "Intuitive Mathematician",
 					"reference": "B66",
@@ -8226,6 +8812,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "db6e297d-7aa6-4276-ab32-5bbcc6983b8c",
 			"name": "Like @Item@",
 			"mental": true,
 			"levels": "0",
@@ -8238,11 +8825,11 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "13f7357c-dc87-46b9-a131-aebd7defd5d5",
 			"name": "Loner",
 			"mental": true,
 			"base_points": -5,
 			"cr": 12,
-			"cr_adj": "reaction_penalty",
 			"reference": "B142",
 			"notes": "Make a self-control roll whenever anyone lingers nearby, watches over your shoulder, etc. If you fail, you lash out at that person just as if you had Bad Temper.",
 			"categories": [
@@ -8252,6 +8839,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "1f50a089-188f-46a4-aa45-392ea4de35d4",
 			"name": "Low Empathy",
 			"mental": true,
 			"base_points": -20,
@@ -8439,6 +9027,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "2cebce94-ee3d-45c2-afb9-04d0b87e655e",
 			"name": "Low Pain Threshold",
 			"physical": true,
 			"base_points": -10,
@@ -8465,6 +9054,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "330da48a-573e-4c23-8730-f284eae3b4c4",
 			"name": "Low Self-Image",
 			"mental": true,
 			"base_points": -10,
@@ -8477,6 +9067,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "0f24bdeb-a682-4120-897c-f63d129c3bdb",
 			"name": "Luck",
 			"mental": true,
 			"base_points": 15,
@@ -8484,6 +9075,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "5875397e-025c-4ae1-91b8-54dcc0aa7bf6",
 					"disabled": true,
 					"name": "Active",
 					"reference": "B66",
@@ -8494,6 +9086,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a30fafe7-e6f2-4a42-bc2a-e9c7d6a63ce1",
 					"disabled": true,
 					"name": "Aspected",
 					"reference": "B66",
@@ -8505,6 +9098,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "bd493f91-f3fd-4312-811a-454d22349f0a",
 					"disabled": true,
 					"name": "Defensive",
 					"reference": "B66",
@@ -8515,6 +9109,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "bc4ab647-fcf0-431e-afab-1fc9c718df24",
 					"disabled": true,
 					"name": "Wishing",
 					"reference": "P59",
@@ -8532,6 +9127,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "f224c322-3c7a-4852-b9d0-f8e31f3b46e7",
 			"name": "Luck, Extraordinary",
 			"mental": true,
 			"base_points": 30,
@@ -8539,6 +9135,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "85c8279c-1085-4c74-aaa6-df11d62a011c",
 					"disabled": true,
 					"name": "Active",
 					"reference": "B66",
@@ -8549,6 +9146,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "5236cf52-08cd-402f-b5d2-6efc1312eeea",
 					"disabled": true,
 					"name": "Aspected",
 					"reference": "B66",
@@ -8560,6 +9158,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "2d36bc08-7732-427a-a555-2da935199c4f",
 					"disabled": true,
 					"name": "Defensive",
 					"reference": "B66",
@@ -8570,6 +9169,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "fa337fc3-1386-4434-94e9-2dd3224fd56e",
 					"disabled": true,
 					"name": "Wishing",
 					"reference": "P59",
@@ -8587,6 +9187,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "8102b2bc-7058-4bd3-99e0-538efc345f97",
 			"name": "Luck, Ridiculous",
 			"mental": true,
 			"base_points": 60,
@@ -8594,6 +9195,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "c2f525df-9c79-410e-ade5-4e710090e6f8",
 					"disabled": true,
 					"name": "Active",
 					"reference": "B66",
@@ -8604,6 +9206,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "63dcaabf-2c76-48b1-a506-ddf575582a3b",
 					"disabled": true,
 					"name": "Aspected",
 					"reference": "B66",
@@ -8615,6 +9218,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "028a1cdc-1d9c-47e5-b4d3-e85619ce7b87",
 					"disabled": true,
 					"name": "Defensive",
 					"reference": "B66",
@@ -8625,6 +9229,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "1daf02d0-bd30-44b6-9366-a9a772cf03a6",
 					"disabled": true,
 					"name": "Wishing",
 					"reference": "P59",
@@ -8642,6 +9247,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "03736594-8ed9-4a9d-9dde-da50fc2b584a",
 			"name": "Lunacy",
 			"physical": true,
 			"base_points": -10,
@@ -8654,6 +9260,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "582b365f-8467-42c5-b73d-97c3805251e2",
 			"name": "Magery",
 			"mental": true,
 			"supernatural": true,
@@ -8664,6 +9271,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "62f8f575-de9a-4a4d-9461-31950bcc2f95",
 					"disabled": true,
 					"name": "Dance",
 					"cost_type": "percentage",
@@ -8673,6 +9281,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "98fbd391-8a80-49a9-8a29-e3c04b248717",
 					"disabled": true,
 					"name": "Dark-Aspected",
 					"cost_type": "percentage",
@@ -8682,6 +9291,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "130a7afc-7a7c-4114-94d7-858abd422adb",
 					"disabled": true,
 					"name": "Day-Aspected",
 					"cost_type": "percentage",
@@ -8691,6 +9301,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7c72c254-2774-4873-829b-33b5c4ee2591",
 					"disabled": true,
 					"name": "Musical",
 					"cost_type": "percentage",
@@ -8700,6 +9311,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "814453d7-1d24-4a91-8e3f-1bed34cddc46",
 					"disabled": true,
 					"name": "Night-Aspected",
 					"cost_type": "percentage",
@@ -8709,6 +9321,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d96c7e88-b5fa-4255-aa25-33a0db38361a",
 					"disabled": true,
 					"name": "One College",
 					"cost_type": "percentage",
@@ -8719,6 +9332,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f60f9064-5549-4591-8a80-f0a53e10a894",
 					"disabled": true,
 					"name": "Solitary",
 					"cost_type": "percentage",
@@ -8728,6 +9342,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "1170e4cf-081c-4fc6-b2b6-9e6a30562640",
 					"disabled": true,
 					"name": "Song",
 					"cost_type": "percentage",
@@ -8761,6 +9376,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "4df37deb-f6e3-45e6-a39d-b7772ad5a77f",
 			"name": "Magic Resistance",
 			"physical": true,
 			"levels": "1",
@@ -8769,6 +9385,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "724c7252-1298-492a-b8f8-53ed8398c6f3",
 					"disabled": true,
 					"name": "Improved",
 					"reference": "B67",
@@ -8785,6 +9402,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "a4f46831-c179-44cb-987e-f3fa52b4ed97",
 			"name": "Magic Susceptibility",
 			"mental": true,
 			"supernatural": true,
@@ -8813,6 +9431,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "df38ec8f-3608-4b04-bff0-fa7a82f55d23",
 			"name": "Mana Damper",
 			"mental": true,
 			"supernatural": true,
@@ -8822,6 +9441,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "38f1c0c9-baa1-43d3-acd1-926b541dbcb5",
 					"disabled": true,
 					"name": "Area Effect",
 					"reference": "B67",
@@ -8833,6 +9453,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "fa119502-6f42-4980-bab3-79dea61ba229",
 					"disabled": true,
 					"name": "Switchable",
 					"reference": "B67",
@@ -8843,6 +9464,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "ae59312b-de36-4930-b157-091695a186b2",
 					"disabled": true,
 					"name": "Discriminatory",
 					"reference": "P59",
@@ -8859,6 +9481,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "28335c2f-0734-4601-b177-1d6866d54cbf",
 			"name": "Mana Enhancer",
 			"mental": true,
 			"supernatural": true,
@@ -8868,6 +9491,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "33ca1704-e15e-408c-8381-180803013298",
 					"disabled": true,
 					"name": "Area Effect",
 					"reference": "B68",
@@ -8879,6 +9503,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "07eb33c8-fe11-420b-97f9-f1315e01a3c2",
 					"disabled": true,
 					"name": "Switchable",
 					"reference": "B68",
@@ -8889,6 +9514,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e26a77e0-5ff7-4e25-8992-e75896f5375e",
 					"disabled": true,
 					"name": "Discriminatory",
 					"reference": "P59",
@@ -8905,6 +9531,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "97542563-864e-4fa9-90b4-a5172bc10b99",
 			"name": "Manaphobia (Magic)",
 			"mental": true,
 			"cr": 12,
@@ -8912,6 +9539,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "94b77589-e6fa-4301-8973-80a7916b7cb7",
 					"disabled": true,
 					"name": "Common",
 					"reference": "B150",
@@ -8922,6 +9550,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a86a7235-d526-4e40-a57b-84fb34dbd753",
 					"disabled": true,
 					"name": "Uncommon",
 					"reference": "B150",
@@ -8932,6 +9561,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7396f10d-4852-4c15-999b-539c8099722e",
 					"disabled": true,
 					"name": "Unknown",
 					"reference": "B150",
@@ -8949,6 +9579,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "ecc4a50f-1019-462e-80bb-dc599b5c5697",
 			"name": "Manic-Depressive",
 			"mental": true,
 			"base_points": -20,
@@ -8961,6 +9592,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "bf60ac06-531e-41db-8c35-1b1f2e101768",
 			"name": "Medium",
 			"mental": true,
 			"supernatural": true,
@@ -8969,6 +9601,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "53b93ebf-f496-4f6c-bf61-22a0526893d2",
 					"disabled": true,
 					"name": "Manifestation",
 					"reference": "P60",
@@ -8979,6 +9612,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "47f00b16-f38a-4b9b-a5f2-45cd773e58a0",
 					"disabled": true,
 					"name": "Universal",
 					"reference": "P60",
@@ -8989,6 +9623,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "b8d5634a-d1d8-4fe7-9c96-b35c26072a59",
 					"disabled": true,
 					"name": "Visual",
 					"reference": "P60",
@@ -8999,6 +9634,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f9dbf32d-b253-4e20-94fc-719cf708993f",
 					"disabled": true,
 					"name": "Specialized",
 					"reference": "P60",
@@ -9016,6 +9652,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "399067c6-f4ec-4562-8bf7-58dcbd469afd",
 			"name": "Mild Shyness",
 			"mental": true,
 			"base_points": -5,
@@ -9165,6 +9802,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "2d1ed485-d1c5-4e69-8a38-e326f6eec809",
 			"name": "Mimicry",
 			"mental": true,
 			"exotic": true,
@@ -9173,6 +9811,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "65907284-288e-4d53-b035-a3e1e527798f",
 					"disabled": true,
 					"name": "Voice Library",
 					"reference": "P61",
@@ -9189,6 +9828,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "e231dd88-a9bb-4e93-9c6c-acb713a6eb54",
 			"name": "Minor Addiction",
 			"mental": true,
 			"physical": true,
@@ -9203,6 +9843,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "3144491e-51d9-40df-a503-70a1363e8033",
 			"name": "Minor Handicap",
 			"physical": true,
 			"levels": "0",
@@ -9216,6 +9857,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "b514ac8a-2c7e-434f-8456-90faea214994",
 			"name": "Miserliness",
 			"mental": true,
 			"base_points": -10,
@@ -9229,12 +9871,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "7ec822aa-bc00-412d-8c4a-37c8f3c98d4e",
 			"name": "Missing Digit",
 			"physical": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "ad616b65-0c75-480a-b0fd-5837a6b529c5",
 					"disabled": true,
 					"name": "Finger",
 					"reference": "B144",
@@ -9246,6 +9890,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e86a682e-6deb-4d6c-a46c-567dffab7ab4",
 					"disabled": true,
 					"name": "Thumb",
 					"reference": "B144",
@@ -9263,6 +9908,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "b8373a2b-b12a-4e81-90b8-8648f3fd6e03",
 			"name": "Motion Sickness",
 			"physical": true,
 			"base_points": -10,
@@ -9361,6 +10007,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "1f868a79-6d40-4226-86a8-1a5999cbcb3d",
 			"name": "Mysophobia (Dirt)",
 			"mental": true,
 			"base_points": -10,
@@ -9374,6 +10021,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "6235d3a9-7b8f-4773-a436-d14463f059ff",
 			"name": "Necrophobia (Death)",
 			"mental": true,
 			"base_points": -10,
@@ -9387,6 +10035,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "c40cc88e-267d-474d-af61-7353e1934f96",
 			"name": "Nervous Stomach",
 			"physical": true,
 			"base_points": -1,
@@ -9399,6 +10048,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "489d4d1f-e28a-4c23-b1b4-d556c377b457",
 			"name": "Neurological Disorder (Crippling)",
 			"physical": true,
 			"base_points": -55,
@@ -9538,6 +10188,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "38d04f78-006a-4d7c-94e4-26f0adc2bad3",
 			"name": "Neurological Disorder (Mild)",
 			"physical": true,
 			"base_points": -15,
@@ -9677,6 +10328,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "75caf379-7ab9-4c83-b611-559453a19b83",
 			"name": "Neurological Disorder (Severe)",
 			"physical": true,
 			"base_points": -35,
@@ -9816,6 +10468,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "4fd6985f-94ec-40d5-835f-467ddceeea47",
 			"name": "Neutered",
 			"physical": true,
 			"base_points": -1,
@@ -9828,6 +10481,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "93c3c606-0c3f-4562-8f8d-3e8147e2a25b",
 			"name": "Night Blindness",
 			"physical": true,
 			"base_points": -10,
@@ -9862,6 +10516,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "93b96e6c-e729-49b6-89b8-d9350dde9976",
 			"name": "Night Vision",
 			"physical": true,
 			"levels": "1",
@@ -9874,6 +10529,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "82591983-0f84-4cc1-9812-15a53c5916d7",
 			"name": "Nightmares",
 			"mental": true,
 			"base_points": -5,
@@ -9887,6 +10543,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "f427f29c-90f4-4380-ac71-b7f4096206f0",
 			"name": "No Depth Perception",
 			"physical": true,
 			"base_points": -15,
@@ -9913,6 +10570,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "f40987a4-d9d7-46dd-a13d-b14257347f6a",
 			"name": "No Hangover",
 			"physical": true,
 			"base_points": 1,
@@ -9924,6 +10582,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "6dc2e98a-351f-4ed1-8fac-e5e69e0595d0",
 			"name": "No Peripheral Vision",
 			"physical": true,
 			"base_points": -15,
@@ -9936,6 +10595,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "109d3f87-611c-45a4-a009-4031a8071344",
 			"name": "No Sense of Humor",
 			"physical": true,
 			"base_points": -10,
@@ -9954,6 +10614,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "74d60fea-349c-408d-91ba-9ff05c8f1e17",
 			"name": "No Sense of Smell/Taste",
 			"physical": true,
 			"base_points": -5,
@@ -9965,6 +10626,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "fe95798e-ab64-4243-b35f-67daec261fce",
 			"name": "Non-Icongraphic",
 			"mental": true,
 			"base_points": -10,
@@ -10006,6 +10668,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "76ce302e-63c5-4742-910d-10b8c3082662",
 			"name": "Nosy",
 			"mental": true,
 			"base_points": -1,
@@ -10017,6 +10680,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "fc9f85ab-5ee4-4960-a6b5-f89fa29f325a",
 			"name": "Numb",
 			"physical": true,
 			"base_points": -20,
@@ -10028,6 +10692,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "7a6d3108-2f36-43e1-a45f-62a476e9784c",
 			"name": "Oblivious",
 			"mental": true,
 			"base_points": -5,
@@ -10100,6 +10765,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "f9702f10-46f5-4a1a-9ccd-40fe7c339c93",
 			"name": "Obsession",
 			"mental": true,
 			"levels": "0",
@@ -10113,6 +10779,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "d5f635b5-3a09-4a9f-81a7-1685bfa3498b",
 			"name": "Obsession",
 			"mental": true,
 			"cr": 12,
@@ -10120,6 +10787,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e0812079-bafd-47ee-ab3e-ee949981a98d",
 					"disabled": true,
 					"name": "Short term",
 					"reference": "B146",
@@ -10130,6 +10798,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e81df05c-5d40-49a8-a502-3a4f1e132b29",
 					"disabled": true,
 					"name": "Long term",
 					"reference": "B146",
@@ -10147,12 +10816,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "71d956bf-052e-4b8d-bbc4-e797634e783b",
 			"name": "Odious Personal Habit",
 			"physical": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d7561fb2-a854-4994-85c9-c541c5fc767d",
 					"disabled": true,
 					"name": "-1 Reaction",
 					"reference": "B22",
@@ -10163,6 +10834,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "33dda85f-13bb-4bdc-a499-645c1ce6e827",
 					"disabled": true,
 					"name": "-2 Reaction",
 					"reference": "B22",
@@ -10173,6 +10845,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "71c90d2c-26ab-4656-a20d-356140c9050e",
 					"disabled": true,
 					"name": "-3 Reaction",
 					"reference": "B22",
@@ -10190,6 +10863,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "ca7df718-9321-489a-b0f7-9294da483700",
 			"name": "On the Edge",
 			"mental": true,
 			"base_points": -15,
@@ -10210,6 +10884,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "cea0e940-772a-469e-868b-4bcddf335b4c",
 			"name": "Overconfidence",
 			"mental": true,
 			"base_points": -5,
@@ -10235,6 +10910,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "c4885990-15cf-4096-91ac-583fdd6996b2",
 			"name": "Overweight",
 			"physical": true,
 			"base_points": -1,
@@ -10276,6 +10952,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "1e0a22d7-3e42-4f1e-9b81-e49679d794e6",
 			"name": "Pacifism: Cannot Harm Innocents",
 			"mental": true,
 			"base_points": -10,
@@ -10283,6 +10960,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "b2c82958-0646-4522-96be-435e6f74c240",
 					"disabled": true,
 					"name": "Species-Specific",
 					"reference": "UT32",
@@ -10300,6 +10978,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "00808d1e-71c3-4f53-8493-c54bccdfbc41",
 			"name": "Pacifism: Cannot Kill",
 			"mental": true,
 			"base_points": -15,
@@ -10307,6 +10986,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a1940eb4-a83b-4a41-8839-a797cbea5713",
 					"disabled": true,
 					"name": "Species-Specific",
 					"reference": "UT32",
@@ -10324,6 +11004,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "bca795bf-8e3b-45b1-9587-3acc570dbe3d",
 			"name": "Pacifism: Reluctant Killer",
 			"mental": true,
 			"base_points": -5,
@@ -10331,6 +11012,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "ce725889-fa8c-4f2c-8fb4-776cc6d69bb8",
 					"disabled": true,
 					"name": "Species-Specific",
 					"reference": "UT32",
@@ -10348,6 +11030,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "3dd4b397-2585-4139-92c4-cc8f39385e26",
 			"name": "Pacifism: Self-Defense Only",
 			"mental": true,
 			"base_points": -15,
@@ -10355,6 +11038,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4a0cc7e3-7f80-4e96-a6e2-b0c89e2efd37",
 					"disabled": true,
 					"name": "Species-Specific",
 					"reference": "UT32",
@@ -10372,6 +11056,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "2d5a2b77-fa0e-4d12-8b05-d885cbfd8a06",
 			"name": "Pacifism: Total Nonviolence",
 			"mental": true,
 			"base_points": -30,
@@ -10379,6 +11064,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "845c0e77-24e9-42a6-b351-8f88554633dd",
 					"disabled": true,
 					"name": "Species-Specific",
 					"reference": "UT32",
@@ -10396,6 +11082,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "1235c170-8763-4390-8c37-365259ce9477",
 			"name": "Paranoia",
 			"mental": true,
 			"base_points": -10,
@@ -10419,12 +11106,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "eead5343-4804-4621-9859-26d39b8ecc7c",
 			"name": "Patron",
 			"social": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "43eed8df-6fce-47d2-99eb-963ceeb1fc48",
 					"disabled": true,
 					"name": "@Who: Individual with 150% of PC's starting points@",
 					"reference": "B72",
@@ -10435,6 +11124,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "5e4f0115-21e5-4b83-8e0c-00c10ecd1afa",
 					"disabled": true,
 					"name": "@Who: Organization with assets of at least 1000 times starting wealth@",
 					"reference": "B72",
@@ -10445,6 +11135,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "006426c6-abb7-4a21-8fb4-9220d9e8f327",
 					"disabled": true,
 					"name": "@Who: Individual with twice the PC's starting points@",
 					"reference": "B72",
@@ -10455,6 +11146,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "0b96f27e-7598-4846-baad-7ccac4199524",
 					"disabled": true,
 					"name": "@Who: Organization with assets of at least 10000 times starting wealth@",
 					"reference": "B72",
@@ -10465,6 +11157,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a2cc3485-e8f9-42b8-9af8-8c110edbe549",
 					"disabled": true,
 					"name": "@Who: An ultra-powerful individual@",
 					"reference": "B72",
@@ -10475,6 +11168,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "95399b83-666c-4d76-b066-c8d4a407f3fa",
 					"disabled": true,
 					"name": "@Who: Organization with assets of at least 100000 times starting wealth@",
 					"reference": "B72",
@@ -10485,6 +11179,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "3435badb-a491-46a5-910c-8d6331db4657",
 					"disabled": true,
 					"name": "@Who: Organization with assets of at least 1000000 times starting wealth@",
 					"reference": "B72",
@@ -10495,6 +11190,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "88492bec-d33b-49c1-be39-7961c7c73dd4",
 					"disabled": true,
 					"name": "@Who: A national government or giant multi-national organization@",
 					"reference": "B72",
@@ -10505,6 +11201,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e4e8aa2e-cb79-48f0-8f6b-520ec01c3ae7",
 					"disabled": true,
 					"name": "@Who: A diety@",
 					"reference": "B72",
@@ -10515,6 +11212,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "00ff6143-9296-4e8d-a8db-0f9349d4f7d8",
 					"disabled": true,
 					"name": "Appears almost all the time",
 					"reference": "B36",
@@ -10525,6 +11223,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4b1360a4-1dd0-4160-8e31-26176796033a",
 					"disabled": true,
 					"name": "Appears quite often",
 					"reference": "B36",
@@ -10535,6 +11234,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4598bd77-3ecb-45a0-9fe5-af5384dadcd0",
 					"disabled": true,
 					"name": "Appears fairly often",
 					"reference": "B36",
@@ -10545,6 +11245,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "8c46aa67-5523-4eef-aefd-e0f9909027c7",
 					"disabled": true,
 					"name": "Appears quite rarely",
 					"reference": "B36",
@@ -10555,6 +11256,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "411a0c26-8a77-4d2a-afed-6d74603fe376",
 					"disabled": true,
 					"name": "Equipment",
 					"reference": "B73",
@@ -10566,6 +11268,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "58499a77-74b6-4d25-8b96-b4c5fa8eccd2",
 					"disabled": true,
 					"name": "Equipment",
 					"reference": "B73",
@@ -10577,6 +11280,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "cc6d8f8e-723e-4bd9-a7c9-44ed6fcbc27c",
 					"disabled": true,
 					"name": "Highly Accessible",
 					"reference": "B73",
@@ -10587,6 +11291,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f7aa1d9e-0378-476c-bef8-e80d59799acc",
 					"disabled": true,
 					"name": "Special Abilities",
 					"reference": "B73",
@@ -10598,6 +11303,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4729165b-66ff-442a-88b8-63fb517a1a61",
 					"disabled": true,
 					"name": "Special Abilities",
 					"reference": "B73",
@@ -10609,6 +11315,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "6443e01c-ec81-4451-9606-3d60998d4995",
 					"disabled": true,
 					"name": "Minimal Interventions",
 					"reference": "B73",
@@ -10619,6 +11326,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a62ad8ac-ad27-46c3-bc61-a339e8790cd6",
 					"disabled": true,
 					"name": "Secret",
 					"reference": "B73",
@@ -10629,6 +11337,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "001db898-2a66-4510-a7f3-760666527714",
 					"disabled": true,
 					"name": "Unwilling",
 					"reference": "B74",
@@ -10639,6 +11348,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f83b5e59-1fca-4c10-819b-22069c75c8d8",
 					"disabled": true,
 					"name": "Favor",
 					"reference": "B55",
@@ -10654,6 +11364,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "eea32253-1891-44d7-a401-89fc18c5f9aa",
 			"name": "Penetrating Voice",
 			"physical": true,
 			"base_points": 1,
@@ -10666,6 +11377,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "e8da0ff8-affe-4235-9255-3c9e033409f1",
 			"name": "Perfect Balance",
 			"physical": true,
 			"base_points": 15,
@@ -10706,6 +11418,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "ce08eea7-fa34-417d-aa2c-e27235f7fb18",
 			"name": "Peripheral Vision",
 			"physical": true,
 			"base_points": 15,
@@ -10713,6 +11426,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "645959f5-7b1a-48c5-9b4c-370c42f2f18c",
 					"disabled": true,
 					"name": "Easy to Hit",
 					"reference": "B75",
@@ -10730,6 +11444,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "4646a3d3-2b32-44bc-b69d-95ed65f40a59",
 			"name": "Personality Change",
 			"mental": true,
 			"levels": "0",
@@ -10743,12 +11458,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "cad47e59-cfa8-49de-bc5f-ae533f2a75e6",
 			"name": "Phantom Voices",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e8ac9cdf-579f-4b0c-adab-ae72c67fc1e6",
 					"disabled": true,
 					"name": "Annoying",
 					"reference": "B148",
@@ -10759,6 +11476,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "1436ce90-4684-4e8f-b3a2-f0ab4d1f2187",
 					"disabled": true,
 					"name": "Disturbing",
 					"reference": "B148",
@@ -10769,6 +11487,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e0ffbcaa-67be-4670-9eb5-8fc676cbb110",
 					"disabled": true,
 					"name": "Diabolical",
 					"reference": "B148",
@@ -10786,6 +11505,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "00a860e9-739d-4f54-abf1-374a7e202f5b",
 			"name": "Pitiable",
 			"physical": true,
 			"social": true,
@@ -10805,6 +11525,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "7df890d8-5dff-43c3-ab6e-292f54336327",
 			"name": "Plant Empathy",
 			"mental": true,
 			"base_points": 5,
@@ -10812,6 +11533,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e414256b-4e5e-4a1d-b052-3da367e539d9",
 					"disabled": true,
 					"name": "Remote",
 					"reference": "P48",
@@ -10822,6 +11544,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "8adfe666-f476-4715-a1ce-639b0cabff67",
 					"disabled": true,
 					"name": "Specialized",
 					"reference": "P77",
@@ -10833,6 +11556,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "708eeb85-5d47-4f39-b9c8-7e1f8b9a95e2",
 					"disabled": true,
 					"name": "Specialized",
 					"reference": "P77",
@@ -10844,6 +11568,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "feefedb1-8f3b-46eb-9d06-6e211f4836e8",
 					"disabled": true,
 					"name": "Specialized",
 					"reference": "P77",
@@ -10855,6 +11580,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "64711166-314c-452a-b07e-002375990f32",
 					"disabled": true,
 					"name": "Specialized",
 					"reference": "P77",
@@ -10872,6 +11598,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "0b07341a-6476-4936-9f0d-f04043adf8fb",
 			"name": "Post-Combat Shakes",
 			"mental": true,
 			"base_points": -5,
@@ -10885,6 +11612,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "ee00471e-8f3d-417b-9f4d-8b165b578013",
 			"name": "Power Investiture",
 			"mental": true,
 			"supernatural": true,
@@ -10898,6 +11626,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "448b226a-d4d0-4c82-9097-883c3be0a812",
 			"name": "Proud",
 			"mental": true,
 			"base_points": -1,
@@ -10916,6 +11645,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "139d3636-4b0d-4673-beca-b29ec2e8c22a",
 			"name": "Pyromania",
 			"mental": true,
 			"base_points": -5,
@@ -10929,6 +11659,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "bb68d59b-f7f0-41af-8fab-68dc3e2a13e9",
 			"name": "Pyrophobia (Fire)",
 			"mental": true,
 			"base_points": -5,
@@ -10942,6 +11673,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "6e786e2c-ea7d-4956-accd-263191c44ab3",
 			"name": "Rapid Healing",
 			"physical": true,
 			"base_points": 5,
@@ -10969,6 +11701,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "212cdbe3-2816-4930-814a-8741f14b3afe",
 			"name": "Recovery",
 			"physical": true,
 			"exotic": true,
@@ -10982,6 +11715,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "5dfe71d4-b2c1-4ca8-8e51-c022bd2aeb31",
 			"name": "Responsive",
 			"mental": true,
 			"base_points": -1,
@@ -10993,12 +11727,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "f1eec40c-aaf9-4035-8624-9ad8d106c80e",
 			"name": "Restricted Diet (@Food@)",
 			"physical": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "46f4ec03-e81a-45b4-a291-795704ce5721",
 					"disabled": true,
 					"name": "Substitution",
 					"reference": "B151",
@@ -11009,6 +11745,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "37354a70-70cd-4207-83be-faf1be05a269",
 					"disabled": true,
 					"name": "Very Common",
 					"reference": "B151",
@@ -11019,6 +11756,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "85f97603-b95a-4a76-b953-97ab007e0054",
 					"disabled": true,
 					"name": "Common",
 					"reference": "B151",
@@ -11029,6 +11767,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "9cad1859-93a8-44bd-a633-3f54f61a798c",
 					"disabled": true,
 					"name": "Occasional",
 					"reference": "B151",
@@ -11039,6 +11778,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "b5ebb904-2fb7-4193-be11-1f88d8f61ee0",
 					"disabled": true,
 					"name": "Rare",
 					"reference": "B151",
@@ -11055,6 +11795,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "2f68793c-ee02-4ea6-ba12-d1d990b7fa4b",
 			"name": "Sadism",
 			"mental": true,
 			"base_points": -15,
@@ -11075,6 +11816,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "03e0ceea-b87b-40ef-9f0c-cf119768db2e",
 			"name": "Sanitized Metabolism",
 			"physical": true,
 			"base_points": 1,
@@ -11094,6 +11836,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "5c8b4ca4-5f0d-4f36-b10b-de7c970d4edc",
 			"name": "Scotophobia (Darkness)",
 			"mental": true,
 			"base_points": -15,
@@ -11107,6 +11850,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "13903188-9ec6-47e4-9f30-8af753bb663a",
 			"name": "Selfish",
 			"mental": true,
 			"base_points": -5,
@@ -11127,6 +11871,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "7d396b86-82b3-44ea-911d-a9bb65363121",
 			"name": "Selfless",
 			"mental": true,
 			"base_points": -5,
@@ -11140,12 +11885,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "84e9af1a-4811-46da-9056-b2e973a4e72d",
 			"name": "Sense of Duty",
 			"mental": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "256fc62b-ae82-4bd0-9936-0f657b4105fa",
 					"disabled": true,
 					"name": "Friends and Companions",
 					"reference": "B153",
@@ -11156,6 +11903,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "681f3df7-3259-4808-8d37-0541b6b138e7",
 					"disabled": true,
 					"name": "@Small Group@",
 					"reference": "B153",
@@ -11166,6 +11914,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "c28fe356-28b8-47f8-ab17-b0b69795aae3",
 					"disabled": true,
 					"name": "@Individual@",
 					"reference": "B153",
@@ -11176,6 +11925,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "38189c13-6ad4-437f-a750-128e2a897e2b",
 					"disabled": true,
 					"name": "@Large Group@",
 					"reference": "B153",
@@ -11186,6 +11936,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d6704e3e-2330-4672-8feb-a8c87fde282e",
 					"disabled": true,
 					"name": "@Entire Race@",
 					"reference": "B153",
@@ -11196,6 +11947,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "a2816a99-e799-4273-8d98-cf889e785a65",
 					"disabled": true,
 					"name": "Every Living Being",
 					"reference": "B153",
@@ -11212,6 +11964,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "df0c8587-7ac0-434c-a2af-3d890e80af98",
 			"name": "Sensitive Touch",
 			"physical": true,
 			"exotic": true,
@@ -11220,6 +11973,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "3b7a4955-eca0-40b5-a482-43a0a0467176",
 					"disabled": true,
 					"name": "Stethoscopic",
 					"reference": "P73",
@@ -11230,6 +11984,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f9d61433-53d1-40f1-82ab-4564d5e54444",
 					"disabled": true,
 					"name": "Ultra-Fine",
 					"reference": "P73",
@@ -11246,6 +12001,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "08da7d7a-94e4-4ee4-8acb-39932fe9cfdb",
 			"name": "Serendipity",
 			"mental": true,
 			"levels": "1",
@@ -11254,6 +12010,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4b62d8c7-4507-4c2c-8575-c90dac32dee5",
 					"disabled": true,
 					"name": "Wishing",
 					"reference": "P73",
@@ -11264,6 +12021,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "59823812-502c-47cf-b6bb-67a4b68d4121",
 					"disabled": true,
 					"name": "Wishing",
 					"reference": "P73",
@@ -11281,6 +12039,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "d830db4b-2ea9-4668-ab74-67cea6532de3",
 			"name": "Severe Shyness",
 			"mental": true,
 			"base_points": -10,
@@ -11430,6 +12189,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "9730d419-ba45-4929-952d-ad68ffaf6ec1",
 			"name": "Short Attention Span",
 			"mental": true,
 			"base_points": -10,
@@ -11443,6 +12203,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "2d5243ff-7264-4675-b74f-ac724be6273f",
 			"name": "Shtick",
 			"mental": true,
 			"physical": true,
@@ -11455,6 +12216,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "f6441e26-e52d-432c-aefa-e8c312ef58c9",
 			"name": "Silence",
 			"physical": true,
 			"exotic": true,
@@ -11464,6 +12226,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "9f9ee5d4-87cc-4a0a-a751-69566b7da9cd",
 					"disabled": true,
 					"name": "Dynamic",
 					"reference": "P76",
@@ -11481,6 +12244,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "671fcb29-8b99-4be2-9f5f-4395f2ce0abe",
 			"name": "Single-Minded",
 			"mental": true,
 			"base_points": 5,
@@ -11493,6 +12257,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "f1b4c20e-4f58-4ea6-9507-ef778991341c",
 			"name": "Skinny",
 			"physical": true,
 			"base_points": -5,
@@ -11540,6 +12305,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "0f1794fd-fe33-4160-8f8e-b8441f09fb6f",
 			"name": "Sleepwalker",
 			"mental": true,
 			"base_points": -5,
@@ -11553,6 +12319,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "afd20ff4-02d5-435f-a7c8-569160036326",
 			"name": "Slow Eater",
 			"physical": true,
 			"exotic": true,
@@ -11566,6 +12333,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "c7649129-0a14-4322-9888-d1785aff454a",
 			"name": "Slow Riser",
 			"physical": true,
 			"base_points": -5,
@@ -11578,6 +12346,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "980c2de4-686d-4b3d-a5f8-181f21a8e544",
 			"name": "Social Chameleon",
 			"mental": true,
 			"base_points": 5,
@@ -11597,6 +12366,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "f848dc99-ff9a-47d1-b425-a5a2484352e6",
 			"name": "Social Disease",
 			"physical": true,
 			"base_points": -5,
@@ -11616,6 +12386,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "3ae620fd-7ab8-490a-858b-9dc670b9ace1",
 			"name": "Social Regard",
 			"social": true,
 			"levels": "1",
@@ -11629,6 +12400,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "5432e1bb-e242-4be0-9305-0c04a60e02bb",
 			"name": "Social Stigma (Criminal Record)",
 			"social": true,
 			"base_points": -5,
@@ -11647,6 +12419,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "bd90cbc5-7d2b-4692-ac15-251bf83c7686",
 			"name": "Social Stigma (Minor)",
 			"social": true,
 			"base_points": -5,
@@ -11666,6 +12439,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "ad93d273-f72c-4346-ba82-56c13bc4fde5",
 			"name": "Social Stigma (Minority Group)",
 			"social": true,
 			"base_points": -10,
@@ -11690,6 +12464,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "49ab3b7e-9a72-4a18-97a1-44ce097f94c7",
 			"name": "Social Stigma (Second-Class Citizen)",
 			"social": true,
 			"base_points": -5,
@@ -11709,6 +12484,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "acd66666-819e-42aa-9b2d-f3f47498c333",
 			"name": "Spirit Empathy",
 			"mental": true,
 			"supernatural": true,
@@ -11717,6 +12493,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "d43cab11-a92a-4c60-aa61-7f90948ac817",
 					"disabled": true,
 					"name": "Specialized",
 					"reference": "B87",
@@ -11728,6 +12505,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "7c4396c5-96f9-4a2b-b97f-83e3bb232374",
 					"disabled": true,
 					"name": "Remote",
 					"reference": "P48",
@@ -11744,6 +12522,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "daea4a7c-7977-4443-981e-54c18b40ad51",
 			"name": "Squeamish",
 			"physical": true,
 			"base_points": -10,
@@ -11756,6 +12535,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "c1f0622c-863b-4296-b617-f96592206172",
 			"name": "Staid",
 			"mental": true,
 			"base_points": -1,
@@ -11767,6 +12547,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "3e7b913e-08d1-4230-bc10-b8c3e5b38e37",
 			"name": "Stubbornness",
 			"mental": true,
 			"base_points": -5,
@@ -11785,6 +12566,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "46d2e853-0d34-44b3-9c60-3f5751e551d3",
 			"name": "Stuttering",
 			"physical": true,
 			"base_points": -10,
@@ -11857,6 +12639,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "9e71bb4f-9c06-4722-ba8f-3a2ee85079c2",
 			"name": "Susceptible (@Substance@)",
 			"physical": true,
 			"levels": "1",
@@ -11865,6 +12648,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f47466d9-601e-4c4d-96d6-54f26cf0e938",
 					"disabled": true,
 					"name": "Occasional",
 					"reference": "B158",
@@ -11874,6 +12658,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "f0b30f47-5633-4f4a-9c31-1999cc200cb8",
 					"disabled": true,
 					"name": "Common",
 					"reference": "B158",
@@ -11883,6 +12668,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "2af2ea51-09a4-41c8-863a-606b37cd0caa",
 					"disabled": true,
 					"name": "Very Common",
 					"reference": "B158",
@@ -11898,6 +12684,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "973cbf42-b915-419d-9e51-31883d29f105",
 			"name": "Teratophobia (Monsters)",
 			"mental": true,
 			"base_points": -15,
@@ -11911,6 +12698,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "0dc005b0-53da-45e7-a959-1d1b3da5641a",
 			"name": "Thalassophobia (Oceans)",
 			"mental": true,
 			"base_points": -10,
@@ -11924,6 +12712,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "82a23f33-f2c9-444f-bf3c-13836a5e209c",
 			"name": "Trademark",
 			"mental": true,
 			"levels": "0",
@@ -11937,6 +12726,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "ee39c9bd-653c-4bef-a5fd-be5edd617b0e",
 			"name": "Trickster",
 			"mental": true,
 			"base_points": -15,
@@ -11950,6 +12740,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "1ad836ca-5b15-4e83-b1dd-499014f4e6f0",
 			"name": "True Faith",
 			"mental": true,
 			"supernatural": true,
@@ -11958,6 +12749,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "91f5f578-cfb7-4128-a4d0-b179046bfc8e",
 					"disabled": true,
 					"name": "Chosen",
 					"reference": "P84",
@@ -11969,6 +12761,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "e3178912-a70f-4623-8285-171bd739a459",
 					"disabled": true,
 					"name": "Turning",
 					"reference": "P84",
@@ -11985,6 +12778,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "c0d8ea69-b340-4800-84b9-ef6021ae8435",
 			"name": "Truthfulness",
 			"mental": true,
 			"base_points": -5,
@@ -12009,6 +12803,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "1db55e03-88ae-4b40-bb7c-f37bbd8a650a",
 			"name": "Tunnel Vision",
 			"physical": true,
 			"base_points": -30,
@@ -12021,6 +12816,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "7a3e1d2a-0ca3-4d02-927e-294864bdc3d6",
 			"name": "Uncongenial",
 			"mental": true,
 			"base_points": -1,
@@ -12032,6 +12828,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "29ddbb41-b542-4b99-ad17-24f4b7dbcba5",
 			"name": "Unfazeable",
 			"mental": true,
 			"base_points": 15,
@@ -12039,6 +12836,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "4e903e5b-eb1e-46de-89e0-45db3dd34669",
 					"disabled": true,
 					"name": "Familiar Horrors",
 					"reference": "H20",
@@ -12055,6 +12853,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "59236dd4-0bd9-44ea-9a51-4134da8f2029",
 			"name": "Unfit",
 			"physical": true,
 			"base_points": -5,
@@ -12067,6 +12866,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "5acc9f42-703d-4566-8059-1a7dc2269562",
 			"name": "Unluckiness",
 			"mental": true,
 			"base_points": -10,
@@ -12079,6 +12879,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "9e799d0f-8a7a-4e6e-82f5-7364326c016a",
 			"name": "Versatile",
 			"mental": true,
 			"base_points": 5,
@@ -12091,6 +12892,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "597ba165-093c-4544-969a-48ef672984f1",
 			"name": "Very Blessed",
 			"mental": true,
 			"supernatural": true,
@@ -12111,6 +12913,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "81e919e8-f4dc-488d-af91-92492c6eebfb",
 			"name": "Very Fat",
 			"physical": true,
 			"base_points": -5,
@@ -12167,6 +12970,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "2942949c-8f11-4dd9-8ac5-8f75318f6c3d",
 			"name": "Very Rapid Healing",
 			"physical": true,
 			"base_points": 15,
@@ -12194,6 +12998,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "e832a513-4955-4d24-a6e7-432623d85f40",
 			"name": "Very Unfit",
 			"physical": true,
 			"base_points": -15,
@@ -12220,6 +13025,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "94fcaf17-1731-461a-bc17-fe55896ae494",
 			"name": "Visualization",
 			"mental": true,
 			"supernatural": true,
@@ -12228,6 +13034,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "45d63442-cf7b-4b76-be03-1426fd4c77ea",
 					"disabled": true,
 					"name": "Blessing",
 					"reference": "P87",
@@ -12238,6 +13045,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "ee96e6c7-b169-4b66-b0b5-3452c74f2785",
 					"disabled": true,
 					"name": "Blessing",
 					"reference": "P87",
@@ -12249,6 +13057,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "dcde3827-3a6d-46c8-ad9d-7a765e1ff6b2",
 					"disabled": true,
 					"name": "Cursing",
 					"reference": "P87",
@@ -12265,6 +13074,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "6acf5417-7e1c-46a6-a6b2-69de3b8524ba",
 			"name": "Voice",
 			"physical": true,
 			"base_points": 10,
@@ -12355,6 +13165,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "321df8e2-6828-4dbd-b506-98890f4f04d5",
 			"name": "Vow",
 			"mental": true,
 			"levels": "0",
@@ -12368,12 +13179,14 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "36fd41a9-85a4-48e5-9db4-c4e5601696fb",
 			"name": "Vow",
 			"physical": true,
 			"modifiers": [
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "5bc5d320-2e32-4318-a034-7b042458c7cf",
 					"disabled": true,
 					"name": "Minor",
 					"reference": "B161",
@@ -12384,6 +13197,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "62361d8c-8f99-4a2b-ad4a-402c426535be",
 					"disabled": true,
 					"name": "Major",
 					"reference": "B161",
@@ -12394,6 +13208,7 @@
 				{
 					"type": "modifier",
 					"version": 1,
+					"id": "9501e5a3-3c45-4000-9345-90d9b9ecdd3e",
 					"disabled": true,
 					"name": "Great",
 					"reference": "B161",
@@ -12411,6 +13226,7 @@
 		{
 			"type": "advantage",
 			"version": 1,
+			"id": "15248809-7535-4a2f-a837-8d62ee4d57f6",
 			"name": "Xenophobia (Strange and Unknown Things)",
 			"mental": true,
 			"base_points": -15,

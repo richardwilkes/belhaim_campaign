@@ -6,6 +6,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "273f8060-68f2-47bd-8569-194db37f9861",
 			"name": "Accuracy",
 			"reference": "M65",
 			"difficulty": "IQ/H",
@@ -55,6 +56,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6572405d-47d5-4f39-855d-99a641ab359b",
 			"name": "Acid Ball",
 			"reference": "M191",
 			"difficulty": "IQ/H",
@@ -151,6 +153,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6a8e9182-a0db-4a2e-ba20-ce952f179cff",
 			"name": "Acid Jet",
 			"reference": "M192",
 			"difficulty": "IQ/H",
@@ -261,6 +264,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c7bfd5fa-98e8-4f6d-8f91-ecd5058f6a7f",
 			"name": "Adjustable Clothing",
 			"reference": "M58",
 			"difficulty": "IQ/H",
@@ -310,6 +314,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "604ac62a-d8a1-48f9-b2c0-07c0b145ef37",
 			"name": "Affect Spirits",
 			"reference": "M151",
 			"difficulty": "IQ/H",
@@ -346,6 +351,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "378d90ea-a7ee-4864-8626-629c36666218",
 			"name": "Age",
 			"reference": "M154",
 			"difficulty": "IQ/VH",
@@ -395,6 +401,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c7038dca-ee49-4c7b-8b2b-c2273de6ef4f",
 			"name": "Agonize",
 			"reference": "M40",
 			"difficulty": "IQ/H",
@@ -469,6 +476,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "eeaf99d9-646e-4de3-8297-503effb08cce",
 			"name": "Air Jet",
 			"reference": "M24",
 			"difficulty": "IQ/H",
@@ -528,6 +536,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "09987339-4742-47a2-bbef-c31d218588c9",
 			"name": "Air Vision",
 			"reference": "M24",
 			"difficulty": "IQ/H",
@@ -565,6 +574,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3124cc72-6711-40fe-8a5e-13c4a7730809",
 			"name": "Air Vortex",
 			"reference": "M26",
 			"difficulty": "IQ/H",
@@ -669,6 +679,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ba3e49c7-f935-4378-a0f5-90640543f146",
 			"name": "Alarm",
 			"reference": "M100",
 			"difficulty": "IQ/H",
@@ -705,6 +716,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ca08517d-99e6-4316-a52d-db718775d520",
 			"name": "Alertness",
 			"reference": "M133",
 			"difficulty": "IQ/VH",
@@ -741,6 +753,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "72c22a31-c794-41af-8b59-5461f6c7cb05",
 			"name": "Alter Body",
 			"reference": "M41",
 			"difficulty": "IQ/H",
@@ -777,6 +790,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "509517e8-f35f-4221-81fe-3d9ee0bad373",
 			"name": "Alter Terrain",
 			"reference": "M55",
 			"difficulty": "IQ/H",
@@ -890,6 +904,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8d8b0ebf-1230-4a05-8185-0670b524a980",
 			"name": "Alter Visage",
 			"reference": "M41",
 			"difficulty": "IQ/H",
@@ -958,6 +973,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0368f614-d510-40c4-8e24-908d8bbfc97f",
 			"name": "Alter Voice",
 			"reference": "M41",
 			"difficulty": "IQ/H",
@@ -1008,6 +1024,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5218c8f5-6579-4222-865c-e65d0ae92012",
 			"name": "Ambidexterity",
 			"reference": "M39",
 			"difficulty": "IQ/H",
@@ -1044,6 +1061,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "237debc4-ca9b-4257-aba1-9b11c592c939",
 			"name": "Amulet",
 			"reference": "M58",
 			"difficulty": "IQ/H",
@@ -1080,6 +1098,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1e983a10-04b6-4b6b-83d3-fdaa455c35b8",
 			"name": "Analyze Magic",
 			"reference": "M102",
 			"difficulty": "IQ/H",
@@ -1116,6 +1135,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "93210dcd-8f5a-421e-b2c5-bd0f9f998232",
 			"name": "Ancient History",
 			"reference": "M106",
 			"difficulty": "IQ/H",
@@ -1152,6 +1172,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2e431a11-b3f1-4f52-963c-6df99126707a",
 			"name": "Animal Control (@Animal@)",
 			"reference": "M30",
 			"difficulty": "IQ/H",
@@ -1188,6 +1209,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e562525e-23dc-46fe-8a98-70c74ac8a564",
 			"name": "Animal Control (Bird)",
 			"reference": "M30",
 			"difficulty": "IQ/H",
@@ -1224,6 +1246,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fca41305-a515-44b9-8728-f856bf7c1849",
 			"name": "Animal Control (Fish)",
 			"reference": "M30",
 			"difficulty": "IQ/H",
@@ -1260,6 +1283,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "67e963d6-cbd7-411c-b3af-ebb0a8199ad7",
 			"name": "Animal Control (Mammal)",
 			"reference": "M30",
 			"difficulty": "IQ/H",
@@ -1296,6 +1320,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e5939b4e-52b2-4e95-afe9-2925ef862e96",
 			"name": "Animal Control (Reptile)",
 			"reference": "M30",
 			"difficulty": "IQ/H",
@@ -1332,6 +1357,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "cfdcc8f7-59b5-4730-9efc-3898dc729c33",
 			"name": "Animal Control (Vermin)",
 			"reference": "M30",
 			"difficulty": "IQ/H",
@@ -1368,6 +1394,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5868238a-aeb6-469c-a5b7-5553809d348f",
 			"name": "Animate Object",
 			"reference": "M117",
 			"difficulty": "IQ/VH",
@@ -1442,6 +1469,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "172e82dd-2e2f-41d9-95e1-f44897686c1e",
 			"name": "Animate Plant",
 			"reference": "M164",
 			"difficulty": "IQ/H",
@@ -1479,6 +1507,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5014e3f3-85c9-48de-aea9-b4729770ff21",
 			"name": "Animate Shadow",
 			"reference": "M154",
 			"difficulty": "IQ/H",
@@ -1528,6 +1557,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "edcfed6c-c983-4f6c-8db3-16e63caba8eb",
 			"name": "Animation",
 			"reference": "M150",
 			"difficulty": "IQ/VH",
@@ -1564,6 +1594,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0e11f791-8a32-446f-9619-9d80b6bc6076",
 			"name": "Apportation",
 			"reference": "M142",
 			"difficulty": "IQ/H",
@@ -1624,6 +1655,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "79f9fff6-9dc1-4151-9fd5-251e3dc7bd55",
 			"name": "Arboreal Immurement",
 			"reference": "M165",
 			"difficulty": "IQ/H",
@@ -1699,6 +1731,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c7475904-f9fb-4b20-bc77-fdd5d78a0ed1",
 			"name": "Armor",
 			"reference": "M167",
 			"difficulty": "IQ/H",
@@ -1735,6 +1768,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "026939f0-b44e-4472-b047-f6875b1f67d7",
 			"name": "Astral Block",
 			"reference": "M159",
 			"difficulty": "IQ/H",
@@ -1784,6 +1818,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "80f4d044-247f-4f14-9e5e-5c3dd967b678",
 			"name": "Astral Vision",
 			"reference": "M105",
 			"difficulty": "IQ/VH",
@@ -1834,6 +1869,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d5c0da92-f8ec-43a1-9c84-4069acaa50cc",
 			"name": "Atmosphere Dome",
 			"reference": "M169",
 			"difficulty": "IQ/H",
@@ -1883,6 +1919,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "11a0729f-6c2f-43fc-9afc-1a9ffbffbfcc",
 			"name": "Attune",
 			"reference": "M69",
 			"difficulty": "IQ/H",
@@ -1919,6 +1956,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1465c8ee-24af-4b87-84c0-858bec5661a8",
 			"name": "Aura",
 			"reference": "M101",
 			"difficulty": "IQ/H",
@@ -1955,6 +1993,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "55de6ca7-5efd-45bb-8edd-8ee5ef5d671a",
 			"name": "Avoid",
 			"reference": "M140",
 			"difficulty": "IQ/H",
@@ -2017,6 +2056,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "db4fb011-6721-452f-aa4f-01e00ae12382",
 			"name": "Awaken",
 			"reference": "M90",
 			"difficulty": "IQ/H",
@@ -2053,6 +2093,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5c2cfc86-b681-4c76-a6bf-cc686b0aa69b",
 			"name": "Awaken Craft Spirit",
 			"reference": "M115",
 			"difficulty": "IQ/H",
@@ -2103,6 +2144,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "411c3a9a-fff2-4170-bbf6-1257472b7af3",
 			"name": "Balance",
 			"reference": "M39",
 			"difficulty": "IQ/H",
@@ -2139,6 +2181,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "04d6071c-c967-4b69-bdeb-7ab3d0f78d99",
 			"name": "Ball of Lightning",
 			"reference": "M197",
 			"difficulty": "IQ/H",
@@ -2200,6 +2243,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "706ef6b9-47fb-49ab-a179-781253f9deca",
 			"name": "Bane",
 			"reference": "M62",
 			"difficulty": "IQ/H",
@@ -2236,6 +2280,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ba9cb65d-5d4c-46eb-ae14-0d106c6cae9f",
 			"name": "Banish",
 			"reference": "M156",
 			"difficulty": "IQ/H",
@@ -2306,6 +2351,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1abff879-f6b7-4019-8776-82498f9a9914",
 			"name": "Beacon",
 			"reference": "M83",
 			"difficulty": "IQ/H",
@@ -2369,6 +2415,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2282b035-7cb8-425d-8963-bdd31eb8f1b5",
 			"name": "Beast Link",
 			"reference": "M30",
 			"difficulty": "IQ/H",
@@ -2405,6 +2452,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bfe7ab30-899c-4e32-9824-6e7b742141f1",
 			"name": "Beast Possession",
 			"reference": "M32",
 			"difficulty": "IQ/H",
@@ -2454,6 +2502,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "4262e9c5-5279-4740-9250-e7beef6f048c",
 			"name": "Beast Seeker",
 			"reference": "M32",
 			"difficulty": "IQ/H",
@@ -2522,6 +2571,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3aed2c4f-ae5b-473c-b609-d88d17e22749",
 			"name": "Beast Soother",
 			"reference": "M29",
 			"difficulty": "IQ/H",
@@ -2578,6 +2628,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "30bb7cb0-2890-450a-a03a-80bae8c7f23f",
 			"name": "Beast Speech",
 			"reference": "M31",
 			"difficulty": "IQ/H",
@@ -2614,6 +2665,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5bba7a28-bad3-4791-a50d-d54afffb36d7",
 			"name": "Beast Summoning",
 			"reference": "M30",
 			"difficulty": "IQ/H",
@@ -2650,6 +2702,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6d3643d0-9410-44c7-8031-843100dc2603",
 			"name": "Beast-Rouser",
 			"reference": "M30",
 			"difficulty": "IQ/H",
@@ -2706,6 +2759,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7efa6381-a9cc-4e7f-ae4b-69239ad26bcf",
 			"name": "Berserker",
 			"reference": "M134",
 			"difficulty": "IQ/H",
@@ -2742,6 +2796,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "60eb94cb-1573-4e10-9064-351ec1f0f43f",
 			"name": "Bind Spirit (@Spirit@)",
 			"reference": "M158",
 			"difficulty": "IQ/VH",
@@ -2791,6 +2846,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "325e96bb-ef69-4c4a-bf0b-96030c4c5d0f",
 			"name": "Blackout",
 			"reference": "M112",
 			"difficulty": "IQ/H",
@@ -2827,6 +2883,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "4cef68a3-59b8-4091-a35e-ffc157525f5b",
 			"name": "Bladeturning",
 			"reference": "M168",
 			"difficulty": "IQ/H",
@@ -2876,6 +2933,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "935cde47-2340-4b02-b229-5e9053c43136",
 			"name": "Blank Spell Arrow",
 			"reference": "M66",
 			"difficulty": "IQ/VH",
@@ -2912,6 +2970,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e3c9d59d-3917-4e6f-a0bb-866673121ce0",
 			"name": "Bless",
 			"reference": "M129",
 			"difficulty": "IQ/H",
@@ -2982,6 +3041,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "566fad26-ca35-418e-9ae6-a6c425875c26",
 			"name": "Bless Plants",
 			"reference": "M161",
 			"difficulty": "IQ/H",
@@ -3018,6 +3078,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3b117160-4e4e-4893-b927-1e82bda2e6a6",
 			"name": "Blight",
 			"reference": "M162",
 			"difficulty": "IQ/H",
@@ -3054,6 +3115,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "292e45a3-d1c9-4c6a-982b-9e246988f057",
 			"name": "Blink",
 			"reference": "M148",
 			"difficulty": "IQ/H",
@@ -3091,6 +3153,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "09095008-fbd7-46af-a776-46647d2d61b7",
 			"name": "Blink Other",
 			"reference": "M148",
 			"difficulty": "IQ/H",
@@ -3128,6 +3191,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "41b384b5-c2a5-4233-9227-d99756c061eb",
 			"name": "Block",
 			"reference": "M166",
 			"difficulty": "IQ/H",
@@ -3179,6 +3243,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d734495e-6b0a-48d4-9043-316c0bf1e8c7",
 			"name": "Blossom",
 			"reference": "M162",
 			"difficulty": "IQ/H",
@@ -3215,6 +3280,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ccafaa70-7af9-4906-8e8f-3ff6536276c9",
 			"name": "Blur",
 			"reference": "M113",
 			"difficulty": "IQ/H",
@@ -3264,6 +3330,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3a833f27-0d9f-4537-9c18-4345eb43cdb8",
 			"name": "Body of Air",
 			"reference": "M24",
 			"difficulty": "IQ/H",
@@ -3300,6 +3367,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f7b2a344-192c-4c3a-a887-a721aa395634",
 			"name": "Body of Flames",
 			"reference": "M76",
 			"difficulty": "IQ/VH",
@@ -3365,6 +3433,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "aedb06e6-5595-433c-b6e1-9debd461ec9c",
 			"name": "Body of Ice",
 			"reference": "M189",
 			"difficulty": "IQ/VH",
@@ -3452,6 +3521,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2b79e57d-a7a2-437a-90d9-08bf88957ab8",
 			"name": "Body of Lightning",
 			"reference": "M198",
 			"difficulty": "IQ/H",
@@ -3556,6 +3626,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b2d0cb2c-26a9-4d7e-96bc-f6d98260b272",
 			"name": "Body of Shadow",
 			"reference": "M114",
 			"difficulty": "IQ/VH",
@@ -3643,6 +3714,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bf0faba0-faaf-42ab-afbe-cebc5b164677",
 			"name": "Body of Slime",
 			"reference": "M165",
 			"difficulty": "IQ/H",
@@ -3730,6 +3802,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1748bee6-3992-438b-b523-4b24b231757c",
 			"name": "Body of Stone",
 			"reference": "M54",
 			"difficulty": "IQ/H",
@@ -3766,6 +3839,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "80ebde44-5b1c-428f-8ab5-e58b1a96e616",
 			"name": "Body of Water",
 			"reference": "M185",
 			"difficulty": "IQ/H",
@@ -3802,6 +3876,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f896384d-e769-4694-b0e7-2782e003d558",
 			"name": "Body of Wind",
 			"reference": "M27",
 			"difficulty": "IQ/H",
@@ -3898,6 +3973,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "02926874-3951-4b77-90fe-bafd6c0cab96",
 			"name": "Body of Wood",
 			"reference": "M165",
 			"difficulty": "IQ/H",
@@ -3972,6 +4048,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3a03cb10-7ae0-4aad-86a3-e1fcddec8d17",
 			"name": "Body-Reading",
 			"reference": "M88",
 			"difficulty": "IQ/H",
@@ -4021,6 +4098,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "9ff48e8a-740f-41e4-a9e2-c59d3118632b",
 			"name": "Boil Water",
 			"reference": "M189",
 			"difficulty": "IQ/H",
@@ -4070,6 +4148,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "9c126556-ffde-4c8d-8e14-eca641372219",
 			"name": "Boost Dexterity",
 			"reference": "M37",
 			"difficulty": "IQ/H",
@@ -4106,6 +4185,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "11232f7f-283a-4381-a15a-803133cbb7c2",
 			"name": "Boost Health",
 			"reference": "M37",
 			"difficulty": "IQ/H",
@@ -4142,6 +4222,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0d04dba5-0aea-4c5e-b042-195c37bb695a",
 			"name": "Boost Intelligence",
 			"reference": "M37",
 			"difficulty": "IQ/H",
@@ -4178,6 +4259,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d4a3f60f-aa52-40f0-97d4-f562be1ce623",
 			"name": "Boost Strength",
 			"reference": "M37",
 			"difficulty": "IQ/H",
@@ -4214,6 +4296,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "538d299d-438b-4588-aaa9-062d77c4ab23",
 			"name": "Borrow Language",
 			"reference": "M46",
 			"difficulty": "IQ/H",
@@ -4250,6 +4333,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "07067238-b67f-4cd9-80a7-da65ebab6cc5",
 			"name": "Borrow Skill",
 			"reference": "M47",
 			"difficulty": "IQ/H",
@@ -4286,6 +4370,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b95b3bca-8bfb-4834-a758-8248902fffbb",
 			"name": "Bravery",
 			"reference": "M134",
 			"difficulty": "IQ/H",
@@ -4322,6 +4407,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0cec3489-2853-4486-90a0-94db6896a729",
 			"name": "Breathe Air",
 			"reference": "M26",
 			"difficulty": "IQ/H",
@@ -4372,6 +4458,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a6a84e5a-7c99-4717-8ac8-cb3a24c755a4",
 			"name": "Breathe Fire",
 			"reference": "M76",
 			"difficulty": "IQ/VH",
@@ -4482,6 +4569,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b3b65b0e-24a3-4f15-af71-eab1f89d4029",
 			"name": "Breathe Steam",
 			"reference": "M192",
 			"difficulty": "IQ/H",
@@ -4592,6 +4680,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3bcee94f-2d68-41c9-b25e-92541efcfae3",
 			"name": "Breathe Water",
 			"reference": "M189",
 			"difficulty": "IQ/H",
@@ -4642,6 +4731,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "af7c0f4b-6a76-4dc3-8766-15aa7b7efde4",
 			"name": "Bright Vision",
 			"reference": "M111",
 			"difficulty": "IQ/H",
@@ -4705,6 +4795,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5b3d356d-b10a-4e30-a783-d8b3e78a8184",
 			"name": "Burning Death",
 			"reference": "M76",
 			"difficulty": "IQ/VH",
@@ -4823,6 +4914,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c26642bf-8f2b-4bfd-84f8-d450b7d2365b",
 			"name": "Burning Touch",
 			"reference": "M79",
 			"difficulty": "IQ/H",
@@ -4940,6 +5032,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3e85970d-8672-44eb-b9be-b7fff97d7958",
 			"name": "Cadence",
 			"reference": "M39",
 			"difficulty": "IQ/H",
@@ -4989,6 +5082,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "34cada09-8d5f-4c35-bc43-e118794ec24f",
 			"name": "Catch Missile",
 			"reference": "M168",
 			"difficulty": "IQ/H",
@@ -5025,6 +5119,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "622c845e-a6a0-4a46-878a-c3317e21d713",
 			"name": "Catch Spell",
 			"reference": "M123",
 			"difficulty": "IQ/VH",
@@ -5108,6 +5203,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "70254178-21a4-45a9-822c-705868711c38",
 			"name": "Charge Powerstone",
 			"reference": "M126",
 			"difficulty": "IQ/VH",
@@ -5195,6 +5291,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1ed6730a-d488-4fcd-b4fc-3272eaa5df86",
 			"name": "Charm",
 			"reference": "M139",
 			"difficulty": "IQ/H",
@@ -5282,6 +5379,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2c2ab29e-43c0-4c6d-ad60-bbba02c116e4",
 			"name": "Choke",
 			"reference": "M40",
 			"difficulty": "IQ/H",
@@ -5369,6 +5467,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c82f3851-540a-4079-ba7b-af55e524e0c3",
 			"name": "Clean",
 			"reference": "M116",
 			"difficulty": "IQ/H",
@@ -5405,6 +5504,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f8096473-b9e8-40f5-a492-70183eea2dc6",
 			"name": "Cleansing",
 			"reference": "M94",
 			"difficulty": "IQ/H",
@@ -5454,6 +5554,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ea2ccd2b-8ab3-4ef6-aaee-ee4e9db30e7e",
 			"name": "Climbing",
 			"reference": "M35",
 			"difficulty": "IQ/H",
@@ -5471,6 +5572,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "46e56266-c9dd-4700-9a69-78384bf1c391",
 			"name": "Cloud Vaulting",
 			"reference": "M148",
 			"difficulty": "IQ/VH",
@@ -5559,6 +5661,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ffcd74bc-615c-472b-b68a-68727f2bbbce",
 			"name": "Cloud Walking",
 			"reference": "M148",
 			"difficulty": "IQ/H",
@@ -5609,6 +5712,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8a6981f9-8bc2-48a8-9076-7a6967c00f19",
 			"name": "Clouds",
 			"reference": "M194",
 			"difficulty": "IQ/H",
@@ -5659,6 +5763,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "07974e1c-39b0-4acf-a4f7-1d66dfcf6d00",
 			"name": "Clumsiness",
 			"reference": "M36",
 			"difficulty": "IQ/H",
@@ -5695,6 +5800,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2ff7f51f-d7bc-4142-b8aa-b78a81541a16",
 			"name": "Cold",
 			"reference": "M74",
 			"difficulty": "IQ/H",
@@ -5731,6 +5837,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a67cb2e2-e058-4e10-8101-fc8e06bc64ed",
 			"name": "Colors",
 			"reference": "M110",
 			"difficulty": "IQ/H",
@@ -5767,6 +5874,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7fbd7575-aa6f-4bd9-b273-f339cbb2b506",
 			"name": "Command",
 			"reference": "M136",
 			"difficulty": "IQ/H",
@@ -5841,6 +5949,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0cf76cc4-c4ed-41f3-a455-8468b61117d8",
 			"name": "Command Spirit (@spirit@)",
 			"reference": "M153",
 			"difficulty": "IQ/H",
@@ -5890,6 +5999,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bd444f5d-4061-496f-a27b-eb8cf89fe17c",
 			"name": "Communication",
 			"reference": "M48",
 			"difficulty": "IQ/VH",
@@ -5965,6 +6075,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a0618d0a-adfe-4a16-8b46-b103d1f154fc",
 			"name": "Compel Lie",
 			"reference": "M137",
 			"difficulty": "IQ/H",
@@ -6001,6 +6112,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "820dbc09-524b-444f-9544-2585c0636a5b",
 			"name": "Compel Truth",
 			"reference": "M47",
 			"difficulty": "IQ/H",
@@ -6075,6 +6187,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0f21dfcd-e209-4b5c-8d9a-d041cecf7c15",
 			"name": "Complex Illusion",
 			"reference": "M96",
 			"difficulty": "IQ/H",
@@ -6124,6 +6237,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "40ddf7c3-c585-4961-ae40-7aea87dc6806",
 			"name": "Conceal",
 			"reference": "M162",
 			"difficulty": "IQ/H",
@@ -6141,6 +6255,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bf964a5e-9b79-4dc8-9152-31ee02e4ad7a",
 			"name": "Conceal Magic",
 			"reference": "M122",
 			"difficulty": "IQ/H",
@@ -6215,6 +6330,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "cd38dfa1-13c8-4342-a959-58c5e97a080d",
 			"name": "Concussion",
 			"reference": "M26",
 			"difficulty": "IQ/H",
@@ -6287,6 +6403,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "dcf71661-1714-4515-89dd-eca64bc8aabe",
 			"name": "Condense Steam",
 			"reference": "M189",
 			"difficulty": "IQ/H",
@@ -6336,6 +6453,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5a0e1fdd-c73b-42f8-a183-9f3d034d6828",
 			"name": "Continual Light",
 			"reference": "M110",
 			"difficulty": "IQ/H",
@@ -6372,6 +6490,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "311ab9a5-e297-4bd4-a950-1c2a258037fa",
 			"name": "Continual Mage Light",
 			"reference": "M113",
 			"difficulty": "IQ/H",
@@ -6421,6 +6540,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e26b5d49-499c-4369-a448-d1b17f2586e8",
 			"name": "Continual Sunlight",
 			"reference": "M114",
 			"difficulty": "IQ/H",
@@ -6457,6 +6577,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5fe9b1b6-bcb1-457d-ab5b-3c53cc976b87",
 			"name": "Contract Object",
 			"reference": "M120",
 			"difficulty": "IQ/VH",
@@ -6531,6 +6652,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bbf6efcf-7ff7-40fa-a611-88417adddb44",
 			"name": "Control Air Elemental",
 			"reference": "M28",
 			"difficulty": "IQ/H",
@@ -6567,6 +6689,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2d550354-6ea6-45a6-9b66-440f653ef193",
 			"name": "Control Creation",
 			"reference": "M99",
 			"difficulty": "IQ/H",
@@ -6616,6 +6739,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1f42c4c1-242e-4a24-9276-fea902656980",
 			"name": "Control Earth Elemental",
 			"reference": "M28",
 			"difficulty": "IQ/H",
@@ -6652,6 +6776,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "545d327a-3964-4a62-b9ff-fbaf06a6a1e5",
 			"name": "Control Fire Elemental",
 			"reference": "M28",
 			"difficulty": "IQ/H",
@@ -6688,6 +6813,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ff625b93-bbc5-4b26-bc0b-3cac83211dd0",
 			"name": "Control Gate",
 			"reference": "M85",
 			"difficulty": "IQ/H",
@@ -6762,6 +6888,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "76ab2d67-c531-4351-a1ee-05384bc06f9c",
 			"name": "Control Illusion",
 			"reference": "M97",
 			"difficulty": "IQ/H",
@@ -6798,6 +6925,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "63c7454d-677d-421c-9bed-d3db2fffebc9",
 			"name": "Control Limb",
 			"reference": "M40",
 			"difficulty": "IQ/H",
@@ -6885,6 +7013,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d1650f73-98b5-4769-8976-02a2bce78220",
 			"name": "Control Person",
 			"reference": "M49",
 			"difficulty": "IQ/H",
@@ -6934,6 +7063,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b72b0ded-8ff9-4766-8434-f41b2fad894a",
 			"name": "Control Water Elemental",
 			"reference": "M28",
 			"difficulty": "IQ/H",
@@ -6970,6 +7100,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a78c3710-855d-4d8a-84dd-5eccfbe80204",
 			"name": "Control Zombie",
 			"reference": "M152",
 			"difficulty": "IQ/H",
@@ -7005,6 +7136,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "9dfa09ce-fb1a-45dd-9d43-a26f3c85c5a2",
 			"name": "Converse",
 			"reference": "M173",
 			"difficulty": "IQ/H",
@@ -7092,6 +7224,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3d8e83da-4c0d-43cc-8190-c3bd8a63f305",
 			"name": "Cook",
 			"reference": "M78",
 			"difficulty": "IQ/H",
@@ -7141,6 +7274,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "53e44e51-84dd-4514-bac2-eb7c7725caa2",
 			"name": "Cool",
 			"reference": "M195",
 			"difficulty": "IQ/H",
@@ -7191,6 +7325,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f4e1e2dc-d970-4b18-998b-33e21122e983",
 			"name": "Coolness",
 			"reference": "M187",
 			"difficulty": "IQ/H",
@@ -7228,6 +7363,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7671721e-60e1-4e70-bc05-831e92930b68",
 			"name": "Copy",
 			"reference": "M116",
 			"difficulty": "IQ/H",
@@ -7294,6 +7430,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "00f647c2-43df-41b3-958f-3db35f9d8e40",
 			"name": "Cornucopia",
 			"reference": "M64",
 			"difficulty": "IQ/H",
@@ -7343,6 +7480,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f9b12d2e-79ba-4199-aba3-47841fcb48bf",
 			"name": "Corpulence",
 			"reference": "M43",
 			"difficulty": "IQ/VH",
@@ -7456,6 +7594,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8cc5568c-caec-476e-8f23-e00dac732363",
 			"name": "Counterspell",
 			"reference": "M121",
 			"difficulty": "IQ/H",
@@ -7506,6 +7645,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "26a3628e-d149-4c20-9fd1-2af6d78d2401",
 			"name": "Create Acid",
 			"reference": "M190",
 			"difficulty": "IQ/H",
@@ -7555,6 +7695,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7efc9d34-e706-4cff-941b-cfe9de5b900d",
 			"name": "Create Air",
 			"reference": "M23",
 			"difficulty": "IQ/H",
@@ -7604,6 +7745,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f2cfdf00-846d-4a97-b649-168320581a89",
 			"name": "Create Air Elemental",
 			"reference": "M28",
 			"difficulty": "IQ/H",
@@ -7678,6 +7820,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "38d88dfc-7145-42dd-b9a4-257c3885c2ed",
 			"name": "Create Animal",
 			"reference": "M98",
 			"difficulty": "IQ/H",
@@ -7736,6 +7879,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f2456c43-3f69-428a-9294-057ecf7a2a3c",
 			"name": "Create Door",
 			"reference": "M84",
 			"difficulty": "IQ/H",
@@ -7785,6 +7929,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "4ed94fd5-e477-4dd1-9b4a-dc51eb94a110",
 			"name": "Create Earth",
 			"reference": "M51",
 			"difficulty": "IQ/H",
@@ -7821,6 +7966,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ad1d3268-d351-4cf7-96a3-c19e480ab4e7",
 			"name": "Create Earth Elemental",
 			"reference": "M28",
 			"difficulty": "IQ/H",
@@ -7895,6 +8041,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "4b4023fd-bc3e-45c0-9324-1cc868e6f4ad",
 			"name": "Create Fire",
 			"reference": "M72",
 			"difficulty": "IQ/H",
@@ -7956,6 +8103,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "72885630-f81e-4da2-a336-dffce567a8b2",
 			"name": "Create Fire Elemental",
 			"reference": "M28",
 			"difficulty": "IQ/H",
@@ -8030,6 +8178,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "35649046-6a03-4e45-845d-79a77b08d7c0",
 			"name": "Create Food",
 			"reference": "M79",
 			"difficulty": "IQ/H",
@@ -8079,6 +8228,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "af9900d9-6140-4e2a-a513-e7455826e51d",
 			"name": "Create Gate",
 			"reference": "M85",
 			"difficulty": "IQ/VH",
@@ -8160,6 +8310,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c5f408e3-fb01-4ae4-8d8b-111ca4faa32f",
 			"name": "Create Ice",
 			"reference": "M188",
 			"difficulty": "IQ/H",
@@ -8196,6 +8347,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "42837dec-092c-47ff-ad72-f00116369740",
 			"name": "Create Mount",
 			"reference": "M99",
 			"difficulty": "IQ/H",
@@ -8270,6 +8422,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "80c2887d-4d43-4335-8e24-70931c83f4d4",
 			"name": "Create Object",
 			"reference": "M98",
 			"difficulty": "IQ/VH",
@@ -8357,6 +8510,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0acfb81b-c43e-46c6-aa04-d17fb7e4f2a0",
 			"name": "Create Plant",
 			"reference": "M163",
 			"difficulty": "IQ/H",
@@ -8431,6 +8585,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b32859c7-216f-4a67-897a-09658dbc9aea",
 			"name": "Create Servant",
 			"reference": "M98",
 			"difficulty": "IQ/H",
@@ -8514,6 +8669,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "78589172-ce19-4b2f-87d8-87bd1742beef",
 			"name": "Create Spring",
 			"reference": "M190",
 			"difficulty": "IQ/H",
@@ -8563,6 +8719,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ad019b6b-e624-4d83-8b45-d04b352e4709",
 			"name": "Create Steam",
 			"reference": "M190",
 			"difficulty": "IQ/H",
@@ -8599,6 +8756,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "89b1b09c-e79a-4d0b-8457-ff04000e06da",
 			"name": "Create Warrior",
 			"reference": "M98",
 			"difficulty": "IQ/H",
@@ -8635,6 +8793,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b113397c-4156-498c-9b99-e6808fa6d78a",
 			"name": "Create Water",
 			"reference": "M184",
 			"difficulty": "IQ/H",
@@ -8671,6 +8830,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b9a91c53-049f-46b4-9699-c7cf78d53276",
 			"name": "Create Water Elemental",
 			"reference": "M28",
 			"difficulty": "IQ/H",
@@ -8745,6 +8905,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a2ef834a-2b9c-4adf-baaa-1c53d6d4bed2",
 			"name": "Crystal Ball",
 			"reference": "M71",
 			"difficulty": "IQ/H",
@@ -8781,6 +8942,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "4a51952b-bd8f-498d-943c-45bab7748c97",
 			"name": "Cure Disease",
 			"reference": "M91",
 			"difficulty": "IQ/H",
@@ -8830,6 +8992,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "70907635-932e-4056-8764-e565a90969d1",
 			"name": "Current",
 			"reference": "M194",
 			"difficulty": "IQ/H",
@@ -8867,6 +9030,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "9f259381-e40b-4ced-96b9-184f8dc559fd",
 			"name": "Curse",
 			"reference": "M129",
 			"difficulty": "IQ/H",
@@ -8937,6 +9101,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8ab44ab3-7e6f-4130-bc79-6d24a4776fee",
 			"name": "Dancing Object",
 			"reference": "M144",
 			"difficulty": "IQ/H",
@@ -9011,6 +9176,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5661734d-18ab-4507-aa71-6c6037725144",
 			"name": "Dancing Shield",
 			"reference": "M67",
 			"difficulty": "IQ/H",
@@ -9060,6 +9226,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c22266bd-c88d-462c-aae0-019ddf5d19d0",
 			"name": "Dancing Weapon",
 			"reference": "M63",
 			"difficulty": "IQ/H",
@@ -9109,6 +9276,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "13afebd3-0b6a-436a-9427-7b227d70b959",
 			"name": "Dark Vision",
 			"reference": "M111",
 			"difficulty": "IQ/H",
@@ -9158,6 +9326,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bf21b95c-ea61-4644-b4fe-80ec462bf34c",
 			"name": "Darkness",
 			"reference": "M111",
 			"difficulty": "IQ/H",
@@ -9194,6 +9363,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c4872e23-0cac-4bab-bee6-28e6b6825e5c",
 			"name": "Daze",
 			"reference": "M134",
 			"difficulty": "IQ/H",
@@ -9230,6 +9400,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5a62b3c4-a945-436b-bc49-2b4be7d649f1",
 			"name": "Death Vision",
 			"reference": "M149",
 			"difficulty": "IQ/H",
@@ -9281,6 +9452,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "004f6bb9-dab8-4962-a081-f1bb77519549",
 			"name": "Deathtouch",
 			"reference": "M41",
 			"difficulty": "IQ/H",
@@ -9347,6 +9519,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "16de3c80-f35c-4238-9a81-ee50fac6d670",
 			"name": "Debility",
 			"reference": "M36",
 			"difficulty": "IQ/H",
@@ -9364,6 +9537,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6ad32673-3d10-4324-a6f4-b9868f0b0844",
 			"name": "Decapitation",
 			"reference": "M42",
 			"difficulty": "IQ/H",
@@ -9438,6 +9612,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b25fc51a-96dd-4ba2-9900-8990d1724af1",
 			"name": "Decay",
 			"reference": "M77",
 			"difficulty": "IQ/H",
@@ -9474,6 +9649,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a166da5c-b35a-4652-a85f-aa95b4f93ad7",
 			"name": "Defending Shield",
 			"reference": "M67",
 			"difficulty": "IQ/H",
@@ -9523,6 +9699,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c5b8aef1-7f89-4973-888e-6b5259ef9b77",
 			"name": "Defending Weapon",
 			"reference": "M64",
 			"difficulty": "IQ/H",
@@ -9572,6 +9749,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c570f096-faa9-452d-8df5-e80ec288ca60",
 			"name": "Deflect",
 			"reference": "M67",
 			"difficulty": "IQ/H",
@@ -9608,6 +9786,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fc5dae24-5812-41fa-a5ae-454c42737855",
 			"name": "Deflect Energy",
 			"reference": "M73",
 			"difficulty": "IQ/H",
@@ -9682,6 +9861,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e36896da-afa2-44c4-9783-d757febbc3d5",
 			"name": "Deflect Missile",
 			"reference": "M143",
 			"difficulty": "IQ/H",
@@ -9719,6 +9899,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ec493ccd-75d6-43f5-bf1b-eeaa06a2c6ae",
 			"name": "Dehydrate",
 			"reference": "M188",
 			"difficulty": "IQ/H",
@@ -9779,6 +9960,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "99d8a057-b619-4637-8453-b442128903fb",
 			"name": "Delay",
 			"reference": "M130",
 			"difficulty": "IQ/H",
@@ -9850,6 +10032,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1845e5df-a0b3-43fc-a535-856067dfabd9",
 			"name": "Delayed Message",
 			"reference": "M173",
 			"difficulty": "IQ/H",
@@ -9937,6 +10120,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "69df303a-e619-46ef-b3c1-08ee7e728579",
 			"name": "Destroy Air",
 			"reference": "M24",
 			"difficulty": "IQ/H",
@@ -9973,6 +10157,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b42b6b19-5418-4992-9b77-5622295d514d",
 			"name": "Destroy Water",
 			"reference": "M185",
 			"difficulty": "IQ/H",
@@ -10009,6 +10194,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d8919454-c184-446b-816f-3dfd630b2c2e",
 			"name": "Detect Magic",
 			"reference": "M101",
 			"difficulty": "IQ/H",
@@ -10060,6 +10246,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "47e7cc3b-7577-4789-ab39-6728a91632e4",
 			"name": "Detect Poison",
 			"reference": "M166",
 			"difficulty": "IQ/H",
@@ -10110,6 +10297,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a2c5c761-9087-4e02-bb47-4904caa53802",
 			"name": "Devitalize Air",
 			"reference": "M25",
 			"difficulty": "IQ/H",
@@ -10146,6 +10334,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "acfd3df9-15e1-462e-b4a9-86ed485dd157",
 			"name": "Disintegrate",
 			"reference": "M120",
 			"difficulty": "IQ/VH",
@@ -10284,6 +10473,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0c0317e4-498a-40f7-9d9b-313f314a259a",
 			"name": "Disorient",
 			"reference": "M135",
 			"difficulty": "IQ/H",
@@ -10320,6 +10510,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a9e19ebe-7f1d-48b2-b343-d9702279bcb0",
 			"name": "Dispel Creation",
 			"reference": "M99",
 			"difficulty": "IQ/H",
@@ -10356,6 +10547,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6a250447-aba0-4612-80ec-8162887cc223",
 			"name": "Dispel Illusion",
 			"reference": "M97",
 			"difficulty": "IQ/H",
@@ -10392,6 +10584,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a3f70dd6-5b35-4c66-b36e-760e280b7093",
 			"name": "Dispel Magic",
 			"reference": "M126",
 			"difficulty": "IQ/H",
@@ -10437,6 +10630,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "96fdb00d-6901-4c5a-a0e9-695e5517c4f8",
 			"name": "Dispel Possession",
 			"reference": "M49",
 			"difficulty": "IQ/H",
@@ -10486,6 +10680,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1f2e1057-2090-4380-98c6-eb39066ac489",
 			"name": "Displace Spell",
 			"reference": "M124",
 			"difficulty": "IQ/H",
@@ -10522,6 +10717,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bbbb0179-44bd-4ee9-a16c-b8c0b29c4049",
 			"name": "Distant Blow",
 			"reference": "M144",
 			"difficulty": "IQ/H",
@@ -10596,6 +10792,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a60a6b08-029e-4f14-a335-d38a39cffacf",
 			"name": "Distill",
 			"reference": "M46",
 			"difficulty": "IQ/H",
@@ -10646,6 +10843,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d1e8e61f-0988-4617-82a2-5ac5f8782081",
 			"name": "Divert Teleport",
 			"reference": "M84",
 			"difficulty": "IQ/VH",
@@ -10721,6 +10919,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b0202f12-ed51-4e00-b181-50d446438c7c",
 			"name": "Doppelganger",
 			"reference": "M62",
 			"difficulty": "IQ/VH",
@@ -10821,6 +11020,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6768411c-a0b8-4120-adbf-e79f09504942",
 			"name": "Drain Magery",
 			"reference": "M130",
 			"difficulty": "IQ/VH",
@@ -10895,6 +11095,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "85946af3-9b0d-41d5-b06d-10fea762efd2",
 			"name": "Drain Mana",
 			"reference": "M127",
 			"difficulty": "IQ/VH",
@@ -10944,6 +11145,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "88f10b5a-eb28-4dbc-aa30-61a69add2254",
 			"name": "Dream Projection",
 			"reference": "M46",
 			"difficulty": "IQ/H",
@@ -10980,6 +11182,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "80784ee1-85f6-4ec0-bad7-fc57487cdd81",
 			"name": "Dream Sending",
 			"reference": "M45",
 			"difficulty": "IQ/H",
@@ -11029,6 +11232,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "922fccf2-8890-45a2-8418-075ccf021d54",
 			"name": "Dream Viewing",
 			"reference": "M45",
 			"difficulty": "IQ/H",
@@ -11078,6 +11282,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a447f10f-9505-48b4-a62e-acb00c270b30",
 			"name": "Drunkenness",
 			"reference": "M136",
 			"difficulty": "IQ/H",
@@ -11127,6 +11332,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "078f94a8-09c9-467f-a865-4e27d8fa3acb",
 			"name": "Dry Spring",
 			"reference": "M188",
 			"difficulty": "IQ/H",
@@ -11176,6 +11382,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d7b94da1-5701-4897-8930-ac7efee14796",
 			"name": "Dull @Sense@",
 			"reference": "M133",
 			"difficulty": "IQ/H",
@@ -11193,6 +11400,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "536386a5-d505-4251-af87-0c5a7f5a626f",
 			"name": "Dull Hearing",
 			"reference": "M133",
 			"difficulty": "IQ/H",
@@ -11210,6 +11418,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "949b4cf0-95d1-494c-a7fb-37816ac0a523",
 			"name": "Dull Taste and Smell",
 			"reference": "M133",
 			"difficulty": "IQ/H",
@@ -11227,6 +11436,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a7ebba6d-3c12-4243-a058-e9ce66979aee",
 			"name": "Dull Touch",
 			"reference": "M133",
 			"difficulty": "IQ/H",
@@ -11244,6 +11454,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c6a377a4-7b52-4d00-8ff8-98ef3f1d0f3e",
 			"name": "Dull Vision",
 			"reference": "M133",
 			"difficulty": "IQ/H",
@@ -11261,6 +11472,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "30246e93-7201-48ac-8937-bf0f46c7d85d",
 			"name": "Dullness",
 			"reference": "M134",
 			"difficulty": "IQ/VH",
@@ -11297,6 +11509,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "207f5a48-e050-46ce-a0ed-7d887e23321a",
 			"name": "Duplicate",
 			"reference": "M98",
 			"difficulty": "IQ/VH",
@@ -11346,6 +11559,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "14ee5f9e-51b9-432a-860e-dfe92946d3bc",
 			"name": "Dye",
 			"reference": "M116",
 			"difficulty": "IQ/H",
@@ -11395,6 +11609,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "42b7b097-4288-4185-b733-c924c1f58ece",
 			"name": "Earth to Air",
 			"reference": "M25",
 			"difficulty": "IQ/H",
@@ -11445,6 +11660,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "614ebe7e-6e9c-4e4f-bc92-7bab8caa4762",
 			"name": "Earth to Stone",
 			"reference": "M51",
 			"difficulty": "IQ/H",
@@ -11519,6 +11735,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c04f08cb-2ef5-4ee9-8b57-d1c74fa782f3",
 			"name": "Earth to Water",
 			"reference": "M52",
 			"difficulty": "IQ/H",
@@ -11607,6 +11824,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "04ca7fde-6ba7-46e3-84e5-d2a1b2e29f71",
 			"name": "Earth Vision",
 			"reference": "M51",
 			"difficulty": "IQ/H",
@@ -11644,6 +11862,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8994f8d4-2f0b-4b01-a862-2bf442682857",
 			"name": "Earthquake",
 			"reference": "M54",
 			"difficulty": "IQ/H",
@@ -11731,6 +11950,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a0e45f5d-5e8c-457e-af5e-51a28e2f46ff",
 			"name": "Echoes of the Past",
 			"reference": "M107",
 			"difficulty": "IQ/H",
@@ -11819,6 +12039,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "762dbf2c-26d1-4c3f-9e19-f1d0752799eb",
 			"name": "Ecstasy",
 			"reference": "M139",
 			"difficulty": "IQ/VH",
@@ -11893,6 +12114,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "aea1dafa-dfce-4ff0-aa82-120f1ab59c1e",
 			"name": "Effigy",
 			"reference": "M71",
 			"difficulty": "IQ/VH",
@@ -11993,6 +12215,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0aebc102-b618-4b12-9c6a-35ef13ed62a7",
 			"name": "Emotion Control",
 			"reference": "M137",
 			"difficulty": "IQ/H",
@@ -12042,6 +12265,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "620b3b66-8e32-4d9c-b843-c7b4e35428d9",
 			"name": "Enchant",
 			"reference": "M56",
 			"difficulty": "IQ/VH",
@@ -12112,6 +12336,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "9c844162-c52f-46a5-b9e2-f6c3248d93c5",
 			"name": "Encrypt",
 			"reference": "M135",
 			"difficulty": "IQ/H",
@@ -12148,6 +12373,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c77ef903-64d4-43a1-bb60-ce64c221d5b3",
 			"name": "Enlarge",
 			"reference": "M42",
 			"difficulty": "IQ/VH",
@@ -12222,6 +12448,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "cddfbedb-fc99-4672-b67e-13c1f92b88dd",
 			"name": "Enlarge Object",
 			"reference": "M120",
 			"difficulty": "IQ/VH",
@@ -12258,6 +12485,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "15062298-9858-47db-aeb7-0201918d5c94",
 			"name": "Enlarge Other",
 			"reference": "M43",
 			"difficulty": "IQ/VH",
@@ -12332,6 +12560,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a5a9c866-ec2f-4ed8-8e68-6d650d29d021",
 			"name": "Enslave",
 			"reference": "M141",
 			"difficulty": "IQ/VH",
@@ -12381,6 +12610,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7c4fb4a8-1e3e-4a1d-8318-a5d6743dd0a7",
 			"name": "Ensorcel",
 			"reference": "M60",
 			"difficulty": "IQ/VH",
@@ -12417,6 +12647,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "dee09a15-e1f6-494c-b643-36818e058bb4",
 			"name": "Enthrall",
 			"reference": "M139",
 			"difficulty": "IQ/H",
@@ -12479,6 +12710,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "79f2f42d-7920-482e-a106-e34135e30337",
 			"name": "Entombment",
 			"reference": "M53",
 			"difficulty": "IQ/H",
@@ -12553,6 +12785,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e11c29c7-b3a5-4684-a849-6a94657a63cf",
 			"name": "Entrap Spirit",
 			"reference": "M157",
 			"difficulty": "IQ/H",
@@ -12640,6 +12873,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "9663e1d6-239a-48e6-a059-15376907ffe2",
 			"name": "Essential Acid",
 			"reference": "M192",
 			"difficulty": "IQ/H",
@@ -12741,6 +12975,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f40c725a-97fd-4b25-bc5d-baa3d5040433",
 			"name": "Essential Air",
 			"reference": "M26",
 			"difficulty": "IQ/H",
@@ -12777,6 +13012,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "18ea5840-da21-4e34-91b8-741a51236941",
 			"name": "Essential Earth",
 			"reference": "M53",
 			"difficulty": "IQ/H",
@@ -12813,6 +13049,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "19fd0766-4633-44e0-b8d3-cc59e4b80765",
 			"name": "Essential Flame",
 			"reference": "M75",
 			"difficulty": "IQ/H",
@@ -12861,6 +13098,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e8a109e3-4ef8-436c-9ad6-37c3e4228e8c",
 			"name": "Essential Food",
 			"reference": "M79",
 			"difficulty": "IQ/VH",
@@ -12910,6 +13148,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "029e45ae-14d6-48b2-91d3-3611ddaa708b",
 			"name": "Essential Water",
 			"reference": "M189",
 			"difficulty": "IQ/H",
@@ -12946,6 +13185,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "91016bc8-208d-4f8b-98ea-cdaef65190f0",
 			"name": "Essential Wood",
 			"reference": "M164",
 			"difficulty": "IQ/H",
@@ -12982,6 +13222,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "eb6c70f9-1cb0-460e-8f90-57ce90869a82",
 			"name": "Ethereal Body",
 			"reference": "M146",
 			"difficulty": "IQ/VH",
@@ -13071,6 +13312,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "dbde9cdc-4b88-4a61-be0b-a37c64beaa9a",
 			"name": "Evisceration",
 			"reference": "M154",
 			"difficulty": "IQ/VH",
@@ -13186,6 +13428,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8262696b-45d7-46d7-8844-d23af7eb099a",
 			"name": "Exchange Bodies",
 			"reference": "M49",
 			"difficulty": "IQ/VH",
@@ -13235,6 +13478,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fc1935a8-295f-4b56-894c-13cce7aa8764",
 			"name": "Explode",
 			"reference": "M118",
 			"difficulty": "IQ/VH",
@@ -13334,6 +13578,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a8689cbf-6a06-46f8-b42a-baee37ac1f00",
 			"name": "Explosive Fireball",
 			"reference": "M75",
 			"difficulty": "IQ/H",
@@ -13392,6 +13637,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fb73de9e-3c85-487e-9ef1-bb11d9706a9e",
 			"name": "Explosive Lightning",
 			"reference": "M196",
 			"difficulty": "IQ/H",
@@ -13451,6 +13697,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0169be0f-b3bb-44e7-babb-8bc11ae9966e",
 			"name": "Extend Object",
 			"reference": "M120",
 			"difficulty": "IQ/VH",
@@ -13525,6 +13772,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e99ba647-d9b9-412e-8b8a-7e49b9721e62",
 			"name": "Extinguish Fire",
 			"reference": "M72",
 			"difficulty": "IQ/H",
@@ -13561,6 +13809,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "01cd13c8-49ef-4aca-bcad-2b073ef5d37c",
 			"name": "False Aura",
 			"reference": "M122",
 			"difficulty": "IQ/H",
@@ -13610,6 +13859,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "9e4b66a5-2c1e-4740-bbde-f8306123ffda",
 			"name": "False Memory",
 			"reference": "M139",
 			"difficulty": "IQ/H",
@@ -13659,6 +13909,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b270c7cb-e901-4754-b5ee-2150b725eb7d",
 			"name": "False Tracks",
 			"reference": "M163",
 			"difficulty": "IQ/H",
@@ -13708,6 +13959,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "15cbc902-8161-4907-bd93-ad581bae9c62",
 			"name": "Far-Feeling",
 			"reference": "M100",
 			"difficulty": "IQ/H",
@@ -13759,6 +14011,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "971c03cc-5a25-4640-b0b3-d78c7d4ed4cc",
 			"name": "Far-Hearing",
 			"reference": "M173",
 			"difficulty": "IQ/H",
@@ -13849,6 +14102,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "cb272791-350a-4ca2-a7d7-7b14034bd9c1",
 			"name": "Far-Tasting",
 			"reference": "M77",
 			"difficulty": "IQ/H",
@@ -13951,6 +14205,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1b74ede6-eebf-43a0-990b-cc99eb28ff44",
 			"name": "Fascinate",
 			"reference": "M135",
 			"difficulty": "IQ/H",
@@ -13987,6 +14242,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a0192244-3131-4006-aa8a-5458f586563d",
 			"name": "Fast Fire",
 			"reference": "M73",
 			"difficulty": "IQ/H",
@@ -14023,6 +14279,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7a7f4cbc-b7e1-447c-ae06-59ddff39abf8",
 			"name": "Fasten",
 			"reference": "M118",
 			"difficulty": "IQ/H",
@@ -14059,6 +14316,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3d47f7e1-c9f0-42e5-b085-81ed2a67d661",
 			"name": "Fear",
 			"reference": "M134",
 			"difficulty": "IQ/H",
@@ -14103,6 +14361,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "faa2acbc-afd9-4191-94ae-964016096efb",
 			"name": "Final Rest",
 			"reference": "M89",
 			"difficulty": "IQ/H",
@@ -14173,6 +14432,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "9e7e583b-3c1d-420d-a41b-979a1d5a725e",
 			"name": "Find Direction",
 			"reference": "M101",
 			"difficulty": "IQ/H",
@@ -14224,6 +14484,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ea629713-89c4-4e31-9881-4f47dc02e6e2",
 			"name": "Find Weakness",
 			"reference": "M116",
 			"difficulty": "IQ/H",
@@ -14299,6 +14560,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "730a4b3a-0c86-4694-b630-4fb786001a24",
 			"name": "Fire Cloud",
 			"reference": "M75",
 			"difficulty": "IQ/H",
@@ -14360,6 +14622,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d48183d1-e5de-4210-baf1-4daac09ec79f",
 			"name": "Fireball",
 			"reference": "M74",
 			"difficulty": "IQ/H",
@@ -14469,6 +14732,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "cd24ee71-2151-45c0-96fc-1402d24a3f0c",
 			"name": "Fireproof",
 			"reference": "M73",
 			"difficulty": "IQ/H",
@@ -14505,6 +14769,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1cafb8f2-e257-47d3-adb3-abcf9dd1d366",
 			"name": "Flame Jet",
 			"reference": "M73",
 			"difficulty": "IQ/H",
@@ -14577,6 +14842,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f6ede775-b03c-487b-b29c-91b592c37e51",
 			"name": "Flaming Armor",
 			"reference": "M75",
 			"difficulty": "IQ/H",
@@ -14665,6 +14931,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bdaca71a-f1f6-45fe-8e70-939913280e18",
 			"name": "Flaming Missiles",
 			"reference": "M75",
 			"difficulty": "IQ/H",
@@ -14702,6 +14969,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "67e3f88a-a4b6-4284-8cc9-555ffe4e370a",
 			"name": "Flaming Weapon",
 			"reference": "M75",
 			"difficulty": "IQ/H",
@@ -14777,6 +15045,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "255710c5-0896-48e0-9656-703b0b1b68a2",
 			"name": "Flash",
 			"reference": "M112",
 			"difficulty": "IQ/H",
@@ -14825,6 +15094,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6b7530c7-c3e8-4583-aaa6-3fcea88ec305",
 			"name": "Flesh to Ice",
 			"reference": "M190",
 			"difficulty": "IQ/VH",
@@ -14912,6 +15182,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "cc865f54-43e0-4a55-a73b-a3311b8776b4",
 			"name": "Flesh to Stone",
 			"reference": "M51",
 			"difficulty": "IQ/H",
@@ -14948,6 +15219,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e4eedea1-0ea5-46ff-8f68-91dbf8af31f8",
 			"name": "Flight",
 			"reference": "M145",
 			"difficulty": "IQ/VH",
@@ -15022,6 +15294,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "92e1266f-139b-4084-b58b-3daaf4548e34",
 			"name": "Flying Carpet",
 			"reference": "M146",
 			"difficulty": "IQ/VH",
@@ -15111,6 +15384,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6bcb5e9e-7b91-4bfb-abff-7f4e2b8e4b0f",
 			"name": "Fog",
 			"reference": "M193",
 			"difficulty": "IQ/H",
@@ -15148,6 +15422,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5befe003-e8b0-4be2-83f0-6436b3f255f1",
 			"name": "Fool's Banquet",
 			"reference": "M79",
 			"difficulty": "IQ/H",
@@ -15235,6 +15510,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ab727675-86f0-49b4-af2e-35329afd9cfa",
 			"name": "Foolishness",
 			"reference": "M134",
 			"difficulty": "IQ/H",
@@ -15267,6 +15543,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f558b75b-0120-4904-a187-591e3e9d400e",
 			"name": "Force Dome",
 			"reference": "M170",
 			"difficulty": "IQ/H",
@@ -15354,6 +15631,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d2b3ff1c-1511-45ff-9fc5-67ff6bc69a5d",
 			"name": "Force Wall",
 			"reference": "M170",
 			"difficulty": "IQ/H",
@@ -15390,6 +15668,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "21304bb6-f099-4e55-bd11-e0b9b710ac8c",
 			"name": "Forest Warning",
 			"reference": "M162",
 			"difficulty": "IQ/H",
@@ -15434,6 +15713,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3fe731b0-2aca-4a01-9480-7197d585a3fd",
 			"name": "Forgetfulness",
 			"reference": "M135",
 			"difficulty": "IQ/H",
@@ -15508,6 +15788,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "da9abab3-8582-4f18-bd6b-c388a69bb4c8",
 			"name": "Fortify",
 			"reference": "M66",
 			"difficulty": "IQ/H",
@@ -15544,6 +15825,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e668f125-6e90-4958-aba4-9efbea6b50bc",
 			"name": "Foul Water",
 			"reference": "M185",
 			"difficulty": "IQ/H",
@@ -15594,6 +15876,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6a300f1e-95b1-4340-b08b-87ecb6db4e27",
 			"name": "Frailty",
 			"reference": "M37",
 			"difficulty": "IQ/H",
@@ -15630,6 +15913,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "21f91cf1-fe8c-4658-81be-1f6cf961cac9",
 			"name": "Freedom",
 			"reference": "M148",
 			"difficulty": "IQ/H",
@@ -15692,6 +15976,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "38464540-ab6a-4c50-a6dc-3803af903e3a",
 			"name": "Freeze",
 			"reference": "M185",
 			"difficulty": "IQ/H",
@@ -15728,6 +16013,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8233f41b-8d23-4ddd-ad9c-a81b011caa3c",
 			"name": "Frost",
 			"reference": "M193",
 			"difficulty": "IQ/H",
@@ -15778,6 +16064,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "4354f472-27e0-4810-8b02-9524f748a2ad",
 			"name": "Frostbite",
 			"reference": "M189",
 			"difficulty": "IQ/H",
@@ -15838,6 +16125,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c4849f19-b7e8-4d0d-b28b-599b9a612a93",
 			"name": "Fumble",
 			"reference": "M38",
 			"difficulty": "IQ/H",
@@ -15874,6 +16162,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "652adfa7-befd-4548-a407-c183b1e4ce02",
 			"name": "Garble",
 			"reference": "M172",
 			"difficulty": "IQ/H",
@@ -15910,6 +16199,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "39a67a37-1339-45da-bdc4-5ea0e3a0f7c8",
 			"name": "Gauntness",
 			"reference": "M43",
 			"difficulty": "IQ/H",
@@ -16023,6 +16313,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8da45297-864b-4a1c-80cd-9c30ac3ff103",
 			"name": "Geyser",
 			"reference": "M190",
 			"difficulty": "IQ/H",
@@ -16104,6 +16395,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2cf3da30-1c9c-4388-8500-160592c3fdce",
 			"name": "Ghost Weapon",
 			"reference": "M65",
 			"difficulty": "IQ/H",
@@ -16153,6 +16445,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fad7af02-ef07-45ee-8beb-634b0cab767b",
 			"name": "Gift of Letters",
 			"reference": "M46",
 			"difficulty": "IQ/VH",
@@ -16219,6 +16512,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "089be4dd-693a-4cde-9628-0b7c32c1c3dc",
 			"name": "Gift of Tongues",
 			"reference": "M46",
 			"difficulty": "IQ/VH",
@@ -16285,6 +16579,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7764f9b3-b5f6-4689-b5ed-3be9b6ae7773",
 			"name": "Glass Wall",
 			"reference": "M103",
 			"difficulty": "IQ/H",
@@ -16334,6 +16629,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "9ea99192-6271-40cd-baca-b0ce1edb145d",
 			"name": "Glib Tongue",
 			"reference": "M141",
 			"difficulty": "IQ/H",
@@ -16370,6 +16666,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a943d828-5c39-49ca-8072-5971e3a970da",
 			"name": "Gloom",
 			"reference": "M112",
 			"difficulty": "IQ/H",
@@ -16406,6 +16703,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6affd996-9bd1-4a04-87a4-69924f623150",
 			"name": "Glow",
 			"reference": "M112",
 			"difficulty": "IQ/H",
@@ -16442,6 +16740,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7af33106-aaf1-4dd8-b74d-9c1a68d9b960",
 			"name": "Glue",
 			"reference": "M142",
 			"difficulty": "IQ/H",
@@ -16478,6 +16777,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5cedcc9d-1107-4e1e-bc84-f79c1dc27357",
 			"name": "Golem",
 			"reference": "M59",
 			"difficulty": "IQ/VH",
@@ -16540,6 +16840,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "288d7769-6d5b-4184-b951-56f0a69f2ea8",
 			"name": "Grace",
 			"reference": "M37",
 			"difficulty": "IQ/H",
@@ -16576,6 +16877,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "29271f2e-6e21-446b-85b2-4b0c39784991",
 			"name": "Graceful Weapon",
 			"reference": "M63",
 			"difficulty": "IQ/H",
@@ -16625,6 +16927,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "dd7774fe-d33a-4252-9586-bd4c32dacd3c",
 			"name": "Grease",
 			"reference": "M142",
 			"difficulty": "IQ/H",
@@ -16661,6 +16964,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "4b23447c-fde2-43f5-a03b-6f7f39caf8e3",
 			"name": "Great Geas",
 			"reference": "M141",
 			"difficulty": "IQ/VH",
@@ -16748,6 +17052,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "aab18c8b-65df-4dc1-997a-b7ef3985843b",
 			"name": "Great Hallucination",
 			"reference": "M141",
 			"difficulty": "IQ/VH",
@@ -16822,6 +17127,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b9234d1a-f757-489e-97b0-94667a8a5817",
 			"name": "Great Haste",
 			"reference": "M146",
 			"difficulty": "IQ/VH",
@@ -16905,6 +17211,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d8e629d1-9275-436c-872f-1f996dd1de91",
 			"name": "Great Healing",
 			"reference": "M91",
 			"difficulty": "IQ/VH",
@@ -16979,6 +17286,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "248be434-7326-4164-9b2c-9366db2215d9",
 			"name": "Great Shapeshift",
 			"reference": "M34",
 			"difficulty": "IQ/VH",
@@ -17075,6 +17383,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c4d81ea0-6b87-41c9-8720-9c5965702354",
 			"name": "Great Voice",
 			"reference": "M173",
 			"difficulty": "IQ/H",
@@ -17124,6 +17433,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3b3d6c2e-1e08-44b7-8dc6-c827e88e5eca",
 			"name": "Great Ward",
 			"reference": "M122",
 			"difficulty": "IQ/H",
@@ -17198,6 +17508,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e3e619fe-c078-484f-b85b-05abc92f7d1c",
 			"name": "Great Wish",
 			"reference": "M62",
 			"difficulty": "IQ/VH",
@@ -17282,6 +17593,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8e3f5c93-4400-4cd6-86fb-1e33f89c8ed2",
 			"name": "Hail",
 			"reference": "M195",
 			"difficulty": "IQ/H",
@@ -17332,6 +17644,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b88d80b0-8bbe-4b19-88f9-30f042246f80",
 			"name": "Hair Growth",
 			"reference": "M39",
 			"difficulty": "IQ/H",
@@ -17368,6 +17681,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "60e9ba47-075c-4b98-a0bd-b3edabd8000c",
 			"name": "Haircut",
 			"reference": "M39",
 			"difficulty": "IQ/H",
@@ -17417,6 +17731,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d2242af6-9a28-40a2-bfab-c1dae62ed678",
 			"name": "Hallucination",
 			"reference": "M140",
 			"difficulty": "IQ/H",
@@ -17466,6 +17781,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c689f922-1601-4b6e-9bd1-8e4196462967",
 			"name": "Halt Aging",
 			"reference": "M94",
 			"difficulty": "IQ/VH",
@@ -17540,6 +17856,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5470d285-be72-4a0d-a12d-316fda333836",
 			"name": "Hang Spell",
 			"reference": "M128",
 			"difficulty": "IQ/VH",
@@ -17576,6 +17893,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3a98c291-2350-4502-8bf4-3b3ac5ecd990",
 			"name": "Hardiness",
 			"reference": "M167",
 			"difficulty": "IQ/H",
@@ -17612,6 +17930,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1bc5e03d-bd22-4efd-a97f-0810009e39f8",
 			"name": "Haste",
 			"reference": "M142",
 			"difficulty": "IQ/H",
@@ -17629,6 +17948,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "cfa1463b-ebc5-4851-a74e-c7004baf8b87",
 			"name": "Hawk Flight",
 			"reference": "M146",
 			"difficulty": "IQ/VH",
@@ -17665,6 +17985,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "36e3c1cb-b581-4bde-8738-cd32d585a14a",
 			"name": "Hawk Vision",
 			"reference": "M111",
 			"difficulty": "IQ/H",
@@ -17728,6 +18049,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3ec6f68e-d6c7-46ab-af75-2bbdccd80eb1",
 			"name": "Heal Plant",
 			"reference": "M161",
 			"difficulty": "IQ/H",
@@ -17764,6 +18086,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6cb5c9fe-a522-438f-b7ae-503f5d177bf9",
 			"name": "Healing Slumber",
 			"reference": "M94",
 			"difficulty": "IQ/H",
@@ -17851,6 +18174,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "81df144e-5b3a-49f4-a3de-c2d6ab3eb481",
 			"name": "Heat",
 			"reference": "M74",
 			"difficulty": "IQ/H",
@@ -17900,6 +18224,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "df3ccbb5-2196-483e-9342-def7111194d1",
 			"name": "Hex",
 			"reference": "M57",
 			"difficulty": "IQ/H",
@@ -17936,6 +18261,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ed4e0052-c0d0-4ef6-bf88-51d2f030045c",
 			"name": "Hide",
 			"reference": "M113",
 			"difficulty": "IQ/H",
@@ -17985,6 +18311,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5069410d-bac1-41c6-9bb8-f15494a16f9b",
 			"name": "Hide Emotion",
 			"reference": "M45",
 			"difficulty": "IQ/H",
@@ -18021,6 +18348,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "06054b2b-b57a-4966-80d8-ea7d58bcb63b",
 			"name": "Hide Object",
 			"reference": "M86",
 			"difficulty": "IQ/H",
@@ -18070,6 +18398,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "00b5a3fa-9999-4c56-8864-3efa8f69d6eb",
 			"name": "Hide Path",
 			"reference": "M162",
 			"difficulty": "IQ/H",
@@ -18106,6 +18435,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "9f60132d-2ac3-4d7a-b6ee-7804ecd22f32",
 			"name": "Hide Thoughts",
 			"reference": "M46",
 			"difficulty": "IQ/H",
@@ -18155,6 +18485,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b7d49c24-743d-4b62-b3be-375eb2025b4d",
 			"name": "Hideaway",
 			"reference": "M61",
 			"difficulty": "IQ/H",
@@ -18217,6 +18548,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "15bb9b29-49e8-4fc8-86cc-5b6740691b2b",
 			"name": "Hinder",
 			"reference": "M36",
 			"difficulty": "IQ/H",
@@ -18266,6 +18598,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "58ba3d9e-5525-40f2-82b7-5d994faa3584",
 			"name": "History",
 			"reference": "M106",
 			"difficulty": "IQ/H",
@@ -18301,6 +18634,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "13fd8df3-80eb-406c-9f8e-dc78abfbde15",
 			"name": "Hold Breath",
 			"reference": "M39",
 			"difficulty": "IQ/H",
@@ -18375,6 +18709,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "027bebfe-b99c-4d3e-b91c-42261b5741ef",
 			"name": "Hold Fast",
 			"reference": "M143",
 			"difficulty": "IQ/H",
@@ -18411,6 +18746,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ed84ad95-2081-4ae7-8170-791e42e9bf8f",
 			"name": "Homunculus",
 			"reference": "M70",
 			"difficulty": "IQ/H",
@@ -18485,6 +18821,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3b03303e-80ea-4856-941e-6ad75a8cd80c",
 			"name": "Hunger",
 			"reference": "M38",
 			"difficulty": "IQ/H",
@@ -18573,6 +18910,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2dcf3b22-2589-4f65-b4ed-27a0989f1a00",
 			"name": "Hush",
 			"reference": "M172",
 			"difficulty": "IQ/H",
@@ -18609,6 +18947,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7f85bcfa-c015-49fc-b206-92520e3546c9",
 			"name": "Hybrid Control",
 			"reference": "M30",
 			"difficulty": "IQ/VH",
@@ -18645,6 +18984,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "991ddbfa-ca08-4f3c-8101-266e9d1b793c",
 			"name": "Ice Dagger",
 			"reference": "M188",
 			"difficulty": "IQ/H",
@@ -18716,6 +19056,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "45b134cf-4f38-4afc-9123-1c9312e0c8fe",
 			"name": "Ice Slick",
 			"reference": "M186",
 			"difficulty": "IQ/H",
@@ -18752,6 +19093,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "325f3b58-940f-4df8-824c-91e653ce6a97",
 			"name": "Ice Sphere",
 			"reference": "M186",
 			"difficulty": "IQ/H",
@@ -18810,6 +19152,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a4b2c3d6-941d-4703-b363-d7d5f182233e",
 			"name": "Icy Breath",
 			"reference": "M192",
 			"difficulty": "IQ/H",
@@ -18920,6 +19263,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5679f8aa-6b3d-4af0-85fa-7632fc267095",
 			"name": "Icy Missiles",
 			"reference": "M186",
 			"difficulty": "IQ/H",
@@ -18957,6 +19301,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0057c069-c1b1-41a8-b29e-ae74ee1f2916",
 			"name": "Icy Touch",
 			"reference": "M188",
 			"difficulty": "IQ/H",
@@ -19061,6 +19406,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "852c77ea-d355-414b-b527-462799223554",
 			"name": "Icy Weapon",
 			"reference": "M185",
 			"difficulty": "IQ/H",
@@ -19098,6 +19444,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f9764d30-94d3-4e06-9175-e9902cd242dd",
 			"name": "Identify Plant",
 			"reference": "M161",
 			"difficulty": "IQ/H",
@@ -19134,6 +19481,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3df132b0-391a-466e-b6ef-495c9654a363",
 			"name": "Identify Spell",
 			"reference": "M102",
 			"difficulty": "IQ/H",
@@ -19170,6 +19518,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c51c2f00-4245-4a8f-8be5-202d103a3a89",
 			"name": "Ignite Fire",
 			"reference": "M72",
 			"difficulty": "IQ/H",
@@ -19187,6 +19536,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7b086398-6f4a-4176-abc7-4eaeeb371f96",
 			"name": "Illusion Disguise",
 			"reference": "M96",
 			"difficulty": "IQ/H",
@@ -19223,6 +19573,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8524d9a7-2f6f-44c2-8149-a94f7b2eb6fc",
 			"name": "Illusion Shell",
 			"reference": "M96",
 			"difficulty": "IQ/H",
@@ -19259,6 +19610,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "eff41942-7752-40c1-934a-dce9e58d3c57",
 			"name": "Images of the Past",
 			"reference": "M107",
 			"difficulty": "IQ/H",
@@ -19347,6 +19699,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "095bea2b-783b-4950-92ea-dcc568669376",
 			"name": "Imitate Voice",
 			"reference": "M172",
 			"difficulty": "IQ/H",
@@ -19383,6 +19736,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b5127aa4-f954-4064-8557-2beb9f9c24b1",
 			"name": "Impression Blocker",
 			"reference": "M60",
 			"difficulty": "IQ/H",
@@ -19445,6 +19799,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "85a7cbc0-cc66-4cb6-9bce-7015ef0eb550",
 			"name": "Increase Burden",
 			"reference": "M143",
 			"difficulty": "IQ/H",
@@ -19481,6 +19836,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "01b14b1a-6bdb-448d-996c-0b68845f28d6",
 			"name": "Independence",
 			"reference": "M96",
 			"difficulty": "IQ/H",
@@ -19517,6 +19873,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "9021284b-8cd1-40c1-82c6-bcc6831ef87e",
 			"name": "Infravision",
 			"reference": "M111",
 			"difficulty": "IQ/H",
@@ -19566,6 +19923,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3be5dfda-66fb-4491-b4cf-671e6e832861",
 			"name": "Initiative",
 			"reference": "M97",
 			"difficulty": "IQ/H",
@@ -19615,6 +19973,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "faf85ace-b2a1-4059-83c7-3572b6335d4e",
 			"name": "Inscribe",
 			"reference": "M97",
 			"difficulty": "IQ/H",
@@ -19665,6 +20024,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fe3321db-7fb3-4f7a-9aa7-66916962ebc0",
 			"name": "Insignificance",
 			"reference": "M48",
 			"difficulty": "IQ/H",
@@ -19714,6 +20074,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a963024b-2313-4476-a0f8-cae9e36ddff6",
 			"name": "Inspired Creation",
 			"reference": "M115",
 			"difficulty": "IQ/VH",
@@ -19731,6 +20092,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "26570195-0640-4e3a-8fc4-854e1c98f143",
 			"name": "Instant Neutralize Poison",
 			"reference": "M92",
 			"difficulty": "IQ/VH",
@@ -19805,6 +20167,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3f3d3bc9-a8a9-490a-9c23-2d0d7627e4c8",
 			"name": "Instant Regeneration",
 			"reference": "M93",
 			"difficulty": "IQ/VH",
@@ -19879,6 +20242,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "262f2dba-7bf9-4483-8c18-b1e9f1dbe29b",
 			"name": "Instant Restoration",
 			"reference": "M93",
 			"difficulty": "IQ/VH",
@@ -19953,6 +20317,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a9c1246b-05da-4284-9ee8-45d584b171f9",
 			"name": "Invisibility",
 			"reference": "M114",
 			"difficulty": "IQ/H",
@@ -20003,6 +20368,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "dacd447d-29df-478a-b5be-0a4ee1117fe9",
 			"name": "Invisible Wizard Ear",
 			"reference": "M174",
 			"difficulty": "IQ/H",
@@ -20052,6 +20418,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ac18a523-c04c-476e-b526-e73556bdf772",
 			"name": "Invisible Wizard Eye",
 			"reference": "M104",
 			"difficulty": "IQ/H",
@@ -20101,6 +20468,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "cfad6fd7-78e2-473b-84dc-b7f5578ca2d4",
 			"name": "Iron Arm",
 			"reference": "M169",
 			"difficulty": "IQ/H",
@@ -20146,6 +20514,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a13d168f-4433-40da-9c17-077758d6b2e3",
 			"name": "Itch",
 			"reference": "M35",
 			"difficulty": "IQ/H",
@@ -20163,6 +20532,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "617dc1c7-eb95-4a04-a606-d87658e70d41",
 			"name": "Jump",
 			"reference": "M143",
 			"difficulty": "IQ/H",
@@ -20199,6 +20569,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b33cfe7f-1034-4fc1-88ba-eabb01028847",
 			"name": "Keen @Sense@",
 			"reference": "M133",
 			"difficulty": "IQ/H",
@@ -20216,6 +20587,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "616a15e4-4f7b-4e53-89a2-a68586cc1403",
 			"name": "Keen Hearing",
 			"reference": "M133",
 			"difficulty": "IQ/H",
@@ -20234,6 +20606,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7d125698-0ebe-402e-8723-c91e32d10216",
 			"name": "Keen Taste and Smell",
 			"reference": "M133",
 			"difficulty": "IQ/H",
@@ -20251,6 +20624,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "32df8e74-c8b0-43d3-9af8-bcd9a3532c01",
 			"name": "Keen Touch",
 			"reference": "M133",
 			"difficulty": "IQ/H",
@@ -20268,6 +20642,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8e833fcc-de76-4a93-a3e4-f450e96a896b",
 			"name": "Keen Vision",
 			"reference": "M133",
 			"difficulty": "IQ/H",
@@ -20285,6 +20660,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5443d75a-8070-4286-a047-68de93c4b8d6",
 			"name": "Knot",
 			"reference": "M117",
 			"difficulty": "IQ/H",
@@ -20321,6 +20697,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8cd98a7a-3cd8-4845-baa7-39a43aa49475",
 			"name": "Know Illusion",
 			"reference": "M97",
 			"difficulty": "IQ/H",
@@ -20357,6 +20734,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "be94cbc9-46a2-4852-b825-a65a01dac334",
 			"name": "Know Location",
 			"reference": "M103",
 			"difficulty": "IQ/H",
@@ -20431,6 +20809,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d3229b50-6a81-4068-b33d-d1332fc81746",
 			"name": "Know Recipe",
 			"reference": "M78",
 			"difficulty": "IQ/H",
@@ -20481,6 +20860,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "15d3d65d-b068-46c1-8338-437b55774dd4",
 			"name": "Know True Shape",
 			"reference": "M106",
 			"difficulty": "IQ/H",
@@ -20645,6 +21025,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f98a7875-9bdc-48a5-8727-0c0e21b4cd9d",
 			"name": "Leak",
 			"reference": "M61",
 			"difficulty": "IQ/H",
@@ -20681,6 +21062,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a5964730-5669-4415-9a38-b4207e140c33",
 			"name": "Lend Energy",
 			"reference": "M89",
 			"difficulty": "IQ/H",
@@ -20750,6 +21132,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f9126211-8c6c-45ab-a7ee-c8f8b1e65a40",
 			"name": "Lend Language",
 			"reference": "M46",
 			"difficulty": "IQ/H",
@@ -20799,6 +21182,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bb89b724-1479-4ce0-b800-44d5172c0125",
 			"name": "Lend Skill",
 			"reference": "M47",
 			"difficulty": "IQ/H",
@@ -20845,6 +21229,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2a0c2138-328c-4f96-a2ff-e6c8b7a92e8f",
 			"name": "Lend Spell",
 			"reference": "M126",
 			"difficulty": "IQ/H",
@@ -20928,6 +21313,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b1b4fbb3-77c9-417a-a1db-628f9ba92bd0",
 			"name": "Lend Vitality",
 			"reference": "M89",
 			"difficulty": "IQ/H",
@@ -20964,6 +21350,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8179fb8d-6ee8-48bd-b559-144b4af1a8e6",
 			"name": "Lengthen Limb",
 			"reference": "M41",
 			"difficulty": "IQ/H",
@@ -21038,6 +21425,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "be4431c1-4961-4a61-8e4d-5a5e053ab9f1",
 			"name": "Lesser Geas",
 			"reference": "M140",
 			"difficulty": "IQ/VH",
@@ -21125,6 +21513,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2c74c7a1-2495-4f0f-a825-192d451d2797",
 			"name": "Lesser Wish",
 			"reference": "M58",
 			"difficulty": "IQ/VH",
@@ -21161,6 +21550,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "463650c8-a666-435e-bd0a-4be104c1bed3",
 			"name": "Levitation",
 			"reference": "M143",
 			"difficulty": "IQ/H",
@@ -21197,6 +21587,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b268dbd3-455a-4915-a600-3bf543324acd",
 			"name": "Lich",
 			"reference": "M159",
 			"difficulty": "IQ/VH",
@@ -21307,6 +21698,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "aba70e2c-afad-451c-88d0-e69a42dac12b",
 			"name": "Light",
 			"reference": "M110",
 			"difficulty": "IQ/H",
@@ -21324,6 +21716,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8c8ee825-4c73-42d7-9fbf-511d9fae890a",
 			"name": "Light Jet",
 			"reference": "M112",
 			"difficulty": "IQ/H",
@@ -21396,6 +21789,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6669a1ae-f8f7-4843-9ad6-036188dfdb86",
 			"name": "Light Tread",
 			"reference": "M145",
 			"difficulty": "IQ/H",
@@ -21445,6 +21839,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bc4cd341-f28d-4343-ae1f-f51b205a345b",
 			"name": "Lighten",
 			"reference": "M67",
 			"difficulty": "IQ/H",
@@ -21481,6 +21876,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0b7cb0c8-5084-478f-b23c-cbe309b4d715",
 			"name": "Lighten Burden",
 			"reference": "M143",
 			"difficulty": "IQ/H",
@@ -21517,6 +21913,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "51678946-cf9a-4227-bf2e-21d8a53014d7",
 			"name": "Lightning",
 			"reference": "M196",
 			"difficulty": "IQ/H",
@@ -21614,6 +22011,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c7076318-99a7-4598-9d5e-2c821de0e72b",
 			"name": "Lightning Armor",
 			"reference": "M198",
 			"difficulty": "IQ/H",
@@ -21664,6 +22062,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1c4d9d0b-dadd-4c14-90be-b752262a728f",
 			"name": "Lightning Missiles",
 			"reference": "M198",
 			"difficulty": "IQ/H",
@@ -21702,6 +22101,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2bd07d13-68e0-4676-84ae-fa32bc19e53c",
 			"name": "Lightning Stare",
 			"reference": "M198",
 			"difficulty": "IQ/H",
@@ -21775,6 +22175,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5bbb5ac9-7753-4aa4-9d0b-49b320dcd542",
 			"name": "Lightning Weapon",
 			"reference": "M198",
 			"difficulty": "IQ/H",
@@ -21851,6 +22252,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3d29830e-0d7b-4481-8f87-817a893e97d1",
 			"name": "Lightning Whip",
 			"reference": "M196",
 			"difficulty": "IQ/H",
@@ -21919,6 +22321,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3fc668ec-e910-414c-a5e9-5de6f5eb7cdd",
 			"name": "Limit",
 			"reference": "M68",
 			"difficulty": "IQ/H",
@@ -21955,6 +22358,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "925d71af-f14c-4dae-85a6-36ce22c9d2e0",
 			"name": "Link",
 			"reference": "M131",
 			"difficulty": "IQ/H",
@@ -21992,6 +22396,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5444cc33-d1fe-4b24-9ec9-e2e72ac14a92",
 			"name": "Lockmaster",
 			"reference": "M144",
 			"difficulty": "IQ/H",
@@ -22081,6 +22486,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c78125c7-b3d7-4f00-8814-c1a598ebfa3a",
 			"name": "Locksmith",
 			"reference": "M143",
 			"difficulty": "IQ/H",
@@ -22117,6 +22523,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e2a52c9f-90e4-4ad9-86a0-ee3428ba417c",
 			"name": "Long March",
 			"reference": "M143",
 			"difficulty": "IQ/H",
@@ -22210,6 +22617,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "15880f64-fa99-4b40-b68f-2d4adb4994fc",
 			"name": "Loyal Sword",
 			"reference": "M63",
 			"difficulty": "IQ/H",
@@ -22259,6 +22667,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "cf4f9f0a-7925-4af4-8180-e4f35a79f4f7",
 			"name": "Loyalty",
 			"reference": "M136",
 			"difficulty": "IQ/H",
@@ -22308,6 +22717,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f82c2d23-4ebc-46b5-9d47-f3dd2d668edb",
 			"name": "Lure",
 			"reference": "M137",
 			"difficulty": "IQ/H",
@@ -22344,6 +22754,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0cba41ba-1b71-4518-87d0-c083689c4426",
 			"name": "Madness",
 			"reference": "M136",
 			"difficulty": "IQ/H",
@@ -22393,6 +22804,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "9a1d6301-5d45-471b-9d52-b70dca9e36b0",
 			"name": "Mage Light",
 			"reference": "M113",
 			"difficulty": "IQ/H",
@@ -22442,6 +22854,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "655d2599-9043-4488-ae2e-7973b1827e29",
 			"name": "Mage Sense",
 			"reference": "M102",
 			"difficulty": "IQ/H",
@@ -22478,6 +22891,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6bbd698b-5092-4d37-8346-a54daff20308",
 			"name": "Mage Sight",
 			"reference": "M102",
 			"difficulty": "IQ/H",
@@ -22514,6 +22928,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fd82945a-4149-4ed8-8b36-a13ffd6b716f",
 			"name": "Mage-Stealth",
 			"reference": "M172",
 			"difficulty": "IQ/H",
@@ -22550,6 +22965,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "93e69259-0613-480b-9b1c-32d9d26a9bfc",
 			"name": "Magelock",
 			"reference": "M166",
 			"difficulty": "IQ/H",
@@ -22585,6 +23001,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2f44fdc5-e2f4-44bb-8525-65223e42a546",
 			"name": "Magic Resistance",
 			"reference": "M123",
 			"difficulty": "IQ/H",
@@ -22655,6 +23072,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f06c86eb-a136-4504-85ae-66f7e1469fd6",
 			"name": "Maintain Spell",
 			"reference": "M128",
 			"difficulty": "IQ/VH",
@@ -22691,6 +23109,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a798c9c7-7737-43b1-946c-7d8c57005c75",
 			"name": "Major Healing",
 			"reference": "M91",
 			"difficulty": "IQ/VH",
@@ -22765,6 +23184,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bfd8c045-2545-4c45-bac5-dc3a8cd48694",
 			"name": "Malefice",
 			"reference": "M60",
 			"difficulty": "IQ/VH",
@@ -22814,6 +23234,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8405a9d2-8804-4453-8319-0658e4dffb5e",
 			"name": "Manastone",
 			"reference": "M70",
 			"difficulty": "IQ/VH",
@@ -22850,6 +23271,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ed38fc27-1915-463a-a6aa-24ce4a11923b",
 			"name": "Manipulate",
 			"reference": "M145",
 			"difficulty": "IQ/H",
@@ -22886,6 +23308,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e87eca52-9f72-48d9-836e-b2ffa308243b",
 			"name": "Mapmaker",
 			"reference": "M118",
 			"difficulty": "IQ/H",
@@ -22935,6 +23358,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "4eb8a02c-f35b-47b9-aa9c-00962840fac9",
 			"name": "Mass Daze",
 			"reference": "M137",
 			"difficulty": "IQ/H",
@@ -22980,6 +23404,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "147515d7-ca6c-4ff9-80c0-f927570f7013",
 			"name": "Mass Sleep",
 			"reference": "M137",
 			"difficulty": "IQ/H",
@@ -23025,6 +23450,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3949407c-df6e-4870-9214-0f609575042e",
 			"name": "Mass Suggestion",
 			"reference": "M141",
 			"difficulty": "IQ/H",
@@ -23061,6 +23487,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "03d98009-0c46-42d4-8a07-2d08e3a2e87f",
 			"name": "Mass Zombie",
 			"reference": "M153",
 			"difficulty": "IQ/VH",
@@ -23109,6 +23536,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "31438bd0-b83a-4ab5-a712-eedf991475d4",
 			"name": "Master",
 			"reference": "M30",
 			"difficulty": "IQ/H",
@@ -23145,6 +23573,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "80baf1ec-da8a-48eb-b78b-854193958ec7",
 			"name": "Materialize",
 			"reference": "M150",
 			"difficulty": "IQ/H",
@@ -23181,6 +23610,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "aae6a5a9-9c0f-4198-a441-4b11219d3fb3",
 			"name": "Mature",
 			"reference": "M78",
 			"difficulty": "IQ/H",
@@ -23230,6 +23660,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "39e93b62-0c7c-4611-9634-e294115bcdb3",
 			"name": "Measurement",
 			"reference": "M100",
 			"difficulty": "IQ/H",
@@ -23247,6 +23678,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "059e3201-5d9e-4496-9f94-6dee73ab7654",
 			"name": "Melt Ice",
 			"reference": "M186",
 			"difficulty": "IQ/H",
@@ -23296,6 +23728,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fed582c9-75c1-47de-bb9d-7ffe00e6ce8d",
 			"name": "Memorize",
 			"reference": "M105",
 			"difficulty": "IQ/H",
@@ -23346,6 +23779,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0ae38e21-13cb-44df-96ff-0b1a6b1b134d",
 			"name": "Mental Stun",
 			"reference": "M135",
 			"difficulty": "IQ/H",
@@ -23395,6 +23829,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "30c83a77-2c4b-487a-af2c-8c032f92afd8",
 			"name": "Message",
 			"reference": "M174",
 			"difficulty": "IQ/H",
@@ -23445,6 +23880,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a5184c7a-a8c1-4449-a88e-1536c0a38c0d",
 			"name": "Might",
 			"reference": "M37",
 			"difficulty": "IQ/H",
@@ -23481,6 +23917,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e7fc460c-de8c-4e98-96a0-24c59d1ee840",
 			"name": "Mind-Reading",
 			"reference": "M46",
 			"difficulty": "IQ/H",
@@ -23530,6 +23967,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "cedd8ffa-6fb7-454d-9ee9-6387dbb66f71",
 			"name": "Mind-Search",
 			"reference": "M46",
 			"difficulty": "IQ/VH",
@@ -23566,6 +24004,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5a3ff210-1316-4048-9dcb-771f5f7d1216",
 			"name": "Mind-Sending",
 			"reference": "M47",
 			"difficulty": "IQ/H",
@@ -23602,6 +24041,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f469d958-98bf-440c-b558-8dcab0c57658",
 			"name": "Mindlessness",
 			"reference": "M137",
 			"difficulty": "IQ/VH",
@@ -23676,6 +24116,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "71d5daea-a2f1-46b0-bb7e-c6bac65b2791",
 			"name": "Minor Healing",
 			"reference": "M91",
 			"difficulty": "IQ/H",
@@ -23712,6 +24153,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3aae4b17-e740-4e71-9b89-0513affa85a4",
 			"name": "Mirror",
 			"reference": "M112",
 			"difficulty": "IQ/H",
@@ -23748,6 +24190,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "769aaacd-5f75-4052-a3e3-4727d697e147",
 			"name": "Missile Shield",
 			"reference": "M168",
 			"difficulty": "IQ/H",
@@ -23797,6 +24240,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a48ee10c-7f09-4f96-b87f-4b412d1f62a8",
 			"name": "Monk's Banquet",
 			"reference": "M79",
 			"difficulty": "IQ/H",
@@ -23846,6 +24290,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c3f3c3ea-2876-44c3-8a65-7f15d53238dd",
 			"name": "Move Terrain",
 			"reference": "M55",
 			"difficulty": "IQ/H",
@@ -23895,6 +24340,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a7684839-e301-418d-9b2e-1e4eb8dc57f3",
 			"name": "Mud Jet",
 			"reference": "M52",
 			"difficulty": "IQ/H",
@@ -24006,6 +24452,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0f64bf70-f882-4985-9c7d-a3646ed7cffa",
 			"name": "Musical Scribe",
 			"reference": "M174",
 			"difficulty": "IQ/H",
@@ -24042,6 +24489,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f3e5e324-e13e-4643-b0af-bc8ae142c381",
 			"name": "Mystic Mark",
 			"reference": "M119",
 			"difficulty": "IQ/H",
@@ -24091,6 +24539,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c83d833a-8134-4687-abb5-98ff81fa6b45",
 			"name": "Mystic Mist",
 			"reference": "M168",
 			"difficulty": "IQ/H",
@@ -24184,6 +24633,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a31faaf3-011d-41c0-b73c-2d11a8ca8417",
 			"name": "Name",
 			"reference": "M68",
 			"difficulty": "IQ/H",
@@ -24220,6 +24670,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "19fbc47b-2163-4b2e-ac0b-11cdd96c34d9",
 			"name": "Nauseate",
 			"reference": "M38",
 			"difficulty": "IQ/H",
@@ -24269,6 +24720,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a53edf73-aa84-4d86-8eed-9609a0a4b693",
 			"name": "Neutralize Poison",
 			"reference": "M92",
 			"difficulty": "IQ/H",
@@ -24366,6 +24818,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "749c1f34-a5f6-40a8-a614-d47e079c5133",
 			"name": "Night Vision",
 			"reference": "M111",
 			"difficulty": "IQ/H",
@@ -24415,6 +24868,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "93a5f25c-f6aa-4fcc-9565-b9fa82151c90",
 			"name": "Nightingale",
 			"reference": "M167",
 			"difficulty": "IQ/H",
@@ -24451,6 +24905,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "46f11e22-ff52-406c-8f9c-328285a3ca3d",
 			"name": "Nightmare",
 			"reference": "M140",
 			"difficulty": "IQ/H",
@@ -24551,6 +25006,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a7636e58-7bd7-442a-8bb5-cd35c2a1da37",
 			"name": "No-Smell",
 			"reference": "M24",
 			"difficulty": "IQ/H",
@@ -24587,6 +25043,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5c18c54a-12f7-4a42-b25c-f187f5a5d074",
 			"name": "Noise",
 			"reference": "M173",
 			"difficulty": "IQ/H",
@@ -24623,6 +25080,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b2856300-30ab-4d2c-9bf6-ef5d73ada060",
 			"name": "Oath",
 			"reference": "M138",
 			"difficulty": "IQ/H",
@@ -24697,6 +25155,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e1fe5636-0167-4aa6-95d7-35b69329e011",
 			"name": "Odor",
 			"reference": "M24",
 			"difficulty": "IQ/H",
@@ -24733,6 +25192,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bd57aa1a-5d77-41de-8fba-bbabf952772d",
 			"name": "One-College Powerstone",
 			"reference": "M70",
 			"difficulty": "IQ/H",
@@ -24769,6 +25229,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c7b4c0b0-a0d4-4bd4-8356-42502863bed3",
 			"name": "Pain",
 			"reference": "M36",
 			"difficulty": "IQ/H",
@@ -24805,6 +25266,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e8b17e77-863f-46d7-b19d-a25ca733d82c",
 			"name": "Panic",
 			"reference": "M134",
 			"difficulty": "IQ/H",
@@ -24841,6 +25303,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0e205a08-cb2a-45c8-a68d-7877e53a969f",
 			"name": "Paralyze Limb",
 			"reference": "M40",
 			"difficulty": "IQ/H",
@@ -24928,6 +25391,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1ec77e7d-1805-4fc5-8f18-41a90c7a2331",
 			"name": "Partial Petrification",
 			"reference": "M52",
 			"difficulty": "IQ/H",
@@ -25030,6 +25494,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "514fc667-a73f-4bff-9981-52d3e53976cf",
 			"name": "Partial Shapeshifting",
 			"reference": "M34",
 			"difficulty": "IQ/VH",
@@ -25117,6 +25582,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b5dea1ce-a643-481c-9217-c0b105ea6e81",
 			"name": "Password",
 			"reference": "M68",
 			"difficulty": "IQ/H",
@@ -25153,6 +25619,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "78bea293-c9cc-4d58-9e9b-1f7e3fbdc6ca",
 			"name": "Pathfinder",
 			"reference": "M105",
 			"difficulty": "IQ/H",
@@ -25236,6 +25703,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "51347148-bb62-401e-a91e-994638631e33",
 			"name": "Peaceful Sleep",
 			"reference": "M138",
 			"difficulty": "IQ/H",
@@ -25285,6 +25753,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e199f4fd-d3e5-4708-b395-89adf9139306",
 			"name": "Penetrating Spell",
 			"reference": "M123",
 			"difficulty": "IQ/H",
@@ -25334,6 +25803,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5b8045b5-bd6d-4005-9c23-0a35ae4addc1",
 			"name": "Penetrating Weapon",
 			"reference": "M63",
 			"difficulty": "IQ/H",
@@ -25383,6 +25853,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "956e7e89-2a2c-45e1-8923-441c9a895cbd",
 			"name": "Pentagram",
 			"reference": "M124",
 			"difficulty": "IQ/H",
@@ -25419,6 +25890,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c26da154-f1ae-4027-bdbb-50f0c37907f7",
 			"name": "Perfect Illusion",
 			"reference": "M96",
 			"difficulty": "IQ/H",
@@ -25493,6 +25965,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a627a053-9d3a-4126-ae1f-44012f28961e",
 			"name": "Perfume",
 			"reference": "M35",
 			"difficulty": "IQ/H",
@@ -25529,6 +26002,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f03c65e3-aea5-44e9-9fc7-4b5531d4fa0e",
 			"name": "Permanent Beast Possession",
 			"reference": "M32",
 			"difficulty": "IQ/VH",
@@ -25603,6 +26077,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "67c2afe0-65f5-4097-bfe9-b9dafb7c4934",
 			"name": "Permanent Forgetfulness",
 			"reference": "M138",
 			"difficulty": "IQ/VH",
@@ -25686,6 +26161,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bcf2aaf9-d09e-42f6-a915-349f0095b002",
 			"name": "Permanent Madness",
 			"reference": "M139",
 			"difficulty": "IQ/VH",
@@ -25769,6 +26245,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e17ecb30-f4b5-4952-a2e6-8beafeb32a7c",
 			"name": "Permanent Possession",
 			"reference": "M49",
 			"difficulty": "IQ/VH",
@@ -25843,6 +26320,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f5e3a974-86ac-48de-bbcf-c56c84e7aefc",
 			"name": "Permanent Shapeshifting (@Specialty@)",
 			"reference": "M33",
 			"difficulty": "IQ/VH",
@@ -25917,6 +26395,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c1a635f4-5ecd-413f-971d-4fa53d8fcfad",
 			"name": "Persuasion",
 			"reference": "M45",
 			"difficulty": "IQ/H",
@@ -25953,6 +26432,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1e1a72a2-8633-4045-a7ae-5afdd9389ceb",
 			"name": "Pestilence",
 			"reference": "M154",
 			"difficulty": "IQ/H",
@@ -26040,6 +26520,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "44e8b870-b600-4534-be40-f1959c8842d6",
 			"name": "Phantom",
 			"reference": "M97",
 			"difficulty": "IQ/VH",
@@ -26140,6 +26621,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1a3597a7-ed5e-4b03-8a46-f4b9cb9b8140",
 			"name": "Phantom Flame",
 			"reference": "M73",
 			"difficulty": "IQ/H",
@@ -26190,6 +26672,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fbb3a083-1568-45ef-a304-d8a6a2baeb77",
 			"name": "Phase",
 			"reference": "M83",
 			"difficulty": "IQ/H",
@@ -26283,6 +26766,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "803a310f-5c28-4529-8058-6eee1af4d820",
 			"name": "Phase Other",
 			"reference": "M83",
 			"difficulty": "IQ/VH",
@@ -26319,6 +26803,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "18ee84a2-5ff7-4633-8112-5eb77f80aaaa",
 			"name": "Planar Summons (@Plane@)",
 			"reference": "M82",
 			"difficulty": "IQ/H",
@@ -26389,6 +26874,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "9252dab0-097d-4ee8-9b35-77512998e767",
 			"name": "Planar Visit (@Plane@)",
 			"reference": "M82",
 			"difficulty": "IQ/VH",
@@ -26482,6 +26968,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "415a9ec7-8241-4685-9100-2ec6ca72b88e",
 			"name": "Plane Shift (@Plane@)",
 			"reference": "M83",
 			"difficulty": "IQ/VH",
@@ -26518,6 +27005,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "22283de6-4745-4767-a2b4-6643a528409f",
 			"name": "Plane Shift Other (@Plane@)",
 			"reference": "M83",
 			"difficulty": "IQ/VH",
@@ -26592,6 +27080,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "4227476a-206c-4af1-b656-031c1ebbcf07",
 			"name": "Plant Control",
 			"reference": "M164",
 			"difficulty": "IQ/H",
@@ -26628,6 +27117,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "dc935fa0-cb2a-4f10-b8e5-f13a2fdfe18f",
 			"name": "Plant Form",
 			"reference": "M164",
 			"difficulty": "IQ/H",
@@ -26702,6 +27192,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6c213887-4fd4-416d-ae84-a9af387c5a38",
 			"name": "Plant Form Other",
 			"reference": "M165",
 			"difficulty": "IQ/VH",
@@ -26776,6 +27267,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3bd70dc4-9d01-45b2-b7ee-f23cca2e0157",
 			"name": "Plant Growth",
 			"reference": "M162",
 			"difficulty": "IQ/H",
@@ -26812,6 +27304,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "92543ff3-68c2-4899-996a-fadd1f725dbb",
 			"name": "Plant Sense",
 			"reference": "M163",
 			"difficulty": "IQ/H",
@@ -26861,6 +27354,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2d6a5e43-5287-436c-8104-3263f7ccdb35",
 			"name": "Plant Speech",
 			"reference": "M164",
 			"difficulty": "IQ/H",
@@ -26935,6 +27429,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "717210f2-4c92-401b-873e-6579d94e8140",
 			"name": "Plant Vision",
 			"reference": "M162",
 			"difficulty": "IQ/H",
@@ -26972,6 +27467,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d7aceef5-c78d-4ce3-917f-622bdaefaff0",
 			"name": "Poison Food",
 			"reference": "M78",
 			"difficulty": "IQ/H",
@@ -27008,6 +27504,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "851a2279-e821-4f1e-b709-829917017e9a",
 			"name": "Pollen Cloud",
 			"reference": "M162",
 			"difficulty": "IQ/H",
@@ -27055,6 +27552,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "da6849f5-2b80-4a4d-b627-14ed95ea87d2",
 			"name": "Poltergeist",
 			"reference": "M144",
 			"difficulty": "IQ/H",
@@ -27112,6 +27610,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5f1cf29d-5444-4355-bed2-12baadfb38b0",
 			"name": "Possession",
 			"reference": "M49",
 			"difficulty": "IQ/VH",
@@ -27205,6 +27704,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f2182016-2ba2-4fa5-8940-0e421c23028d",
 			"name": "Power",
 			"reference": "M57",
 			"difficulty": "IQ/H",
@@ -27254,6 +27754,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "90b22e11-946b-42f2-9b35-eff4e2e1b8c7",
 			"name": "Powerstone",
 			"reference": "M69",
 			"difficulty": "IQ/H",
@@ -27290,6 +27791,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3383f68a-f1ad-427d-b46b-e16360861039",
 			"name": "Predict Earth Movement",
 			"reference": "M51",
 			"difficulty": "IQ/H",
@@ -27326,6 +27828,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3e48adc5-53bc-413e-905c-24709c25802f",
 			"name": "Predict Weather",
 			"reference": "M193",
 			"difficulty": "IQ/H",
@@ -27363,6 +27866,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "df73a017-c3e8-4b54-ba84-4132507f4ef2",
 			"name": "Prehistory",
 			"reference": "M106",
 			"difficulty": "IQ/H",
@@ -27399,6 +27903,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "92452c24-7667-4d5d-b53f-35bed7d36e87",
 			"name": "Prepare Game",
 			"reference": "M78",
 			"difficulty": "IQ/H",
@@ -27435,6 +27940,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "984df199-f4db-4d73-a2cf-12ada8167b58",
 			"name": "Presence",
 			"reference": "M48",
 			"difficulty": "IQ/H",
@@ -27484,6 +27990,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5945b93a-30a9-481a-bc49-be609c24c282",
 			"name": "Preserve Food",
 			"reference": "M79",
 			"difficulty": "IQ/H",
@@ -27520,6 +28027,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ad1b565d-e12a-4b13-ba87-3da22d8a35ce",
 			"name": "Projection",
 			"reference": "M105",
 			"difficulty": "IQ/H",
@@ -27569,6 +28077,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "42da6a88-fce8-427d-9347-48eb1b3ea133",
 			"name": "Protect Animal",
 			"reference": "M32",
 			"difficulty": "IQ/H",
@@ -27631,6 +28140,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d7437faf-9928-48ab-936e-c824ab815000",
 			"name": "Puissance",
 			"reference": "M65",
 			"difficulty": "IQ/H",
@@ -27680,6 +28190,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "dae889af-9503-4a62-9b27-c5516a29a2ca",
 			"name": "Pull",
 			"reference": "M146",
 			"difficulty": "IQ/H",
@@ -27766,6 +28277,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "75f2776f-1648-4dfa-a848-6b7468365606",
 			"name": "Purify Air",
 			"reference": "M23",
 			"difficulty": "IQ/H",
@@ -27783,6 +28295,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a20d6311-b257-473c-99cd-3fd4959bea72",
 			"name": "Purify Earth",
 			"reference": "M54",
 			"difficulty": "IQ/H",
@@ -27834,6 +28347,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "28b6e57c-f14a-4e9b-a875-d1b5f75b2cbe",
 			"name": "Purify Food",
 			"reference": "M78",
 			"difficulty": "IQ/H",
@@ -27870,6 +28384,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d5766178-5b13-4f76-be67-2aef2e41a25a",
 			"name": "Purify Water",
 			"reference": "M184",
 			"difficulty": "IQ/H",
@@ -27906,6 +28421,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "69c91319-120f-4455-a3e7-7b2a8ebb76fd",
 			"name": "Quick March",
 			"reference": "M144",
 			"difficulty": "IQ/H",
@@ -27980,6 +28496,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ac2d8294-987f-45cd-8672-79f457e11c6e",
 			"name": "Quick-Aim",
 			"reference": "M65",
 			"difficulty": "IQ/H",
@@ -28029,6 +28546,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d5108dcb-86ac-4e54-b274-870b8ad5d55e",
 			"name": "Quick-Draw",
 			"reference": "M63",
 			"difficulty": "IQ/H",
@@ -28078,6 +28596,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3fb367c7-0466-4a49-873b-ff0ba441010e",
 			"name": "Rain",
 			"reference": "M195",
 			"difficulty": "IQ/H",
@@ -28116,6 +28635,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1349248a-0a4c-4270-92d1-602ee4fdec7c",
 			"name": "Rain of Acid",
 			"reference": "M191",
 			"difficulty": "IQ/H",
@@ -28215,6 +28735,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8c42061c-1dc4-4eeb-9b01-cc638769c34e",
 			"name": "Rain of Fire",
 			"reference": "M74",
 			"difficulty": "IQ/H",
@@ -28301,6 +28822,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1b080320-f86e-4d9b-9fbb-0b8420eca3c6",
 			"name": "Rain of Ice Daggers",
 			"reference": "M192",
 			"difficulty": "IQ/H",
@@ -28400,6 +28922,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "32684646-67c9-4438-9b61-b65fc804d522",
 			"name": "Rain of Nuts",
 			"reference": "M165",
 			"difficulty": "IQ/H",
@@ -28487,6 +29010,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fff30974-34de-40b1-9bfc-33b16756a2f4",
 			"name": "Rain of Stones",
 			"reference": "M53",
 			"difficulty": "IQ/H",
@@ -28573,6 +29097,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6a0574e0-5a5e-4b0d-9ee4-aa2b19db12af",
 			"name": "Rapid Journey",
 			"reference": "M82",
 			"difficulty": "IQ/VH",
@@ -28667,6 +29192,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ee2d4d56-f295-499e-a7c4-42131c50d0d3",
 			"name": "Rear Vision",
 			"reference": "M134",
 			"difficulty": "IQ/H",
@@ -28703,6 +29229,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "976dbe1a-b334-4463-b6ef-f24bb82a7787",
 			"name": "Recall",
 			"reference": "M106",
 			"difficulty": "IQ/H",
@@ -28791,6 +29318,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f4483a98-eea0-4cd4-be68-e68aa543b4a9",
 			"name": "Reconstruct Spell",
 			"reference": "M106",
 			"difficulty": "IQ/H",
@@ -28878,6 +29406,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fd821ddf-c63e-474a-b9fa-1804f64e7d0b",
 			"name": "Recover Energy",
 			"reference": "M89",
 			"difficulty": "IQ/H",
@@ -28952,6 +29481,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ae868e4d-89ed-46a2-a140-2d11330b080f",
 			"name": "Reflect",
 			"reference": "M122",
 			"difficulty": "IQ/H",
@@ -28988,6 +29518,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b8644daa-f4a5-467d-92b0-79eaacc0c781",
 			"name": "Reflect Gaze",
 			"reference": "M168",
 			"difficulty": "IQ/VH",
@@ -29024,6 +29555,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "67dbaa33-5fca-4385-b653-dcc5597cca29",
 			"name": "Reflex",
 			"reference": "M132",
 			"difficulty": "IQ/H",
@@ -29074,6 +29606,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "934428fd-cbb8-4351-995e-27256af017c7",
 			"name": "Reflexes",
 			"reference": "M39",
 			"difficulty": "IQ/H",
@@ -29123,6 +29656,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "73f6343e-c154-4bc5-8a1b-62c431a73854",
 			"name": "Regeneration",
 			"reference": "M93",
 			"difficulty": "IQ/VH",
@@ -29197,6 +29731,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f5101011-5e1d-4892-8d86-e89ce38c02f5",
 			"name": "Rejoin",
 			"reference": "M116",
 			"difficulty": "IQ/H",
@@ -29246,6 +29781,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2df4464d-45b2-458b-970c-1979d81600cf",
 			"name": "Rejuvenate Plant",
 			"reference": "M163",
 			"difficulty": "IQ/H",
@@ -29320,6 +29856,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "87246087-c980-43cf-aebe-40f95dd23cc8",
 			"name": "Relieve Addiction",
 			"reference": "M92",
 			"difficulty": "IQ/H",
@@ -29356,6 +29893,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "389fcf9a-ba67-4648-a694-a4e256568657",
 			"name": "Relieve Madness",
 			"reference": "M92",
 			"difficulty": "IQ/H",
@@ -29406,6 +29944,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "079f2482-cb68-45a9-8a32-025ad742a161",
 			"name": "Relieve Paralysis",
 			"reference": "M93",
 			"difficulty": "IQ/H",
@@ -29442,6 +29981,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "54197785-3503-41ea-8886-0a9f6db304a9",
 			"name": "Relieve Sickness",
 			"reference": "M90",
 			"difficulty": "IQ/H",
@@ -29478,6 +30018,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f8ad58cd-215a-4dd2-be2c-8fc6e1e1269e",
 			"name": "Remember Path",
 			"reference": "M107",
 			"difficulty": "IQ/H",
@@ -29527,6 +30068,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "880f0721-10ee-4d19-8b01-7e3d52b00684",
 			"name": "Remove Aura",
 			"reference": "M127",
 			"difficulty": "IQ/H",
@@ -29576,6 +30118,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bc707493-8834-4e0d-a369-6274a3ffd3c9",
 			"name": "Remove Contagion",
 			"reference": "M90",
 			"difficulty": "IQ/H",
@@ -29638,6 +30181,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5f61c7d1-e571-41b7-8ebf-b99e0cef580f",
 			"name": "Remove Curse",
 			"reference": "M126",
 			"difficulty": "IQ/H",
@@ -29708,6 +30252,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "69e69255-f2d0-439c-ac1c-a7e0516f4d34",
 			"name": "Remove Enchantment",
 			"reference": "M58",
 			"difficulty": "IQ/H",
@@ -29744,6 +30289,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a10b4447-80df-42f8-9aa3-57cda90981e3",
 			"name": "Remove Reflection",
 			"reference": "M113",
 			"difficulty": "IQ/H",
@@ -29780,6 +30326,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0d78ae09-3c45-4951-93ef-622c9c5d1a6c",
 			"name": "Remove Shadow",
 			"reference": "M110",
 			"difficulty": "IQ/H",
@@ -29816,6 +30363,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "87d4c7a1-b26a-4161-a172-279bf91f0a4f",
 			"name": "Repair",
 			"reference": "M118",
 			"difficulty": "IQ/H",
@@ -29890,6 +30438,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8a27d2ce-3570-40e9-8b97-aef899d87f71",
 			"name": "Repel",
 			"reference": "M147",
 			"difficulty": "IQ/H",
@@ -29976,6 +30525,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3ca1021a-71ba-4640-9a7f-bc1f1a38fdd1",
 			"name": "Repel Animal (@Animal@)",
 			"reference": "M31",
 			"difficulty": "IQ/H",
@@ -30012,6 +30562,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "34093247-5bf3-48be-81ee-e39712197669",
 			"name": "Repel Animal (Bird)",
 			"reference": "M31",
 			"difficulty": "IQ/H",
@@ -30048,6 +30599,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "983ec0be-7145-4932-98a0-32ae687fb9f6",
 			"name": "Repel Animal (Fish)",
 			"reference": "M31",
 			"difficulty": "IQ/H",
@@ -30084,6 +30636,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b040a4e1-1293-4ebd-b3c3-885dd251122a",
 			"name": "Repel Animal (Mammal)",
 			"reference": "M31",
 			"difficulty": "IQ/H",
@@ -30120,6 +30673,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3d407fad-89f8-4887-b77f-e5ba4246445a",
 			"name": "Repel Animal (Reptile)",
 			"reference": "M31",
 			"difficulty": "IQ/H",
@@ -30156,6 +30710,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "4199efec-d497-4e6b-9f09-04810cd9c1c6",
 			"name": "Repel Animal (Vermin)",
 			"reference": "M31",
 			"difficulty": "IQ/H",
@@ -30192,6 +30747,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bdd41a0e-52a7-47ca-8f52-68bd84007a91",
 			"name": "Repel Hybrids",
 			"reference": "M31",
 			"difficulty": "IQ/VH",
@@ -30228,6 +30784,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "87c461c2-fb2c-4f4b-87cd-c875b5e999a9",
 			"name": "Repel Spirits",
 			"reference": "M158",
 			"difficulty": "IQ/H",
@@ -30277,6 +30834,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d87fde14-11f2-4993-8a0b-e9718586bee3",
 			"name": "Reshape",
 			"reference": "M117",
 			"difficulty": "IQ/H",
@@ -30383,6 +30941,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "88e9726e-1872-4ea4-b5dd-c4c6a1e38047",
 			"name": "Resist Acid",
 			"reference": "M190",
 			"difficulty": "IQ/H",
@@ -30420,6 +30979,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5c51177f-ec65-4089-8d91-3d811e81d190",
 			"name": "Resist Cold",
 			"reference": "M74",
 			"difficulty": "IQ/H",
@@ -30456,6 +31016,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "46a5e48e-d1da-4df2-829e-a0dad97890ba",
 			"name": "Resist Disease",
 			"reference": "M90",
 			"difficulty": "IQ/H",
@@ -30506,6 +31067,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1f19daba-ca6e-4126-8e37-73b75dbfb147",
 			"name": "Resist Enchantment",
 			"reference": "M58",
 			"difficulty": "IQ/H",
@@ -30542,6 +31104,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "65b9ec39-cc8c-4eef-9d1d-686c37d4b8cb",
 			"name": "Resist Fire",
 			"reference": "M74",
 			"difficulty": "IQ/H",
@@ -30578,6 +31141,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "699f2b62-9481-49ec-8699-1933813c3966",
 			"name": "Resist Lightning",
 			"reference": "M196",
 			"difficulty": "IQ/H",
@@ -30616,6 +31180,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bf013a23-8a1d-427e-b0ae-eb9530f4f975",
 			"name": "Resist Pain",
 			"reference": "M38",
 			"difficulty": "IQ/H",
@@ -30690,6 +31255,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1632effa-63e7-47a0-ad05-f846281fa413",
 			"name": "Resist Poison",
 			"reference": "M91",
 			"difficulty": "IQ/H",
@@ -30727,6 +31293,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d65bc706-4d88-4e36-ba81-13a4735ae0f5",
 			"name": "Resist Pressure",
 			"reference": "M169",
 			"difficulty": "IQ/H",
@@ -30763,6 +31330,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f522d9c2-4567-4c56-a12f-ce0f9f07dec0",
 			"name": "Resist Sound",
 			"reference": "M173",
 			"difficulty": "IQ/H",
@@ -30800,6 +31368,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e384c66f-6612-44da-ba50-77ff61005d92",
 			"name": "Resist Water",
 			"reference": "M186",
 			"difficulty": "IQ/H",
@@ -30869,6 +31438,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "45468dd1-5fc4-47c2-907a-e3304c676777",
 			"name": "Restoration",
 			"reference": "M93",
 			"difficulty": "IQ/VH",
@@ -30943,6 +31513,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "4e347b8a-f63f-4fc0-beb4-e8e5936ae8fd",
 			"name": "Restore",
 			"reference": "M116",
 			"difficulty": "IQ/H",
@@ -30992,6 +31563,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "007b637b-97bc-4d1f-ae68-14179270e19a",
 			"name": "Restore Hearing",
 			"reference": "M92",
 			"difficulty": "IQ/H",
@@ -31060,6 +31632,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "33261b4d-55a2-4ea8-a363-567d5b3c436d",
 			"name": "Restore Mana",
 			"reference": "M127",
 			"difficulty": "IQ/VH",
@@ -31109,6 +31682,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "42eb9f07-5a4f-4fcd-91c6-b24cf9251323",
 			"name": "Restore Memory",
 			"reference": "M92",
 			"difficulty": "IQ/H",
@@ -31154,6 +31728,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2da325df-616f-4817-bf6b-77c8bea0bf35",
 			"name": "Restore Sight",
 			"reference": "M92",
 			"difficulty": "IQ/H",
@@ -31222,6 +31797,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6e1d1c7e-0b5d-4e91-b293-000d0105ef1f",
 			"name": "Restore Speech",
 			"reference": "M93",
 			"difficulty": "IQ/H",
@@ -31290,6 +31866,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fea374ba-9a38-4bca-aac7-ee89e63a0462",
 			"name": "Resurrection",
 			"reference": "M94",
 			"difficulty": "IQ/VH",
@@ -31340,6 +31917,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "cbc9c506-e38d-41e9-808c-704f814d2f0d",
 			"name": "Retch",
 			"reference": "M38",
 			"difficulty": "IQ/H",
@@ -31389,6 +31967,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "888f96aa-db89-4938-8e74-be42a6097d14",
 			"name": "Retrogression",
 			"reference": "M47",
 			"difficulty": "IQ/H",
@@ -31438,6 +32017,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "25fb9f36-d57f-490f-83bd-813ec3129393",
 			"name": "Return Missile",
 			"reference": "M168",
 			"difficulty": "IQ/H",
@@ -31474,6 +32054,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6b479bb8-7327-44c7-83ab-703b6a5cbfc4",
 			"name": "Reverse Missiles",
 			"reference": "M168",
 			"difficulty": "IQ/H",
@@ -31523,6 +32104,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "056e9ca7-94aa-435a-b5dd-df9d7256e494",
 			"name": "Rider (@Animal@)",
 			"reference": "M31",
 			"difficulty": "IQ/H",
@@ -31559,6 +32141,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "51277bb1-9b23-4aeb-8334-efcc291bf55c",
 			"name": "Rider Within",
 			"reference": "M31",
 			"difficulty": "IQ/H",
@@ -31596,6 +32179,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8fa4b20f-f0b9-4a11-802f-e914ff9e3538",
 			"name": "Rive",
 			"reference": "M117",
 			"difficulty": "IQ/VH",
@@ -31682,6 +32266,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "852bd0f7-a565-4bea-8d08-265c2ef74965",
 			"name": "Rooted Feet",
 			"reference": "M36",
 			"difficulty": "IQ/H",
@@ -31718,6 +32303,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5a77a93f-3478-4c00-92ae-2f83bbf49a42",
 			"name": "Rotting Death",
 			"reference": "M154",
 			"difficulty": "IQ/VH",
@@ -31835,6 +32421,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "329810ce-c686-4384-a4f9-76fed49dc38b",
 			"name": "Roundabout",
 			"reference": "M36",
 			"difficulty": "IQ/H",
@@ -31871,6 +32458,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1fbcb2fa-e369-4154-be8c-f9c211ccd926",
 			"name": "Ruin",
 			"reference": "M118",
 			"difficulty": "IQ/H",
@@ -31958,6 +32546,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "89bc7e37-bea3-4461-8346-f3b9895190f0",
 			"name": "Sanctuary",
 			"reference": "M86",
 			"difficulty": "IQ/VH",
@@ -32007,6 +32596,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fbc2710b-9005-4252-82f5-c517c06ac061",
 			"name": "Sand Jet",
 			"reference": "M52",
 			"difficulty": "IQ/H",
@@ -32065,6 +32655,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e1c1ff45-8c7c-4c0a-b654-b61a539d6272",
 			"name": "Sandstorm",
 			"reference": "M27",
 			"difficulty": "IQ/H",
@@ -32115,6 +32706,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b86a202e-3bf0-401c-bdc0-1baf29876bd8",
 			"name": "Scents of the Past",
 			"reference": "M107",
 			"difficulty": "IQ/H",
@@ -32203,6 +32795,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "272fcefe-a64c-4e13-bb67-76b216c10f54",
 			"name": "Scribe",
 			"reference": "M174",
 			"difficulty": "IQ/H",
@@ -32260,6 +32853,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "79ae1483-2346-45da-96d7-65f185752eb3",
 			"name": "Scroll",
 			"reference": "M57",
 			"difficulty": "IQ/H",
@@ -32351,6 +32945,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "db5e0747-334e-452d-88b4-0c788eb28597",
 			"name": "Scry Gate",
 			"reference": "M85",
 			"difficulty": "IQ/H",
@@ -32387,6 +32982,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e291bf5a-7d03-4bd8-af55-dc90d6cbe942",
 			"name": "Scryfool",
 			"reference": "M123",
 			"difficulty": "IQ/H",
@@ -32474,6 +33070,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d7281867-68d5-4899-8f6a-371f6a4b259d",
 			"name": "Scryguard",
 			"reference": "M121",
 			"difficulty": "IQ/H",
@@ -32535,6 +33132,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "25dbe488-cbdb-48be-95c4-84c91b79a6a4",
 			"name": "Scrywall",
 			"reference": "M122",
 			"difficulty": "IQ/H",
@@ -32571,6 +33169,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "53e08472-8570-4d60-a1a3-60d1ba43af78",
 			"name": "Season",
 			"reference": "M77",
 			"difficulty": "IQ/H",
@@ -32607,6 +33206,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "eff003c8-4a7d-4ca4-ac37-e2252d09fe10",
 			"name": "See Invisible",
 			"reference": "M113",
 			"difficulty": "IQ/H",
@@ -32675,6 +33275,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8a73431f-6de4-4c19-92b0-c4eb038d64d7",
 			"name": "See Secrets",
 			"reference": "M107",
 			"difficulty": "IQ/H",
@@ -32724,6 +33325,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7340758a-32b2-40ad-98fa-a2a15028f4e4",
 			"name": "Seek Air",
 			"reference": "M23",
 			"difficulty": "IQ/H",
@@ -32741,6 +33343,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7b66ac72-2876-439b-9627-1417f4c4c4f2",
 			"name": "Seek Coastline",
 			"reference": "M184",
 			"difficulty": "IQ/H",
@@ -32777,6 +33380,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f46abcbf-7bd8-47c8-b174-a5c03d6b78d1",
 			"name": "Seek Earth",
 			"reference": "M50",
 			"difficulty": "IQ/H",
@@ -32794,6 +33398,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3bca2339-a854-4575-8665-9964820b0b25",
 			"name": "Seek Fire",
 			"reference": "M72",
 			"difficulty": "IQ/H",
@@ -32811,6 +33416,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f9853599-1902-472d-a1e7-2b897685103c",
 			"name": "Seek Food",
 			"reference": "M77",
 			"difficulty": "IQ/H",
@@ -32828,6 +33434,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e279a2b1-cc35-4147-80ec-d5912415d2ea",
 			"name": "Seek Gate",
 			"reference": "M85",
 			"difficulty": "IQ/H",
@@ -32911,6 +33518,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fcc2e753-db16-4c37-9513-3067d62f5de2",
 			"name": "Seek Magic",
 			"reference": "M102",
 			"difficulty": "IQ/H",
@@ -32947,6 +33555,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "19ff53c9-84a0-41f1-89ae-e420a905663e",
 			"name": "Seek Pass",
 			"reference": "M51",
 			"difficulty": "IQ/H",
@@ -32983,6 +33592,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f60527aa-97ea-438d-a402-b99f5e37ffce",
 			"name": "Seek Plant",
 			"reference": "M161",
 			"difficulty": "IQ/H",
@@ -33000,6 +33610,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "edca095a-f53f-4183-acfc-bf2560f7c30f",
 			"name": "Seek Water",
 			"reference": "M184",
 			"difficulty": "IQ/H",
@@ -33017,6 +33628,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "84f6c122-6976-4ed0-bcef-2e9ae328d5c4",
 			"name": "Seeker",
 			"reference": "M105",
 			"difficulty": "IQ/H",
@@ -33100,6 +33712,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3cfce9b4-9b8b-4614-a549-75b0120b0e5d",
 			"name": "Sense Danger",
 			"reference": "M166",
 			"difficulty": "IQ/H",
@@ -33144,6 +33757,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7ea6583a-bb81-4580-a6c4-861128d3caab",
 			"name": "Sense Emotion",
 			"reference": "M45",
 			"difficulty": "IQ/H",
@@ -33180,6 +33794,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8592ad1f-26fb-40a6-bfdd-d9c57dba704e",
 			"name": "Sense Foes",
 			"reference": "M44",
 			"difficulty": "IQ/H",
@@ -33197,6 +33812,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fe4560bb-7640-447c-87c2-1b43c1abe334",
 			"name": "Sense Life",
 			"reference": "M45",
 			"difficulty": "IQ/H",
@@ -33214,6 +33830,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "62c96659-0ccb-41f3-b9b5-4da5b193ac42",
 			"name": "Sense Mana",
 			"reference": "M101",
 			"difficulty": "IQ/H",
@@ -33250,6 +33867,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "38f29d67-188f-475d-aa00-9f3501aad865",
 			"name": "Sense Observation",
 			"reference": "M167",
 			"difficulty": "IQ/H",
@@ -33299,6 +33917,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d619b156-02dc-4b59-93cf-540846ff6b2a",
 			"name": "Sense Spirit",
 			"reference": "M149",
 			"difficulty": "IQ/H",
@@ -33388,6 +34007,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e2958c8d-7f9a-40de-8658-c9da885462d8",
 			"name": "Sensitize",
 			"reference": "M39",
 			"difficulty": "IQ/H",
@@ -33462,6 +34082,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5e488ba6-7a34-410d-832a-3ea58b546338",
 			"name": "Shade",
 			"reference": "M169",
 			"difficulty": "IQ/H",
@@ -33511,6 +34132,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d4d777cc-12d0-4c56-b622-dc1270c686c2",
 			"name": "Shape Air",
 			"reference": "M24",
 			"difficulty": "IQ/H",
@@ -33547,6 +34169,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "94bb4130-6029-44ac-9511-b360b9f1b751",
 			"name": "Shape Darkness",
 			"reference": "M113",
 			"difficulty": "IQ/H",
@@ -33583,6 +34206,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a7e9a55d-89ab-4ed5-8eec-8f828697cba9",
 			"name": "Shape Earth",
 			"reference": "M50",
 			"difficulty": "IQ/H",
@@ -33619,6 +34243,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a827e91e-c068-42f3-ae19-ec15ce97d446",
 			"name": "Shape Fire",
 			"reference": "M72",
 			"difficulty": "IQ/H",
@@ -33655,6 +34280,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0b61a1ce-2f02-418c-9cb6-b46b231428a3",
 			"name": "Shape Light",
 			"reference": "M111",
 			"difficulty": "IQ/H",
@@ -33691,6 +34317,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "00a4eb9e-6f0a-4d2d-9201-fda6271db8d4",
 			"name": "Shape Plant",
 			"reference": "M161",
 			"difficulty": "IQ/H",
@@ -33727,6 +34354,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "793b4f8b-b01d-4669-975f-cf851fdf0fc8",
 			"name": "Shape Water",
 			"reference": "M185",
 			"difficulty": "IQ/H",
@@ -33763,6 +34391,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "82e51d77-beb6-4b08-a97c-c73adea98b36",
 			"name": "Shapeshift Others",
 			"reference": "M33",
 			"difficulty": "IQ/VH",
@@ -33837,6 +34466,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8e6af67b-bb28-4b8e-ad7f-aada2721232d",
 			"name": "Shapeshifting (@Specialty@)",
 			"reference": "M32",
 			"difficulty": "IQ/VH",
@@ -33907,6 +34537,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d1f1877a-82b4-49fb-bde9-1d3ae206e97f",
 			"name": "Share Energy",
 			"reference": "M89",
 			"difficulty": "IQ/H",
@@ -33943,6 +34574,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c7eb85cf-714d-40d0-a395-d474e649d634",
 			"name": "Share Vitality",
 			"reference": "M90",
 			"difficulty": "IQ/H",
@@ -33979,6 +34611,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7f9c511f-f6cc-474e-a696-ca888c80bf48",
 			"name": "Sharpen",
 			"reference": "M118",
 			"difficulty": "IQ/H",
@@ -34015,6 +34648,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a10ed6a4-4a1b-42b9-a973-1eab7d36e62a",
 			"name": "Shatter",
 			"reference": "M116",
 			"difficulty": "IQ/VH",
@@ -34101,6 +34735,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "710ef7f4-99e9-4f96-a510-e543c77850f7",
 			"name": "Shatterproof",
 			"reference": "M118",
 			"difficulty": "IQ/H",
@@ -34150,6 +34785,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0576cb70-020d-4764-b1d2-913eac214ae7",
 			"name": "Shield",
 			"reference": "M167",
 			"difficulty": "IQ/H",
@@ -34201,6 +34837,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "40d6c69d-1b68-479b-9f7b-6c3c6984ae8a",
 			"name": "Shocking Touch",
 			"reference": "M196",
 			"difficulty": "IQ/H",
@@ -34268,6 +34905,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "828cdeb0-96f3-4899-9360-95e1791954f1",
 			"name": "Shrink",
 			"reference": "M42",
 			"difficulty": "IQ/VH",
@@ -34342,6 +34980,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a7eca09a-3502-4a97-bc4a-56af6d0522d2",
 			"name": "Shrink Object",
 			"reference": "M120",
 			"difficulty": "IQ/VH",
@@ -34378,6 +35017,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7de38487-339d-4419-8c2b-c86627b2ed37",
 			"name": "Shrink Other",
 			"reference": "M42",
 			"difficulty": "IQ/VH",
@@ -34452,6 +35092,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "789225a3-d353-4640-bda0-db6001986d93",
 			"name": "Sickness",
 			"reference": "M138",
 			"difficulty": "IQ/H",
@@ -34502,6 +35143,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "775eca2a-8a20-44f9-9242-cf4ea6752730",
 			"name": "Silence",
 			"reference": "M171",
 			"difficulty": "IQ/H",
@@ -34538,6 +35180,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0d65de3c-c46a-4019-8a51-d4a54d5a6225",
 			"name": "Silver Tongue",
 			"reference": "M174",
 			"difficulty": "IQ/H",
@@ -34587,6 +35230,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "152fb21a-7f8e-4564-8a52-c805a90ea279",
 			"name": "Simple Illusion",
 			"reference": "M95",
 			"difficulty": "IQ/H",
@@ -34627,6 +35271,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "66669aa0-c6a1-4cdc-805c-8d61c975f86c",
 			"name": "Simulacrum",
 			"reference": "M61",
 			"difficulty": "IQ/VH",
@@ -34727,6 +35372,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e9b81f72-5fae-46e3-bc4f-4bbd516d3c72",
 			"name": "Skull-Spirit",
 			"reference": "M151",
 			"difficulty": "IQ/H",
@@ -34763,6 +35409,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f731ec0f-7408-4105-9a74-825b129b54a9",
 			"name": "Sleep",
 			"reference": "M135",
 			"difficulty": "IQ/H",
@@ -34799,6 +35446,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fe8f47d4-49c5-4361-8359-7a5d34e4cb66",
 			"name": "Slide",
 			"reference": "M145",
 			"difficulty": "IQ/H",
@@ -34848,6 +35496,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7d583db5-32c7-4248-8d61-126f1df69533",
 			"name": "Slow",
 			"reference": "M145",
 			"difficulty": "IQ/H",
@@ -34935,6 +35584,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7bab13a1-c3a0-474b-8f1c-023e02af05fa",
 			"name": "Slow Fall",
 			"reference": "M144",
 			"difficulty": "IQ/H",
@@ -34971,6 +35621,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bd0cd36f-c975-43ba-822f-fcb192134d31",
 			"name": "Slow Fire",
 			"reference": "M73",
 			"difficulty": "IQ/H",
@@ -35007,6 +35658,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2bb83159-c873-4bef-a8a5-85ee563f18ec",
 			"name": "Slow Healing",
 			"reference": "M153",
 			"difficulty": "IQ/H",
@@ -35094,6 +35746,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ded7b1d5-c3e8-4f41-9b5b-1ba9db319c3e",
 			"name": "Small Vision",
 			"reference": "M111",
 			"difficulty": "IQ/H",
@@ -35157,6 +35810,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7941fb60-387c-4c69-918a-15d4a18212b1",
 			"name": "Smoke",
 			"reference": "M73",
 			"difficulty": "IQ/H",
@@ -35217,6 +35871,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1deb2d5f-b38f-4d3f-b3c7-6729af809a3c",
 			"name": "Snow",
 			"reference": "M195",
 			"difficulty": "IQ/H",
@@ -35268,6 +35923,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "afbf9eb7-3335-47ac-9fb6-67cb5cba8a84",
 			"name": "Snow Jet",
 			"reference": "M189",
 			"difficulty": "IQ/H",
@@ -35340,6 +35996,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "36074963-fcc5-4fdc-8fcd-9ebc810259c3",
 			"name": "Snow Shoes",
 			"reference": "M186",
 			"difficulty": "IQ/H",
@@ -35376,6 +36033,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2a476669-5cd1-4547-85db-1ece03ffaac5",
 			"name": "Soilproof",
 			"reference": "M116",
 			"difficulty": "IQ/H",
@@ -35412,6 +36070,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8ac99d2e-1a5f-416d-a3dd-1a93d38de556",
 			"name": "Solidify",
 			"reference": "M151",
 			"difficulty": "IQ/H",
@@ -35448,6 +36107,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "be3511cb-d9bb-4212-985f-865104b62f52",
 			"name": "Soul Jar",
 			"reference": "M154",
 			"difficulty": "IQ/VH",
@@ -35535,6 +36195,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c0ec8aef-a735-46ab-9f7c-222e1e47ee61",
 			"name": "Soul Rider",
 			"reference": "M49",
 			"difficulty": "IQ/H",
@@ -35571,6 +36232,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0da7e76a-4116-4c75-a825-f073d8592f3a",
 			"name": "Soul Stone",
 			"reference": "M71",
 			"difficulty": "IQ/VH",
@@ -35658,6 +36320,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bb8423ba-3934-408e-9135-076d6bc81edb",
 			"name": "Sound",
 			"reference": "M171",
 			"difficulty": "IQ/H",
@@ -35675,6 +36338,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f43f6a5a-8515-4da0-a95a-f38059c3036c",
 			"name": "Sound Jet",
 			"reference": "M173",
 			"difficulty": "IQ/H",
@@ -35733,6 +36397,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bdcf43fc-33a1-4d7a-894c-43abf2fd94b7",
 			"name": "Sound Vision",
 			"reference": "M171",
 			"difficulty": "IQ/H",
@@ -35781,6 +36446,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "9a812345-b009-4297-91e4-ed2f69590b0e",
 			"name": "Spark Cloud",
 			"reference": "M196",
 			"difficulty": "IQ/H",
@@ -35843,6 +36509,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a4c4efa6-4998-4069-859f-16b881787f4b",
 			"name": "Spark Storm",
 			"reference": "M197",
 			"difficulty": "IQ/H",
@@ -35905,6 +36572,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a303bbb9-91ae-45e7-9c3d-e8b7bde54f2d",
 			"name": "Spasm",
 			"reference": "M35",
 			"difficulty": "IQ/H",
@@ -35941,6 +36609,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1b6f7dda-78da-4fac-818c-306217706d11",
 			"name": "Speed",
 			"reference": "M57",
 			"difficulty": "IQ/H",
@@ -35990,6 +36659,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "711f109a-20c2-4867-ac6c-9c2d4c7aa480",
 			"name": "Speed Spell Arrow",
 			"reference": "M66",
 			"difficulty": "IQ/H",
@@ -36039,6 +36709,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fd49c65d-5faf-4a8d-b5e0-a2bac6d493c4",
 			"name": "Spell Arrow",
 			"reference": "M65",
 			"difficulty": "IQ/H",
@@ -36075,6 +36746,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "298c4a33-6757-4c52-ad7b-285160f072b8",
 			"name": "Spell Shield",
 			"reference": "M124",
 			"difficulty": "IQ/H",
@@ -36162,6 +36834,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "02b2f04d-b460-480b-ad93-fc827fbb9ccc",
 			"name": "Spell Stone",
 			"reference": "M60",
 			"difficulty": "IQ/H",
@@ -36211,6 +36884,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "390d3166-d412-40fc-978a-beef698ba326",
 			"name": "Spell Wall",
 			"reference": "M124",
 			"difficulty": "IQ/H",
@@ -36247,6 +36921,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3667e2d2-7252-423f-b2d6-bae47ec09b7d",
 			"name": "Spellguard",
 			"reference": "M127",
 			"difficulty": "IQ/VH",
@@ -36283,6 +36958,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b96f3023-087f-47a8-920a-bfcbf357a56a",
 			"name": "Spider Silk",
 			"reference": "M32",
 			"difficulty": "IQ/H",
@@ -36379,6 +37055,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "90220833-a00b-407f-b9d9-2d2fd9a43b88",
 			"name": "Spit Acid",
 			"reference": "M192",
 			"difficulty": "IQ/H",
@@ -36489,6 +37166,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "30ad5fbb-0bd5-44c6-878e-9652b2d6b671",
 			"name": "Staff",
 			"reference": "M70",
 			"difficulty": "IQ/H",
@@ -36525,6 +37203,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0cd21968-9829-43e8-973d-6d0e5ac22f37",
 			"name": "Steal Beauty",
 			"reference": "M159",
 			"difficulty": "IQ/VH",
@@ -36612,6 +37291,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e5bc5840-da02-4846-85df-3d1644f407d5",
 			"name": "Steal Dexterity",
 			"reference": "M158",
 			"difficulty": "IQ/VH",
@@ -36699,6 +37379,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "26272dff-1667-42b7-a889-db02ac3cc017",
 			"name": "Steal Energy",
 			"reference": "M150",
 			"difficulty": "IQ/H",
@@ -36735,6 +37416,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "112213a7-1a75-4be7-8542-de27983a2256",
 			"name": "Steal Might",
 			"reference": "M158",
 			"difficulty": "IQ/VH",
@@ -36822,6 +37504,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "00fa4070-1d72-4dcf-9bc1-0c465f3f27d2",
 			"name": "Steal Skill",
 			"reference": "M158",
 			"difficulty": "IQ/VH",
@@ -36909,6 +37592,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c38370d1-d734-4350-ae93-17e4cf99e417",
 			"name": "Steal Spell",
 			"reference": "M127",
 			"difficulty": "IQ/VH",
@@ -36958,6 +37642,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "21463bab-afcc-470e-976a-4a697009ea60",
 			"name": "Steal Vigor",
 			"reference": "M158",
 			"difficulty": "IQ/VH",
@@ -37045,6 +37730,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5b13bafa-a7a7-4e95-afc9-865897cff112",
 			"name": "Steal Vitality",
 			"reference": "M150",
 			"difficulty": "IQ/H",
@@ -37081,6 +37767,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2f846aaa-cbaa-43e8-bd63-0d1ea0d38b6b",
 			"name": "Steal Wisdom",
 			"reference": "M158",
 			"difficulty": "IQ/VH",
@@ -37168,6 +37855,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "4d59358f-56e5-4403-87df-9d514edf3986",
 			"name": "Steal Youth",
 			"reference": "M158",
 			"difficulty": "IQ/VH",
@@ -37230,6 +37918,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8000e73b-8083-46bf-807a-661a99f455b7",
 			"name": "Steam Jet",
 			"reference": "M191",
 			"difficulty": "IQ/H",
@@ -37302,6 +37991,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "16d3617b-6ef6-4608-85f5-57a770d45bbf",
 			"name": "Steelwraith",
 			"reference": "M54",
 			"difficulty": "IQ/H",
@@ -37376,6 +38066,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c1fdb2d6-6b85-4c16-a44a-e6a062026c1a",
 			"name": "Stench",
 			"reference": "M24",
 			"difficulty": "IQ/H",
@@ -37412,6 +38103,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ff54f8f3-e938-4519-b83d-005e9169faa2",
 			"name": "Stiffen",
 			"reference": "M117",
 			"difficulty": "IQ/H",
@@ -37448,6 +38140,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ac74d632-4117-4ea5-b208-f9d79664e69a",
 			"name": "Stone Missile",
 			"reference": "M52",
 			"difficulty": "IQ/H",
@@ -37506,6 +38199,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "98f0d650-3560-4e5e-9d85-28a76327f282",
 			"name": "Stone to Earth",
 			"reference": "M51",
 			"difficulty": "IQ/H",
@@ -37555,6 +38249,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7dc014d9-a5dd-46af-9032-d7ae7c0c33ec",
 			"name": "Stone to Flesh",
 			"reference": "M53",
 			"difficulty": "IQ/H",
@@ -37642,6 +38337,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3211a3f1-2077-4ee2-b2cb-912242a6d6db",
 			"name": "Stop Bleeding",
 			"reference": "M91",
 			"difficulty": "IQ/H",
@@ -37678,6 +38374,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1bc2117e-214c-4df8-bc2f-25b8eb6cc8b9",
 			"name": "Stop Healing",
 			"reference": "M153",
 			"difficulty": "IQ/H",
@@ -37714,6 +38411,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "25864c7d-b096-45a4-95ac-85e7b1b667c7",
 			"name": "Stop Paralysis",
 			"reference": "M93",
 			"difficulty": "IQ/H",
@@ -37794,6 +38492,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "17ff5e3e-f974-4059-a5cb-af8924d1a181",
 			"name": "Stop Spasm",
 			"reference": "M35",
 			"difficulty": "IQ/H",
@@ -37844,6 +38543,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ef0addaf-b9f3-4562-967a-f744999c1f74",
 			"name": "Storm",
 			"reference": "M195",
 			"difficulty": "IQ/H",
@@ -37895,6 +38595,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e38ab116-cf7b-4ff4-963e-bad7b7a345e2",
 			"name": "Strengthen Will",
 			"reference": "M136",
 			"difficulty": "IQ/H",
@@ -37969,6 +38670,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "837bf5e6-dbe6-4e8d-bb83-e6b11c2a0474",
 			"name": "Strike Barren",
 			"reference": "M41",
 			"difficulty": "IQ/H",
@@ -38057,6 +38759,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "cd5214c0-44f4-447d-a08d-516072082656",
 			"name": "Strike Blind",
 			"reference": "M38",
 			"difficulty": "IQ/H",
@@ -38106,6 +38809,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "18257fcd-487d-4cb1-8019-38f0929c93db",
 			"name": "Strike Deaf",
 			"reference": "M38",
 			"difficulty": "IQ/H",
@@ -38155,6 +38859,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0d061b20-243c-4409-8c6f-fe424a8f7543",
 			"name": "Strike Dumb",
 			"reference": "M38",
 			"difficulty": "IQ/H",
@@ -38191,6 +38896,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e3feb4a1-898b-46ae-b37a-e121c5837645",
 			"name": "Strike Numb",
 			"reference": "M40",
 			"difficulty": "IQ/H",
@@ -38227,6 +38933,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "36d2f785-eb27-4cf7-9679-5d3104aef8b0",
 			"name": "Stun",
 			"reference": "M37",
 			"difficulty": "IQ/H",
@@ -38263,6 +38970,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f286be38-d021-4ce3-8f03-f428be0568c1",
 			"name": "Suggestion",
 			"reference": "M140",
 			"difficulty": "IQ/H",
@@ -38312,6 +39020,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "edec8be2-7ee4-435f-9f59-74c8b17a7c30",
 			"name": "Summon Air Elemental",
 			"reference": "M27",
 			"difficulty": "IQ/H",
@@ -38456,6 +39165,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "08b6beb2-b45f-438a-a1a6-e4ec22ef7aa9",
 			"name": "Summon Demon",
 			"reference": "M155",
 			"difficulty": "IQ/H",
@@ -38526,6 +39236,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1b7e784d-9ce5-4691-9696-6b344ee8e60c",
 			"name": "Summon Earth Elemental",
 			"reference": "M27",
 			"difficulty": "IQ/H",
@@ -38670,6 +39381,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "9f832924-0c91-4751-9ca9-228676372453",
 			"name": "Summon Fire Elemental",
 			"reference": "M27",
 			"difficulty": "IQ/H",
@@ -38814,6 +39526,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d14d6a44-11a9-4b27-b9bb-8025124962d7",
 			"name": "Summon Shade",
 			"reference": "M102",
 			"difficulty": "IQ/VH",
@@ -38863,6 +39576,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7951a150-f611-4beb-b39c-bcd89c0b97a2",
 			"name": "Summon Spirit",
 			"reference": "M150",
 			"difficulty": "IQ/H",
@@ -38937,6 +39651,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c2540136-106b-4549-bfe5-897e12481617",
 			"name": "Summon Water Elemental",
 			"reference": "M27",
 			"difficulty": "IQ/H",
@@ -39081,6 +39796,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fe9d33af-22da-467c-b81b-2a2bc6366d1e",
 			"name": "Sunbolt",
 			"reference": "M114",
 			"difficulty": "IQ/H",
@@ -39152,6 +39868,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "86ff2202-1f17-4e8b-946d-4fbc51ea554c",
 			"name": "Sunlight",
 			"reference": "M114",
 			"difficulty": "IQ/H",
@@ -39239,6 +39956,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6cd7d7be-823f-40d2-98fb-e76d1a8efea1",
 			"name": "Suspend Curse",
 			"reference": "M125",
 			"difficulty": "IQ/H",
@@ -39309,6 +40027,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "770eed52-2fdb-484d-a3e8-adbecf4e46f7",
 			"name": "Suspend Enchantment",
 			"reference": "M58",
 			"difficulty": "IQ/H",
@@ -39345,6 +40064,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ac969f65-5bcf-4f2a-8e59-e78345fe86a1",
 			"name": "Suspend Magery",
 			"reference": "M130",
 			"difficulty": "IQ/VH",
@@ -39424,6 +40144,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "17f857bc-719e-4f8c-abf2-86933f2cf18f",
 			"name": "Suspend Magic",
 			"reference": "M123",
 			"difficulty": "IQ/H",
@@ -39469,6 +40190,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "36e777d0-9fe0-44d3-b6e8-0d97f58ada54",
 			"name": "Suspend Mana",
 			"reference": "M125",
 			"difficulty": "IQ/VH",
@@ -39514,6 +40236,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1dff7b34-3a3f-4a32-8d02-f3beeb131408",
 			"name": "Suspend Spell",
 			"reference": "M121",
 			"difficulty": "IQ/H",
@@ -39588,6 +40311,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6e69d953-974d-42dd-85ac-faac92a2e830",
 			"name": "Suspend Time",
 			"reference": "M86",
 			"difficulty": "IQ/VH",
@@ -39662,6 +40386,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "28503bf3-5fdc-470a-be49-28ee29045ec9",
 			"name": "Suspended Animation",
 			"reference": "M94",
 			"difficulty": "IQ/H",
@@ -39711,6 +40436,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "527c421b-c721-47e6-8c19-9df3fa7bd4a4",
 			"name": "Swim",
 			"reference": "M147",
 			"difficulty": "IQ/H",
@@ -39761,6 +40487,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "40b75bd1-8fdd-4948-84f2-76fb05d456bf",
 			"name": "Talisman",
 			"reference": "M58",
 			"difficulty": "IQ/H",
@@ -39810,6 +40537,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "41394896-89dc-4536-943d-d13019d0f6ef",
 			"name": "Tangle Growth",
 			"reference": "M162",
 			"difficulty": "IQ/H",
@@ -39846,6 +40574,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c138fe6c-2d99-413e-8909-4c9112a0f1d1",
 			"name": "Tanglefoot",
 			"reference": "M36",
 			"difficulty": "IQ/H",
@@ -39882,6 +40611,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "559507a3-bd79-4fa8-b0ab-1c7564fe6742",
 			"name": "Telecast",
 			"reference": "M128",
 			"difficulty": "IQ/VH",
@@ -39978,6 +40708,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d261ed12-1279-4bc2-8369-e75030b2ece5",
 			"name": "Telepathy",
 			"reference": "M47",
 			"difficulty": "IQ/VH",
@@ -40014,6 +40745,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "4dabf0f4-5ab8-44a1-8706-e309340dca3d",
 			"name": "Teleport",
 			"reference": "M147",
 			"difficulty": "IQ/VH",
@@ -40075,6 +40807,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5c631d65-3322-4d02-96a2-aa892c1c8f6a",
 			"name": "Teleport Other",
 			"reference": "M147",
 			"difficulty": "IQ/VH",
@@ -40150,6 +40883,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "452bd5a4-fccf-4d90-8e77-59375a7f32b3",
 			"name": "Teleport Shield",
 			"reference": "M170",
 			"difficulty": "IQ/H",
@@ -40219,6 +40953,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "dd06808d-5629-473e-8c25-267f8041debc",
 			"name": "Tell Position",
 			"reference": "M101",
 			"difficulty": "IQ/H",
@@ -40255,6 +40990,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "5da31e38-7106-4ba1-bb28-e1136f35b6da",
 			"name": "Tell Time",
 			"reference": "M100",
 			"difficulty": "IQ/H",
@@ -40272,6 +41008,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "9367a5c1-bf98-4563-8618-6f1d033a605d",
 			"name": "Temporary Enchantment",
 			"reference": "M56",
 			"difficulty": "IQ/H",
@@ -40308,6 +41045,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0db9da25-9d30-4c5b-abe4-bb9882a64118",
 			"name": "Terror",
 			"reference": "M134",
 			"difficulty": "IQ/H",
@@ -40344,6 +41082,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2050a368-e09b-48f9-881b-272d3b61b696",
 			"name": "Test Food",
 			"reference": "M77",
 			"difficulty": "IQ/H",
@@ -40361,6 +41100,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c78a0229-d2de-4afa-b6a0-b3a29df4b429",
 			"name": "Test Load",
 			"reference": "M101",
 			"difficulty": "IQ/H",
@@ -40397,6 +41137,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "905f2e0f-e5b9-467f-ae7b-db90f39bd6d6",
 			"name": "Thirst",
 			"reference": "M38",
 			"difficulty": "IQ/H",
@@ -40485,6 +41226,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "df24cd10-5361-4c80-9697-c39f156c3839",
 			"name": "Throw Spell",
 			"reference": "M128",
 			"difficulty": "IQ/H",
@@ -40556,6 +41298,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b3869605-40ff-4283-bcea-4300b394b926",
 			"name": "Thunderclap",
 			"reference": "M171",
 			"difficulty": "IQ/H",
@@ -40592,6 +41335,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "cb7fbb44-fd3b-4860-bd36-fe671447ab63",
 			"name": "Tickle",
 			"reference": "M36",
 			"difficulty": "IQ/H",
@@ -40628,6 +41372,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e959f9a3-6e77-400e-8474-35b1291cd00c",
 			"name": "Tide",
 			"reference": "M194",
 			"difficulty": "IQ/H",
@@ -40665,6 +41410,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "669a4db5-8b97-4d55-ba11-2e1b7be133b9",
 			"name": "Total Paralysis",
 			"reference": "M40",
 			"difficulty": "IQ/H",
@@ -40731,6 +41477,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "38e3b250-060d-4ce7-a1bd-0f0568de1298",
 			"name": "Touch",
 			"reference": "M35",
 			"difficulty": "IQ/H",
@@ -40748,6 +41495,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "63f4e868-7fd3-4533-a8ea-0a110f86be62",
 			"name": "Toughen",
 			"reference": "M119",
 			"difficulty": "IQ/H",
@@ -40784,6 +41532,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c3d54099-eebe-4ec1-b606-ee2dc0ac44bc",
 			"name": "Trace",
 			"reference": "M106",
 			"difficulty": "IQ/H",
@@ -40820,6 +41569,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1389917c-2e80-440c-8ff1-73240b8f689c",
 			"name": "Trace Teleport",
 			"reference": "M84",
 			"difficulty": "IQ/H",
@@ -40883,6 +41633,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "78580099-07cf-4469-a462-b8d341303bc5",
 			"name": "Transform Body (@Race@)",
 			"reference": "M43",
 			"difficulty": "IQ/H",
@@ -40932,6 +41683,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "526441dc-5b86-463b-a479-0c43cec4dbe9",
 			"name": "Transform Object",
 			"reference": "M120",
 			"difficulty": "IQ/VH",
@@ -41019,6 +41771,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b4061bf9-c1e1-496c-8469-8b8cad4c604a",
 			"name": "Transform Other (@Race@)",
 			"reference": "M43",
 			"difficulty": "IQ/H",
@@ -41068,6 +41821,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "9a3e7d14-a7ee-4807-80ec-95a3708bfdd5",
 			"name": "Transmogrification",
 			"reference": "M43",
 			"difficulty": "IQ/H",
@@ -41168,6 +41922,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "24cd22d0-b941-40cc-9108-854560d17e13",
 			"name": "Transparency",
 			"reference": "M119",
 			"difficulty": "IQ/H",
@@ -41217,6 +41972,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "6c0f8afa-2599-439f-bd7c-15ac9def2abb",
 			"name": "Truthsayer",
 			"reference": "M45",
 			"difficulty": "IQ/H",
@@ -41253,6 +42009,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8c9a9481-c0b7-4b81-bbc2-493f3638b575",
 			"name": "Turn Blade",
 			"reference": "M167",
 			"difficulty": "IQ/H",
@@ -41302,6 +42059,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ed40a001-1737-4238-9044-b1f43b41e488",
 			"name": "Turn Spirit",
 			"reference": "M151",
 			"difficulty": "IQ/H",
@@ -41351,6 +42109,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "127f9096-c063-497f-86e3-d074b5ef87b7",
 			"name": "Turn Zombie",
 			"reference": "M152",
 			"difficulty": "IQ/H",
@@ -41387,6 +42146,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "76dcb41e-8a97-47bd-80cc-210e34b1cb46",
 			"name": "Umbrella",
 			"reference": "M185",
 			"difficulty": "IQ/H",
@@ -41437,6 +42197,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "c96e9b53-6931-4322-9094-99f4163a95a8",
 			"name": "Undo",
 			"reference": "M145",
 			"difficulty": "IQ/H",
@@ -41473,6 +42234,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "bba0d75c-009e-43ef-9066-951c5ab1eebd",
 			"name": "Utter Dome",
 			"reference": "M170",
 			"difficulty": "IQ/H",
@@ -41560,6 +42322,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7247fd29-8e39-4d87-8505-7cef4bb71ba7",
 			"name": "Utter Wall",
 			"reference": "M170",
 			"difficulty": "IQ/H",
@@ -41609,6 +42372,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8eb32dfc-7946-47e0-9cd3-51733b2d80a9",
 			"name": "Vexation",
 			"reference": "M45",
 			"difficulty": "IQ/H",
@@ -41645,6 +42409,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "da244972-a56e-4177-8435-44f993bc4eea",
 			"name": "Vigil",
 			"reference": "M138",
 			"difficulty": "IQ/VH",
@@ -41732,6 +42497,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "cd66ad0e-460e-49c6-91c5-841cb41b6c2f",
 			"name": "Vigor",
 			"reference": "M37",
 			"difficulty": "IQ/H",
@@ -41781,6 +42547,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1f5afd4d-1880-452c-8d05-aa5d6e8fd435",
 			"name": "Voices",
 			"reference": "M172",
 			"difficulty": "IQ/H",
@@ -41817,6 +42584,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "48e0d9a4-570b-4532-9c36-5391bf2c64ef",
 			"name": "Volcano",
 			"reference": "M54",
 			"difficulty": "IQ/H",
@@ -41866,6 +42634,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "69f2e2d3-e131-408d-b0a9-41f665c77213",
 			"name": "Walk on Air",
 			"reference": "M25",
 			"difficulty": "IQ/H",
@@ -41902,6 +42671,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e8bfb573-8f4f-4086-8680-ca5c0eecb70d",
 			"name": "Walk on Water",
 			"reference": "M186",
 			"difficulty": "IQ/H",
@@ -41938,6 +42708,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ff0a9ff7-1885-4caf-bedc-2413f3ee6796",
 			"name": "Walk Through Earth",
 			"reference": "M52",
 			"difficulty": "IQ/H",
@@ -41974,6 +42745,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0489c0d4-c226-4128-85bd-22794d2185f1",
 			"name": "Walk Through Plants",
 			"reference": "M163",
 			"difficulty": "IQ/H",
@@ -42023,6 +42795,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7854250b-1b4d-4d12-a5ca-223d7008cb5b",
 			"name": "Walk Through Water",
 			"reference": "M188",
 			"difficulty": "IQ/H",
@@ -42097,6 +42870,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "701e3991-7755-42a4-a709-ef9c3b1e5102",
 			"name": "Walk Through Wood",
 			"reference": "M164",
 			"difficulty": "IQ/H",
@@ -42133,6 +42907,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "ac2a4adc-1189-4776-a283-fe32058d557a",
 			"name": "Wall of Light",
 			"reference": "M113",
 			"difficulty": "IQ/H",
@@ -42169,6 +42944,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "442afab9-74ff-476d-96be-3b8104d5c50b",
 			"name": "Wall of Lightning",
 			"reference": "M197",
 			"difficulty": "IQ/H",
@@ -42206,6 +42982,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "37de32eb-ae49-489e-afb2-1f09c1c76bf7",
 			"name": "Wall of Silence",
 			"reference": "M172",
 			"difficulty": "IQ/H",
@@ -42242,6 +43019,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "2864b95a-3119-4657-9e77-f6acea157bf3",
 			"name": "Wall of Wind",
 			"reference": "M25",
 			"difficulty": "IQ/H",
@@ -42278,6 +43056,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "4e66c0e0-986b-48a6-896b-3ba703965dc9",
 			"name": "Wallwalker",
 			"reference": "M144",
 			"difficulty": "IQ/H",
@@ -42314,6 +43093,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "d561541d-8dc0-467c-8752-5c3073f0eca9",
 			"name": "Ward",
 			"reference": "M122",
 			"difficulty": "IQ/H",
@@ -42365,6 +43145,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1af7ff3a-fc16-4e4b-83bc-57093ba720cc",
 			"name": "Warm",
 			"reference": "M195",
 			"difficulty": "IQ/H",
@@ -42415,6 +43196,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "89158ed7-4e09-423c-9ab0-0e7cf3c4b4be",
 			"name": "Warmth",
 			"reference": "M74",
 			"difficulty": "IQ/H",
@@ -42452,6 +43234,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "9c995768-cf1a-449b-9f62-07ff95e6a0b4",
 			"name": "Watchdog",
 			"reference": "M167",
 			"difficulty": "IQ/H",
@@ -42488,6 +43271,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b3c1f08e-cec1-4894-9a7f-5c08aec18b6b",
 			"name": "Water Jet",
 			"reference": "M187",
 			"difficulty": "IQ/H",
@@ -42547,6 +43331,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "56a10ac5-b6e2-4132-8be7-9bba9c7ec7ee",
 			"name": "Water to Wine",
 			"reference": "M79",
 			"difficulty": "IQ/H",
@@ -42597,6 +43382,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0affabf7-490d-4b9e-9fc9-5fca3e83894f",
 			"name": "Water Vision",
 			"reference": "M187",
 			"difficulty": "IQ/H",
@@ -42634,6 +43420,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "10d2b023-6902-4125-b9c6-e0d35596b2ea",
 			"name": "Waves",
 			"reference": "M194",
 			"difficulty": "IQ/H",
@@ -42671,6 +43458,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7e159534-a476-4f01-a4ba-4a711b964712",
 			"name": "Weaken",
 			"reference": "M116",
 			"difficulty": "IQ/H",
@@ -42719,6 +43507,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "fe8dd935-5296-4612-9588-698973d6f6c6",
 			"name": "Weaken Blood",
 			"reference": "M40",
 			"difficulty": "IQ/H",
@@ -42769,6 +43558,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "081df6b5-58ce-499b-bc9e-693f5dabf618",
 			"name": "Weaken Will",
 			"reference": "M136",
 			"difficulty": "IQ/H",
@@ -42843,6 +43633,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "7f177a6c-d210-429e-a651-eeddd44509d7",
 			"name": "Weapon Self",
 			"reference": "M119",
 			"difficulty": "IQ/H",
@@ -42943,6 +43734,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e6b22c15-a032-4922-b64f-2f3faf2b714a",
 			"name": "Weapon Spirit",
 			"reference": "M64",
 			"difficulty": "IQ/VH",
@@ -42992,6 +43784,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "0a1f690b-ee5d-4c1d-b00c-e8994319e674",
 			"name": "Weather Dome",
 			"reference": "M169",
 			"difficulty": "IQ/H",
@@ -43068,6 +43861,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "29c1d8d0-141a-4690-ba11-19b46e6a97c9",
 			"name": "Whirlpool",
 			"reference": "M187",
 			"difficulty": "IQ/H",
@@ -43104,6 +43898,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8975139f-43fe-4306-b10d-76e987d8eedc",
 			"name": "Will Lock",
 			"reference": "M138",
 			"difficulty": "IQ/H",
@@ -43140,6 +43935,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "f52ba01b-e204-4605-a9ac-e9264138ceac",
 			"name": "Wind",
 			"reference": "M195",
 			"difficulty": "IQ/H",
@@ -43177,6 +43973,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "3feae1af-1372-4830-9269-f2f3703f7e79",
 			"name": "Windstorm",
 			"reference": "M25",
 			"difficulty": "IQ/H",
@@ -43213,6 +44010,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e4b51861-30ce-48d3-b1db-080073a2f1ed",
 			"name": "Winged Knife",
 			"reference": "M145",
 			"difficulty": "IQ/H",
@@ -43270,6 +44068,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "eb141170-b6d3-4261-b677-15bc12defc58",
 			"name": "Wisdom",
 			"reference": "M135",
 			"difficulty": "IQ/H",
@@ -43306,6 +44105,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1156dfe2-462e-4284-bdb0-c1912e861419",
 			"name": "Wish",
 			"reference": "M61",
 			"difficulty": "IQ/VH",
@@ -43351,6 +44151,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "1d45219e-6fa1-4df0-bb5a-2759b330f23b",
 			"name": "Wither Limb",
 			"reference": "M40",
 			"difficulty": "IQ/H",
@@ -43455,6 +44256,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "418e5c32-16ec-45d2-9f5b-e6fd29d0504b",
 			"name": "Wither Plant",
 			"reference": "M163",
 			"difficulty": "IQ/H",
@@ -43491,6 +44293,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a1059ce9-f399-47c7-9537-eb20ccec1b72",
 			"name": "Wizard Ear",
 			"reference": "M174",
 			"difficulty": "IQ/H",
@@ -43553,6 +44356,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "07139e16-0308-4b7b-88f8-8d8d986e20d0",
 			"name": "Wizard Eye",
 			"reference": "M104",
 			"difficulty": "IQ/H",
@@ -43602,6 +44406,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "4837b454-c9f9-45c5-bd06-980c785931a5",
 			"name": "Wizard Hand",
 			"reference": "M104",
 			"difficulty": "IQ/H",
@@ -43652,6 +44457,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "e2a93dc2-aa34-48e0-9268-4cee59634e10",
 			"name": "Wizard Mouth",
 			"reference": "M104",
 			"difficulty": "IQ/H",
@@ -43716,6 +44522,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "a382bd39-7000-491c-b15e-5ae12b702f3a",
 			"name": "Wizard Nose",
 			"reference": "M104",
 			"difficulty": "IQ/H",
@@ -43766,6 +44573,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "8f100950-e7dd-40ca-bbf3-e1997aa09dfd",
 			"name": "Wraith",
 			"reference": "M160",
 			"difficulty": "IQ/VH",
@@ -43875,6 +44683,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "b916a35a-d8a4-49fa-9180-5a3c610bd13a",
 			"name": "Youth",
 			"reference": "M94",
 			"difficulty": "IQ/VH",
@@ -43949,6 +44758,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "4974dcf3-ee37-46b6-a183-f345b44a3c39",
 			"name": "Zombie",
 			"reference": "M151",
 			"difficulty": "IQ/H",
@@ -43998,6 +44808,7 @@
 		{
 			"type": "spell",
 			"version": 1,
+			"id": "714778b5-6aac-4f4c-a0ff-c0d0b36b7896",
 			"name": "Zombie Summoning",
 			"reference": "M152",
 			"difficulty": "IQ/H",
