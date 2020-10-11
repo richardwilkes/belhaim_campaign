@@ -217,6 +217,126 @@
 		{
 			"type": "eqp_modifier_container",
 			"version": 1,
+			"id": "91305d2f-ed8e-4f71-9d10-48dba6609c50",
+			"disabled": true,
+			"name": "Magic",
+			"open": true,
+			"children": [
+				{
+					"type": "eqp_modifier_container",
+					"version": 1,
+					"id": "f600970b-5cf6-447e-bccf-6f9ab4b1bbd0",
+					"disabled": true,
+					"name": "Any",
+					"open": true,
+					"children": [
+						{
+							"type": "eqp_modifier",
+							"version": 1,
+							"id": "4577cea0-735b-40ab-90f9-aa83afd65edf",
+							"name": "Continual Light",
+							"reference": "DF1:30",
+							"cost_type": "to_final_cost",
+							"cost": "+8000",
+							"notes": "Provides light equal to a torch"
+						}
+					]
+				},
+				{
+					"type": "eqp_modifier_container",
+					"version": 1,
+					"id": "c09358d2-bd22-4368-80dd-5fa6158f31ed",
+					"disabled": true,
+					"name": "Melee Weapons",
+					"open": true,
+					"children": [
+						{
+							"type": "eqp_modifier",
+							"version": 1,
+							"id": "f98233ef-7f12-46b8-88e2-cef79d021dfa",
+							"based_on_id": "26f5a5c1-0f87-416e-a99c-76487203c2bd",
+							"based_on_hash": "EGfFDRFW7s2mK1dU3y6nh3if1dH5Xfgwk8YDGud5qSU",
+							"name": "Accuracy +1",
+							"reference": "DF1:30",
+							"cost_type": "to_final_cost",
+							"cost": "+5000",
+							"features": [
+								{
+									"type": "skill_bonus",
+									"amount": 1,
+									"selection_type": "this_weapon"
+								}
+							]
+						},
+						{
+							"type": "eqp_modifier",
+							"version": 1,
+							"id": "e827c734-6f08-4ada-b67e-fcb43a0826db",
+							"name": "Puissance +1",
+							"reference": "DF1:30",
+							"cost_type": "to_final_cost",
+							"cost": "+5000",
+							"features": [
+								{
+									"type": "weapon_bonus",
+									"amount": 1,
+									"selection_type": "this_weapon"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "eqp_modifier_container",
+					"version": 1,
+					"id": "6fb4485d-2f21-41e3-a3d1-ba8fe04b1d4e",
+					"disabled": true,
+					"name": "Missile Weapons",
+					"open": true,
+					"children": [
+						{
+							"type": "eqp_modifier",
+							"version": 1,
+							"id": "26f5a5c1-0f87-416e-a99c-76487203c2bd",
+							"based_on_id": "1bc17a54-8ee1-4d60-bd4c-6a00398b399d",
+							"based_on_hash": "73rtB39yUc6U3qP7TFj4TnPiRyL+mTfVPGmZVHs1mFg",
+							"name": "Accuracy +1",
+							"reference": "DF1:30",
+							"cost_type": "to_final_cost",
+							"cost": "+5000",
+							"features": [
+								{
+									"type": "skill_bonus",
+									"amount": 1,
+									"selection_type": "this_weapon"
+								}
+							]
+						},
+						{
+							"type": "eqp_modifier",
+							"version": 1,
+							"id": "a95a2d39-bd1b-4a24-ae09-6685af375a48",
+							"based_on_id": "e827c734-6f08-4ada-b67e-fcb43a0826db",
+							"based_on_hash": "H9ekp2nWIQ5RFYUdYKOioVBymB/43mKHa8NUVnCNlOc",
+							"name": "Puissance +1",
+							"reference": "DF1:30",
+							"cost_type": "to_final_cost",
+							"cost": "+10000",
+							"features": [
+								{
+									"type": "weapon_bonus",
+									"amount": 1,
+									"selection_type": "this_weapon"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "eqp_modifier_container",
+			"version": 1,
 			"id": "a4062e53-2f6c-4850-bb6c-91f227194d82",
 			"disabled": true,
 			"name": "Melee Weapons, Thrown Weapons or Projectiles",
