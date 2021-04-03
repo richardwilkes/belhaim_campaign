@@ -9005,7 +9005,7 @@
 						"has": true,
 						"qualifier": {
 							"compare": "at_most",
-							"qualifier": "8 lb"
+							"qualifier": "4 lb"
 						}
 					}
 				]
