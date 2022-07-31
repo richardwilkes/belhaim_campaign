@@ -1,27 +1,28 @@
 {
 	"type": "template",
-	"version": 1,
+	"version": 2,
 	"id": "340ee792-1645-4c82-8a46-cb3859009e2f",
 	"advantages": [
 		{
 			"type": "advantage_container",
-			"version": 1,
 			"id": "57f288c6-f6e6-420e-b835-11c007d6c41f",
 			"container_type": "race",
 			"name": "High Elf",
 			"reference": "DF3:7",
+			"ancestry": "Human",
+			"calc": {
+				"points": 20
+			},
 			"open": true,
 			"children": [
 				{
 					"type": "advantage",
-					"version": 1,
 					"id": "0124e7d1-f65b-408b-98b5-9c2abaec58c0",
 					"name": "Appearance",
 					"physical": true,
 					"modifiers": [
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "e3b4cd96-53e5-4fc4-9b03-3c29928f64d1",
 							"name": "Attractive",
 							"reference": "B21",
@@ -38,7 +39,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "ff5cf2db-3145-44ee-bd68-3f94fec48da7",
 							"disabled": true,
 							"name": "Average",
@@ -49,7 +49,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "3e7632f0-bef3-449b-8956-be546adcb0fa",
 							"disabled": true,
 							"name": "Beautiful",
@@ -67,7 +66,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "61d79804-6922-4a4a-98f9-dc1c8f993381",
 							"disabled": true,
 							"name": "Beautiful (Androgynous)",
@@ -85,7 +83,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "1c4e4092-a1ea-44c1-8511-7489f5cd89ee",
 							"disabled": true,
 							"name": "Beautiful (Impressive)",
@@ -103,7 +100,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "a317bba5-762d-4002-924a-ec51f1fb875f",
 							"disabled": true,
 							"name": "Handsome",
@@ -121,7 +117,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "4335d03d-5907-482c-b6c7-d5e953eeb985",
 							"disabled": true,
 							"name": "Handsome (Androgynous)",
@@ -139,7 +134,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "41b3328f-628a-4ed8-bc2d-8e1f98bb8371",
 							"disabled": true,
 							"name": "Handsome (Impressive)",
@@ -157,7 +151,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "0c707a96-adfd-4d24-b9b4-fa78b4e6dc6c",
 							"disabled": true,
 							"name": "Hideous",
@@ -175,7 +168,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "5ac7d4e0-8c5c-45bb-87c6-ffdf0c39b047",
 							"disabled": true,
 							"name": "Horrific",
@@ -193,7 +185,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "03d351dc-3ca1-42c4-b89d-f9845b1ed45b",
 							"disabled": true,
 							"name": "Impressive",
@@ -204,7 +195,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "d393c5be-cf2b-4203-aa8c-367f8fc3db69",
 							"disabled": true,
 							"name": "Monstrous",
@@ -222,7 +212,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "3c4aa400-4f5f-4098-ba59-718777bf1090",
 							"disabled": true,
 							"name": "Off-the-Shelf Looks",
@@ -234,7 +223,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "daa7e86a-8e1d-4d77-b86a-3d5bf1d34d8c",
 							"disabled": true,
 							"name": "Transcendent",
@@ -252,7 +240,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "5bb6c62b-87ea-44bf-8979-52c1d4615b81",
 							"disabled": true,
 							"name": "Transcendent (Androgynous)",
@@ -270,7 +257,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "d7c48d4d-b12f-4279-8910-25b9b2482233",
 							"disabled": true,
 							"name": "Transcendent (Impressive)",
@@ -288,7 +274,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "91599a45-1a6c-4685-bfff-337b2c877d89",
 							"disabled": true,
 							"name": "Ugly",
@@ -306,7 +291,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "a4c41268-441c-442e-a884-42e5f541e818",
 							"disabled": true,
 							"name": "Unattractive",
@@ -324,7 +308,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "ddf049c4-2612-4398-8c70-664e7b2bbaf1",
 							"disabled": true,
 							"name": "Universal",
@@ -335,7 +318,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "0568d283-9978-48f6-a6cc-9538885f9639",
 							"disabled": true,
 							"name": "Very Beautiful",
@@ -353,7 +335,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "41df7678-2fe2-4e38-a667-342dc48d5970",
 							"disabled": true,
 							"name": "Very Beautiful (Androgynous)",
@@ -371,7 +352,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "ddead479-b78c-40b0-a53f-ee9255b29ba3",
 							"disabled": true,
 							"name": "Very Beautiful (Impressive)",
@@ -389,7 +369,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "0687fb7a-1e46-46dd-8d7d-d3be81f9be50",
 							"disabled": true,
 							"name": "Very Handsome",
@@ -407,7 +386,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "3d2f3bfc-c46e-42bd-a4e7-a25047d1dab0",
 							"disabled": true,
 							"name": "Very Handsome (Androgynous)",
@@ -425,7 +403,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "6ed2d57e-d9d9-4175-9603-e5872d6cc268",
 							"disabled": true,
 							"name": "Very Handsome (Impressive)",
@@ -443,18 +420,23 @@
 						}
 					],
 					"reference": "B21",
+					"calc": {
+						"points": 4
+					},
 					"categories": [
 						"Advantage"
 					]
 				},
 				{
 					"type": "advantage",
-					"version": 1,
 					"id": "499b3a70-55f0-4fa8-ba57-1b82c31cca0f",
 					"name": "Elven Gear",
 					"physical": true,
 					"base_points": 1,
 					"reference": "DF3:6",
+					"calc": {
+						"points": 1
+					},
 					"prereqs": {
 						"type": "prereq_list",
 						"all": true,
@@ -473,7 +455,6 @@
 				},
 				{
 					"type": "advantage",
-					"version": 1,
 					"id": "7df5c324-8758-46dc-b602-bd731fcf6147",
 					"name": "Forest Guardian",
 					"mental": true,
@@ -482,6 +463,9 @@
 					"levels": "1",
 					"points_per_level": 5,
 					"reference": "DF3:7",
+					"calc": {
+						"points": 5
+					},
 					"prereqs": {
 						"type": "prereq_list",
 						"all": true,
@@ -556,14 +540,12 @@
 				},
 				{
 					"type": "advantage",
-					"version": 1,
 					"id": "afc3b8a6-9b6c-47be-885c-19e7b1b4caa9",
 					"name": "Language: Elven",
 					"mental": true,
 					"modifiers": [
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "34eea1e2-acaf-44ce-9f00-8d9185bc2942",
 							"name": "Native",
 							"reference": "B23",
@@ -573,7 +555,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "00904336-1cba-4dde-af5a-f163f9995a22",
 							"disabled": true,
 							"name": "Spoken",
@@ -585,7 +566,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "340d1829-d3b6-41cd-9907-5edaf53e941e",
 							"disabled": true,
 							"name": "Spoken",
@@ -597,7 +577,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "2ffa14f3-b409-4943-b8a8-8d254f4ce523",
 							"disabled": true,
 							"name": "Spoken",
@@ -609,7 +588,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "1920d1cb-2023-4f0c-a3c6-c01c4bf2d5f5",
 							"name": "Spoken",
 							"reference": "B24",
@@ -620,7 +598,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "5cf8bf9d-d007-448e-b7df-94f6d1af3f28",
 							"disabled": true,
 							"name": "Written",
@@ -632,7 +609,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "025b5793-890f-440c-acd0-4cf39cc36467",
 							"disabled": true,
 							"name": "Written",
@@ -644,7 +620,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "6eecb7da-c346-49c0-b41a-9f55142ced15",
 							"disabled": true,
 							"name": "Written",
@@ -656,7 +631,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "d8d1b3a3-bbaa-43d5-a0c2-19487340e2a8",
 							"name": "Written",
 							"reference": "B24",
@@ -667,13 +641,15 @@
 						}
 					],
 					"reference": "B24",
+					"calc": {
+						"points": 0
+					},
 					"categories": [
 						"Language"
 					]
 				},
 				{
 					"type": "advantage",
-					"version": 1,
 					"id": "b93502cc-46a8-407c-80ac-ea03f7d5b8dc",
 					"name": "Magery",
 					"mental": true,
@@ -684,7 +660,6 @@
 					"modifiers": [
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "1ea59245-fabc-49b5-8933-f7109c39f394",
 							"disabled": true,
 							"name": "Dance",
@@ -694,7 +669,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "e2f27d7c-d7dd-42e1-b8fd-3af51d27e91c",
 							"disabled": true,
 							"name": "Dark-Aspected",
@@ -704,7 +678,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "fa92f76d-c714-4633-8bc2-61d081c6131f",
 							"disabled": true,
 							"name": "Day-Aspected",
@@ -714,7 +687,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "6af1ab67-e3a8-4f96-97ca-0083fe457bef",
 							"disabled": true,
 							"name": "Musical",
@@ -724,7 +696,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "01643a06-c109-44b9-8ae0-9c684a318bad",
 							"disabled": true,
 							"name": "Night-Aspected",
@@ -734,7 +705,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "9a708e4b-3d71-46ce-9cf7-6983c751a097",
 							"disabled": true,
 							"name": "One College",
@@ -745,7 +715,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "6040cf32-6092-4c81-85b8-1f9a84d76f65",
 							"disabled": true,
 							"name": "Solitary",
@@ -755,7 +724,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "284694fb-e70d-4544-96ad-33552234afc0",
 							"disabled": true,
 							"name": "Song",
@@ -765,6 +733,9 @@
 						}
 					],
 					"reference": "B66",
+					"calc": {
+						"points": 5
+					},
 					"features": [
 						{
 							"type": "spell_bonus",
@@ -789,7 +760,6 @@
 				},
 				{
 					"type": "advantage",
-					"version": 1,
 					"id": "5693a193-11b0-4eee-b735-77a805d1e8ca",
 					"name": "Natural Attacks",
 					"physical": true,
@@ -805,12 +775,18 @@
 							"reach": "C",
 							"parry": "No",
 							"block": "No",
+							"calc": {
+								"level": 0,
+								"parry": "No",
+								"block": "No",
+								"damage": "thr-1 cr"
+							},
 							"defaults": [
 								{
-									"type": "DX"
+									"type": "dx"
 								},
 								{
-									"type": "Skill",
+									"type": "skill",
 									"name": "Brawling"
 								}
 							]
@@ -825,20 +801,26 @@
 							"usage": "Punch",
 							"reach": "C",
 							"parry": "0",
+							"calc": {
+								"level": 0,
+								"parry": "0",
+								"block": "",
+								"damage": "thr-1 cr"
+							},
 							"defaults": [
 								{
-									"type": "DX"
+									"type": "dx"
 								},
 								{
-									"type": "Skill",
+									"type": "skill",
 									"name": "Boxing"
 								},
 								{
-									"type": "Skill",
+									"type": "skill",
 									"name": "Brawling"
 								},
 								{
-									"type": "Skill",
+									"type": "skill",
 									"name": "Karate"
 								}
 							]
@@ -852,36 +834,43 @@
 							"usage": "Kick",
 							"reach": "C,1",
 							"parry": "No",
+							"calc": {
+								"level": 0,
+								"parry": "No",
+								"block": "",
+								"damage": "thr cr"
+							},
 							"defaults": [
 								{
-									"type": "DX",
+									"type": "dx",
 									"modifier": -2
 								},
 								{
-									"type": "Skill",
+									"type": "skill",
 									"name": "Brawling",
 									"modifier": -2
 								},
 								{
-									"type": "Skill",
+									"type": "skill",
 									"name": "Karate",
 									"modifier": -2
 								}
 							]
 						}
 					],
-					"reference": "B271"
+					"reference": "B271",
+					"calc": {
+						"points": 0
+					}
 				},
 				{
 					"type": "advantage",
-					"version": 1,
 					"id": "61fae2fe-4360-4944-b519-1f711ac83b78",
 					"name": "Racial Attribute Adjustments",
 					"physical": true,
 					"modifiers": [
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "41e98c6d-f58e-49a0-9ae1-ff2633a6e393",
 							"name": "ST-1",
 							"reference": "B14",
@@ -898,7 +887,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "3da41709-c368-48fc-91a8-e17c7ec34992",
 							"name": "IQ+1",
 							"reference": "B15",
@@ -914,16 +902,21 @@
 							]
 						}
 					],
-					"reference": "B14"
+					"reference": "B14",
+					"calc": {
+						"points": 10
+					}
 				},
 				{
 					"type": "advantage",
-					"version": 1,
 					"id": "6ee11d4a-388f-441c-85a7-720d98833d40",
 					"name": "Sense of Duty: Nature",
 					"mental": true,
 					"base_points": -15,
 					"reference": "DF3:6",
+					"calc": {
+						"points": -15
+					},
 					"notes": "Functionally equivalent to Charitable and Pacifism toward any plant or animal that isn’t actively in the process of eating the elf, and extends to beast-men, faeries, wild-men, and other non-technological races.",
 					"categories": [
 						"Disadvantage"
@@ -931,12 +924,14 @@
 				},
 				{
 					"type": "advantage",
-					"version": 1,
 					"id": "adaf78d0-de3f-4b0f-ba73-b9db68444dcb",
 					"name": "Voice",
 					"physical": true,
 					"base_points": 10,
 					"reference": "B97",
+					"calc": {
+						"points": 10
+					},
 					"features": [
 						{
 							"type": "skill_bonus",
@@ -1026,7 +1021,6 @@
 	"notes": [
 		{
 			"type": "note",
-			"version": 1,
 			"id": "98e15c4d-a9ef-41b7-bcbe-4cfa99080d85",
 			"text": "High Elves have silver or white hair, gray or blue eyes and are slender (find height normally for ST, add 2”, and leave weight alone).",
 			"reference": "DF3:6"

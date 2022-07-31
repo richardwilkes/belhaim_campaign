@@ -1,26 +1,27 @@
 {
 	"type": "template",
-	"version": 1,
+	"version": 2,
 	"id": "e3a00723-27f3-4125-a8bd-b5b662e6bb29",
 	"advantages": [
 		{
 			"type": "advantage_container",
-			"version": 1,
 			"id": "37d30150-2b88-4590-bae7-f8a43fc394b3",
 			"container_type": "race",
 			"name": "Human",
+			"ancestry": "Human",
+			"calc": {
+				"points": 0
+			},
 			"open": true,
 			"children": [
 				{
 					"type": "advantage",
-					"version": 1,
 					"id": "4fb66d29-3315-487a-9f9e-7a73e0404920",
 					"name": "Language: Human",
 					"mental": true,
 					"modifiers": [
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "b8480101-83f6-47d1-b7ba-ea4df71e774f",
 							"name": "Native",
 							"reference": "B23",
@@ -30,7 +31,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "a058f325-cc77-4f82-9520-58bb55804a07",
 							"disabled": true,
 							"name": "Spoken",
@@ -42,7 +42,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "e5ccfcd8-ca3b-4bf7-be18-ba4bf577d99e",
 							"disabled": true,
 							"name": "Spoken",
@@ -54,7 +53,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "e3cdc2e4-e9da-4223-b8ee-a668602f9b2a",
 							"disabled": true,
 							"name": "Spoken",
@@ -66,7 +64,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "7d068b0b-be58-4fc7-8dec-32bf4082d5ae",
 							"name": "Spoken",
 							"reference": "B24",
@@ -77,7 +74,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "c4ec284a-e4a6-4762-80ab-c9d82ef81be9",
 							"disabled": true,
 							"name": "Written",
@@ -89,7 +85,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "38a52c10-7f3d-46a6-9018-8e67d49a9e3f",
 							"disabled": true,
 							"name": "Written",
@@ -101,7 +96,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "d196d124-a0a4-40c0-a0bf-6a30897f4059",
 							"disabled": true,
 							"name": "Written",
@@ -113,7 +107,6 @@
 						},
 						{
 							"type": "modifier",
-							"version": 1,
 							"id": "7c491086-b20e-493b-83a0-c5048ca4aed1",
 							"name": "Written",
 							"reference": "B24",
@@ -124,13 +117,15 @@
 						}
 					],
 					"reference": "B24",
+					"calc": {
+						"points": 0
+					},
 					"categories": [
 						"Language"
 					]
 				},
 				{
 					"type": "advantage",
-					"version": 1,
 					"id": "4cf8b403-434b-4c8b-9bd8-51f1106ea969",
 					"name": "Natural Attacks",
 					"physical": true,
@@ -146,12 +141,18 @@
 							"reach": "C",
 							"parry": "No",
 							"block": "No",
+							"calc": {
+								"level": 0,
+								"parry": "No",
+								"block": "No",
+								"damage": "thr-1 cr"
+							},
 							"defaults": [
 								{
-									"type": "DX"
+									"type": "dx"
 								},
 								{
-									"type": "Skill",
+									"type": "skill",
 									"name": "Brawling"
 								}
 							]
@@ -166,20 +167,26 @@
 							"usage": "Punch",
 							"reach": "C",
 							"parry": "0",
+							"calc": {
+								"level": 0,
+								"parry": "0",
+								"block": "",
+								"damage": "thr-1 cr"
+							},
 							"defaults": [
 								{
-									"type": "DX"
+									"type": "dx"
 								},
 								{
-									"type": "Skill",
+									"type": "skill",
 									"name": "Boxing"
 								},
 								{
-									"type": "Skill",
+									"type": "skill",
 									"name": "Brawling"
 								},
 								{
-									"type": "Skill",
+									"type": "skill",
 									"name": "Karate"
 								}
 							]
@@ -193,25 +200,34 @@
 							"usage": "Kick",
 							"reach": "C,1",
 							"parry": "No",
+							"calc": {
+								"level": 0,
+								"parry": "No",
+								"block": "",
+								"damage": "thr cr"
+							},
 							"defaults": [
 								{
-									"type": "DX",
+									"type": "dx",
 									"modifier": -2
 								},
 								{
-									"type": "Skill",
+									"type": "skill",
 									"name": "Brawling",
 									"modifier": -2
 								},
 								{
-									"type": "Skill",
+									"type": "skill",
 									"name": "Karate",
 									"modifier": -2
 								}
 							]
 						}
 					],
-					"reference": "B271"
+					"reference": "B271",
+					"calc": {
+						"points": 0
+					}
 				}
 			]
 		}
