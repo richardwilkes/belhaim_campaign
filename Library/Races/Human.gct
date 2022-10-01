@@ -1,136 +1,123 @@
 {
 	"type": "template",
-	"version": 2,
+	"version": 4,
 	"id": "e3a00723-27f3-4125-a8bd-b5b662e6bb29",
-	"advantages": [
+	"traits": [
 		{
-			"type": "advantage_container",
 			"id": "37d30150-2b88-4590-bae7-f8a43fc394b3",
-			"container_type": "race",
-			"name": "Human",
-			"ancestry": "Human",
-			"calc": {
-				"points": 0
-			},
+			"type": "trait_container",
 			"open": true,
 			"children": [
 				{
-					"type": "advantage",
 					"id": "4fb66d29-3315-487a-9f9e-7a73e0404920",
+					"type": "trait",
 					"name": "Language: Human",
-					"mental": true,
+					"reference": "B24",
+					"tags": [
+						"Language",
+						"Mental"
+					],
 					"modifiers": [
 						{
-							"type": "modifier",
 							"id": "b8480101-83f6-47d1-b7ba-ea4df71e774f",
+							"type": "modifier",
 							"name": "Native",
 							"reference": "B23",
-							"cost_type": "points",
 							"cost": -6,
-							"affects": "total"
+							"cost_type": "points"
 						},
 						{
-							"type": "modifier",
 							"id": "a058f325-cc77-4f82-9520-58bb55804a07",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Spoken",
 							"reference": "B24",
+							"notes": "None",
 							"cost_type": "points",
-							"cost": 0,
-							"affects": "total",
-							"notes": "None"
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "e5ccfcd8-ca3b-4bf7-be18-ba4bf577d99e",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Spoken",
 							"reference": "B24",
-							"cost_type": "points",
+							"notes": "Broken",
 							"cost": 1,
-							"affects": "total",
-							"notes": "Broken"
+							"cost_type": "points",
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "e3cdc2e4-e9da-4223-b8ee-a668602f9b2a",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Spoken",
 							"reference": "B24",
-							"cost_type": "points",
+							"notes": "Accented",
 							"cost": 2,
-							"affects": "total",
-							"notes": "Accented"
+							"cost_type": "points",
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "7d068b0b-be58-4fc7-8dec-32bf4082d5ae",
+							"type": "modifier",
 							"name": "Spoken",
 							"reference": "B24",
-							"cost_type": "points",
+							"notes": "Native",
 							"cost": 3,
-							"affects": "total",
-							"notes": "Native"
+							"cost_type": "points"
 						},
 						{
-							"type": "modifier",
 							"id": "c4ec284a-e4a6-4762-80ab-c9d82ef81be9",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Written",
 							"reference": "B24",
+							"notes": "None",
 							"cost_type": "points",
-							"cost": 0,
-							"affects": "total",
-							"notes": "None"
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "38a52c10-7f3d-46a6-9018-8e67d49a9e3f",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Written",
 							"reference": "B24",
-							"cost_type": "points",
+							"notes": "Broken",
 							"cost": 1,
-							"affects": "total",
-							"notes": "Broken"
+							"cost_type": "points",
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "d196d124-a0a4-40c0-a0bf-6a30897f4059",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Written",
 							"reference": "B24",
-							"cost_type": "points",
+							"notes": "Accented",
 							"cost": 2,
-							"affects": "total",
-							"notes": "Accented"
+							"cost_type": "points",
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "7c491086-b20e-493b-83a0-c5048ca4aed1",
+							"type": "modifier",
 							"name": "Written",
 							"reference": "B24",
-							"cost_type": "points",
+							"notes": "Native",
 							"cost": 3,
-							"affects": "total",
-							"notes": "Native"
+							"cost_type": "points"
 						}
 					],
-					"reference": "B24",
 					"calc": {
 						"points": 0
-					},
-					"categories": [
-						"Language"
-					]
+					}
 				},
 				{
-					"type": "advantage",
 					"id": "4cf8b403-434b-4c8b-9bd8-51f1106ea969",
+					"type": "trait",
 					"name": "Natural Attacks",
-					"physical": true,
+					"reference": "B271",
+					"tags": [
+						"Physical"
+					],
 					"weapons": [
 						{
+							"id": "beddb746-8b42-4352-8d86-3b9813da7b2f",
 							"type": "melee_weapon",
 							"damage": {
 								"type": "cr",
@@ -141,12 +128,6 @@
 							"reach": "C",
 							"parry": "No",
 							"block": "No",
-							"calc": {
-								"level": 0,
-								"parry": "No",
-								"block": "No",
-								"damage": "thr-1 cr"
-							},
 							"defaults": [
 								{
 									"type": "dx"
@@ -155,9 +136,15 @@
 									"type": "skill",
 									"name": "Brawling"
 								}
-							]
+							],
+							"calc": {
+								"parry": "No",
+								"block": "No",
+								"damage": "thr-1 cr"
+							}
 						},
 						{
+							"id": "ca6fac00-b845-4339-83e5-e21e897f46dc",
 							"type": "melee_weapon",
 							"damage": {
 								"type": "cr",
@@ -167,12 +154,6 @@
 							"usage": "Punch",
 							"reach": "C",
 							"parry": "0",
-							"calc": {
-								"level": 0,
-								"parry": "0",
-								"block": "",
-								"damage": "thr-1 cr"
-							},
 							"defaults": [
 								{
 									"type": "dx"
@@ -189,9 +170,14 @@
 									"type": "skill",
 									"name": "Karate"
 								}
-							]
+							],
+							"calc": {
+								"parry": "0",
+								"damage": "thr-1 cr"
+							}
 						},
 						{
+							"id": "3424737b-1fd8-494b-a80a-d3fb3606979d",
 							"type": "melee_weapon",
 							"damage": {
 								"type": "cr",
@@ -200,12 +186,6 @@
 							"usage": "Kick",
 							"reach": "C,1",
 							"parry": "No",
-							"calc": {
-								"level": 0,
-								"parry": "No",
-								"block": "",
-								"damage": "thr cr"
-							},
 							"defaults": [
 								{
 									"type": "dx",
@@ -221,15 +201,24 @@
 									"name": "Karate",
 									"modifier": -2
 								}
-							]
+							],
+							"calc": {
+								"parry": "No",
+								"damage": "thr cr"
+							}
 						}
 					],
-					"reference": "B271",
 					"calc": {
 						"points": 0
 					}
 				}
-			]
+			],
+			"name": "Human",
+			"ancestry": "Human",
+			"container_type": "race",
+			"calc": {
+				"points": 0
+			}
 		}
 	]
 }

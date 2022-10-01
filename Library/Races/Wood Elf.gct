@@ -1,448 +1,412 @@
 {
 	"type": "template",
-	"version": 2,
+	"version": 4,
 	"id": "c1cb9a1e-93f7-4064-b797-0bda90c5dc46",
-	"advantages": [
+	"traits": [
 		{
-			"type": "advantage_container",
 			"id": "6224b7c6-e335-4f1a-978c-0e017c533a86",
-			"container_type": "race",
-			"name": "Wood Elf",
-			"reference": "DF3:7",
-			"ancestry": "Human",
-			"calc": {
-				"points": 20
-			},
+			"type": "trait_container",
 			"open": true,
 			"children": [
 				{
-					"type": "advantage",
 					"id": "43bd22f6-5b48-41b1-8e54-e9143ee79159",
+					"type": "trait",
 					"name": "Appearance",
-					"physical": true,
+					"reference": "B21",
+					"tags": [
+						"Advantage",
+						"Physical"
+					],
 					"modifiers": [
 						{
-							"type": "modifier",
 							"id": "ad43d74f-3e4b-45d2-9311-feb8965b7132",
+							"type": "modifier",
 							"name": "Attractive",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": 4,
-							"affects": "total",
+							"cost_type": "points",
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": 1,
-									"situation": "from other Elves and Humans"
+									"situation": "from other Elves and Humans",
+									"amount": 1
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "870592a5-500c-45e0-b87f-78a8bebb2fb2",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Average",
 							"reference": "B21",
 							"cost_type": "points",
-							"cost": 0,
-							"affects": "total"
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "9fb4afaf-d17e-4043-b21f-da8299fb5d34",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Beautiful",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": 12,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": 4,
-									"situation": "from those attracted to members of your sex, +2 from everyone else"
+									"situation": "from those attracted to members of your sex, +2 from everyone else",
+									"amount": 4
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "d3462040-f51a-463c-9703-f0d0b6ab1c6b",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Beautiful (Androgynous)",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": 12,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": 3,
-									"situation": "from others"
+									"situation": "from others",
+									"amount": 3
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "c46c4ee5-839c-453e-affa-e4b595d30ae2",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Beautiful (Impressive)",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": 12,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": 3,
-									"situation": "from others"
+									"situation": "from others",
+									"amount": 3
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "db1e43c1-a3d9-4ff6-bf5a-b912372e6632",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Handsome",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": 12,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": 4,
-									"situation": "from those attracted to members of your sex, +2 from everyone else"
+									"situation": "from those attracted to members of your sex, +2 from everyone else",
+									"amount": 4
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "83a9df84-879a-4bab-a53a-a5f35ed08b44",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Handsome (Androgynous)",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": 12,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": 3,
-									"situation": "from others"
+									"situation": "from others",
+									"amount": 3
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "7c55653a-bcda-4d13-bf93-bb64b0411345",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Handsome (Impressive)",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": 12,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": 3,
-									"situation": "from others"
+									"situation": "from others",
+									"amount": 3
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "ef2e65e6-5ad9-4b5b-9dab-9f238676d707",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Hideous",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": -16,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": -4,
-									"situation": "from others"
+									"situation": "from others",
+									"amount": -4
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "679088ff-f811-45e4-bf2a-144758d42261",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Horrific",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": -24,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": -6,
-									"situation": "from others"
+									"situation": "from others",
+									"amount": -6
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "7a81835f-bf55-4ddb-96c5-ab0194926f17",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Impressive",
 							"reference": "B21",
 							"cost_type": "points",
-							"cost": 0,
-							"affects": "total"
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "bb58b68e-bd06-43de-90c9-495e4b51efc8",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Monstrous",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": -20,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": -5,
-									"situation": "from others"
+									"situation": "from others",
+									"amount": -5
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "a723218d-e491-497d-8e0a-da2ac1aa6106",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Off-the-Shelf Looks",
 							"reference": "B21",
-							"cost_type": "percentage",
+							"notes": "Halves the usual reaction bonus - adjust manually",
 							"cost": -50,
-							"affects": "total",
-							"notes": "Halves the usual reaction bonus - adjust manually"
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "22fdb1ae-3dfd-43b1-87b3-d7d548987f2b",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Transcendent",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": 20,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": 8,
-									"situation": "from those attracted to members of your sex, +2 from everyone else. Exception: Members of the same sex with reason to dislike you (more than -4 in reaction penalties regardless of bonuses) resent your good looks and react at -2 instead."
+									"situation": "from those attracted to members of your sex, +2 from everyone else. Exception: Members of the same sex with reason to dislike you (more than -4 in reaction penalties regardless of bonuses) resent your good looks and react at -2 instead.",
+									"amount": 8
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "e35cdc8c-b2fa-40b0-ab60-b2ca1b21f844",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Transcendent (Androgynous)",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": 20,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": 5,
-									"situation": "from others"
+									"situation": "from others",
+									"amount": 5
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "7950afd8-07b4-4d92-b972-dc6367331c9e",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Transcendent (Impressive)",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": 20,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": 5,
-									"situation": "from others"
+									"situation": "from others",
+									"amount": 5
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "78ef005a-d669-4ac5-b13c-4918ffd78875",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Ugly",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": -8,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": -2,
-									"situation": "from others"
+									"situation": "from others",
+									"amount": -2
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "834ee15b-b6b9-4823-a2f0-e2775f97ce10",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Unattractive",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": -4,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": -1,
-									"situation": "from others"
+									"situation": "from others",
+									"amount": -1
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "9f370663-bf8e-46a3-86fa-ee07975cabe1",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Universal",
 							"reference": "B21",
-							"cost_type": "percentage",
 							"cost": 25,
-							"affects": "total"
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "49755ea4-7f30-4254-91fb-63c1defd438c",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Very Beautiful",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": 16,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": 6,
-									"situation": "from those attracted to members of your sex, +2 from everyone else. Exception: Members of the same sex with reason to dislike you (more than -4 in reaction penalties regardless of bonuses) resent your good looks and react at -2 instead."
+									"situation": "from those attracted to members of your sex, +2 from everyone else. Exception: Members of the same sex with reason to dislike you (more than -4 in reaction penalties regardless of bonuses) resent your good looks and react at -2 instead.",
+									"amount": 6
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "6ce5fbf6-c7b0-4b79-aa08-853f004e1cea",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Very Beautiful (Androgynous)",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": 16,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": 4,
-									"situation": "from others"
+									"situation": "from others",
+									"amount": 4
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "fc6d8a8d-87bb-4bab-8491-7f6a331a6677",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Very Beautiful (Impressive)",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": 16,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": 4,
-									"situation": "from others"
+									"situation": "from others",
+									"amount": 4
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "f4f7fa09-37a1-473f-8291-e0ad4c9f140c",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Very Handsome",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": 16,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": 6,
-									"situation": "from those attracted to members of your sex, +2 from everyone else. Exception: Members of the same sex with reason to dislike you (more than -4 in reaction penalties regardless of bonuses) resent your good looks and react at -2 instead."
+									"situation": "from those attracted to members of your sex, +2 from everyone else. Exception: Members of the same sex with reason to dislike you (more than -4 in reaction penalties regardless of bonuses) resent your good looks and react at -2 instead.",
+									"amount": 6
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "a32b6e44-7e8b-45a1-adfc-e85635389642",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Very Handsome (Androgynous)",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": 16,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": 4,
-									"situation": "from others"
+									"situation": "from others",
+									"amount": 4
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "5eaef3ad-67d2-4af1-9b32-2b97161c30a1",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Very Handsome (Impressive)",
 							"reference": "B21",
-							"cost_type": "points",
 							"cost": 16,
-							"affects": "total",
+							"cost_type": "points",
+							"disabled": true,
 							"features": [
 								{
 									"type": "reaction_bonus",
-									"amount": 4,
-									"situation": "from others"
+									"situation": "from others",
+									"amount": 4
 								}
 							]
 						}
 					],
-					"reference": "B21",
 					"calc": {
 						"points": 4
-					},
-					"categories": [
-						"Advantage"
-					]
+					}
 				},
 				{
-					"type": "advantage",
 					"id": "6c188a8d-05c4-4cb3-85ea-cd1272e0e8e4",
+					"type": "trait",
 					"name": "Elven Gear",
-					"physical": true,
-					"base_points": 1,
 					"reference": "DF3:6",
-					"calc": {
-						"points": 1
-					},
+					"notes": "10% off the final price of gear qualified as “Elven” – armor, rations, weapons, etc.",
+					"tags": [
+						"Physical"
+					],
+					"base_points": 1,
 					"prereqs": {
 						"type": "prereq_list",
 						"all": true,
 						"prereqs": [
 							{
-								"type": "advantage_prereq",
+								"type": "trait_prereq",
 								"has": true,
 								"name": {
 									"compare": "ends_with",
@@ -451,27 +415,31 @@
 							}
 						]
 					},
-					"notes": "10% off the final price of gear qualified as “Elven” – armor, rations, weapons, etc."
+					"calc": {
+						"points": 1
+					}
 				},
 				{
-					"type": "advantage",
 					"id": "dde4c4b9-1a17-46ed-95a3-d6d84167677b",
+					"type": "trait",
 					"name": "Forest Guardian",
-					"mental": true,
-					"exotic": true,
-					"supernatural": true,
-					"levels": "2",
-					"points_per_level": 5,
 					"reference": "DF3:7",
-					"calc": {
-						"points": 10
-					},
+					"notes": "You’re the product of eons of selective breeding for the task of sneaking around in the bushes, peppering litterers with arrows. +1/level reaction bonus from Druids, Faeries \u0026 bunnies.",
+					"tags": [
+						"Advantage",
+						"Exotic",
+						"Mental",
+						"Supernatural",
+						"Talent"
+					],
+					"levels": 2,
+					"points_per_level": 5,
 					"prereqs": {
 						"type": "prereq_list",
 						"all": true,
 						"prereqs": [
 							{
-								"type": "advantage_prereq",
+								"type": "trait_prereq",
 								"has": true,
 								"name": {
 									"compare": "ends_with",
@@ -483,288 +451,270 @@
 					"features": [
 						{
 							"type": "skill_bonus",
-							"amount": 1,
-							"per_level": true,
 							"selection_type": "skills_with_name",
 							"name": {
 								"compare": "is",
 								"qualifier": "Bow"
-							}
+							},
+							"amount": 1,
+							"per_level": true
 						},
 						{
 							"type": "skill_bonus",
-							"amount": 1,
-							"per_level": true,
 							"selection_type": "skills_with_name",
 							"name": {
 								"compare": "is",
 								"qualifier": "Camouflage"
-							}
+							},
+							"amount": 1,
+							"per_level": true
 						},
 						{
 							"type": "skill_bonus",
-							"amount": 1,
-							"per_level": true,
 							"selection_type": "skills_with_name",
 							"name": {
 								"compare": "is",
 								"qualifier": "Fast-Draw"
-							}
+							},
+							"amount": 1,
+							"per_level": true
 						},
 						{
 							"type": "skill_bonus",
-							"amount": 1,
-							"per_level": true,
 							"selection_type": "skills_with_name",
 							"name": {
 								"compare": "is",
 								"qualifier": "Stealth"
-							}
+							},
+							"amount": 1,
+							"per_level": true
 						},
 						{
 							"type": "skill_bonus",
-							"amount": 1,
-							"per_level": true,
 							"selection_type": "skills_with_name",
 							"name": {
 								"compare": "is",
 								"qualifier": "Survival"
-							}
+							},
+							"amount": 1,
+							"per_level": true
 						}
 					],
-					"notes": "You’re the product of eons of selective breeding for the task of sneaking around in the bushes, peppering litterers with arrows. +1/level reaction bonus from Druids, Faeries & bunnies.",
-					"categories": [
-						"Advantage",
-						"Talent"
-					]
+					"calc": {
+						"points": 10
+					}
 				},
 				{
-					"type": "advantage",
 					"id": "d1d16bdf-2ab8-4247-a2b0-e624226d17c9",
+					"type": "trait",
 					"name": "Language: Elven",
-					"mental": true,
+					"reference": "B24",
+					"tags": [
+						"Language",
+						"Mental"
+					],
 					"modifiers": [
 						{
-							"type": "modifier",
 							"id": "f9dd4f88-0967-47e3-9c49-226a7974a741",
+							"type": "modifier",
 							"name": "Native",
 							"reference": "B23",
-							"cost_type": "points",
 							"cost": -6,
-							"affects": "total"
+							"cost_type": "points"
 						},
 						{
-							"type": "modifier",
 							"id": "6a1b3d27-eec4-4167-af91-a85b38257f2e",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Spoken",
 							"reference": "B24",
+							"notes": "None",
 							"cost_type": "points",
-							"cost": 0,
-							"affects": "total",
-							"notes": "None"
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "3423dc35-d912-490c-82a7-a491a7988a89",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Spoken",
 							"reference": "B24",
-							"cost_type": "points",
+							"notes": "Broken",
 							"cost": 1,
-							"affects": "total",
-							"notes": "Broken"
+							"cost_type": "points",
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "26f7531b-7d89-491e-a9d7-c03453de852e",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Spoken",
 							"reference": "B24",
-							"cost_type": "points",
+							"notes": "Accented",
 							"cost": 2,
-							"affects": "total",
-							"notes": "Accented"
+							"cost_type": "points",
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "7e7cb266-511f-44c8-aeb3-0e6b04da86ec",
+							"type": "modifier",
 							"name": "Spoken",
 							"reference": "B24",
-							"cost_type": "points",
+							"notes": "Native",
 							"cost": 3,
-							"affects": "total",
-							"notes": "Native"
+							"cost_type": "points"
 						},
 						{
-							"type": "modifier",
 							"id": "d7eb9c40-6552-4e38-94c4-3a6e8ac93815",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Written",
 							"reference": "B24",
+							"notes": "None",
 							"cost_type": "points",
-							"cost": 0,
-							"affects": "total",
-							"notes": "None"
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "7ed16be7-e73e-4d98-ae74-2bb9aa284e8a",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Written",
 							"reference": "B24",
-							"cost_type": "points",
+							"notes": "Broken",
 							"cost": 1,
-							"affects": "total",
-							"notes": "Broken"
+							"cost_type": "points",
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "d71b4c8f-272f-47fe-91f4-e4f69c30956f",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Written",
 							"reference": "B24",
-							"cost_type": "points",
+							"notes": "Accented",
 							"cost": 2,
-							"affects": "total",
-							"notes": "Accented"
+							"cost_type": "points",
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "d7ca54dd-7333-4b60-bae6-29319465130f",
+							"type": "modifier",
 							"name": "Written",
 							"reference": "B24",
-							"cost_type": "points",
+							"notes": "Native",
 							"cost": 3,
-							"affects": "total",
-							"notes": "Native"
+							"cost_type": "points"
 						}
 					],
-					"reference": "B24",
 					"calc": {
 						"points": 0
-					},
-					"categories": [
-						"Language"
-					]
+					}
 				},
 				{
-					"type": "advantage",
 					"id": "59ff4807-5804-4dd4-b030-36ffdfab6876",
+					"type": "trait",
 					"name": "Magery",
-					"mental": true,
-					"supernatural": true,
-					"levels": "0",
-					"base_points": 5,
-					"points_per_level": 10,
+					"reference": "B66",
+					"tags": [
+						"Advantage",
+						"Mental",
+						"Supernatural"
+					],
 					"modifiers": [
 						{
-							"type": "modifier",
 							"id": "524438b4-8d20-4685-8e67-97a40020d1f7",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Dance",
-							"cost_type": "percentage",
-							"cost": -40,
-							"affects": "levels_only"
-						},
-						{
-							"type": "modifier",
-							"id": "a0a143a6-7655-43f8-bfd5-8cd4ddf8798f",
-							"disabled": true,
-							"name": "Dark-Aspected",
-							"cost_type": "percentage",
-							"cost": -50,
-							"affects": "levels_only"
-						},
-						{
-							"type": "modifier",
-							"id": "e1d5906e-076b-4f90-b795-bdc1bb45ac3b",
-							"disabled": true,
-							"name": "Day-Aspected",
-							"cost_type": "percentage",
-							"cost": -40,
-							"affects": "levels_only"
-						},
-						{
-							"type": "modifier",
-							"id": "c5f724c1-681a-4a7d-ae02-53445a520e5f",
-							"disabled": true,
-							"name": "Musical",
-							"cost_type": "percentage",
-							"cost": -50,
-							"affects": "levels_only"
-						},
-						{
-							"type": "modifier",
-							"id": "c1f3da1d-b1be-49aa-b73c-7bdf35aef555",
-							"disabled": true,
-							"name": "Night-Aspected",
-							"cost_type": "percentage",
-							"cost": -40,
-							"affects": "levels_only"
-						},
-						{
-							"type": "modifier",
-							"id": "362f547f-8316-4d9f-b8df-4325ac22c2c0",
-							"disabled": true,
-							"name": "One College",
-							"cost_type": "percentage",
 							"cost": -40,
 							"affects": "levels_only",
-							"notes": "@College@"
+							"disabled": true
 						},
 						{
+							"id": "a0a143a6-7655-43f8-bfd5-8cd4ddf8798f",
 							"type": "modifier",
+							"name": "Dark-Aspected",
+							"cost": -50,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "e1d5906e-076b-4f90-b795-bdc1bb45ac3b",
+							"type": "modifier",
+							"name": "Day-Aspected",
+							"cost": -40,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "c5f724c1-681a-4a7d-ae02-53445a520e5f",
+							"type": "modifier",
+							"name": "Musical",
+							"cost": -50,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "c1f3da1d-b1be-49aa-b73c-7bdf35aef555",
+							"type": "modifier",
+							"name": "Night-Aspected",
+							"cost": -40,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "362f547f-8316-4d9f-b8df-4325ac22c2c0",
+							"type": "modifier",
+							"name": "One College",
+							"notes": "@College@",
+							"cost": -40,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
 							"id": "ea85e94b-7ea0-41c1-8f99-41e671580af6",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Solitary",
-							"cost_type": "percentage",
 							"cost": -40,
-							"affects": "levels_only"
+							"affects": "levels_only",
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "6ecbd49d-af02-4c13-a90a-6c8b66c1c825",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Song",
-							"cost_type": "percentage",
 							"cost": -40,
-							"affects": "levels_only"
+							"affects": "levels_only",
+							"disabled": true
 						}
 					],
-					"reference": "B66",
-					"calc": {
-						"points": 5
-					},
+					"base_points": 5,
+					"points_per_level": 10,
 					"features": [
 						{
 							"type": "spell_bonus",
+							"match": "all_colleges",
 							"amount": 1,
-							"per_level": true,
-							"match": "all_colleges"
+							"per_level": true
 						},
 						{
 							"type": "skill_bonus",
-							"amount": 1,
-							"per_level": true,
 							"selection_type": "skills_with_name",
 							"name": {
 								"compare": "is",
 								"qualifier": "thaumatology"
-							}
+							},
+							"amount": 1,
+							"per_level": true
 						}
 					],
-					"categories": [
-						"Advantage"
-					]
+					"calc": {
+						"points": 5
+					}
 				},
 				{
-					"type": "advantage",
 					"id": "a8ba01cd-69a6-4308-bbcd-eced4c3e6bf8",
+					"type": "trait",
 					"name": "Natural Attacks",
-					"physical": true,
+					"reference": "B271",
+					"tags": [
+						"Physical"
+					],
 					"weapons": [
 						{
+							"id": "3c852645-e95c-4720-a75a-eb08e5f5ac1a",
 							"type": "melee_weapon",
 							"damage": {
 								"type": "cr",
@@ -775,12 +725,6 @@
 							"reach": "C",
 							"parry": "No",
 							"block": "No",
-							"calc": {
-								"level": 0,
-								"parry": "No",
-								"block": "No",
-								"damage": "thr-1 cr"
-							},
 							"defaults": [
 								{
 									"type": "dx"
@@ -789,9 +733,15 @@
 									"type": "skill",
 									"name": "Brawling"
 								}
-							]
+							],
+							"calc": {
+								"parry": "No",
+								"block": "No",
+								"damage": "thr-1 cr"
+							}
 						},
 						{
+							"id": "3ceccf94-6133-4f92-840f-fe8be44dd0aa",
 							"type": "melee_weapon",
 							"damage": {
 								"type": "cr",
@@ -801,12 +751,6 @@
 							"usage": "Punch",
 							"reach": "C",
 							"parry": "0",
-							"calc": {
-								"level": 0,
-								"parry": "0",
-								"block": "",
-								"damage": "thr-1 cr"
-							},
 							"defaults": [
 								{
 									"type": "dx"
@@ -823,9 +767,14 @@
 									"type": "skill",
 									"name": "Karate"
 								}
-							]
+							],
+							"calc": {
+								"parry": "0",
+								"damage": "thr-1 cr"
+							}
 						},
 						{
+							"id": "6c4c0563-b779-4412-b169-64afaed3799c",
 							"type": "melee_weapon",
 							"damage": {
 								"type": "cr",
@@ -834,12 +783,6 @@
 							"usage": "Kick",
 							"reach": "C,1",
 							"parry": "No",
-							"calc": {
-								"level": 0,
-								"parry": "No",
-								"block": "",
-								"damage": "thr cr"
-							},
 							"defaults": [
 								{
 									"type": "dx",
@@ -855,96 +798,105 @@
 									"name": "Karate",
 									"modifier": -2
 								}
-							]
+							],
+							"calc": {
+								"parry": "No",
+								"damage": "thr cr"
+							}
 						}
 					],
-					"reference": "B271",
 					"calc": {
 						"points": 0
 					}
 				},
 				{
-					"type": "advantage",
 					"id": "de8e0229-d8ab-4b0a-9c89-29a54b5293e6",
+					"type": "trait",
 					"name": "Racial Attribute Adjustments",
-					"physical": true,
+					"reference": "B14",
+					"tags": [
+						"Physical"
+					],
 					"modifiers": [
 						{
-							"type": "modifier",
 							"id": "3be96f5b-6a45-43ba-a6f4-80ee7e3bf191",
+							"type": "modifier",
 							"name": "ST-1",
 							"reference": "B14",
-							"cost_type": "points",
 							"cost": -10,
-							"affects": "total",
+							"cost_type": "points",
 							"features": [
 								{
 									"type": "attribute_bonus",
-									"amount": -1,
-									"attribute": "st"
+									"attribute": "st",
+									"amount": -1
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "180ec715-8f93-4e3d-b615-fd7574d4b224",
+							"type": "modifier",
 							"name": "DX+1",
 							"reference": "B15",
-							"cost_type": "points",
 							"cost": 20,
-							"affects": "total",
+							"cost_type": "points",
 							"features": [
 								{
 									"type": "attribute_bonus",
-									"amount": 1,
-									"attribute": "dx"
+									"attribute": "dx",
+									"amount": 1
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "82929f7c-913a-428b-83e4-40e400fc60f1",
+							"type": "modifier",
 							"name": "Move+1",
 							"reference": "B17",
-							"cost_type": "points",
 							"cost": 5,
-							"affects": "total",
+							"cost_type": "points",
 							"features": [
 								{
 									"type": "attribute_bonus",
-									"amount": 1,
-									"attribute": "move"
+									"attribute": "move",
+									"amount": 1
 								}
 							]
 						}
 					],
-					"reference": "B14",
 					"calc": {
 						"points": 15
 					}
 				},
 				{
-					"type": "advantage",
 					"id": "65c6ba7d-36e1-4e7d-8982-567d742e03ec",
+					"type": "trait",
 					"name": "Sense of Duty: Nature",
-					"mental": true,
-					"base_points": -15,
 					"reference": "DF3:6",
+					"notes": "Functionally equivalent to Charitable and Pacifism toward any plant or animal that isn’t actively in the process of eating the elf, and extends to beast-men, faeries, wild-men, and other non-technological races.",
+					"tags": [
+						"Disadvantage",
+						"Mental"
+					],
+					"base_points": -15,
 					"calc": {
 						"points": -15
-					},
-					"notes": "Functionally equivalent to Charitable and Pacifism toward any plant or animal that isn’t actively in the process of eating the elf, and extends to beast-men, faeries, wild-men, and other non-technological races.",
-					"categories": [
-						"Disadvantage"
-					]
+					}
 				}
-			]
+			],
+			"name": "Wood Elf",
+			"reference": "DF3:7",
+			"ancestry": "Human",
+			"container_type": "race",
+			"calc": {
+				"points": 20
+			}
 		}
 	],
 	"notes": [
 		{
-			"type": "note",
 			"id": "423543d0-0326-45f3-adae-9aaaf1acd4d8",
+			"type": "note",
 			"text": "Wood Elves have green or brown hair as well as eyes and are slender (find height normally for ST, add 2”, and leave weight alone).",
 			"reference": "DF3:6"
 		}

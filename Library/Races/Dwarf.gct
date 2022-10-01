@@ -1,51 +1,44 @@
 {
 	"type": "template",
-	"version": 2,
+	"version": 4,
 	"id": "fec46b08-58a5-4737-a680-421c32afe91c",
-	"advantages": [
+	"traits": [
 		{
-			"type": "advantage_container",
 			"id": "652d64e2-1739-49d3-945e-95d16ca8c3f1",
-			"container_type": "race",
-			"name": "Dwarf",
-			"reference": "DF3:6",
-			"ancestry": "Human",
-			"calc": {
-				"points": 20
-			},
+			"type": "trait_container",
 			"open": true,
 			"children": [
 				{
-					"type": "advantage",
 					"id": "297e0e1b-1078-42e3-bf0b-779e070bec17",
+					"type": "trait",
 					"name": "Alcohol Tolerance",
-					"physical": true,
-					"base_points": 1,
 					"reference": "B100",
+					"notes": "+2 on all HT rolls related to drinking",
+					"tags": [
+						"Perk",
+						"Physical"
+					],
+					"base_points": 1,
 					"calc": {
 						"points": 1
-					},
-					"notes": "+2 on all HT rolls related to drinking",
-					"categories": [
-						"Perk"
-					]
+					}
 				},
 				{
-					"type": "advantage",
 					"id": "e2a79f36-c1eb-4f4a-b141-5d432dc6c8b1",
+					"type": "trait",
 					"name": "Dwarven Gear",
-					"physical": true,
-					"base_points": 1,
 					"reference": "DF3:6",
-					"calc": {
-						"points": 1
-					},
+					"notes": "10% off the final price of gear qualified as “Dwarven” – armor, rations, shields, weapons, whetstones, etc.",
+					"tags": [
+						"Physical"
+					],
+					"base_points": 1,
 					"prereqs": {
 						"type": "prereq_list",
 						"all": true,
 						"prereqs": [
 							{
-								"type": "advantage_prereq",
+								"type": "trait_prereq",
 								"has": true,
 								"name": {
 									"compare": "is",
@@ -54,141 +47,136 @@
 							}
 						]
 					},
-					"notes": "10% off the final price of gear qualified as “Dwarven” – armor, rations, shields, weapons, whetstones, etc."
+					"calc": {
+						"points": 1
+					}
 				},
 				{
-					"type": "advantage",
 					"id": "3b51f141-96b5-41a4-928b-9a49597edce7",
+					"type": "trait",
 					"name": "Greed",
-					"mental": true,
+					"reference": "B137",
+					"notes": "Make a self-control roll any time riches are offered – as payment for fair work, gains from adventure, spoils of crime, or just bait. If you fail, you do whatever it takes to get the payoff.",
+					"tags": [
+						"Disadvantage",
+						"Mental"
+					],
 					"base_points": -15,
 					"cr": 12,
-					"reference": "B137",
 					"calc": {
 						"points": -15
-					},
-					"notes": "Make a self-control roll any time riches are offered – as payment for fair work, gains from adventure, spoils of crime, or just bait. If you fail, you do whatever it takes to get the payoff.",
-					"categories": [
-						"Disadvantage"
-					]
+					}
 				},
 				{
-					"type": "advantage",
 					"id": "ec58c421-6a96-40eb-8f83-0e2a9c25807e",
+					"type": "trait",
 					"name": "Language: Dwarven",
-					"mental": true,
+					"reference": "B24",
+					"tags": [
+						"Language",
+						"Mental"
+					],
 					"modifiers": [
 						{
-							"type": "modifier",
 							"id": "e05c6956-2a31-482f-b774-9718485bc560",
+							"type": "modifier",
 							"name": "Native",
 							"reference": "B23",
-							"cost_type": "points",
 							"cost": -6,
-							"affects": "total"
+							"cost_type": "points"
 						},
 						{
-							"type": "modifier",
 							"id": "4ddc307a-1c48-46b0-ab19-d575997e4ad5",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Spoken",
 							"reference": "B24",
+							"notes": "None",
 							"cost_type": "points",
-							"cost": 0,
-							"affects": "total",
-							"notes": "None"
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "ede935e9-42df-455d-9345-c69921fb5ec2",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Spoken",
 							"reference": "B24",
-							"cost_type": "points",
+							"notes": "Broken",
 							"cost": 1,
-							"affects": "total",
-							"notes": "Broken"
+							"cost_type": "points",
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "ffc19b79-3743-4c8e-aa0a-7291ca2c2923",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Spoken",
 							"reference": "B24",
-							"cost_type": "points",
+							"notes": "Accented",
 							"cost": 2,
-							"affects": "total",
-							"notes": "Accented"
+							"cost_type": "points",
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "8fc38756-98cc-4566-a223-263931407946",
+							"type": "modifier",
 							"name": "Spoken",
 							"reference": "B24",
-							"cost_type": "points",
+							"notes": "Native",
 							"cost": 3,
-							"affects": "total",
-							"notes": "Native"
+							"cost_type": "points"
 						},
 						{
-							"type": "modifier",
 							"id": "8b729831-75e6-4b11-92ac-8ccd7649369a",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Written",
 							"reference": "B24",
+							"notes": "None",
 							"cost_type": "points",
-							"cost": 0,
-							"affects": "total",
-							"notes": "None"
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "715b4fc9-9f13-4f3b-bcd8-b4f517a261c3",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Written",
 							"reference": "B24",
-							"cost_type": "points",
+							"notes": "Broken",
 							"cost": 1,
-							"affects": "total",
-							"notes": "Broken"
+							"cost_type": "points",
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "453f8129-5c62-4319-9603-ecec2b8d8921",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Written",
 							"reference": "B24",
-							"cost_type": "points",
+							"notes": "Accented",
 							"cost": 2,
-							"affects": "total",
-							"notes": "Accented"
+							"cost_type": "points",
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "b90fbe8e-7930-4111-935a-ec9b59684232",
+							"type": "modifier",
 							"name": "Written",
 							"reference": "B24",
-							"cost_type": "points",
+							"notes": "Native",
 							"cost": 3,
-							"affects": "total",
-							"notes": "Native"
+							"cost_type": "points"
 						}
 					],
-					"reference": "B24",
 					"calc": {
 						"points": 0
-					},
-					"categories": [
-						"Language"
-					]
+					}
 				},
 				{
-					"type": "advantage",
 					"id": "04b92554-1a7f-42d3-927a-aae7f8b4d64e",
+					"type": "trait",
 					"name": "Natural Attacks",
-					"physical": true,
+					"reference": "B271",
+					"tags": [
+						"Physical"
+					],
 					"weapons": [
 						{
+							"id": "0afe19c7-719e-4695-b5f5-71b8dbd23d67",
 							"type": "melee_weapon",
 							"damage": {
 								"type": "cr",
@@ -199,12 +187,6 @@
 							"reach": "C",
 							"parry": "No",
 							"block": "No",
-							"calc": {
-								"level": 0,
-								"parry": "No",
-								"block": "No",
-								"damage": "thr-1 cr"
-							},
 							"defaults": [
 								{
 									"type": "dx"
@@ -213,9 +195,15 @@
 									"type": "skill",
 									"name": "Brawling"
 								}
-							]
+							],
+							"calc": {
+								"parry": "No",
+								"block": "No",
+								"damage": "thr-1 cr"
+							}
 						},
 						{
+							"id": "722d0947-9f67-49ff-8d31-37a175f11797",
 							"type": "melee_weapon",
 							"damage": {
 								"type": "cr",
@@ -225,12 +213,6 @@
 							"usage": "Punch",
 							"reach": "C",
 							"parry": "0",
-							"calc": {
-								"level": 0,
-								"parry": "0",
-								"block": "",
-								"damage": "thr-1 cr"
-							},
 							"defaults": [
 								{
 									"type": "dx"
@@ -247,9 +229,14 @@
 									"type": "skill",
 									"name": "Karate"
 								}
-							]
+							],
+							"calc": {
+								"parry": "0",
+								"damage": "thr-1 cr"
+							}
 						},
 						{
+							"id": "ccbf033d-1e0a-40b3-bc55-c8332004c7cd",
 							"type": "melee_weapon",
 							"damage": {
 								"type": "cr",
@@ -258,12 +245,6 @@
 							"usage": "Kick",
 							"reach": "C,1",
 							"parry": "No",
-							"calc": {
-								"level": 0,
-								"parry": "No",
-								"block": "",
-								"damage": "thr cr"
-							},
 							"defaults": [
 								{
 									"type": "dx",
@@ -279,46 +260,50 @@
 									"name": "Karate",
 									"modifier": -2
 								}
-							]
+							],
+							"calc": {
+								"parry": "No",
+								"damage": "thr cr"
+							}
 						}
 					],
-					"reference": "B271",
 					"calc": {
 						"points": 0
 					}
 				},
 				{
-					"type": "advantage",
 					"id": "635e48f9-60e6-4caa-9745-73617bf85a78",
+					"type": "trait",
 					"name": "Night Vision",
-					"physical": true,
-					"levels": "5",
-					"points_per_level": 1,
 					"reference": "B71",
+					"tags": [
+						"Advantage",
+						"Physical"
+					],
+					"levels": 5,
+					"points_per_level": 1,
 					"calc": {
 						"points": 5
-					},
-					"categories": [
-						"Advantage"
-					]
+					}
 				},
 				{
-					"type": "advantage",
 					"id": "9ac7be1b-dd4a-4e43-9d30-5afad8f1e099",
+					"type": "trait",
 					"name": "Pickaxe Penchant",
-					"mental": true,
-					"levels": "1",
-					"points_per_level": 5,
 					"reference": "DF3:6",
-					"calc": {
-						"points": 5
-					},
+					"notes": "You’re a natural at fighting, bashing, and mining with axes and picks. Pickaxe Penchant is a Dwarven-only talent. You may buy it up to level 4 at character creation time.",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"levels": 1,
+					"points_per_level": 5,
 					"prereqs": {
 						"type": "prereq_list",
 						"all": true,
 						"prereqs": [
 							{
-								"type": "advantage_prereq",
+								"type": "trait_prereq",
 								"has": true,
 								"name": {
 									"compare": "is",
@@ -330,332 +315,332 @@
 					"features": [
 						{
 							"type": "skill_bonus",
-							"amount": 1,
-							"per_level": true,
 							"selection_type": "skills_with_name",
 							"name": {
 								"compare": "contains",
 								"qualifier": "axe/mace"
-							}
+							},
+							"amount": 1,
+							"per_level": true
 						},
 						{
 							"type": "skill_bonus",
-							"amount": 1,
-							"per_level": true,
 							"selection_type": "skills_with_name",
 							"name": {
 								"compare": "is",
 								"qualifier": "forced entry"
-							}
+							},
+							"amount": 1,
+							"per_level": true
 						},
 						{
 							"type": "skill_bonus",
-							"amount": 1,
-							"per_level": true,
 							"selection_type": "skills_with_name",
 							"name": {
 								"compare": "is",
 								"qualifier": "prospecting"
-							}
+							},
+							"amount": 1,
+							"per_level": true
 						},
 						{
 							"type": "skill_bonus",
-							"amount": 1,
-							"per_level": true,
 							"selection_type": "skills_with_name",
 							"name": {
 								"compare": "is",
 								"qualifier": "thrown weapon"
-							}
+							},
+							"amount": 1,
+							"per_level": true
 						},
 						{
 							"type": "skill_bonus",
-							"amount": 1,
-							"per_level": true,
 							"selection_type": "skills_with_name",
 							"name": {
 								"compare": "is",
 								"qualifier": "two handed axe/mace"
-							}
+							},
+							"amount": 1,
+							"per_level": true
 						}
 					],
-					"notes": "You’re a natural at fighting, bashing, and mining with axes and picks. Pickaxe Penchant is a Dwarven-only talent. You may buy it up to level 4 at character creation time.",
-					"categories": [
-						"Advantage"
-					]
+					"calc": {
+						"points": 5
+					}
 				},
 				{
-					"type": "advantage",
 					"id": "145fbfb8-750d-476a-b31c-5e7ee79c11e4",
+					"type": "trait",
 					"name": "Racial Attribute Adjustments",
-					"physical": true,
+					"reference": "B14",
+					"tags": [
+						"Physical"
+					],
 					"modifiers": [
 						{
-							"type": "modifier",
 							"id": "da7bd09f-d7bf-46a6-b095-597d083ff22f",
+							"type": "modifier",
 							"name": "Lifting ST+2",
 							"reference": "B65",
-							"cost_type": "points",
 							"cost": 6,
-							"affects": "total",
+							"cost_type": "points",
 							"features": [
 								{
 									"type": "attribute_bonus",
-									"amount": 2,
+									"limitation": "lifting_only",
 									"attribute": "st",
-									"limitation": "lifting_only"
+									"amount": 2
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "271fe125-180e-4143-bf11-0fb4f1211661",
+							"type": "modifier",
 							"name": "HT+1",
 							"reference": "B15",
-							"cost_type": "points",
 							"cost": 10,
-							"affects": "total",
+							"cost_type": "points",
 							"features": [
 								{
 									"type": "attribute_bonus",
-									"amount": 1,
-									"attribute": "ht"
+									"attribute": "ht",
+									"amount": 1
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "d0d9d373-5c44-4ffe-8cdf-d27e6a612c7d",
+							"type": "modifier",
 							"name": "Move-1",
 							"reference": "B16",
-							"cost_type": "points",
 							"cost": -5,
-							"affects": "total",
+							"cost_type": "points",
 							"features": [
 								{
 									"type": "attribute_bonus",
-									"amount": -1,
-									"attribute": "move"
+									"attribute": "move",
+									"amount": -1
 								}
 							]
 						},
 						{
-							"type": "modifier",
 							"id": "ed6c6e61-a689-45bf-8b82-43d9d582e2c2",
+							"type": "modifier",
 							"name": "FP+3",
 							"reference": "B16",
-							"cost_type": "points",
 							"cost": 9,
-							"affects": "total",
+							"cost_type": "points",
 							"features": [
 								{
 									"type": "attribute_bonus",
-									"amount": 3,
-									"attribute": "fp"
+									"attribute": "fp",
+									"amount": 3
 								}
 							]
 						}
 					],
-					"reference": "B14",
 					"calc": {
 						"points": 20
 					}
 				},
 				{
-					"type": "advantage",
 					"id": "7d5df681-9c1e-4587-b0bf-edb75ecf5db4",
+					"type": "trait",
 					"name": "Resistant",
-					"physical": true,
+					"reference": "B81",
+					"tags": [
+						"Advantage",
+						"Physical"
+					],
 					"modifiers": [
 						{
-							"type": "modifier",
 							"id": "39a9c935-5cd2-4ae1-8fd0-298b3d754244",
-							"disabled": true,
+							"type": "modifier",
 							"name": "@Very Common: Metabolic Hazards, etc.@",
 							"reference": "B80",
-							"cost_type": "points",
 							"cost": 30,
-							"affects": "total"
+							"cost_type": "points",
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "bdaf9464-d200-4a79-aed0-b64c93ae3aa2",
+							"type": "modifier",
 							"name": "Poison",
 							"reference": "B81",
-							"cost_type": "points",
 							"cost": 15,
-							"affects": "total"
+							"cost_type": "points"
 						},
 						{
-							"type": "modifier",
 							"id": "ecc124dd-079b-4838-ba9f-1771b50efa44",
-							"disabled": true,
+							"type": "modifier",
 							"name": "@Occasional: Disease, Ingested Poison, etc.@",
 							"reference": "B81",
-							"cost_type": "points",
 							"cost": 10,
-							"affects": "total"
+							"cost_type": "points",
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "26bf2b6e-2ee2-4a70-8bde-ecf8ef24b7ff",
-							"disabled": true,
+							"type": "modifier",
 							"name": "@Rare: Acceleration, Altitude Sickness, Bends, Seasickness, Space Sickness, Nanomachines, etc.@",
 							"reference": "B81",
-							"cost_type": "points",
 							"cost": 5,
-							"affects": "total"
+							"cost_type": "points",
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "0f9c0081-2f62-439b-b579-ebf1df2b7b09",
-							"disabled": true,
+							"type": "modifier",
 							"name": "Immunity",
 							"reference": "B81",
+							"cost": 1,
 							"cost_type": "multiplier",
-							"cost": 1
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "5edbdb0e-b92c-4026-87cb-47c91513a223",
-							"disabled": true,
+							"type": "modifier",
 							"name": "+8 to all HT rolls to resist",
 							"reference": "B81",
+							"cost": 0.5,
 							"cost_type": "multiplier",
-							"cost": 0.5
+							"disabled": true
 						},
 						{
-							"type": "modifier",
 							"id": "79fd7383-e394-47db-9702-111fb8a3cb35",
+							"type": "modifier",
 							"name": "+3 to all HT rolls to resist",
 							"reference": "B81",
-							"cost_type": "multiplier",
-							"cost": 0.33
+							"cost": 0.33,
+							"cost_type": "multiplier"
 						}
 					],
-					"reference": "B81",
 					"calc": {
 						"points": 5
-					},
-					"categories": [
-						"Advantage"
-					]
+					}
 				},
 				{
-					"type": "advantage",
 					"id": "5a822ee2-18f0-4d46-9fc7-373262f5c0ca",
+					"type": "trait",
 					"name": "Stubbornness",
-					"mental": true,
-					"base_points": -5,
 					"reference": "B157",
-					"calc": {
-						"points": -5
-					},
+					"tags": [
+						"Disadvantage",
+						"Mental"
+					],
+					"base_points": -5,
 					"features": [
 						{
 							"type": "reaction_bonus",
-							"amount": -1,
-							"situation": "from others"
+							"situation": "from others",
+							"amount": -1
 						}
 					],
-					"categories": [
-						"Disadvantage"
-					]
+					"calc": {
+						"points": -5
+					}
 				},
 				{
-					"type": "advantage",
 					"id": "76bccb53-b34a-45e9-9ef4-34e0c1b7378b",
+					"type": "trait",
 					"name": "Tough Skin",
-					"physical": true,
-					"exotic": true,
-					"base_points": 3,
 					"reference": "B47",
-					"calc": {
-						"points": 3
-					},
+					"tags": [
+						"Advantage",
+						"Exotic",
+						"Physical"
+					],
+					"base_points": 3,
 					"features": [
 						{
 							"type": "dr_bonus",
-							"amount": 1,
-							"location": "skull"
+							"location": "skull",
+							"amount": 1
 						},
 						{
 							"type": "dr_bonus",
-							"amount": 1,
-							"location": "face"
+							"location": "face",
+							"amount": 1
 						},
 						{
 							"type": "dr_bonus",
-							"amount": 1,
-							"location": "neck"
+							"location": "neck",
+							"amount": 1
 						},
 						{
 							"type": "dr_bonus",
-							"amount": 1,
-							"location": "torso"
+							"location": "torso",
+							"amount": 1
 						},
 						{
 							"type": "dr_bonus",
-							"amount": 1,
-							"location": "vitals"
+							"location": "vitals",
+							"amount": 1
 						},
 						{
 							"type": "dr_bonus",
-							"amount": 1,
-							"location": "groin"
+							"location": "groin",
+							"amount": 1
 						},
 						{
 							"type": "dr_bonus",
-							"amount": 1,
-							"location": "arm"
+							"location": "arm",
+							"amount": 1
 						},
 						{
 							"type": "dr_bonus",
-							"amount": 1,
-							"location": "hand"
+							"location": "hand",
+							"amount": 1
 						},
 						{
 							"type": "dr_bonus",
-							"amount": 1,
-							"location": "leg"
+							"location": "leg",
+							"amount": 1
 						},
 						{
 							"type": "dr_bonus",
-							"amount": 1,
-							"location": "foot"
+							"location": "foot",
+							"amount": 1
 						},
 						{
 							"type": "dr_bonus",
-							"amount": 1,
-							"location": "tail"
+							"location": "tail",
+							"amount": 1
 						},
 						{
 							"type": "dr_bonus",
-							"amount": 1,
-							"location": "wing"
+							"location": "wing",
+							"amount": 1
 						},
 						{
 							"type": "dr_bonus",
-							"amount": 1,
-							"location": "fin"
+							"location": "fin",
+							"amount": 1
 						},
 						{
 							"type": "dr_bonus",
-							"amount": 1,
-							"location": "brain"
+							"location": "brain",
+							"amount": 1
 						}
 					],
-					"categories": [
-						"Advantage"
-					]
+					"calc": {
+						"points": 3
+					}
 				}
-			]
+			],
+			"name": "Dwarf",
+			"reference": "DF3:6",
+			"ancestry": "Human",
+			"container_type": "race",
+			"calc": {
+				"points": 20
+			}
 		}
 	],
 	"notes": [
 		{
-			"type": "note",
 			"id": "c94317c1-ea1d-45ee-888e-ce5ce8e7661d",
+			"type": "note",
 			"text": "Dwarves are essentially hardy-but-stumpy humans who see well in the dark and like caves and gold. There’s doubtless much more to them than that, as any dwarf will argue if you foolishly say that aloud. “Bearded” and “likes ale” aren’t generally qualifications sought by adventuring parties, however.\n\nDwarves have brown, black or copper-colored hair and brown or grey eyes.\n\nWhen finding a dwarf’s height and weight, use the line appropriate to ST on the Build Table (B18), but multiply height by ⅔ and shift weight a column to the right (a Very Fat dwarf has maximum weight!). A dwarf’s girth offsets his height enough that he’s still SM 0. However, dwarves can’t wear armor fitted for humans (and vice versa).",
 			"reference": "DF3:6"
 		}
